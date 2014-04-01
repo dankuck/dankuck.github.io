@@ -3,11 +3,9 @@ layout: default
 ---
 		I'm gonna eat you little fishy.
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      {{ post.excerpt }}
-    </li>
-  {% endfor %}
-</ul>  
+	{% for post in site.posts %}
+	   <div style="margin-bottom: 4em; border-botom: 1px solid #DDD;">
+	     <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+	     {{ post.excerpt }}
+	   </div>
+	{% endfor %}
