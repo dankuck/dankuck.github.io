@@ -2,10 +2,4 @@
 layout: default
 ---
 	
-
-	{% for post in site.posts %}
-	   <div style="padding-bottom: 4em; border-bottom: 1px solid #DDD;">
-	     <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-	     {{ post.excerpt }}
-	   </div>
-	{% endfor %}
+{% include map.html %}
