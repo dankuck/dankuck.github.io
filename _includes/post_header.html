@@ -7,5 +7,7 @@
 	 {% if page.series %}
 	 <div>
 	 	Series: {{ page.series }}
+	 	{% capture series_html %}series_{{page.series}}.html{% endcapture %}
+	 	{% include series_html %}
 	 </div>
 	 {% endif %}
