@@ -2,6 +2,7 @@
 layout: post
 series: tabitha
 title: Tabitha Doesn't Meet Ariel
+excerpt: ...
 ---
 One time Tabitha was waiting in line to meet Ariel.
 
