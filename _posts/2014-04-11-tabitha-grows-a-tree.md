@@ -8,7 +8,7 @@ Remember Tabitha never washes her hair and so it was very dirty.
 
 And seeds love dirt.
 
-So the see began to grow.
+So the seed began to grow.
 
 First it was a tiny plant.
 
