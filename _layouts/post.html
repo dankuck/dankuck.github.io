@@ -8,7 +8,8 @@
  	{% capture series_html %}series_{{ page.series }}.html{% endcapture %}
  	{{ series_html }}b
  	{{ page.series_header }}
- 	{% for x in page %}
+ 	<br />
+ 	{% for x in site %}
  	  {{ forloop.index }} = {{ x }} <br />
  	  
  	{% endfor %}
