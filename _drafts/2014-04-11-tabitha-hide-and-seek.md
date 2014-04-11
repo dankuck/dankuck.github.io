@@ -24,3 +24,5 @@ All the kids came to help. They said "We'll get your mommy."
 When Tabitha's mommy came, she said "Oh, Tabitha."
 
 She cut the little tangled part of Tabitha's hair off and they went home. 
+
+{% include series_tabitha.html %}

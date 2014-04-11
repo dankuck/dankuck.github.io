@@ -11,3 +11,5 @@ Remember, Tabitha never washes her hair.
 When the kids came near her to play tag they said "What's that smell, ew." It was Tabitha's dirty dirty hair.
 
 So they went and played a different game where they wouldn't get close and smell Tabitha's hair.
+
+{% include series_tabitha.html %}
