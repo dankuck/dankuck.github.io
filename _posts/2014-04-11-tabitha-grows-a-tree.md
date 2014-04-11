@@ -10,6 +10,8 @@ And seeds love dirt.
 
 So the seed began to grow.
 
+{{ site.excerpt_separator }}
+
 First it was a tiny plant.
 
 And Tabitha said "What a pretty plant!"
