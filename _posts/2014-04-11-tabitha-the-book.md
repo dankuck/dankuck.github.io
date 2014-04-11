@@ -1,6 +1,7 @@
 ---
 layout: post
 series: tabitha
+title: Tabitha & The Book
 ---
 (I thought this one was boring and forgot it, but my kid actually requested it so I had to think it up again.)
 

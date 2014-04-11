@@ -1,6 +1,7 @@
 ---
 layout: post
 series: tabitha
+title: Tabitha Plays Hide and Seek
 ---
 One time, Tabitha and her friends were playing hide and seek in the park.
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 series: tabitha
+title: Tabitha's Stinky Hair
 ---
 (I'm not proud of this one, but I think I swung it in a good direction.)
 
