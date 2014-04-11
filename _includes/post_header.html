@@ -5,11 +5,17 @@
      </div>
      
      <div>
-	{% if page.next %}
-		<a href="{{ page.next.url }}">{{ page.next.title }} &rarrow;</a>
+	{% if page.previous %}
+		<div style="float: right">
+			<a href="{{ page.previous.url }}">{{ page.previous.title }} &rarr;</a>
+		</div>
 	{% endif %}
 	
-	{% if page.previous %}
-		<a href="{{ page.previous.url }}">&larrow; {{ page.previous.title }}</a>
+	{% if page.next %}
+		<div style="float: left;">
+			<a href="{{ page.next.url }}">&larr; {{ page.next.title }}</a>
+		</div>
 	{% endif %}
 	</div>
+	
+	<div style="clear: both"></div>
