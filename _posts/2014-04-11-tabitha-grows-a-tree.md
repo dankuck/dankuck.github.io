@@ -26,7 +26,7 @@ Until it was so big Tabitha fell down and couldn't get up.
 
 Her mom came and said "Oh, Tabitha."
 
-Then she brought a saw and <chir chir chir chir> sawed off the tree.
+Then she brought a saw and &lt;chir chir chir chir&gt; sawed off the tree.
 
 And Tabitha said "Thank you, mommy."
 
