@@ -1,20 +1,4 @@
 {% include header.html %}
 {% include post_header.html %}
-
-     
- {% if page.series %}
- <div>
- 	Series: {{ page.series }}
- 	{% capture series_html %}series_{{ page.series }}.html{% endcapture %}
- 	{{ series_html }}b
- 	{{ page.series_header }}
- 	<br />
- 	{% for x in site %}
- 	  {{ forloop.index }} = {{ x }} <br />
- 	  
- 	{% endfor %}
- </div>
-{% endif %}
-
 {{content}}
 {% include footer.html %}
