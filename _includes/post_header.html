@@ -11,7 +11,7 @@
 		</div>
 		<script type="text/javascript">
 		window.go_previous_page = function(){
-			location = {{ page.previous.url | json }};
+			location = "{{ page.previous.url }}";
 		};
 		</script>
 	{% endif %}
@@ -22,7 +22,7 @@
 		</div>
 		<script type="text/javascript">
 		window.go_next_page = function(){
-			location = {{ page.next.url | json }};
+			location = "{{ page.next.url }}";
 		};
 		</script>
 	{% endif %}
