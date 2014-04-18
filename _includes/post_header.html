@@ -9,13 +9,58 @@
 		<div style="float: right">
 			<a href="{{ page.previous.url }}">{{ page.previous.title }} &rarr;</a>
 		</div>
+		<script type="text/javascript">
+		{% raw %}
+		window.go_previous_page = function(){
+			location = {{ page.previous.url | json }};
+		};
+		{% endraw %}
+		</script>
 	{% endif %}
 	
 	{% if page.next %}
 		<div style="float: left;">
 			<a href="{{ page.next.url }}">&larr; {{ page.next.title }}</a>
 		</div>
+		<script type="text/javascript">
+		{% raw %}
+		window.go_next_page = function(){
+			location = {{ page.next.url | json }};
+		};
+		{% endraw %}
+		</script>
 	{% endif %}
 	</div>
+	
+	<script type="text/javascript">
+	document.body.onkeydown = function (event) {
+		if (! event)
+			event = window.event;
+		if (event.altKey || event.ctrlKey || event.key && event.key.match(/^F\d+$/))
+			return;
+		var type = event.target.nodeName.toUpperCase();
+		if (type == 'TEXTAREA' || type == 'INPUT' || type == 'SELECT')
+			return;
+		if (event.keyCode == 37 || String.fromCharCode(event.keyCode) == 'J'){
+		  var x = window.scrollX;
+		  setTimeout(function(){
+		    if (window.scrollX == x)
+		      window.go_next_page && window.go_next_page();
+		  }, 0);
+		}
+		if (event.keyCode == 39 || String.fromCharCode(event.keyCode) == 'K'){
+		  var x = window.scrollX;
+		  setTimeout(function(){
+		    if (window.scrollX == x)
+		      window.go_previous_page && window.go_previous_page();
+		  }, 0);
+		}
+		/*
+		window.x.push(event.keyCode);
+		    if (String.fromCharCode(event.keyCode).match(/^[a-z0-9\-]$/i))
+			document.getElementById(id).focus();
+		*/
+	};
+	</script>
 	
 	<div style="clear: both"></div>
