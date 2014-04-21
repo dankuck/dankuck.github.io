@@ -46,7 +46,13 @@
 		}
 		</style>
 		<link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.url }}/feed/rss.xml">
-		<meta property="fb:admins" content="1061012727" /> 
+		<meta property="fb:admins" content="1061012727" />
+		{% if page.previous %}
+			<link rel="next" href="{{ page.previous.url }}" />
+		{% endif %} 
+		{% if page.next %}
+			<link rel="prev" href="{{ page.next.url }}" />
+		{% endif %} 
 	</head>
 	<body>
 		<div id="fb-root"></div>
