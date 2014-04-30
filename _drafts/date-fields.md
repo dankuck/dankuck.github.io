@@ -36,13 +36,13 @@ With DATETIME fields, you would be tempted to store the beginning DATETIME and t
 
 You shouldn't have to limit yourself to a one-day period of time just to store date ranges.
 
-But arbitrary DATETIME ranges are difficult to query and difficult to index. 
+But arbitrary DATETIME ranges are difficult to query and difficult to index. Oh and it's difficult to make sure they never overlap, if that's something you need. 
 
 If you're willing to deal with a specific chunk of time, but you don't want it to be one-day long, there is a solution that doesn't use DATE or DATETIME at all.
 
-Roll your own date time.
+Roll your own date time range.
 
-Let's say you want to create a table where every record refers to an hour of time. Just leave off the minutes and the seconds.
+Let's say you want to create a table where every record refers to an hour of time. Just set the minutes and the seconds to 0. Your primary key values should all look like "2014-04-30 12:00:00". When you use the data, it's up to you to remember that this means "the hour of time starting at 2014-04-30 12:00:00". You can remember that, right?
 
 That's simple enough. But what if you want 12-minute time periods? Now we're having fun.
 
@@ -66,10 +66,14 @@ And that'll be the primary key until 2014-04-30 16:36:00.
 
 This works equally well for 245-second periods.
 
+The only draw back is that it's still possible to store dates that are not on a 245-second or 12-minute boundary. If someone accidentally gets a record into the database with 2014-04-30 16:36:01, it could throw off whatever calculations you're trying to generate.
+
 == But I really wanted arbitrary periods ==
 
 This post is about the DATE field, don't you remember?
 
 Anyway, I recommend against arbitrary periods. Why do you want them? Wouldn't you rather have nice neat periods?
 
-Honestly, until MySQL gets some awesome DATETIMERANGE datatype, you're just gonna be hitting yourself in the head. But maybe I'll write another post about this some time. Or maybe I won't act like I'm the only person on the Internet who can explain this stuff.
+Honestly, until MySQL gets some awesome DATETIMERANGE datatype you're just gonna be hitting yourself in the head. If MySQL would provide such a thing, we could INDEX or UNIQUE that field and ensure that no two records overlap.
+
+But if you want to work with arbitrary date ranges, I suppose I should write a post to explain how to do it safely. Kids today.
