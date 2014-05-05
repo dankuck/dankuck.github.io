@@ -1,5 +1,6 @@
 ---
 layout: post
+todo: "needs more emphasis on the date ranges as the primary key"
 ---
 
 MySQL supports several kinds of time-related datatypes.
