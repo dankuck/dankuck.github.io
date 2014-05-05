@@ -4,7 +4,7 @@
 			<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
 
 			{% if post.page_img %}
-			<div style="float: left; margin: 0 2em 1em 0; max-width: 200px; max-height: 200px;"><img src="{{ post.page_img }}" /></div>
+			<div style="float: left; margin: 0 2em 1em 0;"><img src="{{ post.page_img }}" style="max-width: 150px; max-height: 150px;" /></div>
 			{% endif %}
 
 			{{ post.content | split:site.excerpt_separator | first | strip_html | truncate:300 }} 
