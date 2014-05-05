@@ -1,5 +1,6 @@
 ---
 layout: post
+title: "PHP Fatal Errors Don't Have To Be So Painful"
 ---
 
 PHP is probably the most common programming language on the web. You use webpages that are based on it every day, for sure.
