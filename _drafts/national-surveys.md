@@ -105,7 +105,7 @@ The point of the tobacco era of bad-science is not that scientists are sometimes
 We always knew that. Yes, don't forget it.
 
 The point is not to avoid doubt, either. Doubt is the most important tool a scientist has. But like any tool, 
-we must be careful and notice when it's time to put it away.
+we must be careful and notice when it's time to put it away. Don't treat it like a magic wand.
 
 ## What Should We Learn?
 
