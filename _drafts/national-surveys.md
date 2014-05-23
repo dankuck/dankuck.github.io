@@ -12,7 +12,7 @@ pseudo-science right now.
 Just about any flavor of pseudo-science brings it out as a failure of science. There's enough
 there to break it down.
 
-== The Dumb ==
+## The Dumb 
 
 Take a look at the ad above. See if the reason it's stupid jumps out at you.
 
@@ -24,7 +24,7 @@ give yourself 10 points.
 
 If you noticed that doctors aren't scientists, give yourself the rest of the bucketful of points.
 
-== The Truth ==
+## The Truth
 
 The truth is that a lot of real scientists* got paid a lot of money to claim that tobacco
 could not be linked to lung cancer.
@@ -37,7 +37,7 @@ This included R. A. Fisher who discovered much of what we know about statistics.
 taught the world that correlation does not imply causation, an arrow in the quiver of any good 
 Internet arguer.
 
-== The Muddy Waters ==
+## The Muddy Waters
 
 These people were mistaken, partly out of their own willfull ignorance in the face of so much
 money from the tobacco industry. But there's more.
@@ -58,7 +58,7 @@ They used the much vaguer phrase used by professional doubters and deniers today
 does not imply causation." That phrase is true, but to an untrained ear it implies more than it 
 should. And that's why people use it on all sides of any debate.
 
-== The Bad Analogies ==
+## The Bad Analogies
 
 All this is to lead up to my personal indictment of psuedo-sciences today.
 
@@ -96,7 +96,7 @@ same people currently decrying the results of climate change studies.
 If you align with one of the three groups above, or a dozen others, you are the tobacco denier. Even if
 you're usually a good scientist.
 
-== What We Shouldn't Learn ==
+## What We Shouldn't Learn
 
 The point of the tobacco era of bad-science is not that scientists are sometimes wrong. We know that.
 
@@ -105,7 +105,7 @@ We always knew that. Yes, don't forget it.
 The point is not to avoid doubt, either. Doubt is the most important tool a scientist has. But like any tool, 
 we must be careful and notice when it's time to put it away.
 
-== The Point ==
+## The Point
 
 The point is that we can easily be lead to mistrust science through the use of what is essentially a meme.
 
