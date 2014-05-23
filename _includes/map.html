@@ -7,8 +7,10 @@
 				{% assign page_img = post.page_img_thumb %}
 			{% elsif post.page_img %}
 				{% assign page_img = post.page_img %}
+			{% else %}
+				{% assign page_img = '' %}
 			{% endif %}
-			
+
 			{% if page_img %}
 			<div style="float: left; margin: 0 2em 1em 0;">
 				<a href="{{ post.url }}"><img src="{{ page_img }}" style="max-width: 150px; max-height: 150px;" /></a>
