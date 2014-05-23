@@ -1,12 +1,16 @@
 ---
 layout: post
+page_img: "/assets/camels_doctors_choice.png"
+title: "Just Like Those Tobacco Scientists"
 ---
 
 I just love this ad campaign. Remind me again why doctors aren't scientists?
 
+<!--
 <div style="width: 600px; margin-left: auto; margin-right: auto;">
 	<img src="/assets/camels_doctors_choice.png" style="" />
 </div>
+-->
 
 But the most delightful part, if I may, is the way this episode of US history is being spun for 
 pseudo-science right now.
@@ -67,7 +71,7 @@ All this is to lead up to my personal indictment of psuedo-sciences today.
 For every debate, there is someone who will want to draw an analogy with the mistakes of tobacco 
 scientists. But analogy is a weak substitute for analysis.
 
-> Vaccine resistors: "Look, scientists said cigarettes were perfectly safe."
+	> Vaccine resistors: "Look, scientists said cigarettes were perfectly safe."
 
 No, they said "Correlation does not imply causation." They didn't have evidence to show that cigarettes
 were safe, so they called on the God of Doubt to do their arguing for them.
