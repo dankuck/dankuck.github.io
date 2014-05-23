@@ -69,7 +69,7 @@ All this is to lead up to my personal indictment of psuedo-sciences today.
 For every debate, there is someone who will want to draw an analogy with the mistakes of tobacco 
 scientists. But analogy is a weak substitute for analysis.
 
-	> Vaccine resistors: "Look, scientists said cigarettes were perfectly safe."
+> Vaccine resistors: "Look, scientists said cigarettes were perfectly safe."
 
 No, they said "Correlation does not imply causation." They didn't have evidence to show that cigarettes
 were safe, so they called on the God of Doubt to do their arguing for them.
