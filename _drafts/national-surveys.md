@@ -4,7 +4,9 @@ layout: post
 
 I just love this ad campaign. Remind me again why doctors aren't scientists?
 
-<img src="/assets/camels_doctors_choice.png" style="margin-left: auto; margin-right: auto;" />
+<div style="width: 600px; margin-left: auto; margin-right: auto;">
+	<img src="/assets/camels_doctors_choice.png" style="" />
+</div>
 
 But the most delightful part, if I may, is the way this episode of US history is being spun for 
 pseudo-science right now.
