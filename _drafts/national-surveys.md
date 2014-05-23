@@ -73,7 +73,7 @@ No, they said "Correlation does not imply causation." They didn't have evidence 
 were safe, so they called on the God of Doubt to do their arguing for them.
 
 Who else doesn't have evidence? Vaccine resistors. They don't have evidence to show that vaccines
-are dangerous, so they invoke the ritual of the God of Doubt. The only god who has the wherewithall to 
+are dangerous, so they invoke the ritual of the God of Doubt. The only god who has the wherewithal to 
 fight the mounds of evidence to show vaccines are safe.
 
 GMO resistors: "Look, scientists said cigarettes were perfectly safe."
@@ -107,11 +107,11 @@ We always knew that. Yes, don't forget it.
 The point is not to avoid doubt, either. Doubt is the most important tool a scientist has. But like any tool, 
 we must be careful and notice when it's time to put it away.
 
-## The Point
+## What Should We Learn?
 
 The point is that we can easily be lead to mistrust science through the use of what is essentially a meme.
 
-The ad is not an indictment of science.
+This ad is not an indictment of science.
 
 This ad is an indictment of advertising.
 
