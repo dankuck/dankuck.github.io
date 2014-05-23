@@ -1,7 +1,6 @@
 ---
 layout: post
-page_img: "/assets/camels_doctors_choice.png"
-page_img_thumb_only: 1
+page_img_thumb: "/assets/camels_doctors_choice.png"
 title: "Just Like Those Tobacco Scientists"
 ---
 
