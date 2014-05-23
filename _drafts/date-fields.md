@@ -5,9 +5,9 @@ todo: "needs more emphasis on the date ranges as the primary key"
 
 MySQL supports several kinds of time-related datatypes.
 
-# DATETIME - stores a date and a time
-# DATE - stores a date only
-# TIME - stores a time only
+* DATETIME - stores a date and a time
+* DATE - stores a date only
+* TIME - stores a time only
 
 I can see why you'd want to store a time only, but I had trouble determining why you'd want to store a date only.
 
@@ -35,7 +35,7 @@ Or do you? Technically you could just store a DATETIME with a time of midnight. 
 
 Frankly, if you use a DATETIME field, you will be tempted to store the beginning DATETIME and the ending DATETIME as separate fields, so that you can have arbitrary beginnings and endings. And now you're setting yourself up for trouble.
 
-== The Real Trouble ==
+## The Real Trouble
 
 You shouldn't have to limit yourself to a one-day period of time just to store date ranges.
 
@@ -69,7 +69,7 @@ This works equally well for 245-second periods.
 
 The only draw back is that it's still possible to store dates that are not on a boundary. If someone accidentally gets a record into the database with 2014-04-30 16:36:01, it could throw off whatever calculations you're trying to generate.
 
-== But I really wanted arbitrary periods ==
+## But I really wanted arbitrary periods
 
 This post is about the DATE datatype, don't you remember?
 
