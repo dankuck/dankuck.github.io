@@ -109,7 +109,7 @@ we must be careful and notice when it's time to put it away.
 
 ## What Should We Learn?
 
-The point is that we can easily be lead to mistrust science through the use of what is essentially a meme.
+The point is that we can easily be lead to mistrust good science through the use of what is essentially a meme.
 
 This ad is not an indictment of science.
 
