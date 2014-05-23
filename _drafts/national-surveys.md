@@ -73,7 +73,7 @@ No, they said "Correlation does not imply causation." They didn't have evidence 
 were safe, so they called on the God of Doubt to do their arguing for them.
 
 Who else doesn't have evidence? Vaccine resistors. They don't have evidence to show that vaccines
-are dangerous, so they invoke the ritual of the God of Doubt. The only god with the wherewithall to 
+are dangerous, so they invoke the ritual of the God of Doubt. The only god who has the wherewithall to 
 fight the mounds of evidence to show vaccines are safe.
 
 GMO resistors: "Look, scientists said cigarettes were perfectly safe."
