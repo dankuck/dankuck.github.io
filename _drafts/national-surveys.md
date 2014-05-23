@@ -109,6 +109,10 @@ We always knew that. Yes, don't forget it.
 The point is not to avoid doubt, either. Doubt is the most important tool a scientist has. But like any tool, 
 we must be careful and notice when it's time to put it away. Don't treat it like a magic wand.
 
+We shouldn't learn that "correlation doesn't imply causation" is useless. It's a very important concept. Its 
+job is to remind us that we need a reason to think two things are linked, not just two lines that fit each 
+other.
+
 ## What Should We Learn?
 
 The point is that we can easily be lead to mistrust good science through the use of what is essentially a meme.
