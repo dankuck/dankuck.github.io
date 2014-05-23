@@ -26,10 +26,10 @@ If you noticed that doctors aren't scientists, give yourself the rest of the buc
 
 ## The Truth
 
-The truth is that a lot of real scientists* got paid a lot of money to claim that tobacco
+The truth is that a lot of real scientists&#42; got paid a lot of money to claim that tobacco
 could not be linked to lung cancer.
 
-*Yes, real scientists including people with degrees and people who did real, good work in both the 
+&#42;Yes, real scientists including people with degrees and people who did real, good work in both the 
 application and the theoretical sides of science. There's no reason to say these weren't
 scientists.
 
