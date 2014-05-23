@@ -10,8 +10,8 @@ I just love this ad campaign. Remind me again why doctors aren't scientists?
 	<img src="/assets/camels_doctors_choice.png" style="" />
 </div>
 
-But the most delightful part, if I may, is the way this episode of US history is being spun for 
-pseudo-science right now.
+This ad is pure camp. But the most delightful part, if I may, is the way this episode of US
+history is being spun for pseudo-science right now.
 
 Just about any flavor of pseudo-science brings it out as a failure of science. There's enough
 there to break it down.
