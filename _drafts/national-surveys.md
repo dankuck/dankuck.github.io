@@ -67,7 +67,7 @@ All this is to lead up to my personal indictment of psuedo-sciences today.
 For every debate, there is someone who will want to draw an analogy with the mistakes of tobacco 
 scientists. But analogy is a weak substitute for analysis.
 
-Vaccine resistors: "Look, scientists said cigarettes were perfectly safe."
+> Vaccine resistors: "Look, scientists said cigarettes were perfectly safe."
 
 No, they said "Correlation does not imply causation." They didn't have evidence to show that cigarettes
 were safe, so they called on the God of Doubt to do their arguing for them.
@@ -76,7 +76,7 @@ Who else doesn't have evidence? Vaccine resistors. They don't have evidence to s
 are dangerous, so they invoke the ritual of the God of Doubt. The only god who has the wherewithal to 
 fight the mounds of evidence to show vaccines are safe.
 
-GMO resistors: "Look, scientists said cigarettes were perfectly safe."
+> GMO resistors: "Look, scientists said cigarettes were perfectly safe."
 
 No, they said "We can't be sure cigarettes are causing lung cancer. Maybe lung cancer and cigarette
 use are caused by the same thing."
@@ -87,7 +87,7 @@ bupkis. GMO products are made of the same stuff as any other food: proteins and 
 
 Only the one true God can fight GMO's. The God of Doubt.
 
-Climate change deniers: "Look, scientists thought second-hand smoke was bad for you too."
+> Climate change deniers: "Look, scientists thought second-hand smoke was bad for you too."
 
 The God of Doubt allows you to doubt anything you want.
 
