@@ -26,7 +26,7 @@ give yourself 5 points.
 If you noticed that a survey of what doctors smoke isn't a survey of what doctors recommend, 
 give yourself 10 points.
 
-If you noticed that a survey of what doctors smoke ignores all the doctors who '''don't''' smoke
+If you noticed that a survey of what doctors smoke ignores all the doctors who *don't* smoke,
 eat a chocolate. You deserve a real reward.
 
 If you noticed that doctors aren't scientists, give yourself the rest of the bucketful of points
