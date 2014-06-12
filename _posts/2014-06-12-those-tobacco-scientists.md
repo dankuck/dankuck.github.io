@@ -60,7 +60,7 @@ There's definitely a warning here, don't get me wrong. All the signs pointed to 
 and it was definitely a miscarriage of rationality for these scientists to let the popular 
 perspective influence them so much.
 
-But what's fascinating is that the scientific community didn't stand up and say "There is
+But what's fascinating is that these tobacco scientists didn't up and say, "There is
 no link between tobacco and lung cancer." They couldn't say that, because a strong
 correlation and a reasonable hypothesis of cause doesn't allow an honest person to say that.
 
