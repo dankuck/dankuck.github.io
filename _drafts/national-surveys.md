@@ -26,25 +26,31 @@ give yourself 5 points.
 If you noticed that a survey of what doctors smoke isn't a survey of what doctors recommend, 
 give yourself 10 points.
 
-If you noticed that doctors aren't scientists, give yourself the rest of the bucketful of points.
+If you noticed that a survey of what doctors smoke ignores all the doctors who '''don't''' smoke
+eat a chocolate. You deserve a real reward.
+
+If you noticed that doctors aren't scientists, give yourself the rest of the bucketful of points
+and promise to take yourself out somewhere nice.
 
 ## The Truth
 
-The truth is that a lot of real scientists&#42; got paid a lot of money to claim that tobacco
+The truth is that a lot of real scientists&#42; got paid a lot of money to 
+<a href="http://phys.org/news91078097.html">claim</a> that tobacco
 could not be linked to lung cancer.
 
 &#42;Yes, real scientists including people with degrees and people who did real, good work in both the 
 application and the theoretical sides of science. There's no reason to say these weren't
 scientists.
 
-This included R. A. Fisher who discovered much of what we know about statistics. He famously 
+This included <a href="http://en.wikipedia.org/wiki/R._A._Fisher">R. A. Fisher</a> who discovered 
+much of what we know about statistics. He famously 
 taught the world that correlation does not imply causation, an arrow in the quiver of any good 
 Internet arguer.
 
 ## The Muddy Waters
 
-These people were mistaken, partly out of their own willfull ignorance in the face of so much
-money from the tobacco industry. But there's more.
+These people were mistaken about tobaco, partly out of their own willfull ignorance in the face 
+of so much money from the tobacco industry. But there's more.
 
 At the time, opposing tobacco use made you look almost prudish. There was a popular push back
 against the puritanical mindset. And so it would seem regressive to find any reason to oppose
@@ -64,7 +70,7 @@ should. And that's why people use it on all sides of any debate.
 
 ## The Bad Analogies
 
-All this is to lead up to my personal indictment of psuedo-sciences today.
+All this is to lead up to my personal indictment of pseudo-sciences today.
 
 For every debate, there is someone who will want to draw an analogy with the mistakes of tobacco 
 scientists. But analogy is a weak substitute for analysis.
@@ -72,9 +78,12 @@ scientists. But analogy is a weak substitute for analysis.
 > Vaccine resistors: "Look, scientists said cigarettes were perfectly safe."
 
 No, they said "Correlation does not imply causation." They didn't have evidence to show that cigarettes
-were safe, so they called on the God of Doubt to do their arguing for them.
+were safe, so they called on the 
+<a href="http://legacy.library.ucsf.edu/tid/wjh13f00/tiff">God of Doubt</a> to do their arguing for them.
 
-Who else doesn't have evidence? Vaccine resistors. They don't have evidence to show that vaccines
+Who else doesn't have evidence? 
+<a href="http://www.natureworldnews.com/articles/7118/20140519/researchers-find-link-between-vaccinations-autism.htm">Vaccine resistors</a>. 
+They don't have evidence to show that vaccines
 are dangerous, so they invoke the ritual of the God of Doubt. The only god who has the wherewithal to 
 fight the mounds of evidence to show vaccines are safe.
 
@@ -83,8 +92,11 @@ fight the mounds of evidence to show vaccines are safe.
 No, they said "We can't be sure cigarettes are causing lung cancer. Maybe lung cancer and cigarette
 use are caused by the same thing."
 
-Who else doesn't have evidence? GMO resistors. They don't have evidence that GMO products are dangerous,
-so they invoke the most holy name of the God of Doubt, peace be upon him. All tests of GMO products show
+Who else doesn't have evidence? 
+<a href="http://www.skepticalraptor.com/skepticalraptorblog.php/review-10-years-gmo-research-no-significant-dangers/">GMO resistors</a>. 
+They don't have evidence that GMO products are dangerous. The evidence 
+<a href="http://www.forbes.com/sites/jonentine/2013/10/14/2000-reasons-why-gmos-are-safe-to-eat-and-environmentally-sustainable/">is all on the other side</a>.
+So they invoke the most holy name of the God of Doubt, peace be upon him. All tests of GMO products show
 bupkis. GMO products are made of the same stuff as any other food: proteins and starches, etc.
 
 Only the one true God can fight GMO's. The God of Doubt.
@@ -94,8 +106,9 @@ Only the one true God can fight GMO's. The God of Doubt.
 The God of Doubt allows you to doubt anything you want.
 
 And I think I've made the point that the analogies are often the reverse of what these people are 
-trying to convey. In fact the scientists who made the mistakes of the tobacco era were some of the
-same people currently decrying the results of climate change studies.
+trying to convey. In fact the scientists who made the mistakes of the tobacco era were 
+<a href="http://en.wikipedia.org/wiki/Climate_change_denial#Tobacco_lobby">some of the same people</a>
+currently decrying the results of climate change studies.
 
 If you align with one of the three groups above, or a dozen others, you are the tobacco denier. Even if
 you're usually a good scientist.
@@ -106,12 +119,12 @@ The point of the tobacco era of bad-science is not that scientists are sometimes
 
 We always knew that. Yes, don't forget it.
 
-The point is not to avoid doubt, either. Doubt is the most important tool a scientist has. But like any tool, 
-we must be careful and notice when it's time to put it away. Don't treat it like a magic wand.
+The point is not that we should avoid doubt, either. Doubt is the most important tool a scientist has. But 
+like any tool, we must be careful and notice when it's time to put it away. Don't treat it like a magic wand.
 
 We shouldn't learn that "correlation doesn't imply causation" is useless. It's a very important concept. Its 
-job is to remind us that we need a reason to think two things are linked, not just two lines that fit each 
-other.
+job is to remind us that we need a reason to think two things are linked, not just 
+<a href="http://www.tylervigen.com/">two lines that fit each other</a>.
 
 ## What Should We Learn?
 
