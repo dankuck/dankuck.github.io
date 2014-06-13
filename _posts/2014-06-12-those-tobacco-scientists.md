@@ -49,7 +49,7 @@ Internet arguer.
 
 ## The Muddy Waters
 
-These people were mistaken about tobaco, partly out of their own willfull ignorance in the face 
+These people were mistaken about tobacco, partly out of their own willfull ignorance in the face 
 of so much money from the tobacco industry. But there's more.
 
 At the time, opposing tobacco use made you look almost prudish. There was a popular push back
