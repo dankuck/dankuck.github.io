@@ -6,7 +6,7 @@ title: "Just Like Those Tobacco Scientists"
 
 I just love this ad campaign. Remind me again why doctors aren't scientists?
 
-<div style="width: 590px; margin-left: auto; margin-right: auto;">
+<div style="width: 100%; margin-left: auto; margin-right: auto;">
 	<img src="/assets/camels_doctors_choice.png" style="" />
 </div>
 
