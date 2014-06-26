@@ -1,4 +1,5 @@
-<div style="float: right; padding-top: 50%;">  
+
+<div style="float: right; padding-top: {% if page.ad_top %}{{ page.ad_top }}{% else %}50%{% endif %}">  
 <script type='text/javascript'>
  amzn_assoc_ad_type = 'banner';
  amzn_assoc_tracking_id = '{{ site.azntag }}';
