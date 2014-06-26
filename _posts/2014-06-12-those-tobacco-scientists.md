@@ -2,7 +2,7 @@
 layout: post
 page_img_thumb: "/assets/camels_doctors_choice_200.png"
 title: "Just Like Those Tobacco Scientists"
-no_ad: 1
+ad_top: 400em;
 ---
 
 I just love this ad campaign. Remind me again why doctors aren't scientists?
@@ -32,8 +32,6 @@ eat a chocolate. You deserve a real reward.
 
 If you noticed that doctors aren't scientists, give yourself the rest of the bucketful of points
 and promise to take yourself out somewhere nice.
-
-{% include ad.html %}
 
 ## The Truth
 
