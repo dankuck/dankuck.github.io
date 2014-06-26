@@ -2,6 +2,7 @@
 layout: post
 page_img_thumb: "/assets/camels_doctors_choice_200.png"
 title: "Just Like Those Tobacco Scientists"
+no_ad: 1
 ---
 
 I just love this ad campaign. Remind me again why doctors aren't scientists?
