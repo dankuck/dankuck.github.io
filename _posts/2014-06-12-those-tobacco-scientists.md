@@ -33,6 +33,8 @@ eat a chocolate. You deserve a real reward.
 If you noticed that doctors aren't scientists, give yourself the rest of the bucketful of points
 and promise to take yourself out somewhere nice.
 
+{% include ad.html %}
+
 ## The Truth
 
 The truth is that a lot of real scientists&#42; got paid a lot of money to 
