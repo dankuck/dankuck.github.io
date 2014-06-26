@@ -16,6 +16,8 @@ history is being spun for pseudo-science right now.
 Just about any flavor of pseudo-science brings it out as a failure of science. There's enough
 there to break it down.
 
+{% include ad.html %}
+
 ## The Dumb 
 
 Take a look at the ad above. See if the reason it's stupid jumps out at you.
