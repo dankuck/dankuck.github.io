@@ -61,7 +61,8 @@
 	
 	<div style="clear: both"></div>
 
-	{% if ! page.no_ad %}
+	{% if page.no_ad %}
+	{% else %}
 	{% include ad.html %}
 	{% endif %}
 
