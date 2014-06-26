@@ -134,6 +134,6 @@ This ad is not an indictment of science.
 
 This ad is an indictment of advertising.
 
-
+<hr />
 
 By the way, you can totally <a href="http://www.amazon.com/Doctors-Smoke-CAMELS-Cigarette-Glossy/dp/B00DV79Y9W/ref=sr_1_2?tag={{ azntag }}">buy it on Amazon</a> along with <a href="http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=doctors%20smoke%20camels&tag={{ azntag }}">dozens of others</a>!
