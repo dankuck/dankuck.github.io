@@ -55,7 +55,7 @@ But if someone commits to the branch between the beginning and end of that, you'
 
 You can bracket the whole process with a smarter version of the idea from the top of this article. Move the branch.
 
-1. svn mv ^/branches/...branch... ^/branches/...branch..._merge_prep -m "Preparing to merge to trunk"
+1. svn mv ^/branches/my_branch ^/branches/my_branch_merge_prep -m "Preparing to merge to trunk"
 2. Merge trunk->branch
 3. Fix conflicts
 4. Commit
@@ -63,7 +63,7 @@ You can bracket the whole process with a smarter version of the idea from the to
 6. Fix conflicts (should be none)
 7. Commit
 8. Remove the ...merge_prep branch
-9. svn cp ^/trunk ^/branches/...branch... -m "Recreating branch after merge to trunk"
+9. svn cp ^/trunk ^/branches/my_branch -m "Recreating branch after merge to trunk"
 
 We started by moving the branch to a new location. That will prevent your less attentive teammates from committing in the meantime.
 
