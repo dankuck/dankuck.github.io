@@ -7,7 +7,9 @@ You can lock files in svn with *svn lock*. But you cannot lock directories.
 
 Here's a workaround.
 
- svn rm ^/mydirectory/ -m "I'm locking this by removing it!"
+```
+svn rm ^/mydirectory/ -m "I'm locking this by removing it!"
+```
 
 Now no one can use your svn directory.
 
@@ -17,7 +19,7 @@ If it's someone other than you, they'll probably see your log message and realiz
 
 ## Don't Do That
 
-Of course, that's a ridiculous idea and it points to the fact that we need a directory locking feature in svn. The very fact that you're considering doing this points to a problem in our environment.
+Of course, that's a ridiculous idea. We need a directory locking feature in svn. The very fact that you're considering doing this points to a problem in our environment.
 
 So what is the solution, really?
 
@@ -29,7 +31,7 @@ To do that, you'll probably need to address specific cases.
 
 The most common case we need to deal with in my work environment is big merges.
 
-When it comes time to merge back a lot of changes from a branch to trunk, the person heading that up asks the others not to commit to either the branch or to trunk.
+When it comes time to merge back a lot of changes from a branch to trunk, the person heading that up asks the others not to commit to either the branch or trunk.
 
 It would be nice if he could just lock those two directories.
 
@@ -39,13 +41,13 @@ If asking everyone not to commit is tough, perhaps because people aren't in cons
 
 First of all, merges should already be done in a particular order:
 
-# Merge trunk->branch
-# Fix conflicts
-# Commit
-# Merge branch->trunk
-# Fix conflicts (should be none)
-# Commit
-# Revivify or remove the branch
+1. Merge trunk->branch
+2. Fix conflicts
+3. Commit
+4. Merge branch->trunk
+5. Fix conflicts (should be none)
+6. Commit
+7. Revivify or remove the branch
 
 This is a smooth way to run a merge.
 
@@ -53,15 +55,15 @@ But if someone commits to the branch between the beginning and end of that, you'
 
 You can bracket the whole process with a smarter version of the idea from the top of this article. Move the branch.
 
-# svn mv ^/branches/...branch... ^/branches/...branch..._merge_prep -m "Preparing to merge to trunk"
-# Merge trunk->branch
-# Fix conflicts
-# Commit
-# Merge branch->trunk
-# Fix conflicts (should be none)
-# Commit
-# Remove the ...merge_prep branch
-# svn cp ^/trunk ^/branches/...branch... -m "Recreating branch after merge to trunk"
+1. svn mv ^/branches/...branch... ^/branches/...branch..._merge_prep -m "Preparing to merge to trunk"
+2. Merge trunk->branch
+3. Fix conflicts
+4. Commit
+5. Merge branch->trunk
+6. Fix conflicts (should be none)
+7. Commit
+8. Remove the ...merge_prep branch
+9. svn cp ^/trunk ^/branches/...branch... -m "Recreating branch after merge to trunk"
 
 We started by moving the branch to a new location. That will prevent your less attentive teammates from committing in the meantime.
 
