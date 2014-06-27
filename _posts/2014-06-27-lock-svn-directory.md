@@ -7,6 +7,8 @@ You can lock files in svn with *svn lock*. But you cannot lock directories.
 
 Here's a workaround.
 
+<!-- more -->
+
 ```
 svn rm ^/mydirectory/ -m "I'm locking this by removing it!"
 ```
