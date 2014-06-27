@@ -67,7 +67,13 @@
 	{% endif %}
 
 	{% if page.page_img %}
-	<div style="float: left; margin: 1em 2em 2em 0;"><img src="{{ page.page_img }}" /></div>
+	<div style="float: left; margin: 1em 2em 2em 0;">
+		<img src="{{ page.page_img }}" />
+		{% if page.page_img_desc %}
+			<br />
+			{{ page_img_desc }}
+		{% endif %}
+	</div>
 	{% endif %}
 
 	<div class="post-content">

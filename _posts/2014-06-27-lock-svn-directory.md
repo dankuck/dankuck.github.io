@@ -1,6 +1,8 @@
 ---
 layout: post
 title: How to Lock an SVN Directory
+page_img: /assets/dog-food-aggression-300x225.jpg
+page_img_desc: An adorable developer protecting a directory.
 ---
 
 You can lock files in svn with *svn lock*. But you cannot lock directories.
