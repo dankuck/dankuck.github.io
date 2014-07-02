@@ -1,4 +1,8 @@
 ---
 ---
 
-{{ 'rompy' | size }}
+var time = [];
+
+{% for post in site.posts %}
+time.push({{ post | json }});
+{% endfor %}
