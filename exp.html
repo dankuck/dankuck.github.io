@@ -5,6 +5,6 @@ var time = [];
 
 {% for post in site.posts %}
 time.push({
-title : {{ post.title | json }}
+title : {{ post.title | javascript }}
 });
 {% endfor %}
