@@ -1,6 +1,7 @@
 ---
 layout: post
 page_img: /assets/roll-for-it.jpg
+todo: "That pinterest link"
 ---
 
 Board games seem like a good way to teach my kid some skills and have some fun myself. She's 3 1/2 and really good with numbers, so I figured it was time.
@@ -77,4 +78,6 @@ I'm not sure how this part is going yet.
 ## Recommendation
 
 If your kid is good at math and matching, this is a perfect game. The dice are small, don't let them swallow them.
+
+We've also tried "Sorry", which was good, and I'm gonna try all the games I've tagged on this Pinterest board.
 
