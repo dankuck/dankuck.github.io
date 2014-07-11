@@ -8,7 +8,7 @@ I got the game <a href="http://www.amazon.com/gp/product/B00E3S8L7O?ie=UTF8&camp
 
 If your kid is good at numbers and matching, this is a perfect game. The dice are small, don't let them swallow them, if they're still the swallowing type of kid.
 
-{{ site.excerpt_separator }}
+<!-- more -->
 
 ## The Story
 
