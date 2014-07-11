@@ -62,9 +62,9 @@
 		{% if page.next %}
 			<link rel="prev" href="{{ page.next.url }}" />
 		{% endif %} 
-		{% if page.page_img %}  <meta property="og:image" content="{{ page.page_img }}" />           {% endif %}
-		{% if page.url %}       <meta property="og:url" content="{{ site.url }}{{ page.url }}" />    {% endif %}
-		{% if page.title %}     <meta property="og:title" content="{{ page.title }}" />              {% endif %}
+		{% if page.page_img %}  <meta property="og:image" content="{{ site.url }}{{ page.page_img }}" />   {% endif %}
+		{% if page.url %}       <meta property="og:url" content="{{ site.url }}{{ page.url }}" />          {% endif %}
+		{% if page.title %}     <meta property="og:title" content="{{ page.title }}" />                    {% endif %}
 		{% if page.sample_content %}  
 		                        <meta property="og:description" content="{{ page.sample_content }}" />
 		{% endif %}
