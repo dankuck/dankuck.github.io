@@ -27,7 +27,7 @@ The rules are pretty simple:
 1. Lay out three cards from the deck. Each card has some die faces shown on it.
 2. Each player gets one set of six dice. Each set has a different color.
 3. On a player's turn, they roll whatever dice they still have and put any matching die with the card it matches.
-4. You win a card when you've placed one dice by it for each of the dice it has shown in its picture.
+4. You win a card when you've placed one die by it for each of the dice it has shown in its picture.
 
 So we started playing and Alba won a card within a minute or two. Great way to start. And eventually she got mad for whatever reason kids get mad. She stormed off and the game was over.
 
@@ -53,7 +53,7 @@ Mainly I'm trying to keep the game going fast. I've found that having four playe
 
 So if I can keep to two players, that's better.
 
-In addition, for this game, at any given time there will be more dice pictured on the cards than you can actually place. This is to give the game a strategy angle. You have to choose which card to place dice on and try to win it.
+In addition, for this game, at any given time there will be more dice pictured on the cards than you can actually place. This gives the game a strategy angle. If you want a high-value purple card, well it has six dice pictured, so you can't put dice on any other cards.
 
 That's a no go for speed and a no go for 3&#189; year olds in general.
 
@@ -75,7 +75,7 @@ Still, she steals the cards I win. Which is the other side of the coin. Rules ca
 
 The short-term objectives of this game are obvious. Place a die, get a card, lots of fun.
 
-There is no long-term objective. Kids can do long-term stuff, but that's not the point of this game.
+There is no long-term objective. Kids can do long-term stuff, but that's not the point of this short game.
 
 With Alba, we have only recently even mentioned the medium-term objective: Win the game.
 
@@ -90,3 +90,5 @@ I'm not sure how this part is going yet. Each game is getting longer, so I mark 
 We've also tried "Sorry", which was good, and I'm gonna try all the games I've tagged on this Pinterest board.
 
 <a data-pin-do="embedBoard" href="http://www.pinterest.com/danielkuckalvar/games/" data-pin-scale-width="80" data-pin-scale-height="200" data-pin-board-width="400">Follow Daniel's board Games on Pinterest.</a><!-- Please call pinit.js only once per page --><script type="text/javascript" async src="//assets.pinterest.com/js/pinit.js"></script>
+
+Tell me your favorite games in the comments.
