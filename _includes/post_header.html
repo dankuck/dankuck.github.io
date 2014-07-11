@@ -1,3 +1,7 @@
+<meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+<meta property="og:title" content="{{ page.title }}" />
+<meta property="og:description" content="{% include short_content.html %}" />
+
 <h3>{{ page.title }}</h3>
 
      <div style="font-size: 80%; margin-bottom: 2em;border: 1px solid #CCC; padding: .5em;">
@@ -67,6 +71,7 @@
 	{% endif %}
 
 	{% if page.page_img %}
+	<meta property="og:image" content="{{ page.page_img }}" />
 	<div style="float: left; margin: 1em 2em 2em 0;">
 		{% if page.page_img_url %}
 			<a href="{{ page.page_img_url }}" target="{{ page.page_img_url_target }}">

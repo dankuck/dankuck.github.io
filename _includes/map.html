@@ -17,7 +17,7 @@
 			</div>
 			{% endif %}
 
-			{{ post.content | split:site.excerpt_separator | first | strip_html | truncate:300 }} 
+			{% include short_content.html %}
 			<a href="{{ post.url }}" class="more-link">[more]</a>
 		</div>
 		<div style="font-size: 80%; padding-bottom: 5em; clear: both;">
