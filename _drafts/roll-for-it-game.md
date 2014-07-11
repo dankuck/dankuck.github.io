@@ -6,7 +6,7 @@ page_img_url: "http://www.amazon.com/gp/product/B00E3S8L7O?ie=UTF8&camp=1789&cre
 
 I got the game <a href="http://www.amazon.com/gp/product/B00E3S8L7O?ie=UTF8&camp=1789&creativeASIN=B00E3S8L7O&linkCode=xm2&tag=dankuck-20">Roll For It</a> to teach to my 3&#189; year old and it has had a great impact.
 
-If your kid is good at math and matching, this is a perfect game. The dice are small, don't let them swallow them, if they're still the swallowing type of kid.
+If your kid is good at numbers and matching, this is a perfect game. The dice are small, don't let them swallow them, if they're still the swallowing type of kid.
 
 {{ site.excerpt_separator }}
 
@@ -41,7 +41,7 @@ Three-and-a-half-year-old kids lack the following skills which are prerequisites
 
 All good things to learn. The point the first game you pick will be to teach "games" to the kid.
 
-I think I picked well, because Alba has all the math and matching skills required for this game. Which means we can avoid the frustrations of the actual game rules and focus on the frustrations of games in general.
+I think I picked well, because Alba has all the numbers and matching skills required for this game. Which means we can avoid the frustrations of the actual game rules and focus on the frustrations of games in general.
 
 After four or five games so far, I've seen a marked improvement in her ability to play. And each time we've played for longer.
 
