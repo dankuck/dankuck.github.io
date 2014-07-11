@@ -18,7 +18,7 @@ Board games seem like a good way to teach my kid some skills and have some fun m
 
 So we drove over to <a href="http://emeraldcitycomics.com" target="_blank">Emerald City</a> comics because they've got a more interesting selection of board games than a Target. More interesting to me anyway.
 
-As it turns out, there is very little produced for a 4 year-old (the age I target for games, because she's smarter than your kid). But someone there helped us out and we came home with <a href="http://www.amazon.com/gp/product/B00E3S8L7O?ie=UTF8&camp=1789&creativeASIN=B00E3S8L7O&linkCode=xm2&tag=dankuck-20">Roll For It</a> a simple dice and card game.
+As it turns out, there is very little produced for a 4 year old (the age I target for games, because she's smarter than your kid). But someone there helped us out and we came home with <a href="http://www.amazon.com/gp/product/B00E3S8L7O?ie=UTF8&camp=1789&creativeASIN=B00E3S8L7O&linkCode=xm2&tag=dankuck-20">Roll For It</a> a simple dice and card game.
 
 Actually the day before, we'd found some dice in the closet and she liked them, so I had a hint this would work out.
 
@@ -35,7 +35,7 @@ So we started playing and Alba won a card within a minute or two. Great way to s
 
 Yeah, so far, we haven't finished a game. Which is the other lesson opportunity you didn't realize you'd have.
 
-Three-and-a-half-year-old kids lack the following skills which are prerequisites for any board/card/dice game:
+Three-and-a-half year old kids lack the following skills which are prerequisites for any board/card/dice game:
 
 1. An ounce of patience
 2. Reverence for game rules
@@ -93,4 +93,4 @@ We've also tried "Dominoes" and "Sorry", which were both good, and eventually I'
 
 <a data-pin-do="embedBoard" href="http://www.pinterest.com/danielkuckalvar/games/" data-pin-scale-width="80" data-pin-scale-height="200" data-pin-board-width="400">Follow Daniel's board Games on Pinterest.</a><!-- Please call pinit.js only once per page --><script type="text/javascript" async src="//assets.pinterest.com/js/pinit.js"></script>
 
-Tell me your favorite games in the comments. Or tell me where to find more games for 4 year-olds.
+Tell me your favorite games in the comments. Or tell me where to find more games for 4 year olds.
