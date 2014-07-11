@@ -4,7 +4,7 @@ page_img: /assets/roll-for-it.jpg
 page_img_url: "http://www.amazon.com/gp/product/B00E3S8L7O?ie=UTF8&camp=1789&creativeASIN=B00E3S8L7O&linkCode=xm2&tag=dankuck-20"
 ---
 
-I got the game <a href="http://www.amazon.com/gp/product/B00E3S8L7O?ie=UTF8&camp=1789&creativeASIN=B00E3S8L7O&linkCode=xm2&tag=dankuck-20">Roll For It</a> to teach to my 3&#189; year old and it has had a great impact.
+I got the game <a href="http://www.amazon.com/gp/product/B00E3S8L7O?ie=UTF8&camp=1789&creativeASIN=B00E3S8L7O&linkCode=xm2&tag={{ site.azntag }}">Roll For It</a> to teach to my 3&#189; year old and it has had a great impact.
 
 If your kid is good at numbers and matching, this is a perfect game for teaching some of the skills that games need. And it's fun!
 
@@ -18,7 +18,7 @@ Board games seem like a good way to teach my kid some skills and have some fun m
 
 So we drove over to <a href="http://emeraldcitycomics.com" target="_blank">Emerald City</a> comics because they've got a more interesting selection of board games than a Target. More interesting to me anyway.
 
-As it turns out, there is very little produced for a 4 year old (the age I target for games, because she's smarter than your kid). But someone there helped us out and we came home with <a href="http://www.amazon.com/gp/product/B00E3S8L7O?ie=UTF8&camp=1789&creativeASIN=B00E3S8L7O&linkCode=xm2&tag=dankuck-20">Roll For It</a> a simple dice and card game.
+As it turns out, there is very little produced for a 4 year old (the age I target for games, because she's smarter than your kid). But someone there helped us out and we came home with <a href="http://www.amazon.com/gp/product/B00E3S8L7O?ie=UTF8&camp=1789&creativeASIN=B00E3S8L7O&linkCode=xm2&tag={{ site.azntag }}">Roll For It</a> a simple dice and card game.
 
 Actually the day before, we'd found some dice in the closet and she liked them, so I had a hint this would work out.
 
@@ -55,11 +55,13 @@ Mainly I'm trying to keep the game going fast. I've found that having four playe
 
 So if I can keep to two players, that's better.
 
-I also altered the game ab it. At any given time there will be more dice pictured on the cards than you can actually place. This gives the game a strategy angle. If you want a high-value purple card, well it has six dice pictured, so you can't waste dice on any other cards.
+I also altered the game a bit. At any given time there will be more dice pictured on the cards than you can actually place. This gives the game a strategy angle. If you want a high-value purple card, well it has six dice pictured, so you can't waste dice on any other cards.
 
 That's a no go for speed and a no go for 3&#189; year olds in general.
 
 So now we just play with the blue and yellow cards. They have two and three dice respectively, so you're not likely to get stuck. Plus, I cheat and look at the cards before I place them on the table.
+
+Mainly, these are solutions to make patience easier to attain over time.
 
 ## Reverence for game rules
 
@@ -69,7 +71,7 @@ Don't.
 
 Just keep repeating "Games are more fun when you follow the rules." That's the lesson the kid needs to hear and learn. And for yourself, it reminds you that games are supposed to be fun. As long as you can find a chance to have some fun, you're doing fine.
 
-When I told Alba "Games are more fun when you follow the rules", she remembered that they also talk about rules in preschool. So we had a nice conversation.
+When I told Alba "Games are more fun when you follow the rules", she remembered that they also talk about rules in preschool. So this reinforced a life skill she's learning elsewhere and let us talk about rules in the context of "fun".
 
 Still, she steals the cards I win. Which is the other side of the coin. Rules can change. As long as everyone agrees. (Implicitly or explicitly.)
 
