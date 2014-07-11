@@ -19,3 +19,7 @@
 			<div class="fb-comments" data-href="{{ site.url }}{{ page.url }}" data-numposts="5" data-colorscheme="dark" data-width="765px"></div>
 		{% endif %}
 	</div>
+
+<meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+<meta property="og:title" content="{{ page.title }}" />
+<meta property="og:description" content="{% include short_content.html content=page.content %}" />
