@@ -8,6 +8,8 @@ I got the game <a href="http://www.amazon.com/gp/product/B00E3S8L7O?ie=UTF8&camp
 
 If your kid is good at math and matching, this is a perfect game. The dice are small, don't let them swallow them, if they're still the swallowing type of kid.
 
+{{ site.excerpt_separator }}
+
 ## The Story
 
 Board games seem like a good way to teach my kid some skills and have some fun myself. She's 3&#189; and really good with numbers, so I figured it was time.
