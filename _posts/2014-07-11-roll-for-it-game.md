@@ -6,7 +6,7 @@ page_img_url: "http://www.amazon.com/gp/product/B00E3S8L7O?ie=UTF8&camp=1789&cre
 
 I got the game <a href="http://www.amazon.com/gp/product/B00E3S8L7O?ie=UTF8&camp=1789&creativeASIN=B00E3S8L7O&linkCode=xm2&tag=dankuck-20">Roll For It</a> to teach to my 3&#189; year old and it has had a great impact.
 
-If your kid is good at numbers and matching, this is a perfect game for teaching some of the skills that games need. And it's fun.
+If your kid is good at numbers and matching, this is a perfect game for teaching some of the skills that games need. And it's fun!
 
 <!-- more -->
 
