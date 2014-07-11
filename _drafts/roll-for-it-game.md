@@ -16,7 +16,7 @@ Board games seem like a good way to teach my kid some skills and have some fun m
 
 So we drove over to <a href="http://emeraldcitycomics.com" target="_blank">Emerald City</a> comics because they've got a more interesting selection of board games than a Target. More interesting to me anyway.
 
-As it turns out, there is very little produced specifically for a four-year-old (the age I target for games, because she's smarter than your kid). But someone there helped us out and we came home with <a href="http://www.amazon.com/gp/product/B00E3S8L7O?ie=UTF8&camp=1789&creativeASIN=B00E3S8L7O&linkCode=xm2&tag=dankuck-20">Roll For It</a> a simple dice and card game.
+As it turns out, there is very little produced for a 4 year-old (the age I target for games, because she's smarter than your kid). But someone there helped us out and we came home with <a href="http://www.amazon.com/gp/product/B00E3S8L7O?ie=UTF8&camp=1789&creativeASIN=B00E3S8L7O&linkCode=xm2&tag=dankuck-20">Roll For It</a> a simple dice and card game.
 
 Actually the day before, we'd found some dice in the closet and she liked them, so I had a hint this would work out.
 
@@ -25,11 +25,11 @@ Actually the day before, we'd found some dice in the closet and she liked them, 
 The rules are pretty simple:
 
 1. Lay out three cards from the deck. Each card has some die faces shown on it.
-2. Each player gets one set of six dice. Each set has a different color.
+2. Each player gets one set of six dice. Colored to keep them separate.
 3. On a player's turn, they roll whatever dice they still have and put any matching die with the card it matches.
 4. You win a card when you've placed one die by it for each of the dice it has shown in its picture.
 
-So we started playing and Alba won a card within a minute or two. Great way to start. And eventually she got mad for whatever reason kids get mad. She stormed off and the game was over.
+So we started playing and Alba won a card within a minute or two. Great way to start. Then eventually she got mad for whatever reason kids get mad. She stormed off and the game was over.
 
 Yeah, so far, we haven't finished a game. Which is the other lesson opportunity you didn't realize you'd have.
 
@@ -39,11 +39,11 @@ Three-and-a-half-year-old kids lack the following skills which are prerequisites
 2. Reverence for game rules
 3. Medium-term objectives
 
-All good things to learn. The point the first game you pick will be to teach "games" to the kid.
+All good things to learn. The point of the first games you pick will be to teach "games" to the kid.
 
 I think I picked well, because Alba has all the numbers and matching skills required for this game. Which means we can avoid the frustrations of the actual game rules and focus on the frustrations of games in general.
 
-After four or five games so far, I've seen a marked improvement in her ability to play. And each time we've played for longer.
+After four or five game plays so far, I've seen a marked improvement in her ability to play. And each play has lasted longer.
 
 So here's how I'm tackling the three points above:
 
@@ -53,7 +53,7 @@ Mainly I'm trying to keep the game going fast. I've found that having four playe
 
 So if I can keep to two players, that's better.
 
-In addition, for this game, at any given time there will be more dice pictured on the cards than you can actually place. This gives the game a strategy angle. If you want a high-value purple card, well it has six dice pictured, so you can't put dice on any other cards.
+I also altered the game ab it. At any given time there will be more dice pictured on the cards than you can actually place. This gives the game a strategy angle. If you want a high-value purple card, well it has six dice pictured, so you can't waste dice on any other cards.
 
 That's a no go for speed and a no go for 3&#189; year olds in general.
 
@@ -69,13 +69,13 @@ Just keep repeating "Games are more fun when you follow the rules." That's the l
 
 When I told Alba "Games are more fun when you follow the rules", she remembered that they also talk about rules in preschool. So we had a nice conversation.
 
-Still, she steals the cards I win. Which is the other side of the coin. Rules can change. As long as everyone agrees.
+Still, she steals the cards I win. Which is the other side of the coin. Rules can change. As long as everyone agrees. (Implicitly or explicitly.)
 
 ## Medium-term objectives
 
 The short-term objectives of this game are obvious. Place a die, get a card, lots of fun.
 
-There is no long-term objective. Kids can do long-term stuff, but that's not the point of this short game.
+There is no long-term objective. Kids can do long-term stuff, but I'm not sure games are a way to teach that.
 
 With Alba, we have only recently even mentioned the medium-term objective: Win the game.
 
@@ -87,8 +87,8 @@ I'm not sure how this part is going yet. Each game is getting longer, so I mark 
 
 ## Others
 
-We've also tried "Sorry", which was good, and I'm gonna try all the games I've tagged on this Pinterest board.
+We've also tried "Dominoes" and "Sorry", which were both good, and eventually I'm gonna try all the games I've tagged on this Pinterest board.
 
 <a data-pin-do="embedBoard" href="http://www.pinterest.com/danielkuckalvar/games/" data-pin-scale-width="80" data-pin-scale-height="200" data-pin-board-width="400">Follow Daniel's board Games on Pinterest.</a><!-- Please call pinit.js only once per page --><script type="text/javascript" async src="//assets.pinterest.com/js/pinit.js"></script>
 
-Tell me your favorite games in the comments.
+Tell me your favorite games in the comments. Or tell me where to find more games for 4 year-olds.
