@@ -91,7 +91,7 @@ I'm not sure how this part is going yet. Each game is getting longer, so I mark 
 
 ## Others
 
-We've also tried "Dominoes" and "Sorry", which were both good, and eventually I'm gonna try all the games I've tagged on this Pinterest board.
+We've also tried "Dominoes" and "Sorry", which were both good, and eventually I'm gonna try all the games I've tagged on this Pinterest board. Probably Tsuro next.
 
 <a data-pin-do="embedBoard" href="http://www.pinterest.com/danielkuckalvar/games/" data-pin-scale-width="80" data-pin-scale-height="200" data-pin-board-width="400">Follow Daniel's board Games on Pinterest.</a><!-- Please call pinit.js only once per page --><script type="text/javascript" async src="//assets.pinterest.com/js/pinit.js"></script>
 
