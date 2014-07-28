@@ -1,7 +1,7 @@
 
 	{% for post in site.posts %}
 		<div style="padding-bottom: 3em;">
-			<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+			<h3><a href="{{ site.url }}{{ post.url }}" title="{{ post.title | xml_escape }}">{{ post.title }}</a></h3>
 
 			{% if post.page_img_thumb %}
 				{% assign page_img = post.page_img_thumb %}
@@ -18,9 +18,9 @@
 			{% endif %}
 
 			{% include short_content.html content=post.content %}
-			<a href="{{ post.url }}" class="more-link">[more]</a>
+			<br /><a href="{{ site.url }}{{ post.url }}" title="{{ post.title | xml_escape }}" class="more-link">Continue...</a>
 		</div>
 		<div style="font-size: 80%; padding-bottom: 5em; clear: both;">
-			<a href="{{ post.url }}">Permalink</a> {{ post.date }} <a href="/contact/dankuck.html"><img src="http://www.gravatar.com/avatar/3b55d9d2629003d8f6d3365c4ea79122?s=16" border="0" /></a></a> <a href="/contact/dankuck.html">dankuck</a>
+			<a href="{{ site.url }}{{ post.url }}" title="{{ post.title | xml_escape }}">Permalink</a> {{ post.date }} <a href="/contact/dankuck.html"><img src="http://www.gravatar.com/avatar/3b55d9d2629003d8f6d3365c4ea79122?s=16" border="0" /></a></a> <a href="/contact/dankuck.html">dankuck</a>
 		</div>
 	{% endfor %}
