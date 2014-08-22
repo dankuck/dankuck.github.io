@@ -17,11 +17,11 @@ My father-in-law said something about stretching out your insides, so I tried ad
 
 Do this:
 
-# Get a glass of water. 
-# Set it next to your bed on the floor. 
-# Lay back on the bed and hang your torso off. 
-# Drink that water. 
-# Don't drown.
+1. Get a glass of water. 
+2. Set it next to your bed on the floor. 
+3. Lay back on the bed and hang your torso off. 
+4. Drink that water. 
+5. Don't drown.
 
 When you have drunk the water your hiccups should be gone. Maybe stay put for a moment. Maybe get someone to spot you too, if you're not good at being upside-down.
 
