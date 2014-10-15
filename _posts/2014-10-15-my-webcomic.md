@@ -3,6 +3,7 @@ layout: post
 title: "I Launched a Webcomic!"
 page_img: http://bywatchingyou.com/assets/ep/ep01x01_thumb.png
 page_img_desc: Chock full of the memetic goodness you've grown to know and love.
+no_ad: 1
 ---
 
 I'm jumping into the world of webcomics with <a href="http://bywatchingyou.com">By Watching You</a>. It's about memes that wake up into the horrible, horrible world that is the Internet. We are the ones to blame for this, you guys.
