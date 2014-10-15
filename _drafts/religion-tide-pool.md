@@ -44,6 +44,9 @@ And most religions welcome that influx. They don't welcome all the new ideas, bu
 
 At the same time, they don't always do it on purpose. The idea of God as a pudgy white guy with a ZZ Top beard is easy to dismiss but hard to shake. It sticks with us. The same is true for the cartoonish devil that kind of looks like he's just a guy in a devil costume. Along with many other depictions of the devil.
 
-Now might be the time to mention that I have always thought of Biblical scenes and especially Jesus as cartoons from the Superbook TV show.Maybe you never saw it, but that piece of culture reached me just fine.
+Now might be the time to mention that I have always thought of Biblical scenes, and especially Jesus, as cartoons from the Superbook TV show. Maybe you never saw it, but that piece of culture reached me and stuck. Despite my knowing full well that the Bible was supposed to be real and cartoons are not real, that's the image I conjured.
 
-Whenever the ocean tide is out, every Sunday and maybe Wednesdays when churches get together and attempt to build up each member's faith, the church looks inward and evolves on its own. It might evolve based on the ideas of the members or it might be more structured and incorporate the ideas of an overarching organization of churches.
+Whenever the ocean tide is out and the tide pool is isolated, every Sunday and maybe Wednesdays when churches get together and attempt to build up each member's faith, the church looks inward and evolves on its own. It might evolve based on the ideas of the members or it might be more structured and incorporate the ideas of an overarching organization of churches.
+
+When the ocean tide comes in, the tide pool is gone. And all the new organisms move in. Case in point, Christianity was a fusion of Helenistic ideas entering ancient Judaism. Suddenly Hell was a thing to think about when before it never was.
+
