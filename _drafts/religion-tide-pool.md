@@ -50,3 +50,19 @@ Whenever the ocean tide is out and the tide pool is isolated, every Sunday and m
 
 When the ocean tide comes in, the tide pool is gone. And all the new organisms move in. Case in point, Christianity was a fusion of Helenistic ideas entering ancient Judaism. Suddenly Hell was a thing to think about when before it never was.
 
+A few hundred years ago, the Rapture entered some tide pools of Christianity. The flow of ideas from one tide pool to another is slow and there's resistance. But Christians all over know about the Rapture idea even if their church doesn't buy it.
+
+Without going too long, let me tie it all together.
+
+Once a new idea gets a foothold in one faith tradition, it will travel to others. Separating one religion from another is about finding the barriers to that free flow of ideas. The fewer barriers there are the more it's possible to say that two groups are in the same religion.
+
+Just a few decades ago, Baptists and Catholics found it impossible to get along together. They avoided each other and that limited the free flow of information.
+
+Now they have much less problem. Each one still finds the other weird, but it's much easier now for a Baptist to take an idea from a Catholic coworker, for example, as long as the idea doesn't obviously clash with some Baptist idea.
+
+A Catholic or Baptist in the United States would have a much harder time accepting ideas from a Muslim. So Catholics and Baptists are more of the same religion than either one is with Muslims. Their tide pools are more likely to mix and the organisms that cross over are more likely to survive.
+
+Once one Baptist gets an idea from a Catholic or Muslim, they take that idea back to their church's potluck and mention it to the next guy. And it has a chance to thrive.
+
+Some tide pools are just too distant to affect each other much. Taoism and Baptist Christianity are mostly practiced on opposite sides of the world. And there is little cause for them to interact via the Internet.
+
