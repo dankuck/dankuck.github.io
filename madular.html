@@ -15,10 +15,18 @@
 		Columns: <input id="size" value="6" />
 	</div>
 	<div>
+		Start At: <input id="startat" value="1" />
+	</div>
+	<div>
+		Step: <input id="step" value="1" />
+	</div>
+	<div>
 		Function: <textarea id="func" style="width: 600px; height: 300px;"></textarea> <span id="func_trouble"></span>
 	</div>
 	<div>
 		<button id="goer">Go</button>
+		<button id="stopper">Stop</button>
+		<button id="clearer">Clear</button>
 	</div>
 </div>
 
@@ -32,6 +40,11 @@
 	var size_input = document.getElementById('size');
 	var func_input = document.getElementById('func');
 	var func_trouble = document.getElementById('func_trouble');
+	var goer = document.getElementById('goer');
+	var stopper = document.getElementById('stopper');
+	var clearer = document.getElementById('clearer');
+	var startat = document.getElementById('startat');
+	var step = document.getElementById('step');
 
 	var colbox = document.getElementById('colbox');
 	var cols = [];
@@ -46,7 +59,9 @@
 	var get_col = function(i){
 	  if (cols[i])
 	    return cols[i];
-	  return cols[i] = colbox.appendChild(make_col());
+	  cols[i] = colbox.appendChild(make_col());
+	  cols[i].appendChild(document.createElement('div')).innerHTML = "Column " + i + ":";
+	  return cols[i];
 	};
 
 	var mapper = function(n){
@@ -66,6 +81,8 @@
 
 	var run_mapper = function(i, mapper){
 		var m = mapper(i);
+		if (m === null)
+			alert("Nothing returned from mapper for " + i);
 		var cell = get_cell(i);
 		var col = get_col(m);
 		if (col != cell.parentNode)
@@ -99,7 +116,7 @@
 	};
 
 	var runner = function(mapper){
-			var i = 1;
+			var i = parseInt(startat.value);
 			var speed = 100;
 			if (runner.interval)
 				clearInterval(runner.interval);
@@ -109,9 +126,22 @@
 				setTimeout(function(){
 					cell.style.border = "1px solid white";
 				}, speed / 2);
-				i++;
+				i += parseInt(step.value);
 			}, speed);
 	}
+
+	var stop = function(){
+		if (runner.interval)
+			clearInterval(runner.interval);
+		delete runner.interval;
+	};
+
+	var clear_her = function(){
+		stop();
+		colbox.innerHTML = '';
+		cols = [];
+		cells = [];
+	};
 
 	runner(mapper);
 
@@ -129,6 +159,8 @@
 			runner(custom);
 	};
 
+	stopper.onclick = stop;
+	clearer.onclick = clear_her;
 
 })();
 </script>
