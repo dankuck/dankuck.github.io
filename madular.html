@@ -164,10 +164,10 @@
 		ints_index++;
 		if (! ints[ints_index]){
 			var next;
-			var a = parseInt(min.value);
-			var b = parseInt(max.value);
+			var a = eval(min.value);
+			var b = eval(max.value);
 			do{
-				next = parseInt(Math.random() * (b - a) + b);
+				next = parseInt(Math.random() * (b - a) + a);
 			} while (ints_used[next]);
 			ints[ints_index] = next;
 			ints_used[next] = 1;
