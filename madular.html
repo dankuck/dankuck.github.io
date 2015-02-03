@@ -15,13 +15,13 @@
 		Columns: <input id="size" value="6" />
 	</div>
 	<div>
-		Start At: <input id="startat" value="1" />
+		Min: <input id="min" value="1" />
 	</div>
 	<div>
-		Step: <input id="step" value="1" />
+		Max: <input id="max" value="1000000" />
 	</div>
 	<div>
-		Function: <textarea id="func" style="width: 600px; height: 300px;"></textarea> <span id="func_trouble"></span>
+		Function: <textarea id="func" style="width: 400px; height: 300px;"></textarea> <span id="func_trouble"></span>
 	</div>
 	<div>
 		<button id="goer">Go</button>
@@ -36,6 +36,8 @@
 <script type="text/javascript">
 (function(){
 
+	var speed = 100;
+
 	var size = 6;
 	var size_input = document.getElementById('size');
 	var func_input = document.getElementById('func');
@@ -43,12 +45,15 @@
 	var goer = document.getElementById('goer');
 	var stopper = document.getElementById('stopper');
 	var clearer = document.getElementById('clearer');
-	var startat = document.getElementById('startat');
-	var step = document.getElementById('step');
+	var min = document.getElementById('min');
+	var max = document.getElementById('max');
 
 	var colbox = document.getElementById('colbox');
 	var cols = [];
 	var cells = [];
+	var ints = [];
+	var ints_used = {};
+	var ints_index = 0;
 
 	var make_col = function(){
 	  var col = document.createElement('div');
@@ -61,7 +66,14 @@
 	    return cols[i];
 	  cols[i] = colbox.appendChild(make_col());
 	  cols[i].appendChild(document.createElement('div')).innerHTML = "Column " + i + ":";
+	  cols[i].add = col_adder;
 	  return cols[i];
+	};
+
+	var col_adder = function(cell){
+		highlight_cell(cell, {border: "1px solid red"});
+		if (this != cell.parentNode)
+			move(cell, this);
 	};
 
 	var mapper = function(n){
@@ -76,6 +88,7 @@
 			return cells[i];
 		cells[i] = make_cell();
 		cells[i].innerHTML = i;
+		cells[i].value = i;
 		return cells[i];
 	};
 
@@ -85,48 +98,87 @@
 			alert("Nothing returned from mapper for " + i);
 		var cell = get_cell(i);
 		var col = get_col(m);
-		if (col != cell.parentNode)
-			move(cell, col);
+		col.add(cell);
 		return cell;
+	};
+
+	var make_shrinker = function(){
+		var shrinker = document.createElement('div')
+		shrinker.innerHTML = '&nbsp;';
+		return make_changer(shrinker, true);
+	};
+
+	var make_grower = function(cell){
+		return make_changer(cell);
+	};
+
+	var make_changer = function(element, shrink){
+		element.style.height = '1em';
+		element.style.overflowY = 'hidden';
+		var top = 4;
+		var i = shrink ? top : 0;
+		var intr = setInterval(function(){
+			i += shrink ? -1 : 1;
+			if (i < 0 || i > top){
+				clearInterval(intr);
+				if (shrink)
+					element.parentNode.removeChild(element);
+				return;
+			}
+			element.style.height = (i / top) + 'em';
+		}, 50);
+		return element;
 	};
 
 	var move = function(cell, col){
 		if (cell.parentNode){
-			var shrinker = document.createElement('div')
-			shrinker.innerHTML = '&nbsp;';
-			shrinker.style.height = '1em';
-			shrinker.style.overflowY = 'hidden';
-			var top = 4;
-			var i = top;
-			var intr = setInterval(function(){
-				i--;
-				if (i < 0){
-					clearInterval(intr);
-					return;
-				}
-				shrinker.style.height = (i / top) + 'em';
-			}, 50);
-			cell.parentNode.replaceChild(shrinker, cell);
+			cell.parentNode.replaceChild(make_shrinker(), cell);
+			highlight_cell(cell, {backgroundColor: "#88F"});
 		}
-		col.appendChild(cell);
+		else{
+			highlight_cell(cell, {backgroundColor: "#8F8"});
+		}
+		for (var i = 0; i < col.childNodes.length; i++){
+			if (col.childNodes[i].value && col.childNodes[i].value > cell.value){
+				col.insertBefore(make_grower(cell), col.childNodes[i]);
+				return;
+			}
+		}
+		col.appendChild(make_grower(cell));
+	};
+
+	var highlight_cell = function(cell, style){
+		for (var i in style)
+			cell.style[i] = style[i];
+		setTimeout(function(){
+			for (var i in style)
+				cell.style[i] = '';
+		}, speed / 2);
 	};
 
 	var make_cell = function(){
 		return document.createElement('div');
 	};
 
+	var hopper = function(){
+		ints_index++;
+		if (! ints[ints_index]){
+			var next;
+			var a = parseInt(min.value);
+			var b = parseInt(max.value);
+			do{
+				next = parseInt(Math.random() * (b - a) + b);
+			} while (ints_used[next]);
+			ints[ints_index] = next;
+			ints_used[next] = 1;
+		}
+		return ints[ints_index];
+	};
+
 	var runner = function(mapper){
-			var i = parseInt(startat.value);
-			var speed = 100;
-			if (runner.interval)
-				clearInterval(runner.interval);
+			stop();
 			runner.interval = setInterval(function(){
-				var cell = run_mapper(i, mapper);
-				cell.style.border = "1px solid blue";
-				setTimeout(function(){
-					cell.style.border = "1px solid white";
-				}, speed / 2);
-				i += parseInt(step.value);
+				var cell = run_mapper(hopper(), mapper);
 			}, speed);
 	}
 
@@ -134,6 +186,7 @@
 		if (runner.interval)
 			clearInterval(runner.interval);
 		delete runner.interval;
+		ints_index = 0;
 	};
 
 	var clear_her = function(){
@@ -141,6 +194,9 @@
 		colbox.innerHTML = '';
 		cols = [];
 		cells = [];
+		ints = [];
+		ints_used = {};
+		ints_index = 0;
 	};
 
 	runner(mapper);
