@@ -14,6 +14,6 @@ I realized I don't need them either. Mostly because nobody has ever commented he
 
 Still it's fascinating to see this evolution. In 2006, people were gawking at the ability to comment on things they thought of as traditional, like newspapers. Now that seems quaint at best and annoying at worst.
 
-It's been a long time coming really. When websites started hiding all their comments behind a "Show the Comments" link, that was the beginning of the end. Now it's the end.
+It's been a long time coming really. When websites started hiding all their comments behind a "Show the Comments" link, that was the beginning of the end. Now it's the end. Comments have migrated to sites that are specifically about commenting.
 
 The exceptions to this rule are probably going to be the most interesting ones.
