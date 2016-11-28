@@ -3,7 +3,7 @@
 		<title>{% if page.title %}{{ page.title }} - {% endif %}Be Like Dan</title>
 		<style>
 		a{
-			color: white;
+			color: black;
 		}
 			h1 a, h2 a, h3 a, h4 a, h5 a, h6 a{
 				text-decoration: none;
@@ -21,18 +21,18 @@
 		body{
 			margin: 0; 
 			padding: 0; 
-			background-color: #222; 
+			background-color: #FFF; 
 			font-family: arial; 
-			color: white;
+			color: black;
 		}
 		.major-content{
 			padding: 1em; 
-			background-color: #666; 
+			background-color: white; 
 			min-height: 30em; 
 			border-bottom: 1px solid black; 
-			border-right: 1px solid black;
 			border-radius: 3px;
 			line-height: 140%;
+			border-left: 1px solid #ccc;
 		}
 		.post-content{
 			margin: 0 2em;
@@ -52,6 +52,15 @@
 		.page-img{
 			max-width: 400px;
 			max-height: 400px;
+		}
+		h3 {
+			text-shadow: 1px 1px;
+			font-size: 200%;
+		}
+		.stats {
+			font-size: 80%; 
+			margin-bottom: 2em;
+			padding: .5em;
 		}
 		</style>
 		<link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="http://feeds.feedburner.com/dankuck">
