@@ -2,7 +2,7 @@
 layout: post
 title: "I Launched a Webcomic!"
 page_img: http://bywatchingyou.com/assets/ep/ep01x01_thumb.png
-page_img_desc: "You're recognize these things from<br />That One Internet Thing and<br />That Website You Saw That Time"
+page_img_desc: "You'll recognize these things from<br />That One Internet Thing and<br />That Website You Saw That Time"
 no_ad: 1
 ---
 
