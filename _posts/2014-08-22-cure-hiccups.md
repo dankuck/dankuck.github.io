@@ -38,5 +38,3 @@ He drinks martinis. But you never see him with hiccups.
 Surely his training in spying and drinking has prepared him to avoid the hiccups.
 
 This is undoubtedly the greatest secret the British government is hiding from the world.
-
-Leak the secret in the comments, if you have it.

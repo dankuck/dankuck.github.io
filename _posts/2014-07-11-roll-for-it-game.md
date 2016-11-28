@@ -96,4 +96,4 @@ We've also tried "Dominoes" and "Sorry", which were both good, and eventually I'
 
 <a data-pin-do="embedBoard" href="http://www.pinterest.com/danielkuckalvar/games/" data-pin-scale-width="80" data-pin-scale-height="200" data-pin-board-width="400">Follow Daniel's board Games on Pinterest.</a><!-- Please call pinit.js only once per page --><script type="text/javascript" async src="//assets.pinterest.com/js/pinit.js"></script>
 
-Tell me your favorite games in the comments. Or tell me where to find more games for 4 year olds.
+
