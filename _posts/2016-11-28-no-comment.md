@@ -8,7 +8,7 @@ no_ad: 1
 
 <a href="http://www.npr.org/sections/ombudsman/2016/08/17/489516952/npr-website-to-get-rid-of-comments">NPR has done away with comments</a>.
 
-They didn't need them anymore because their usage was on the decline, while all their real discussion was on social media platforms.
+They didn't need them anymore because comment usage was on the decline, while all real discussion was on social media platforms.
 
 I realized I don't need them either. Mostly because nobody has ever commented here. This isn't really a conversation site. It's more like a dusty corner where nobody really goes, even me.
 

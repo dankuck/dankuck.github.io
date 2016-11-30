@@ -21,3 +21,6 @@ A popular one was "Do we eat sharks?"
 Then she would ask me questions. Pretty soon she stopped putting coins in her mouth.
 
 My reach goal was that I could teach her to eat new foods. That failed miserably.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">How I taught my kid not to eat coins. <a href="https://t.co/oATdtJUoAZ">https://t.co/oATdtJUoAZ</a></p>&mdash; Dan Kuck-Alvarez (@dankuck) <a href="https://twitter.com/dankuck/status/803973377430061056">November 30, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
