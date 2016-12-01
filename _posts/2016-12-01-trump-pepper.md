@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Trump Pepper"
-page_img: https://pbs.twimg.com/media/Cyj31A6XUAANBYf.jpg:large
+page_img_thumb: https://pbs.twimg.com/media/Cyj31A6XUAANBYf.jpg:large
 page_img_desc: ""
 no_ad: 1
 ---
