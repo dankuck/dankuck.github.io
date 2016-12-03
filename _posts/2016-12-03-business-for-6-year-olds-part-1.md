@@ -20,7 +20,7 @@ So this morning I started the conversation:
 <dd>Hey Alba, what's a business?</dd>
 
 <dt>Alba</dt>
-<dd><i>Thinks.</i> I don't know.</dd>
+<dd>(<i>Thinks.</i>) I don't know.</dd>
 
 <dt>Dan</dt>
 <dd>Do you want me to tell you?</dd>
