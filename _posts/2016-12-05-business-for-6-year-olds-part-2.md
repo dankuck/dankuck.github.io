@@ -176,11 +176,13 @@ Later that night we discussed what a business has:
 
 Then I started talking about government and didn't come back to the topic of business.
 
-If you're interested in furniture upholstery in central Florida, take a look at <a href="http://www.northfloridachair.com">Ladd Upholstery Designs</a>.
+Since I mentioned all these people, here you go:
+
+If you're interested in furniture upholstery in North Florida, take a look at <a href="http://www.northfloridachair.com">Ladd Upholstery Designs</a>.
 
 If you're interested in attending gymnastics classes in Greenville, South Carolina, look at <a href="http://www.penultimategym.com">PENultimate Gymnastics</a>. Or if you're interested in leotards, <a href="http://www.etsy.com/shop/PENultimateLeotards">PENultimate Leotards</a> is the place to go.
 
-If you're interested in 
+If you're interested in architecture and construction in Santa Cruz, Bolivia, look up Percy Alvarez or contact me for more info.
 
 
 
