@@ -6,110 +6,110 @@ page_img_desc: ""
 no_ad: 1
 ---
 
-I've been ramping up Alba's knowledge of business. So first we discussed <a href="/2016/12/03/business-for-6-year-olds-part-1.html">what a business is</a> and we worked together to find some examples.
+I've been ramping up A.'s knowledge of business. So first we discussed <a href="/2016/12/03/business-for-6-year-olds-part-1.html">what a business is</a> and we worked together to find some examples.
 
 Later that night we discussed what a business has:
 
 <dt>Dan</dt>
-<dd>So Alba, remember this morning we talked about what a business is?</dd>
+<dd>So A., remember this morning we talked about what a business is?</dd>
 
-<dt>Alba</dt>
+<dt>A.</dt>
 <dd>Yep!</dd>
 
 <dt>Dan</dt>
 <dd>Do you know we know someone who runs a gymnastics business.</dd>
 
-<dt>Alba</dt>
+<dt>A.</dt>
 <dd>Wow, who?</dd>
 
 <dt>Dan</dt>
 <dd>Aunt Paula and uncle Bob. Do you know what they do?</dd>
 
-<dt>Alba</dt>
+<dt>A.</dt>
 <dd>Oh yeah, they're gymnastics teachers!</dd>
 
 <dt>Dan</dt>
 <dd>That's right, and they have their own gym. And do you know who else has their own business?</dd>
 
-<dt>Alba</dt>
+<dt>A.</dt>
 <dd>Who?</dd>
 
 <dt>Dan</dt>
 <dd>Uncle Ladd and aunt Rose.</dd>
 
-<dt>Alba</dt>
+<dt>A.</dt>
 <dd>What do they do?</dd>
 
 <dt>Dan</dt>
 <dd>They take old furniture and replace the cloth on it and some of the pieces inside so it's new and nice.</dd>
 
-<dt>Alba</dt>
+<dt>A.</dt>
 <dd><i>(Excited)</i> I want to have a business like that!</dd>
 
 <dt>Dan</dt>
 <dd>Well, unfortunately it's a difficult business to be in, because people aren't doing that as much as they used to. They aren't having their furniture fixed very often.</dd>
 
-<i>Alba looks dejected here.</i>
+<i>A. looks dejected here.</i>
 
 <dt>Dan</dt>
 <dd>But it could be a good hobby. You'd probably have a lot of fun.</dd>
 
-<dt>Alba</dt>
+<dt>A.</dt>
 <dd>Yes!</dd>
 
 <dt>Dan</dt>
 <dd>And you know who else has a business?</dd>
 
-<dt>Alba</dt>
+<dt>A.</dt>
 <dd>Who?</dd>
 
 <dt>Dan</dt>
 <dd>Papi Percy and Mami Lucy! <i>(Her grandparents.)</i> Do you know what they do?</dd>
 
-<dt>Alba</dt>
+<dt>A.</dt>
 <dd>They build buildings! Mami has that business. <i>(My wife.)</i></dd>
 
 <dt>Dan</dt>
 <dd>That's right. Mami was trained to do that. She doesn't do it right now.</dd>
 
-<i>I let Alba think about all these things for a few minutes before I continue. It's time to explain what a business has. Which will help differentiate it from other concepts like "a job".</i>
+<i>I let A. think about all these things for a few minutes before I continue. It's time to explain what a business has. Which will help differentiate it from other concepts like "a job".</i>
 
 <dt>Dan</dt>
-<dd>So Alba, what does a business have?</dd>
+<dd>So A., what does a business have?</dd>
 
-<dt>Alba</dt>
+<dt>A.</dt>
 <dd><i>(Thinks real hard.)</i></dd>
 
 <dt>Dan</dt>
 <dd>Like, what does a gardener have?</dd>
 
-<dt>Alba</dt>
+<dt>A.</dt>
 <dd>Oh! Something to dig with!</dd>
 
 <dt>Dan</dt>
 <dd>Yes! A shovel.</dd>
 
-<dt>Alba</dt>
+<dt>A.</dt>
 <dd>And flowers.</dd>
 
 <dt>Dan</dt>
 <dd>Yes, and what does a house-cleaning person need?</dd>
 
-<dt>Alba</dt>
+<dt>A.</dt>
 <dd>Um, something to clean with.</dd>
 
 <dt>Dan</dt>
 <dd>Yes. Sometimes they go and just use the cleaning stuff that is already at the house, but sometimes they bring their own cleaning stuff.</dd>
 <dd>What does a garbage company need?</dd>
 
-<dt>Alba</dt>
+<dt>A.</dt>
 <dd>Um... Oh! A garbage truck!</dd>
 
 <dt>Dan</dt>
 <dd>Yep. That's almost all they need. They also need a place to keep their garbage truck. Maybe they own a place or maybe they pay someone to use their place to keep their garbage truck in.</dd>
 <dd>So what does an architect need? What do Papi Percy and Mami Lucy need?</dd>
 
-<dt>Alba</dt>
+<dt>A.</dt>
 <dd>Um... what's that stuff that holds bricks together?</dd>
 
 <dt>Dan</dt>
@@ -117,7 +117,7 @@ Later that night we discussed what a business has:
 
 <i>(About this time, my wife Pati came in the kitchen.)</i>
 
-<dt>Alba</dt>
+<dt>A.</dt>
 <dd>And bricks! If the house is made of bricks.</dd>
 
 <dt>Pati</dt>
@@ -131,44 +131,44 @@ Later that night we discussed what a business has:
 <dt>Dan</dt>
 <dd>There's one thing that all businesses have to have.</dd>
 
-<dt>Alba</dt>
+<dt>A.</dt>
 <dd>Money?</dd>
 
 <dt>Dan</dt>
 <dd>Actually yes, they all need that. And where do they get it?</dd>
 
-<dt>Alba</dt>
+<dt>A.</dt>
 <dd><i>(Pause.)</i></dd>
 
 <dt>Dan</dt>
 <dd>Where does a gardener get money?</dd>
 
-<dt>Alba</dt>
+<dt>A.</dt>
 <dd>From the people who live in the garden.</dd>
 
 <dt>Dan</dt>
 <dd>From the people who own the garden.</dd>
 
-<dt>Alba</dt>
+<dt>A.</dt>
 <dd>That's what I said!</dd>
 
 <dt>Dan</dt>
 <dd>Ok, you're right. Yes, the people who own the garden pay the gardener to mow their lawn and plant their flowers. They're called the customers.</dd>
 <dd>Who are the customers of a house-cleaning person?</dd>
 
-<dt>Alba</dt>
+<dt>A.</dt>
 <dd>The people who live in the house.</dd>
 
 <dt>Dan</dt>
 <dd>That's right. Who are the customers of a gymnastics business? It's not the kids. It's the parents, right?</dd>
 
-<dt>Alba</dt>
+<dt>A.</dt>
 <dd><i>(Nods.)</i></dd>
 
 <dt>Dan</dt>
 <dd>If a business doesn't have customers it is not a business.</dd>
 
-<dt>Alba</dt>
+<dt>A.</dt>
 <dd>Who is the customer of the firetruck?</dd>
 
 <dt>Dan</dt>
@@ -176,7 +176,11 @@ Later that night we discussed what a business has:
 
 Then I started talking about government and didn't come back to the topic of business.
 
+If you're interested in furniture upholstery in central Florida, take a look at <a href="http://www.northfloridachair.com">Ladd Upholstery Designs</a>.
 
+If you're interested in attending gymnastics classes in Greenville, South Carolina, look at <a href="http://www.penultimategym.com">PENultimate Gymnastics</a>. Or if you're interested in leotards, <a href="http://www.etsy.com/shop/PENultimateLeotards">PENultimate Leotards</a> is the place to go.
+
+If you're interested in 
 
 
 

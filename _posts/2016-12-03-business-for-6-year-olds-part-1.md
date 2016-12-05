@@ -17,21 +17,21 @@ And not the comical kind of fun. Not clowns. The real fun. Remember when you tri
 So this morning I started the conversation:
 
 <dt>Dan</dt>
-<dd>Hey Alba, what's a business?</dd>
+<dd>Hey A., what's a business?</dd>
 
-<dt>Alba</dt>
+<dt>A.</dt>
 <dd>(<i>Thinks.</i>) I don't know.</dd>
 
 <dt>Dan</dt>
 <dd>Do you want me to tell you?</dd>
 
-<dt>Alba</dt>
+<dt>A.</dt>
 <dd>Yeah.</dd>
 
 <dt>Dan</dt>
 <dd>Let me think. What skills do you have?</dd>
 
-<dt>Alba</dt>
+<dt>A.</dt>
 <dd>Gymnastics!</dd>
 
 <dt>Dan</dt>
@@ -39,7 +39,7 @@ So this morning I started the conversation:
     But you are good at folding clothes. And emptying the dishwasher.
 </dd>
 
-<dt>Alba</dt>
+<dt>A.</dt>
 <dd><i>Nods</i></dd>
 
 <dt>Dan</dt>
@@ -50,19 +50,19 @@ So this morning I started the conversation:
     Then they told their friends and those people asked you to do the same for them. Now you have a business.
 </dd>
 
-<dt>Alba</dt>
+<dt>A.</dt>
 <dd><i>Seems to get it.</i></dd>
 
 <dt>Dan</dt>
 <dd>Then eventually you might have so many customers that you ask someone else to help you. You pay them some money to help. When you have so many customers you may decide to do some of the houses while the other worker does some of the other ones.</dd>
 
-<dt>Alba</dt>
+<dt>A.</dt>
 <dd>Well that's not fair if I just have to do one house.</dd>
 
 <dt>Dan</dt>
 <dd>You'd probably split it up. If you had ten customers (<i>shows ten fingers</i>) you'd probably each take five (<i>splits up the ten fingers</i>).</dd>
 
-<dt>Alba</dt>
+<dt>A.</dt>
 <dd>Oh yeah.</dd>
 
 <dt>Dan</dt>
@@ -73,7 +73,7 @@ So this morning I started the conversation:
 <dt>Dan</dt>
 <dd>If you hire employees you would keep a lot of the money. Like if something got broken at one of the houses, you would have to pay to fix it. The employees wouldn't. (<i>Trying to avoid having to define "liability" here.</i>) So you need to keep the money to take care of things like that when they happen.</dd>
 
-<dt>Alba</dt>
+<dt>A.</dt>
 <dd>Oh yeah.</dd>
 
 <i>I remember her being even more engaged than is obvious here, so I assume I'm forgetting some of her responses. Anyway, about then we were getting late for school, so we had to focus on teeth-brushing and whatnot.</i>
@@ -83,19 +83,19 @@ So this morning I started the conversation:
 <dt>Dan</dt>
 <dd>So, what other businesses might people have? What kind of business does that truck in front of us do? I don't even know. (<i>I still don't.</i>)</dd>
 
-<dt>Alba</dt>
+<dt>A.</dt>
 <dd>Um... how about a fire truck?</dd>
 
 <dt>Dan</dt>
 <dd>Firefighters are kind of a different thing. I'll explain that later. What else?</dd>
 
-<dt>Alba</dt>
+<dt>A.</dt>
 <dd>A gardener?</dd>
 
 <dt>Dan</dt>
 <dd>Yes, a gardener has a business. What does a gardner do?</dd>
 
-<dt>Alba</dt>
+<dt>A.</dt>
 <dd>They work in gardens.</dd>
 
 <dt>Dan</dt>

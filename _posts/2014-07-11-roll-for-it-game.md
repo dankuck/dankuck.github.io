@@ -32,7 +32,7 @@ The rules are pretty simple:
 3. On a player's turn, they roll whatever dice they still have and put any matching die with the card it matches.
 4. You win a card when you've placed one die by it for each of the dice it has shown in its picture.
 
-So we started playing and Alba won a card within a minute or two. Great way to start. Then eventually she got mad for whatever reason kids get mad. She stormed off and the game was over.
+So we started playing and A. won a card within a minute or two. Great way to start. Then eventually she got mad for whatever reason kids get mad. She stormed off and the game was over.
 
 Yeah, so far, we haven't finished a game. Which is the other lesson opportunity you didn't realize you'd have.
 
@@ -44,7 +44,7 @@ Three-and-a-half year old kids lack the following skills which are prerequisites
 
 All good things to learn. The point of the first games you pick will be to teach "games" to the kid.
 
-I think I picked well, because Alba has all the numbers and matching skills required for this game. Which means we can avoid the frustrations of the actual game rules and focus on the frustrations of games in general.
+I think I picked well, because A. has all the numbers and matching skills required for this game. Which means we can avoid the frustrations of the actual game rules and focus on the frustrations of games in general.
 
 After four or five game plays so far, I've seen a marked improvement in her ability to play. And each play has lasted longer.
 
@@ -72,7 +72,7 @@ Don't.
 
 Just keep repeating "Games are more fun when you follow the rules." That's the lesson the kid needs to hear and learn. And for yourself, it reminds you that games are supposed to be fun. As long as you can find a chance to have some fun, you're doing fine.
 
-When I told Alba "Games are more fun when you follow the rules", she remembered that they also talk about rules in preschool. So this reinforced a life skill she's learning elsewhere and let us talk about rules in the context of "fun".
+When I told A. "Games are more fun when you follow the rules", she remembered that they also talk about rules in preschool. So this reinforced a life skill she's learning elsewhere and let us talk about rules in the context of "fun".
 
 Still, she steals the cards I win. Which is the other side of the coin. Rules can change. As long as everyone agrees. (Implicitly or explicitly.)
 
@@ -82,9 +82,9 @@ The short-term objectives of this game are obvious. Place a die, get a card, lot
 
 There is no long-term objective. Kids can do long-term stuff, but I'm not sure games are a way to teach that.
 
-With Alba, we have only recently even mentioned the medium-term objective: Win the game.
+With A., we have only recently even mentioned the medium-term objective: Win the game.
 
-To do this, Alba has decided you need to get six cards.
+To do this, A. has decided you need to get six cards.
 
 Officially, each card has a number on it and those are supposed to add up to 40. But whatever, house rules.
 
