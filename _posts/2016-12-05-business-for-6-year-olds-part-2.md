@@ -41,7 +41,7 @@ Later that night we discussed what a business has:
 <dd>What do they do?</dd>
 
 <dt>Dan</dt>
-<dd>They take old furniture and replace the clothe on it and some of the pieces inside so it's new and nice.</dd>
+<dd>They take old furniture and replace the cloth on it and some of the pieces inside so it's new and nice.</dd>
 
 <dt>Alba</dt>
 <dd><i>(Excited)</i> I want to have a business like that!</dd>
@@ -67,7 +67,7 @@ Later that night we discussed what a business has:
 <dd>Papi Percy and Mami Lucy! <i>(Her grandparents.)</i> Do you know what they do?</dd>
 
 <dt>Alba</dt>
-<dd>They build buildings! Mami has that business.</dd>
+<dd>They build buildings! Mami has that business. <i>(My wife.)</i></dd>
 
 <dt>Dan</dt>
 <dd>That's right. Mami was trained to do that. She doesn't do it right now.</dd>
@@ -93,7 +93,7 @@ Later that night we discussed what a business has:
 <dd>And flowers.</dd>
 
 <dt>Dan</dt>
-<dd>Yes, and what does a house cleaning person need?</dd>
+<dd>Yes, and what does a house-cleaning person need?</dd>
 
 <dt>Alba</dt>
 <dd>Um, something to clean with.</dd>
@@ -106,7 +106,7 @@ Later that night we discussed what a business has:
 <dd>Um... Oh! A garbage truck!</dd>
 
 <dt>Dan</dt>
-<dd>Yep. That's almost all they need. They also need a place to keep their garbage truck. Maybe they own a place or maybe they pay someone to use their place.</dd>
+<dd>Yep. That's almost all they need. They also need a place to keep their garbage truck. Maybe they own a place or maybe they pay someone to use their place to keep their garbage truck in.</dd>
 <dd>So what does an architect need? What do Papi Percy and Mami Lucy need?</dd>
 
 <dt>Alba</dt>
@@ -154,7 +154,7 @@ Later that night we discussed what a business has:
 
 <dt>Dan</dt>
 <dd>Ok, you're right. Yes, the people who own the garden pay the gardener to mow their lawn and plant their flowers. They're called the customers.</dd>
-<dd>Who are the customers of a house cleaning person?</dd>
+<dd>Who are the customers of a house-cleaning person?</dd>
 
 <dt>Alba</dt>
 <dd>The people who live in the house.</dd>
@@ -166,7 +166,7 @@ Later that night we discussed what a business has:
 <dd><i>(Nods.)</i></dd>
 
 <dt>Dan</dt>
-<dd>If they don't make money they are not a business.</dd>
+<dd>If a business doesn't have customers it is not a business.</dd>
 
 <dt>Alba</dt>
 <dd>Who is the customer of the firetruck?</dd>
