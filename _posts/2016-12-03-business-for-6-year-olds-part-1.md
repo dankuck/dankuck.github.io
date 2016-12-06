@@ -102,3 +102,5 @@ So this morning I started the conversation:
 <dd>Right, they plant flowers and cut grass.</dd>
 
 About that time we arrived at the school gates. I left realizing I probably need to clarify a job versus a business. That night in the next session, we talked about what a business has and got into more examples from real life. That should set me up to revisit what role employees play.
+
+{% include series_bf6yo.html %}

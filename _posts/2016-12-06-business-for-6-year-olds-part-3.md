@@ -57,3 +57,4 @@ I'd call this a set back. For one thing, I'm not sure how receptive she'll be ne
 
 For another thing, I ended at a partial explanation. I didn't spark her interest to ask me something like "Why own a business?" But that'll be what I talk about next.
 
+{% include series_bf6yo.html %}

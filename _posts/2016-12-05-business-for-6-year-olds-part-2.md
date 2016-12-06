@@ -184,5 +184,5 @@ If you're interested in attending gymnastics classes in Greenville, South Caroli
 
 If you're interested in architecture and construction in Santa Cruz, Bolivia, look up Percy Alvarez or contact me for more info.
 
-
+{% include series_bf6yo.html %}
 
