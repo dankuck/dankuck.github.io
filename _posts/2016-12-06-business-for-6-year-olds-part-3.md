@@ -25,7 +25,7 @@ A. <a href="/2016/12/03/business-for-6-year-olds-part-1.html">now has a good kno
 <dt>Dan</dt>
 <dd>No, I don't have a business. I have a job.</dd>
 
-<dt>Alba</dt>
+<dt>A.</dt>
 <dd>What's the difference?</dd>
 
 <dt>Dan</dt>
