@@ -103,4 +103,7 @@ So this morning I started the conversation:
 
 About that time we arrived at the school gates. I left realizing I probably need to clarify a job versus a business. That night in the next session, we talked about what a business has and got into more examples from real life. That should set me up to revisit what role employees play.
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">What is a business? For a six-year-old. <a href="https://t.co/bb8PtAwiG3">https://t.co/bb8PtAwiG3</a></p>&mdash; Dan Kuck-Alvarez (@dankuck) <a href="https://twitter.com/dankuck/status/805985069903081476">December 6, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 {% include series_bf6yo.html %}

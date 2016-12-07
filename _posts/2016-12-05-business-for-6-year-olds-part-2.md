@@ -184,5 +184,8 @@ If you're interested in attending gymnastics classes in Greenville, South Caroli
 
 If you're interested in architecture and construction in Santa Cruz, Bolivia, look up Percy Alvarez or contact me for more info.
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">What does a business have? Discussion with my six year old. <a href="https://t.co/ONZ7l54CMW">https://t.co/ONZ7l54CMW</a></p>&mdash; Dan Kuck-Alvarez (@dankuck) <a href="https://twitter.com/dankuck/status/806611988520599553">December 7, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 {% include series_bf6yo.html %}
 
