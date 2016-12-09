@@ -1,5 +1,8 @@
 
-	{% for post in site.posts %}
+{% for post in site.posts %}
+	{% if post.draft %}
+		<!-- skipped a draft -->
+	{% else %}
 		<div style="padding-bottom: 2em;">
 			<h1><a href="{{ site.url }}{{ post.url }}" title="{{ post.title | xml_escape }}">{{ post.title }}</a></h1>
 
@@ -23,4 +26,5 @@
 		<div style="font-size: 80%; padding-bottom: 5em; clear: both;">
 			<a href="{{ site.url }}{{ post.url }}" title="{{ post.title | xml_escape }}">Permalink</a> {{ post.date }} <a href="/contact/dankuck.html"><img src="http://www.gravatar.com/avatar/3b55d9d2629003d8f6d3365c4ea79122?s=16" border="0" /></a></a> <a href="/contact/dankuck.html">dankuck</a>
 		</div>
-	{% endfor %}
+	{% endif %}
+{% endfor %}
