@@ -49,7 +49,7 @@ There are actually four things called science. These are them.
 
 <p>The most common time for anyone to use the word is in just one phrase: "Science can't figure out how a bee can even fly." The scientists are the Science in that sentence. And the sentence is a dirty lie.</p>
 
-<p>The mechanism by which a bee flies has been <a href="http://www.todayifoundout.com/index.php/2013/08/bumblebee-flight-does-not-violate-the-laws-of-physics/">well understood</a> for quite a long time. The confusion is that one time one of those people who are part of Science said something to the effect of "If an airplane were the size of a bee, it wouldn't be able to fly." And then I assume the fake news sites got ahold of it.</p>
+<p>The mechanism by which a bee flies has been <a href="http://www.todayifoundout.com/index.php/2013/08/bumblebee-flight-does-not-violate-the-laws-of-physics/">well understood</a> for quite a long time. The confusion is that one time one of those people who are part of Science said something to the effect of "If an airplane were the size of a bee, it wouldn't be able to fly." And then I assume the fake news sites got a hold of it.</p>
 
 <p>Science does a lot of good in the world. And when that good is done, Science means people. But the people got there through exploration.</p>
 
@@ -74,7 +74,7 @@ There are actually four things called science. These are them.
 
 <p>If you ask for a real definition of Science, you get this one. Science is about eliminating false hypotheses. Narrowing down the remaining list until you're left with just one theory that predicts every move of the thing you're studying.</p>
 
-<p>When chemists wanted to know if carbon atoms had 5 or 6 or 7 electrons, they used this Science to <a href="https://www.quora.com/How-did-the-scientists-find-out-the-number-of-protons-in-an-atom">figure it out</a>. Some hypotheses were proposed. Those hypothese each predicted a measurement. When measurements were taken, the failing hypotheses were throw out. Right in the garbage with your dreams.</p>
+<p>When chemists wanted to know if carbon atoms had 5 or 6 or 7 electrons, they used this Science to <a href="https://www.quora.com/How-did-the-scientists-find-out-the-number-of-protons-in-an-atom">figure it out</a>. Some hypotheses were proposed. Those hypotheses each predicted a measurement. When measurements were taken, the failing hypotheses were throw out. Right in the garbage with your dreams.</p>
 
 <p>What about dogs? Did Science prove they are mammals? Imagine one day a young hairy guy with a club walked out of his cave and looked at the animals around him. Some of them had scales and laid eggs. They were not like him. Some others had hair and their babies drank milk. Just like his babies. So he classified them in the same group as himself.</p>
 
