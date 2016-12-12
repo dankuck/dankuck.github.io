@@ -91,4 +91,6 @@ by Agência Brasil
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Science in school looks different from science in Internet arguments. TV shows have another. There are 4 sciences. <a href="https://t.co/fpJYf8lSUi">https://t.co/fpJYf8lSUi</a></p>&mdash; Dan Kuck-Alvarez (@dankuck) <a href="https://twitter.com/dankuck/status/808325923749711872">December 12, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fdankuck%2Fposts%2F10209489708733881&width=500" width="500" height="545" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+
 <i>All of the images on this page were shared through creative commons licenses.</i>
