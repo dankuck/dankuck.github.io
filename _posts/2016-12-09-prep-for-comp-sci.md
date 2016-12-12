@@ -4,7 +4,7 @@ title: "What should I study in high school if I want to study computer science?"
 page_img: 
 page_img_desc: ""
 no_ad: 1
-draft: 1
+draft: 
 ---
 
 I found this question <a href="https://www.quora.com/What-should-I-study-in-high-school-if-I-want-to-study-computer-science">on Quora</a>.
