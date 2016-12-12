@@ -62,7 +62,7 @@ There are actually four things called science. These are them.
 
 <p>Now we're getting warmer on what Science is supposed to mean. In the better science-oriented TV shows, the scientists go around looking for new things to know. Then when they find something new, they deny it until some big climax forces them to accept it without any further doubt.</p>
 
-<p>This is the act of seeing what happens when you press this button. And checking, "Does it happen again?"</p>
+<p>This is the act of seeing what happens when you press The Big Red Button. And when something interesting happens, you do it again.</p>
 
 <p>This is the Science that kids aspire to until they reach science class and it starts to look like an insurmountable uphill climb. But that's not the most frustrating part. That title is reserved for the real Science.</p>
 
