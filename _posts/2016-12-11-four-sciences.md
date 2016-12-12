@@ -7,6 +7,21 @@ no_ad: 1
 draft: 1
 ---
 
+<style type="text/css">
+.illustration {
+    float: right;
+    width: 350px;
+    background-color: #EEE;
+    margin: 1em;
+    padding: 1em;
+}
+.illustration img {
+    width: 100%;
+    display: block;
+}
+</style>
+
+
 You might have noticed that the science taught to kids in school looks different from the science you're supposed to know all about when you argue on the Internet. And they both look different from science as practiced in TV shows.
 
 There are actually four things called science. These are them.
@@ -15,9 +30,8 @@ There are actually four things called science. These are them.
 
 <p>In school, Science is the name for facts about each scientific domain. Carbon has 6 electrons. Dogs are mammals. Mitochondria is the powerhouse of the cell.</p>
 
-<div style="float: right">
-    <img src="/assets/Animal_mitochondrion_diagram_en_(edit).svg" style="width: 300px" />
-    <br />
+<div class="illustration">
+    <img src="/assets/Animal_mitochondrion_diagram_en_(edit).svg"/>
     Mitochondria, by Mariana Ruiz Villarreal LadyofHats. Don't you feel scienced now?
 </div>
 
@@ -29,9 +43,8 @@ There are actually four things called science. These are them.
 
 <p>The people who engage in scientific work are sometimes called Science, too. They make up the great institution called Science which has the duty of guarding all the scientific facts and coming up with new ones.</p>
 
-<div style="float: right">
-    <img src="/assets/InvestigadoresUR.JPG" style="float: right; width: 400px" />
-    <br />
+<div class="illustration">
+    <img src="/assets/InvestigadoresUR.JPG" />
      by Urcomunicacion
 </div>
 
@@ -43,9 +56,8 @@ There are actually four things called science. These are them.
 
 <h4>Scientific Exploration</h4>
 
-<div style="float: right">
+<div class="illustration">
     <img src="/assets/640px-Piers_Sellers_spacewalk.jpg" />
-    <br />
     "It's still empty up here. Maybe we should check over there." by NASA, Astronaut Michael Edward Fossum 
 </div>
 
