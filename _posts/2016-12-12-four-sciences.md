@@ -47,7 +47,7 @@ There are actually four things called science. These are them.
     A herd of scientists, by Urcomunicacion
 </div>
 
-<p>The most common time for anyone to use the word is in just one phrase: "Science doesn't know why a bee can fly." The scientists are the science, in that sentence. And it's a dirty lie.</p>
+<p>The most common time for anyone to use the word is in just one phrase: "Science can't figure out how a bee can even fly." The scientists are the Science in that sentence. And the sentence is a dirty lie.</p>
 
 <p>The mechanism by which a bee flies has been <a href="http://www.todayifoundout.com/index.php/2013/08/bumblebee-flight-does-not-violate-the-laws-of-physics/">well understood</a> for quite a long time. The confusion is that one time one of those people who are part of Science said something to the effect of "If an airplane were the size of a bee, it wouldn't be able to fly." And then I assume the fake news sites got ahold of it.</p>
 
