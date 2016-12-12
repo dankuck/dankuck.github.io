@@ -44,7 +44,7 @@ There are actually four things called science. These are them.
 
 <div class="illustration">
     <img src="/assets/InvestigadoresUR.JPG" />
-     by Urcomunicacion
+    A herd of scientists, by Urcomunicacion
 </div>
 
 <p>The most common time for anyone to use the word is in just one phrase: "Science doesn't know why a bee can fly." The scientists are the science, in that sentence. And it's a dirty lie.</p>
@@ -60,9 +60,9 @@ There are actually four things called science. These are them.
     "It's still empty up here. Maybe we should check over there." by NASA, Astronaut Michael Edward Fossum 
 </div>
 
-<p>Now we're getting warmer on what Science is supposed to mean. In the better science-oriented TV shows, the scientists go around looking for new things to know. Then when they find something they deny it until some big climax forces them to accept it without any further doubt.</p>
+<p>Now we're getting warmer on what Science is supposed to mean. In the better science-oriented TV shows, the scientists go around looking for new things to know. Then when they find something new, they deny it until some big climax forces them to accept it without any further doubt.</p>
 
-<p>This is the act of seeing what happens.</p>
+<p>This is the act of seeing what happens when you press this button. And checking, "Does it happen again?"</p>
 
 <p>This is the Science that kids aspire to until they reach science class and it starts to look like an insurmountable uphill climb. But that's not the most frustrating part. That title is reserved for the real Science.</p>
 
@@ -78,12 +78,12 @@ There are actually four things called science. These are them.
 
 <p>What about dogs? Did Science prove they are mammals? Imagine one day a young hairy guy with a club walked out of his cave and looked at the animals around him. Some of them had scales and laid eggs. They were not like him. Some others had hair and their babies drank milk. Just like his babies. So he classified them in the same group as himself.</p>
 
-<p>Mammal is a classification. It describes having hair and giving milk to babies that were born already formed. But if it makes predictions it can be tested. Species in the mammal class should share a lot of DNA. If <a href="https://www.quora.com/What-percentage-of-human-DNA-is-shared-with-other-things">they do</a>, then the Mammal hypothesis has survived another round of Science.</p>
+<p>Mammal is a classification. It describes having hair and giving milk to babies that were born already formed. But if it makes predictions, it can be tested. Prediction: species in the Mammal class should share a lot of DNA. If <a href="https://www.quora.com/What-percentage-of-human-DNA-is-shared-with-other-things">they do</a>, then the Mammal hypothesis has survived another round of Science.</p>
 
-<p>Don't ask me why mitochondria are the powerhouse of the cell, but it's the same thing. Somebody said, "There are just so many things that could power the cell!" and then science came along and laid waste to it like a steam-roller over so many Brazilian pirate DVD's.</p>
+<p>As for mitochondria, don't ask me why they are the powerhouse of the cell, but it's the same thing. Somebody said, "There are just so many things that could power the cell!" and then science came along and laid waste to most of those things like a steam-roller over so many Brazilian pirate CD's.</p>
 
 <img src="/assets/640px-Destroy_CD137841.jpg">
 <br />
 by Agência Brasil
 
-<p>This is the official definition of science. But if someone says this is what Science means, just nod and agree. It doesn't matter that they are so stuffy. There are four definitions of Science and they currently want to discuss this one. No problem. Just remember that the next guy is gonna pick his own definition, too.</p>
+<p>This last one is the official definition of Science, but there are really four different definitions. If someone says this is what Science means, just nod and agree. It doesn't matter that they are so stuffy. They currently want to discuss this one definition. No problem. Just remember that the next guy is gonna pick his favorite definition, too.</p>
