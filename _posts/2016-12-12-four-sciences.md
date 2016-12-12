@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "The Four Sciences"
-page_img_thumb: 
-page_img_desc: ""
+page_img_thumb: http://dankuck.github.io/assets/640px-Destroy_CD137841.jpg
 no_ad: 1
 draft: 
 ---
