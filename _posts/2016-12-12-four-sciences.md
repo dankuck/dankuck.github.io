@@ -87,3 +87,8 @@ There are actually four things called science. These are them.
 by Agência Brasil
 
 <p>This last one is the official definition of Science, but there are really four different definitions. If someone says this is what Science means, just nod and agree. It doesn't matter that they are so stuffy. They currently want to discuss this one definition. No problem. Just remember that the next guy is gonna pick his favorite definition, too.</p>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Science in school looks different from science in Internet arguments. TV shows have another. There are 4 sciences. <a href="https://t.co/fpJYf8lSUi">https://t.co/fpJYf8lSUi</a></p>&mdash; Dan Kuck-Alvarez (@dankuck) <a href="https://twitter.com/dankuck/status/808325923749711872">December 12, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<i>All of the images on this page were shared through creative commons licenses.</i>
