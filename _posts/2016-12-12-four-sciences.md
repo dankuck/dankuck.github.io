@@ -78,7 +78,7 @@ There are actually four things called science. These are them.
 
 <p>What about dogs? Did Science prove they are mammals? Imagine one day a young hairy guy with a club walked out of his cave and looked at the animals around him. Some of them had scales and laid eggs. They were not like him. Some others had hair and their babies drank milk. Just like his babies. So he classified them in the same group as himself.</p>
 
-<p>Mammal is a classification. It describes having hair and giving milk to babies that were born already formed. But if it makes predictions, it can be tested. Prediction: species in the Mammal class should share a lot of DNA. If <a href="https://www.quora.com/What-percentage-of-human-DNA-is-shared-with-other-things">they do</a>, then the Mammal hypothesis has survived another round of Science.</p>
+<p>Mammal is a classification. It describes having hair and giving milk to babies that were born already formed. But if it makes predictions, it can be tested. Prediction: species in the Mammal class should share a lot of DNA. If <a href="https://www.quora.com/What-percentage-of-human-DNA-is-shared-with-other-things">they do</a>, then the Mammal hypothesis has survived another round of the Scientific Method.</p>
 
 <p>As for mitochondria, don't ask me why they are the powerhouse of the cell, but it's the same thing. Somebody said, "There are just so many things that could power the cell!" and then science came along and laid waste to most of those things like a steam-roller over so many Brazilian pirate CD's.</p>
 
