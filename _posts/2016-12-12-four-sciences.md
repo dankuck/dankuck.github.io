@@ -4,7 +4,7 @@ title: "The Four Sciences"
 page_img_thumb: 
 page_img_desc: ""
 no_ad: 1
-draft: 1
+draft: 
 ---
 
 <style type="text/css">
@@ -48,7 +48,7 @@ There are actually four things called science. These are them.
      by Urcomunicacion
 </div>
 
-<p>The most common time for anyone to use the word is in just one phrase: "Science doesn't know why a bee can fly." They are the science, in that sentence. And it's a dirty lie.</p>
+<p>The most common time for anyone to use the word is in just one phrase: "Science doesn't know why a bee can fly." The scientists are the science, in that sentence. And it's a dirty lie.</p>
 
 <p>The mechanism by which a bee flies has been <a href="http://www.todayifoundout.com/index.php/2013/08/bumblebee-flight-does-not-violate-the-laws-of-physics/">well understood</a> for quite a long time. The confusion is that one time one of those people who are part of Science said something to the effect of "If an airplane were the size of a bee, it wouldn't be able to fly." And then I assume the fake news sites got ahold of it.</p>
 
@@ -63,6 +63,8 @@ There are actually four things called science. These are them.
 
 <p>Now we're getting warmer on what Science is supposed to mean. In the better science-oriented TV shows, the scientists go around looking for new things to know. Then when they find something they deny it until some big climax forces them to accept it without any further doubt.</p>
 
+<p>This is the act of seeing what happens.</p>
+
 <p>This is the Science that kids aspire to until they reach science class and it starts to look like an insurmountable uphill climb. But that's not the most frustrating part. That title is reserved for the real Science.</p>
 
 <h4>The Scientific Method</h4>
@@ -71,13 +73,13 @@ There are actually four things called science. These are them.
 
 <p>The Scientific Method has one single job. To destroy your dreams. But think of it like a friend who takes care of you when you're drunk. It's just being honest.</p>
 
-<p>If you ask for a real definition of Science, you get this one. Science is about eliminating false hypotheses. Narrowing down the remaining list until you can predict every move of the thing you're studying.</p>
+<p>If you ask for a real definition of Science, you get this one. Science is about eliminating false hypotheses. Narrowing down the remaining list until you're left with just one theory that predicts every move of the thing you're studying.</p>
 
-<p>When chemists wanted to know if carbon atoms had 5 or 6 or 7 or more electrons, they used this Science to <a href="https://www.quora.com/How-did-the-scientists-find-out-the-number-of-protons-in-an-atom">figure it out</a>. Some hypotheses were proposed. Those hypothese each predicted a measurement. When measurements were taken, the failing hypotheses were throw out. Right in the garbage with your dreams.</p>
+<p>When chemists wanted to know if carbon atoms had 5 or 6 or 7 electrons, they used this Science to <a href="https://www.quora.com/How-did-the-scientists-find-out-the-number-of-protons-in-an-atom">figure it out</a>. Some hypotheses were proposed. Those hypothese each predicted a measurement. When measurements were taken, the failing hypotheses were throw out. Right in the garbage with your dreams.</p>
 
 <p>What about dogs? Did Science prove they are mammals? Imagine one day a young hairy guy with a club walked out of his cave and looked at the animals around him. Some of them had scales and laid eggs. They were not like him. Some others had hair and their babies drank milk. Just like his babies. So he classified them in the same group as himself.</p>
 
-<p>Mammal is a classification. It describes having hair and giving milk to babies that were born already formed. But if it makes predictions it can be tested. Mammal species should share a lot of DNA. If <a href="https://www.quora.com/What-percentage-of-human-DNA-is-shared-with-other-things">they do</a>, then the Mammal hypothesis has survived another round of Science.</p>
+<p>Mammal is a classification. It describes having hair and giving milk to babies that were born already formed. But if it makes predictions it can be tested. Species in the mammal class should share a lot of DNA. If <a href="https://www.quora.com/What-percentage-of-human-DNA-is-shared-with-other-things">they do</a>, then the Mammal hypothesis has survived another round of Science.</p>
 
 <p>Don't ask me why mitochondria are the powerhouse of the cell, but it's the same thing. Somebody said, "There are just so many things that could power the cell!" and then science came along and laid waste to it like a steam-roller over so many Brazilian pirate DVD's.</p>
 
@@ -85,4 +87,4 @@ There are actually four things called science. These are them.
 <br />
 by Agência Brasil
 
-<p>But if someone says this is what Science means, just nod and agree. It doesn't matter that they are so stuffy. There are four definitions of Science and they currently want to discuss this one. No problem. Just remember that the next guy is gonna pick his own definition, too.</p>
+<p>This is the official definition of science. But if someone says this is what Science means, just nod and agree. It doesn't matter that they are so stuffy. There are four definitions of Science and they currently want to discuss this one. No problem. Just remember that the next guy is gonna pick his own definition, too.</p>
