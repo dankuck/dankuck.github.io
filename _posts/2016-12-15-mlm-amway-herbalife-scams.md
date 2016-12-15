@@ -4,7 +4,7 @@ title: "Why do people believe MLM is a scam?"
 page_img: /assets/mlm-logos.png
 page_img_desc: "Herbalife Logo, a common MLM"
 no_ad: 1
-draft: 1
+draft: 
 ---
 
 I found this question <a href="https://www.quora.com/Why-do-people-believe-MLM-is-a-scam">on Quora</a>.
