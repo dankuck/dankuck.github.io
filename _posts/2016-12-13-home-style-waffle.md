@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Splash"
+title: "Home Style Waffle"
 page_img_thumb: https://pbs.twimg.com/media/CzkVg2DWQAI2ggD.jpg
 page_img_desc: ""
 no_ad: 1
