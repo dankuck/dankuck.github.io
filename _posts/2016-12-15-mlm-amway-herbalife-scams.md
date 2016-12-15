@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why do people believe MLM is a scam?"
-page_img: /assets/herbalife_logo.png
+page_img: /assets/mlm-logos.png
 page_img_desc: "Herbalife Logo, a common MLM"
 no_ad: 1
 draft: 1
