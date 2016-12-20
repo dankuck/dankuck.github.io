@@ -51,3 +51,6 @@ Real Martians, with a different evolutionary descent than humans, would shrug of
 Maybe I'm being obnoxious. H.G. Wells had something to say, and it'd probably do me well to read his book again and listen this time. I can look past this weakness. I just wanted to remind folks of how germs really work. In this respect Jean-Paul Sartre was right. Hell is other people.
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fdankuck%2Fposts%2F10209566994465976&width=500" width="500" height="408" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">H.G. Wells was a genius, but the facts ruin of The War of the Worlds at the last second. <a href="https://t.co/DJ2uRYxuQF">https://t.co/DJ2uRYxuQF</a></p>&mdash; Dan Kuck-Alvarez (@dankuck) <a href="https://twitter.com/dankuck/status/811268737517162500">December 20, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
