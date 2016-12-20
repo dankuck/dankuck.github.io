@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "War of the Worlds Wouldn't Work"
+title: "The War of the Worlds Wouldn't Work"
 page_img: /assets/War_of_the_Worlds_shoot.jpg
-page_img_desc: "By Henrique Alvim Correa"
+page_img_desc: "The War of the Worlds"
 no_ad: 1
 draft: 
 ---
 
-<b>Spoilers for War of the Worlds</b>
+<b>Spoilers for The War of the Worlds</b>
 
-H.G. Wells's <i>War of the Worlds</i> was a sensation when it was written in 1897. As much as anyone knew it might as well have been realistic. Us young folk forget how little anyone knew about Mars. Its ending was especially realistic. But only sort of.
+H.G. Wells's <i>The War of the Worlds</i> was a sensation when it was written in 1897. As much as anyone knew it might as well have been realistic. Us young folk forget how little anyone knew about Mars. Its ending was especially realistic. But only sort of.
 
 <div class="illustration">
     <img src="/assets/Alvim-correa12.jpg"/>
