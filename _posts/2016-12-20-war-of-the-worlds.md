@@ -49,3 +49,5 @@ Human diseases affect humans. And unless Martians are humans, they do not affect
 Real Martians, with a different evolutionary descent than humans, would shrug off human germs as if they were water. Assuming they aren't the kind of Martians that melt in water.
 
 Maybe I'm being obnoxious. H.G. Wells had something to say, and it'd probably do me well to read his book again and listen this time. I can look past this weakness. I just wanted to remind folks of how germs really work. In this respect Jean-Paul Sartre was right. Hell is other people.
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fdankuck%2Fposts%2F10209566994465976&width=500" width="500" height="408" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
