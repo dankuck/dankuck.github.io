@@ -1,0 +1,34 @@
+---
+layout: post
+title: "War of the Worlds Wouldn't Work"
+page_img_thumb: /assets/War_of_the_Worlds_shoot.jpg
+page_img_desc: "By Henrique Alvim Correa (H.G. Wells' "War of the Worlds") [Public domain], via Wikimedia Commons"
+no_ad: 1
+draft: 1
+---
+
+<b>Spoilers for War of the Worlds</b>
+
+H.G. Wells's <i>War of the Worlds</i> was a sensation when it was written in 1897. As much as anyone knew it might as well have been realistic. Us young folk forget how little anyone knew about Mars. Its ending was especially realistic. But only sort of.
+
+The story is of a Martian invasion that comes about suddenly and violently. The Martians land and their ships start incinerating onlookers. They travel in giant machines one three legs and nothing can stop them. These parts were depicted faithfully in the 2005 film starring Tom Cruz.
+
+The ending is fatalistic. The humans never find a way to defeat the Martians. A plague kills them first. In the film, Morgan Freeman's narration explains that man earned his right to Earth through the millenia he'd spent learning to live with germs or fighting them or... well, it doesn't really matter what romantic spin you put on it. It's bullhockey.
+
+It's not based on poor reasoning. History offers us an example, though it was in the opposite direction. Jared Diamond's <a href="http://www.amazon.com/Guns-Germs-Steel-Fates-Societies/dp/0393317552?tag=dankuck-20">Guns, Germs, and Steel</a> describes how the European invaders in the New World brought germs with them. They were germs that they cultivated, accidentally, through millenia of living close together and living close to live stock.
+
+The natives of the New World didn't have much live stock and they were more spread out than the Europeans. So instead of occasionally dying out in waves of disease, they enjoyed a relative quarantine and they stayed rather clean. The worst diseases would wipe out local groups and have nowhere else to go. Except syphyllis. Syphyllis will always be with you. I think Jesus said that.
+
+So when the Europeans showed up, they brought their favorite diseases with them. Diseases well-honed to kill slowly so their hosts could travel around and they could cover the country.
+
+Now imagine it the other way around. Several peoples of the New World were close to the technology necessary to sail across the Atlantic. Imagine they had sailed to Spain and tried to invade it, as the Martians flew to Earth in H.G. Wells's book.
+
+The New World invaders would have run into exactly the same problem. They would have succumbed to the diseases of the Europeans.
+
+H.G. Wells was surely aware of this or of other historical examples. Unfortunately he got it wrong.
+
+The reason the people of the New World were wiped out by the plagues of the invaders was simple. They were humans.
+
+Human diseases affect humans. And unless Martians are humans, they do not affect Martians. You do not share your cold with your dog. And your dog will not give you distemper. Only a few nasty diseases jump between humans and the animals they spend time with. And each of those germ species needed time to evolve that ability.
+
+Real Martians, with a different evolutionary descent from humans, would shrug off human germs as if they were water. Assuming they aren't the kind that melt when they touch water.
