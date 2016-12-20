@@ -32,3 +32,5 @@ The reason the people of the New World were wiped out by the plagues of the inva
 Human diseases affect humans. And unless Martians are humans, they do not affect Martians. You do not share your cold with your dog. And your dog will not give you distemper. Only a few nasty diseases jump between humans and the animals they spend time with. And each of those germ species needed time to evolve that ability.
 
 Real Martians, with a different evolutionary descent from humans, would shrug off human germs as if they were water. Assuming they aren't the kind that melt when they touch water.
+
+Maybe I'm being obnoxious. H.G. Wells had something to say, and it'd probably do me well to read his book again and listen this time. I can look past this weakness. I just wanted to remind folks of how evolution really works.
