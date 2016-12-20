@@ -6,21 +6,6 @@ no_ad: 1
 draft: 
 ---
 
-<style type="text/css">
-.illustration {
-    float: right;
-    width: 350px;
-    background-color: #EEE;
-    margin: 1em;
-    padding: 1em;
-}
-.illustration img {
-    width: 100%;
-    display: block;
-}
-</style>
-
-
 You might have noticed that the science taught to kids in school looks different from the science you're supposed to know all about when you argue on the Internet. And they both look different from science as practiced in TV shows.
 
 There are actually four things called science. These are them.
