@@ -2,7 +2,7 @@
 layout: post
 title: "War of the Worlds Wouldn't Work"
 page_img_thumb: /assets/War_of_the_Worlds_shoot.jpg
-page_img_desc: "By Henrique Alvim Correa (H.G. Wells' "War of the Worlds") [Public domain], via Wikimedia Commons"
+page_img_desc: "By Henrique Alvim Correa"
 no_ad: 1
 draft: 1
 ---
