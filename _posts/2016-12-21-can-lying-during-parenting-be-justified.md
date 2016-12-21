@@ -17,7 +17,7 @@ Things like “the Earth is a sphere” when it’s really an oblong sphere. Or 
 
 This is an appropriate lie to tell when parenting.
 
-Sean’s answer highlights the grey zone when practicing to lie-to-children. His mom told him the right lie-to-children when he was young, but it was hard to proceed from there.
+<a href="https://www.quora.com/Can-lying-during-parenting-be-justified/answer/Sean-Stockemer">Sean’s answer</a> highlights the grey zone when practicing to lie-to-children. His mom told him the right lie-to-children when he was young, but it was hard to proceed from there.
 
 Other than these, it’s really not appropriate or helpful to lie to a child. A child is a person and deserves to understand what’s going on. So if you just don’t want to take your kid to get ice cream, you might choose to lie and say the ice cream store is closed. But it would be better to simply explain the real reason. “You’ve had too much sugar already.” “We cannot afford it right now, we’re saving up for something else.” “We can’t get ice cream every day.”
 
