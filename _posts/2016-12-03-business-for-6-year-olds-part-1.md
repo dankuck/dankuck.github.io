@@ -4,6 +4,9 @@ title: "Business for 6 Year Olds Part 1"
 page_img: 
 page_img_desc: ""
 no_ad: 1
+tags: bf6yo
+bf6yo_title: "Part 1"
+bf6yo_description: "what a business is"
 ---
 
 I'm of the general impression that everything is accessible to a child unless it involves writing words or writing math.

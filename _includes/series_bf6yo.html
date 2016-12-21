@@ -2,10 +2,12 @@
 
 	<h3>Business for 6 Year Olds</h3>
 
-	<p><a href="/2016/12/03/business-for-6-year-olds-part-1.html">Part 1</a> is about what a business is.</p>
-
-	<p><a href="/2016/12/05/business-for-6-year-olds-part-2.html">Part 2</a> is about what a business has.</p>
-
-	<p><a href="/2016/12/06/business-for-6-year-olds-part-3.html">Part 3</a> is about how businesses are not jobs.</p>
-
+	{% for post in site.tags.bf6yo %}
+		{% if post.draft %}
+			<!-- skipped a draft -->
+		{% else %}
+			<p><a href="{{ post.url }}">{{ post.bf6yo_title }}</a> is about {{ post.bf6yo_description }}.</p>
+		{% endif %}
+	{% endfor %}
+	
 </div>

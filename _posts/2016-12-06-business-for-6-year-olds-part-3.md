@@ -4,6 +4,9 @@ title: "Business for 6 Year Olds Part 3"
 page_img: 
 page_img_desc: ""
 no_ad: 1
+tags: bf6yo
+bf6yo_title: "Part 3"
+bf6yo_description: "how businesses are not jobs"
 ---
 
 A. <a href="/2016/12/03/business-for-6-year-olds-part-1.html">now has a good knowledge</a> of <a href="/2016/12/05/business-for-6-year-olds-part-2.html">what businesses are</a>, but I'm pretty sure she can't distinguish them from jobs yet. So I launched into that. Unfortunately I got off on the wrong foot.

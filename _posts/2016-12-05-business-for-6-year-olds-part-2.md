@@ -4,6 +4,9 @@ title: "Business for 6 Year Olds Part 2"
 page_img: 
 page_img_desc: ""
 no_ad: 1
+tags: bf6yo
+bf6yo_title: "Part 2"
+bf6yo_description: "what a business has"
 ---
 
 I've been ramping up A.'s knowledge of business. So first we discussed <a href="/2016/12/03/business-for-6-year-olds-part-1.html">what a business is</a> and we worked together to find some examples.
