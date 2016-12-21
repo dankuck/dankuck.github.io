@@ -26,6 +26,6 @@ This may not be satisfactory to the child and they might get upset. That means m
 Sam Harris’s short book <a href="http://www.amazon.com/Lying-Sam-Harris-ebook/dp/B00G1SRB6Q/ref=tmm_kin_swatch_0?tag=dankuck-20">Lying</a> is a great run down of why lying is rarely the right thing to do. It covers lying to children around page 72.
 
 <div style="padding: 1em; width: 200px; background-color: #CCC">
-	<a href="http://www.amazon.com/Lying-Sam-Harris-ebook/dp/B00G1SRB6Q/ref=tmm_kin_swatch_0?tag=dankuck-20"><img src="https://images-na.ssl-images-amazon.com/images/I/31AbIf6ZQGL.jpg" alt="Lying by Sam Harris" /></a>
+	<a href="http://www.amazon.com/Lying-Sam-Harris-ebook/dp/B00G1SRB6Q/ref=tmm_kin_swatch_0?tag=dankuck-20"><img src="https://images-na.ssl-images-amazon.com/images/I/31AbIf6ZQGL.jpg" alt="Lying by Sam Harris" style="width: 100%" /></a>
 	<a href="http://www.amazon.com/Lying-Sam-Harris-ebook/dp/B00G1SRB6Q/ref=tmm_kin_swatch_0?tag=dankuck-20">Lying</a> by Sam Harris
 </div>
