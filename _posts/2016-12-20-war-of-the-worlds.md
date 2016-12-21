@@ -16,7 +16,7 @@ H.G. Wells's <i>The War of the Worlds</i> was a sensation when it was written in
     Pew pew! We have technology exactly as advanced as you can imagine!
 </div>
 
-The story is of a Martian invasion that comes about suddenly and violently. The Martians land and their ships start incinerating onlookers. They travel in giant walking machines and nothing can stop them. These parts were depicted faithfully in the 2005 film starring Tom Cruz.
+The story is of a Martian invasion that comes about suddenly and violently. The Martians land and their ships start incinerating onlookers. They travel in giant walking machines and nothing can stop them. These parts were depicted faithfully in the 2005 film starring Tom Cruise.
 
 The ending is fatalistic. The humans never find a way to defeat the Martians. A plague kills them first. In the film, Morgan Freeman's narration explains that man earned his right to Earth through the millenia he'd spent learning to live with germs or fighting them or... well, it doesn't really matter what romantic spin you put on it. It's bull-hockey.
 
