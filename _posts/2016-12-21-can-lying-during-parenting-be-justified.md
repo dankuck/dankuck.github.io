@@ -23,4 +23,8 @@ Other than these, it’s really not appropriate or helpful to lie to a child. A 
 
 This may not be satisfactory to the child and they might get upset. That means more work for you, and that’s one of the reasons you thought about lying in the first place. Or it might make perfect sense to the child. It’s hard to guess. But either way, it’ll give them the raw fuel they need to develop into a better child and eventually a great adult.
 
+<div class="illustration">
+	<a href="http://www.amazon.com/Lying-Sam-Harris-ebook/dp/B00G1SRB6Q/ref=tmm_kin_swatch_0?tag=dankuck-20"><img src="https://images-na.ssl-images-amazon.com/images/I/31AbIf6ZQGL.jpg" alt="Lying by Sam Harris" /></a>
+</div>
+
 Sam Harris’s short book <a href="http://www.amazon.com/Lying-Sam-Harris-ebook/dp/B00G1SRB6Q/ref=tmm_kin_swatch_0?tag=dankuck-20">Lying</a> is a great run down of why lying is rarely the right thing to do. It covers lying to children around page 72.
