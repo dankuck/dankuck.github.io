@@ -2,7 +2,8 @@
 
 	<h3>Business for 6 Year Olds</h3>
 
-	{% for post in site.tags.bf6yo reverse %}
+	{% assign bf6yo = site.tags.bf6yo | reverse %}
+	{% for post in bf6yo %}
 		{% if post.draft %}
 			<!-- skipped a draft -->
 		{% else %}
