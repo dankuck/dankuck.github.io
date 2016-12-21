@@ -10,7 +10,7 @@ bf6yo_title: "Part 4"
 bf6yo_description: "concrete examples"
 ---
 
-So I think I adequately explained to A. what the difference is between <a href="/2016/12/06/business-for-6-year-olds-part-3.html">a job and a business</a>. But she was getting bored of talking about business all the time. So I've been looking for places to sneak in discussions about business that don't use the word. Since every business has an industry, so I've been naming those instead.
+So I think I adequately explained to A. what the difference is between <a href="/2016/12/06/business-for-6-year-olds-part-3.html">a job and a business</a>. But she was getting bored of talking about business all the time. So I've been looking for places to sneak in discussions about business that don't use the word. Since every business has an industry, I've been naming those instead.
 
 So while we were making pancakes, we had this conversation:
 
