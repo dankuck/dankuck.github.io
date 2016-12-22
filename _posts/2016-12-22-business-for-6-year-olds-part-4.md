@@ -4,7 +4,7 @@ title: "Business for 6 Year Olds Part 4"
 page_img: 
 page_img_desc: ""
 no_ad: 1
-draft: 1
+draft: 
 tags: bf6yo
 bf6yo_title: "Part 4"
 bf6yo_description: "concrete examples"
