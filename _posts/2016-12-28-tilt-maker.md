@@ -4,7 +4,7 @@ title: "Tilt Solver"
 page_img: "/assets/tilt.jpg"
 page_img_desc: "ThinkFun Tilt"
 no_ad: 1
-draft: 1
+draft: 
 ---
 
 <a href="http://www.thinkfun.com">ThinkFun</a> makes great puzzle games.
