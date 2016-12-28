@@ -7,26 +7,33 @@ no_ad: 1
 draft: 1
 ---
 
-<a href="http://www.thinkfun.com">ThinkFun</a> is a maker of great games. The mentally stimulating kind. All the ones I've seen are the single-player variety.
+<a href="http://www.thinkfun.com">ThinkFun</a> makes great puzzle games.
 
-The first one I ran into was <a href="www.amazon.com/Think-Fun-1001-ThinkFun-Tilt/dp/B004INGVJ4/ref=sr_1_2?tag=dankuck-20">Tilt</a>. It's inovative, it's simple enough for a 5 year old, and it's complicated enough to make a 35 year old spend a weekend building an online tool to solve it. So I did that.
-
-The game board is a 5&times;5 grid. It comes with a stack of challenge cards that range from Easy to Expert. Each card shows a configuration of tiles.
-
-* Grey tiles are stationary. As you play, they do not move.
-* Blue and green tiles move as you play by tilting the board.
+<a href="www.amazon.com/Think-Fun-1001-ThinkFun-Tilt/dp/B004INGVJ4/ref=sr_1_2?tag=dankuck-20">Tilt</a> is innovative, basic enough for a 5 year old, and complicated enough to make a 34 year old spend a weekend building a web tool to solve it. See below.
 
 <div class="illustration">
     <img src="/assets/tilt-example.jpg" />
 </div>
 
-The board has a hole in the middle. The objective is to tilt the board left, right, forwards, and backwards to get only the green tiles to fall into the hole. If a blue tile falls in, you lose.
+The goal is to get those green tiles into the hole in the middle and keep the blue ones out. And you do all of this by tilting the board so the tiles slide.
 
-If you play it, you kind of want to just keep playing until you figure this thing out.
+The grey ones don't move meaning they control how the others fall.
 
-So I wanted to figure this thing out. I built the tool here to generate new cards. And if that's not enough, it solves them by attempting every possible move.
+The game comes with 40 cards marked Easy to Expert. Each one shows how to setup the tiles. I'm still trying to figure out if there's some tried and true way to measure the difficulty of a card.
 
-It stops as soon as it has exhausted every possible path. It's a little smart, because it notices if it is retrying the same path over again.
+Solving a game is interesting for a human, but for a computer it's really straight forward. Just try all the moves.
+
+That's what the tool below does. First it generates a card randomly.
+
+Then it starts tilting the board. If it can tilt more than one direction, it copies the board and tilts each copy a different direction. Then it keeps going.
+
+If a blue tile hits the center hole, it stops playing that version of the board. If all the green tokens hit the center hole, it counts that a success.
+
+If it notices that it's back in a position that it has been in before, it stops following that path, too. That's either a circle or it's a long way to get to some path that it has already been on before.
+
+I could have had it find the first solution and stop. That's the goal of the game. Find the fastest way to get the greens in the hole. But nah, I wanted to see what else happened.
+
+Then it shows it all to you! If you have the game, you can try it out. Or you can just look at the pretty pictures.
 
 <script src="https://vuejs.org/js/vue.js"></script>
 
