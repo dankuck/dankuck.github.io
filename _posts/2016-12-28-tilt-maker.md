@@ -31,9 +31,9 @@ If it notices that it's back in a position that it has been in before, it stops 
 
 I could have had it find the first solution and stop. That's the goal of the game. Find the fastest way to get the greens in the hole. But nah, I wanted to see what else happened.
 
-Then it shows it all to you! Click the <b>Run</b> button below to see the card solve. Or not, there is not always a solution.
+Then it shows it all to you! Click the <b>Run</b> button below to see the puzzle solved. Or not, there is not always a solution.
 
-I'll probably make it animated in another post. Or maybe I'll solve another of ThinkFun's games. We just got <a href="www.amazon.com/Laser-Maze-Junior-Board-Game/dp/B00T5UZ9KC/ref=sr_1_1?tag=dankuck-20">Laser Tag, Jr</a>.
+Maybe I'll solve another of ThinkFun's games in another post. We just got <a href="www.amazon.com/Laser-Maze-Junior-Board-Game/dp/B00T5UZ9KC/ref=sr_1_1?tag=dankuck-20">Laser Tag, Jr</a>.
 
 <script src="https://vuejs.org/js/vue.js"></script>
 
