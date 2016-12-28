@@ -19,8 +19,6 @@ The goal is to get those green tiles into the hole in the middle and keep the bl
 
 The grey ones don't move meaning they control how the others fall.
 
-The game comes with 40 cards marked Easy to Expert. Each one shows how to setup the tiles. I'm still trying to figure out if there's some tried and true way to measure the difficulty of a card.
-
 Solving a game is interesting for a human, but for a computer it's really straight forward. Just try all the moves.
 
 That's what the tool below does. First it generates a card randomly.
