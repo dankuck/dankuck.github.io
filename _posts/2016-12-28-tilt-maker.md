@@ -33,7 +33,7 @@ If it notices that it's back in a position that it has been in before, it stops 
 
 I could have had it find the first solution and stop. That's the goal of the game. Find the fastest way to get the greens in the hole. But nah, I wanted to see what else happened.
 
-Then it shows it all to you! If you have the game, you can try it out. Or you can just look at the pretty pictures.
+Then it shows it all to you! Click the <b>Run</b> button below to see the card solve (or not, there is not always a solution). If you have the game, you can try it out.
 
 <script src="https://vuejs.org/js/vue.js"></script>
 
