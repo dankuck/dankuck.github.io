@@ -4,7 +4,7 @@ title: "Are all animals rational?"
 page_img_thumb: 
 page_img_desc: ""
 no_ad: 1
-draft: 1
+draft: 
 ---
 
 I found this question <a href="https://www.quora.com/Are-all-animals-rational">on Quora</a>.
