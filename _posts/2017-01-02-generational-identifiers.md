@@ -40,7 +40,7 @@ But I share a lot with both groups. What we need is an overlapping system. Every
 * 1995-2014: The New Recessionists
 * 2005-2024: ???
 
-The Boomers get to keep that monicker that are comfortable with. And everyone else gets two generations. My class is the Counter Culturalist Nintendos. My parents are the LSD Boomers. My kids are both Recessionist Question Marks. Their future isn't written yet.
+The Boomers get to keep that monicker they are comfortable with. And everyone else gets two generations. My class is the Counter Culturalist Nintendos. My parents are the LSD Boomers. My kids are both Recessionist Question Marks. Their future isn't written yet.
 
 I tried to pick names for major things that happened right after the start of the generation. So that it was the thing that the kids in it had a vague feeling of being normal, but also a feeling of being brand new.
 
