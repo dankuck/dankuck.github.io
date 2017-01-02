@@ -35,6 +35,7 @@ Then it shows it all to you! Click the <b>Run</b> button below to see the puzzle
 
 Maybe I'll solve another of ThinkFun's games in another post. We just got <a href="www.amazon.com/Laser-Maze-Junior-Board-Game/dp/B00T5UZ9KC/ref=sr_1_1?tag=dankuck-20">Laser Tag, Jr</a>.
 
+<!--
 <script src="https://vuejs.org/js/vue.js"></script>
 
 <div id="tilt-maker" style="clear: both">
@@ -42,3 +43,6 @@ Maybe I'll solve another of ThinkFun's games in another post. We just got <a hre
 </div>
 
 <script type="text/javascript" src="/TiltMaker/app.js"></script>
+-->
+
+<b>Crap. It's broken at the moment. I swear this has never happened before.</b>
