@@ -4,7 +4,7 @@ title: "The Generations are Full of Holes"
 page_img: /assets/512px-Bakerloo_line_-_Waterloo_-_Mind_the_gap.jpg
 page_img_desc: ""
 no_ad: 1
-draft: 1
+draft: 
 ---
 
 This post is not about semantics.
@@ -13,7 +13,7 @@ In the English-speaking world we like to group people according to what range of
 
 But what use is a generation if not to generalize?
 
-Anyway, besides being useless 9 out of 10 times, the generations we've mapped out have large gaps between them. That's where I come in.
+Anyway, besides being useless 9 times out of 10, the generations we've mapped out have awkward gaps between them. That's where I come in.
 
 I mean, that's where I came in, I was born in one of those gaps.
 
@@ -44,10 +44,12 @@ The Boomers get to keep that monicker that are comfortable with. And everyone el
 
 I tried to pick names for major things that happened right after the start of the generation. So that it was the thing that the kids in it had a vague feeling of being normal, but also a feeling of being brand new.
 
-The Boomers were really there for the economic boom that followed WWII. They didn't care that they were a sudden glut of children that hadn't existed before. But they could see the economy and they liked it. Baby Boomers was a name given by their grandparents.
+The Boomers were really there for the economic boom that followed WWII. They didn't care that they were a sudden glut of children that hadn't existed before. But they could see the economy and they liked it. Baby Boomers was a name given by their grandparents. Economic Boomers is better.
 
-Generation X, similarly, was named that by the generation in power at the time. These were the disaffected youth. The X is for x-ing out all the good stuff in the world. There was no Generation W.
+Just the same, Generation X was named that by the generation in power at the time. These were the disaffected youth. There was no Generation W. The X is for x-ing out all the good stuff in the world.
 
-I call them the Counter Culturalists and the Nintendos. The first group are the ones that made it trendy to throw off the yoke of inherited culture. The second group thought computers were amazing but that they'd always existed. I tried to pick things that each generation would accept to call itself.
+I call them the Counter Culturalists and the Nintendos. The first group is the one that made it trendy to throw off the yoke of inherited culture. The second group thought home computers were amazing but that they'd always existed. I tried to pick things that each generation would accept to call itself.
 
 So that's my proposal. We can make hashtags or something.
+
+Oh and everyone born before 1945 is a Depression Brat. That's a name they already give themselves and it suits them. The Depression had the biggest effect on them of anything and they've never let go of it for good or bad. That's why they're so happy. They relish simplicity. Shine on Depression Brats.
