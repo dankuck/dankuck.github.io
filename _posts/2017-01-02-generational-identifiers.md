@@ -9,7 +9,7 @@ draft:
 
 This post is not about semantics.
 
-In the English-speaking world we like to group people according to what range of years they were born in. This is appropriate about 10% of the time and the rest of the time it allows people to generalize about each other.
+In the U.S. we like to group people according to what range of years they were born in. This is appropriate about 10% of the time and the rest of the time it allows people to generalize about each other.
 
 But what use is a generation if not to generalize?
 
