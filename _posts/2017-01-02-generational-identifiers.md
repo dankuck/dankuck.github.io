@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Generation Gaps"
+title: "The Generations are Full of Holes"
 page_img: /assets/512px-Bakerloo_line_-_Waterloo_-_Mind_the_gap.jpg
 page_img_desc: ""
 no_ad: 1
