@@ -55,3 +55,6 @@ So that's my proposal. We can make hashtags or something.
 Oh and everyone born before 1945 is a Depression Brat. That's a name they already give themselves and it suits them. The Depression had the biggest effect on them of anything and they've never let go of it for good or bad. That's why they're so happy. They relish simplicity. Shine on Depression Brats.
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fdankuck%2Fposts%2F10209675815066423&width=500" width="500" height="482" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The generations have big gaps, but we can fix that. <a href="https://t.co/bRXEPvywTl">https://t.co/bRXEPvywTl</a> <a href="https://t.co/MxcgudMmH5">pic.twitter.com/MxcgudMmH5</a></p>&mdash; Dan Kuck-Alvarez (@dankuck) <a href="https://twitter.com/dankuck/status/816346706212175874">January 3, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
