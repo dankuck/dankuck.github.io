@@ -30,7 +30,7 @@ draft: 1
     <a href="https://www.flickr.com/photos/manueluna/4497531493">A cat with no glitches</a>.
 </div>
 
-Computers are really neat when they mess up. It's called a glitch. Strongly written software will detect glitches and stop operating. The idea is that it's better to stop than to do things wrong.
+Computers are the coolest when they mess up. It's called a glitch. Strongly written software will detect glitches and stop operating. The idea is that it's better to stop than to do things wrong.
 
 But it's more fun when the computer doesn't notice the glitch or tries to work with it anyway.
 
