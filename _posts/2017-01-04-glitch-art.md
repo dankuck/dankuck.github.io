@@ -48,8 +48,8 @@ It works best with JPG images. You load up an image, then use the + button as ma
 
 
 <div class="gallery">
-    <img src="/assets/15823611_10209674790480809_5180243167529965825_n.jpg" />
     <img src="/assets/15871719_443949692659686_5216526403435416994_n.jpg" />
+    <img src="/assets/15823611_10209674790480809_5180243167529965825_n.jpg" />
     <a href="https://www.wikiart.org/en/pierre-auguste-renoir/bather-seated-on-a-rock-1892">Bather Seated On A Rock</a>
 </div>
 
