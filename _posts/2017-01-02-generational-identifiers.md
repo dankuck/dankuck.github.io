@@ -53,3 +53,5 @@ I call them the Counter Culturalists and the Nintendos. The first group is the o
 So that's my proposal. We can make hashtags or something.
 
 Oh and everyone born before 1945 is a Depression Brat. That's a name they already give themselves and it suits them. The Depression had the biggest effect on them of anything and they've never let go of it for good or bad. That's why they're so happy. They relish simplicity. Shine on Depression Brats.
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fdankuck%2Fposts%2F10209675815066423&width=500" width="500" height="482" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
