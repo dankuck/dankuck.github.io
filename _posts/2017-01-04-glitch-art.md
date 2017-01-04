@@ -4,7 +4,7 @@ title: "Glitch Art"
 page_img: /assets/cat.jpeg
 page_img_desc: ""
 no_ad: 1
-draft: 1
+draft: 
 ---
 
 <style>
