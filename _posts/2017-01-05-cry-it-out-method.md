@@ -9,7 +9,7 @@ draft: 1
 
 I found this question <a href="https://www.quora.com/Is-six-months-old-too-old-to-try-the-cry-it-out-method/">on Quora</a>.
 
-I almost skipped this question because many other answers said the most important thing: "Do not use the cry it out method". But if someone is going to do something bad, I hate to see them do it even worse because they don't know how. I think the consequences of explaining this are overall positive though they may lead some people to think they should use the Cry It Out method.
+I almost skipped this question because many other answers said the most important thing: "Do not use the Cry It Out method". But if someone is going to do something bad, I hate to see them do it even worse because they don't know how. I think the consequences of explaining this are overall positive though they may lead some people to think they should use the Cry It Out method.
 
 Here's my answer:
 
