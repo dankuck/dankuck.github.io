@@ -1,26 +1,28 @@
 ---
 layout: post
-title: "Is six months old too old to try the cry it out method?"
+title: "What is difficulty?"
 page_img_thumb: 
 page_img_desc: ""
 no_ad: 1
-draft: 
+draft: 1
 ---
 
-I found this question <a href="https://www.quora.com/Is-six-months-old-too-old-to-try-the-cry-it-out-method/">on Quora</a>.
+The <a href="/2016/12/28/tilt-maker.html">ThinkFun Tilt</a> game comes with 40 cards showing where to start each puzzle.
 
-I almost skipped this question because many other answers said the most important thing: "Do not use the Cry It Out method". But if someone is going to do something bad, I hate to see them do it even worse because they don't know how. I think the consequences of explaining this are overall positive though they may lead some people to think they should use the Cry It Out method.
+They are grouped into four difficulty levels labeled Beginner, Intermediate, Advanced, and Expert. They're also numbered and the numbers seem to go in order of difficulty, too.
 
-I did not answer the question as stated because every age is the wrong age for the Cry It Out method.
+But what does difficulty mean? How can you compare two of these cards so well?
 
-Here's my answer:
+Is it the probability of finding a solution randomly?
 
-I agree with the consensus of answers that the cry it out method is cruel.
+No, you have to use your wits. Trying random moves isn't difficult, it's just time consuming.
 
-But if you’re going to do it, make sure you do it in a safe manner (though I believe even this to be misguided).
+You have to use YOUR wits. That means difficulty is subjective. It's different for everyone.
 
-The best way I’ve heard of is to console the child when it first cries, checking it for any needs it may have. On the second event, let the child cry for a short time, then console it again. On the third event, let the child cry for a slightly longer time, then console it again. And so on.
+And different people find different things difficult. So some people might think card 12 is harder than card 13.
 
-This is meant to teach the child that they are going to be cared for eventually and they need to learn to be patient. I suspect it has the opposite effect, of teaching the child that if no one has shown up, they should probably cry some more. But it’s better than simply leaving a crying child alone.
+But I presume you can try out the cards on a bunch of people and measure the average time it takes them to solve a puzzle. That should be enough to decide on the order. But if you wanted, you could look at the results and come up with a general rule.
 
-Meanwhile, in countries where parents commonly console their children, children are reportedly better developed and stable. Apparently humans do well with human contact.
+If you look at the cards that come with Tilt, they each show a solution on the back. It quickly becomes obvious that the more difficult cards have more moves in their solution.
+
+That doesn't explain what difficulty is or if there's any objective way to measure it. Maybe the guys at ThinkFun can tell me how they did it.
