@@ -4,7 +4,7 @@ title: "What is difficulty?"
 page_img: /assets/rubiks-cube-1168691_640.jpg
 page_img_desc: ""
 no_ad: 1
-draft: 1
+draft: 
 ---
 
 The <a href="/2016/12/28/tilt-maker.html">ThinkFun Tilt</a> game comes with 40 cards showing where to start each puzzle.
@@ -13,7 +13,7 @@ They are grouped into four difficulty levels labeled Beginner, Intermediate, Adv
 
 But what does difficulty mean? How can you compare two of these cards so well?
 
-Is it the probability of finding a solution randomly?
+Is difficulty the probability of finding a solution randomly?
 
 No, you have to use your wits. Trying random moves isn't difficult, it's just time consuming.
 
