@@ -4,7 +4,7 @@ title: "Manatee Udders"
 page_img_thumb: https://pbs.twimg.com/media/C1s3LtNXAAEMznY.jpg
 page_img_desc: ""
 no_ad: 1
-draft: 1
+draft: 
 ---
 
 I <a href="https://www.facebook.com/photo.php?fbid=10209409173520551&set=gm.1267321399998398&type=3&theater">made this</a> for a meme and then repurposed it for the <a href="https://www.facebook.com/groups/1144470838950122/">rUUUse</a> Facebook group.
