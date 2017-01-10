@@ -26,7 +26,7 @@ Well, no you probably just visit the guy your parents go to. But that guy knows 
 * He'll lay out a plan that is best for you, like a 401(k) or a nunnery.
 
 <div class="illustration">
-    <img src="Phra_Ajan_Jerapunyo-Abbot_of_Watkungtaphao..jpg" />
+    <img src="/assets/Phra_Ajan_Jerapunyo-Abbot_of_Watkungtaphao..jpg" />
     Selling point #4: This religion has great views.
 </div>
 
