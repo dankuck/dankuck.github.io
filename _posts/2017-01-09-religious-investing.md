@@ -7,7 +7,7 @@ no_ad: 1
 draft: 1
 ---
 
-I don't follow a religion. But I don't blame people for thinking they should.
+I don't follow a religion. At the same time, I don't blame people for thinking they should.
 
 The Big Questions that religions try to address are valuable. How should we behave? What should I do now? Why are things so unfair? Which things can I eat?
 
