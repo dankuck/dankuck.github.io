@@ -19,7 +19,7 @@ You do the same thing when you want to invest money. You can try investment your
 
 So in both cases you go out shopping for an adviser, right? You want to make sure you get the best guy investing your money or beliefs exactly where they'll have the best results.
 
-Well, no you probably just visit the guy your parents go to. But that guy knows that you have options, so he's gonna try to sell you. He wants you to invest your money or beliefs with him. 
+Well no, you probably just visit the guy your parents go to. But that guy knows that you have options, so he's gonna try to sell you. He wants you to invest your money or beliefs with him. 
 
 * He has references from names you might trust, like Harvard or God.
 * He'll give you a list of promises, like an 8% return on investment or eternal life.
