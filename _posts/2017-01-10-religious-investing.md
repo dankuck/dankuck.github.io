@@ -48,7 +48,7 @@ But when signing on with a religious adviser, you don't lay out expectations. So
 
 <div class="illustration">
     <img src="/assets/graph-163509_960_720.jpg" />
-    Buddhist prayers are projected to give the best return on investment in 2017 due to a recent acquisition.
+    Sikh prayers are projected to give the best return on investment in 2017 due to a recent acquisition.
 </div>
 
 Your religious adviser doesn't give you a progress report of how close to are to achieving nirvana. He doesn't show what percentage of your prayers succeeded compared to 4th quarter projections.
