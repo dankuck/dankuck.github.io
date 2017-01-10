@@ -9,7 +9,7 @@ draft: 1
 
 I don't follow a religion. At the same time, I don't blame people for thinking they should.
 
-The Big Questions that religions try to address are valuable. How should we behave? What should I do now? Why are things so unfair? Which things can I eat?
+The Big Questions that religions discuss are valuable. How should we behave? What should I do now? Why are things so unfair? Which things can I eat?
 
 When the questions don't seem very pressing, we're happy to ponder them on our own. But when things get difficult, we start to doubt ourselves. That's good. It's important to get these things right. We should admit our weaknesses.
 
