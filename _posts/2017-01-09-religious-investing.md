@@ -4,7 +4,7 @@ title: "Religious Investment"
 page_img: /assets/17096832777_b86f614a70_z.jpg
 page_img_desc: "Expect results."
 no_ad: 1
-draft: 1
+draft: 
 ---
 
 I don't follow a religion. At the same time, I don't blame people for thinking they should.
