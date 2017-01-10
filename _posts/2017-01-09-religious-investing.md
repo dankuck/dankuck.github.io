@@ -9,7 +9,7 @@ draft: 1
 
 I don't follow a religion. But I don't blame people for thinking they should.
 
-The questions that religions try to address are valuable. How should we behave? What should I do now? Why are things so unfair? Which things can I eat?
+The Big Questions that religions try to address are valuable. How should we behave? What should I do now? Why are things so unfair? Which things can I eat?
 
 When the questions don't seem very pressing, we're happy to ponder them on our own. But when things get difficult, we start to doubt ourselves. That's good. It's important to get these things right. We should admit our weaknesses.
 
@@ -57,8 +57,6 @@ He may show you how your donations helped build a new wing of the church. Or eve
 
 When you don't lay out your expectations, you don't have a way to check if your expectations were met. Then you could easily fool yourself into thinking you're getting what you came for. If you let your financial adviser get away with that, you'd kick yourself when you lost out. But you never set any expectations for your religious leader to meet.
 
-That's why I don't follow a religion. There's no way to tell if it's working. And if there's no way to tell if it's working, then I assume it's not.
-
-I've tried to lay this out in a cool, even-handed manner. If you feel like arguing with me, I'd ask that you first ask yourself if there's anything for which you don't know if it works, but you spend time or money on it anyway. Then ask yourself if those things are actually just entertainment.
+If you don't set expectations, neither will your religious leader. And so it's no surprise that they don't achieve much. A church can help you donate money, and that's great. There's just no reason to believe their answers to those Big Questions you had.
 
 <i>The post image came from <a href="https://www.flickr.com/photos/pictures-of-money/17096832777">Pictures of Money</a>.</i>
