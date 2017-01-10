@@ -57,6 +57,6 @@ He may show you how your donations helped build a new wing of the church. Or eve
 
 When you don't lay out your expectations, you don't have a way to check if your expectations were met. Then you could easily fool yourself into thinking you're getting what you came for. If you let your financial adviser get away with that, you'd kick yourself when you lost out. But you never set any expectations for your religious leader to meet.
 
-If you don't set expectations, neither will your religious leader. And so it's no surprise that they don't achieve much. A church can help you donate money, and that's great. There's just no reason to believe their answers to those Big Questions you had.
+If you don't set expectations, neither will your religious leader. And so it's no surprise that they don't achieve much. A church can help you engage in charity, and that's great. There's just no reason to believe their answers to those Big Questions you had.
 
 <i>The post image came from <a href="https://www.flickr.com/photos/pictures-of-money/17096832777">Pictures of Money</a>.</i>
