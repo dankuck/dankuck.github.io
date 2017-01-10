@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Religious Investment"
-page_img: 
-page_img_desc: ""
+page_img: /assets/17096832777_b86f614a70_z.jpg
+page_img_desc: "Expect results."
 no_ad: 1
 draft: 1
 ---
@@ -38,6 +38,11 @@ And you can do the same with religious leaders. You expect results. You expect..
 Most people lay out their expectations when they sign on with a financial adviser. Or the adviser lays out the expectations for them.
 
 But when signing on with a religious adviser, you don't lay out expectations. So it's hard to tell if you've gotten what you came for.
+
+<div class="illustration">
+    <img src="/assets/graph-163509_960_720.jpg" />
+    Buddhist prayers are projected to give the best return on investment in 2017 due to a recent acquisition.
+</div>
 
 Your religious adviser doesn't give you a progress report of how close to are to achieving nirvana. He doesn't show what percentage of your prayers succeeded compared to 4th quarter projections.
 
