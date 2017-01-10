@@ -53,7 +53,7 @@ But when signing on with a religious adviser, you don't lay out expectations. So
 
 Your religious adviser doesn't give you a progress report of how close to are to achieving nirvana. He doesn't show what percentage of your prayers succeeded compared to 4th quarter projections.
 
-He may show you how your donations helped build a new wing of the church. Or even better, it may have helped feed children. If that's why you signed on with that religious adviser, you could much more efficiently mail your donations in or volunteer and then skip all the other stuff.
+He may show you how your donations helped build a new wing of the church. Or even better, they may have helped feed children. If that's why you signed on with that religious adviser, you could much more efficiently mail your donations in or volunteer and then skip all the other stuff.
 
 When you don't lay out your expectations, you don't have a way to check if your expectations were met. Then you could easily fool yourself into thinking you're getting what you came for. If you let your financial adviser get away with that, you'd kick yourself when you lost out. But you never set any expectations for your religious leader to meet.
 
