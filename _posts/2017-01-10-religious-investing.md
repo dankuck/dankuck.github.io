@@ -62,3 +62,6 @@ If you don't set expectations, neither will your religious leader. And so it's n
 <i>The post image came from <a href="https://www.flickr.com/photos/pictures-of-money/17096832777">Pictures of Money</a>.</i>
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fdankuck%2Fposts%2F10209732894853382&width=500" width="500" height="501" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Who can you trust to handle your religious investment? <a href="https://t.co/Cbl5j6XLNm">https://t.co/Cbl5j6XLNm</a> <a href="https://t.co/j9FrosrAXx">pic.twitter.com/j9FrosrAXx</a></p>&mdash; Dan Kuck-Alvarez (@dankuck) <a href="https://twitter.com/dankuck/status/819010832432566277">January 11, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
