@@ -60,3 +60,5 @@ When you don't lay out your expectations, you don't have a way to check if your 
 If you don't set expectations, neither will your religious leader. And so it's no surprise that they don't achieve much. A church can help you engage in charity, and that's great. There's just no reason to believe their answers to those Big Questions you had.
 
 <i>The post image came from <a href="https://www.flickr.com/photos/pictures-of-money/17096832777">Pictures of Money</a>.</i>
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fdankuck%2Fposts%2F10209732894853382&width=500" width="500" height="501" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
