@@ -4,7 +4,7 @@ title: "If a child went missing when they were extremely young (say 4 or 5), wou
 page_img_thumb: 
 page_img_desc: ""
 no_ad: 1
-draft: 1
+draft: 
 ---
 
 I found this question <a href="https://www.quora.com/If-a-child-went-missing-when-they-were-extremely-young-say-4-or-5-would-their-parents-still-recognise-them-if-they-were-found-as-a-teenager">on Quora</a>.
