@@ -23,7 +23,7 @@
 		</script>
 	{% endif %}
 	
-	{% if page.next %}
+	{% if page.next && ! page.next.draft %}
 		<div style="float: left;">
 			<a href="{{ page.next.url }}">&larr; {{ page.next.title }}</a>
 		</div>
