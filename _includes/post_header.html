@@ -12,7 +12,7 @@
      </div>
      
      <div>
-	{% if page.previous %}
+	{% if page.previous and ! page.previous.draft %}
 		<div style="float: right">
 			<a href="{{ page.previous.url }}">{{ page.previous.title }} &rarr;</a>
 		</div>
