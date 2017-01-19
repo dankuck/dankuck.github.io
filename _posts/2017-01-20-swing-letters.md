@@ -4,7 +4,7 @@ title: "Swing Letters"
 page_img: /assets/WLA_hmaa_Winslow_Homer_Girl_on_a_Swing.jpg
 page_img_desc: "Girl on a Swing - Winslow Homer"
 no_ad: 1
-draft: 1
+draft: 
 ---
 
 When A. had learned all her letters, the next step was to teach her to recognize them when they are used. So I came up with a game.
@@ -30,7 +30,7 @@ I'd start swinging her:
 <dt>Dan</dt>
 <dd>That's right! 3 - 2 - 1 - Blast Off!</dd>
 
-Then I'd give her a bigger push than usual. She'd laugh and meanwhile she was being classically conditioned to like phonics.
+Then I'd give her a bigger push than usual. She'd laugh, and we'd try another word. Meanwhile she was being classically conditioned to like phonics.
 
 We did this for months and months. Before she learned to power her own swinging, I got the chance to enhance the game a few times:
 
