@@ -13,6 +13,8 @@ Her absolute favorite activity on the playground had always been swings. Since s
 
 I'd start swinging her:
 
+<div style="clear: both"></div>
+
 <dt>Dan</dt>
 <dd>Ok, what letter does "banana" start with?</dd>
 
@@ -30,7 +32,7 @@ I'd start swinging her:
 
 Then I'd give her a bigger push than usual. She'd laugh and meanwhile she was being classically conditioned to like phonics.
 
-We did this for months and months. Before she learned to power her own swinging, I got the chance to do this a few times, too:
+We did this for months and months. Before she learned to power her own swinging, I got the chance to enhance the game a few times:
 
 <dt>Dan</dt>
 <dd>What's the first letter of dog?</dd>
@@ -43,7 +45,7 @@ We did this for months and months. Before she learned to power her own swinging,
 <dd>Now what's the second letter of dog?</dd>
 
 <dt>A.</dt>
-<dd>Um...</dt>
+<dd>Um...</dd>
 
 <dt>Dan</dt>
 <dd>Take the first letter off of dog. We already did the D, the duh. So what's left is og. What's the first letter of og?</dd>
@@ -60,6 +62,7 @@ We did this for months and months. Before she learned to power her own swinging,
 
 <dt>Dan</dt>
 <dd>3 - 2 - 1 - Blast Off!!!</dd>
+
 
 The lessons stuck. She loves writing things phonetically.
 
