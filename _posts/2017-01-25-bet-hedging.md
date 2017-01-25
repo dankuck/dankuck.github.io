@@ -11,7 +11,7 @@ Once I entered a hockey bracket for US$10. I don't know anything about hockey, b
 
 For the last round, I didn't have good data to differentiate the teams, so I picked the teams with the most aggressive players as recorded by <a href="http://hockeyfights.com/">hockeyfights.com</a>.
 
-I entered my bracket and another hockey-ignoramous like me did, too. That's when I got the bright idea to hedge my bet. I traded him half of my bracket for half of his. Since neither of us knew much, this was probably a fair trade at the time.
+I entered my bracket and another hockey-ignoramus like me did, too. That's when I got the bright idea to hedge my bet. I traded him half of my bracket for half of his. Since neither of us knew much, this was probably a fair trade at the time.
 
 Now we were both twice as likely to win. But we'd each win half as much.
 
