@@ -53,7 +53,7 @@ But wait! Everyone else knew better about hockey than did my friend or I. Maybe 
 
 As it turns out, it's so hard to pick a good bracket, no one can really do it consistently. Maybe you guessed that, because you already know it's statistically impossible to pick a perfect bracket. My chances of winning would not budge if I made a deal with someone who knew the sport well.
 
-The remaining option on my list was to attempt to make deals with more people. If I made even deals with everyone, I'd have traded 19 pieces of my bracket for equal pieces of everyone else's brackets. And I would have a 100% to win. I would have a 100% chance to win $10 exactly, because whoever won, I'd only get 1/20th of their $200.
+The remaining option on my list was to attempt to make deals with more people. If I had made even deals with everyone, I'd have traded 19 pieces of my bracket for equal pieces of everyone else's brackets. And I would have a 100% chance to win. I would have a 100% chance to win $10 exactly, because whoever won, I'd only get 1/20th of their $200.
 
 All of these alternatives had the same effect. With the little information I had, all my alternatives were worth $10 to me.
 
