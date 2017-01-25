@@ -33,6 +33,11 @@ There were 20 brackets entered in our pool that year. I entered one of them and 
 
 If I had entered another bracket, I would have a 2/21 chance of winning. Without working it out, you can probably remember that 2/21 is smaller than 2/20. I would have a slightly smaller chance of winning slightly more money. 
 
+<div class="illustration">
+    <img src="/assets/10usd.png" />
+    Look at that smirk.
+</div>
+
 But the right way to think about this is to imagine I had already won my fraction of the prize. When you do the math, you realize my "expected" winnings were $10 for each of my brackets. And it's the same for both alternatives. Both alternatives were worth $10.
 
 But wait, that doesn't make sense. Imagine I'd owned 90% of the brackets. I'd have paid 90% of the money, but I'd have a whole 90% chance of winning everybody else's money. That's good, right? If I did this same thing every year, I'd win 90% of the time, lose everything 10% of the time and after a couple decades I'd... be exactly even.
@@ -40,6 +45,11 @@ But wait, that doesn't make sense. Imagine I'd owned 90% of the brackets. I'd ha
 I have to accept, my intuitive sense of probability got the better of me. However, I only had to pay $10 for the privilege of probably throwing away my money, which is a cheaper life lesson than $20 if I'd bought two brackets.
 
 But wait! Everyone else knew better about hockey than did my friend or I. Maybe if I had traded with one of them I'd be better off. That's the first alternative option on my list above.
+
+<div class="illustration">
+    <img src="/assets/heartbeat.png" />
+    No matter what you do, this thing always returns to the middle line.
+</div>
 
 As it turns out, it's so hard to pick a good bracket, no one can really do it consistently. Maybe you guessed that, because you already know it's statistically impossible to pick a perfect bracket. My chances of winning would not budge if I made a deal with someone who knew the sport well.
 
