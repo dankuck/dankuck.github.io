@@ -4,7 +4,7 @@ title: "The Time I Hedged My Bet and Won Big"
 page_img: /assets/Montreal_Hockey_Match_Victoria_Rink.jpg
 page_img_desc: ""
 no_ad: 1
-draft: 1
+draft: 
 ---
 
 Once I entered a hockey bracket for US$10. I don't know anything about hockey, but hockey stats are easy to find, so I went ahead and bet the teams with the best track record for each round.
