@@ -62,3 +62,6 @@ That's because it was designed that way. Everyone has an even shot at the beginn
 Later, things get interesting. Some brackets lose and the chances go up for everyone else. In the last round, it may even be possible to predict a winner with a better than 50/50 chance. That's the time to make your move.
 
 I won! I half won!
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fdankuck%2Fposts%2F10209872290418184&width=500" width="500" height="520" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+
