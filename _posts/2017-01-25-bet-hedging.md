@@ -65,3 +65,5 @@ I won! I half won!
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fdankuck%2Fposts%2F10209872290418184&width=500" width="500" height="520" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The time I hedged my bet at the beginning. That doesn&#39;t make any sense. But there are no drawbacks either. <a href="https://t.co/94IW35aicO">https://t.co/94IW35aicO</a></p>&mdash; Dan Kuck-Alvarez (@dankuck) <a href="https://twitter.com/dankuck/status/824374444126781441">January 25, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
