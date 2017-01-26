@@ -12,7 +12,8 @@
      </div>
      
      <div>
-	{% if page.previous && page.previous.draft != 1 %}
+	{% if page.previous %}
+	{% if page.previous.draft != 1 %}
 		<div style="float: right">
 			<a href="{{ page.previous.url }}">{{ page.previous.title }} &rarr;</a>
 		</div>
@@ -22,8 +23,10 @@
 		};
 		</script>
 	{% endif %}
+	{% endif %}
 	
-	{% if page.next && page.next.draft != 1 %}
+	{% if page.next %}
+	{$ if page.next.draft != 1 %}
 		<div style="float: left;">
 			<a href="{{ page.next.url }}">&larr; {{ page.next.title }}</a>
 		</div>
@@ -32,6 +35,7 @@
 			location = "{{ page.next.url }}";
 		};
 		</script>
+	{% endif %}
 	{% endif %}
 	</div>
 	
