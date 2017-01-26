@@ -4,7 +4,7 @@ title: "As a teenager, if you've screwed up a few times in the past, how do you 
 page_img: https://qph.ec.quoracdn.net/main-thumb-t-11686-200-1BJrxzLRGIEkR8EqEkyHZrG6G5jkPc8h.jpeg
 page_img_desc: ""
 no_ad: 1
-draft: 1
+draft: 
 ---
 
 I found this question <a href="https://www.quora.com/As-a-teenager-if-youve-screwed-up-a-few-times-in-the-past-how-do-you-ask-your-parents-for-a-clean-slate-if-youre-trying-to-start-over/">on Quora</a>.
