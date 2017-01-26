@@ -13,15 +13,21 @@
      
      <div>
 	{% if page.previous %}
-		<div style="float: right">
-			<a href="{{ page.previous.url }}">{{ page.previous.title | truncate: 25 }} &rarr;</a>
-		</div>
+		{% if page.previous.draft %}
+		{% else %}
+			<div style="float: right">
+				<a href="{{ page.previous.url }}">{{ page.previous.title | truncate: 35 }} &rarr;</a>
+			</div>
+		{% endif %}
 	{% endif %}
 	
 	{% if page.next %}
-		<div style="float: left;">
-			<a href="{{ page.next.url }}">&larr; {{ page.next.title | truncate: 25 }}</a>
-		</div>
+		{% if page.next.draft %}
+		{% else %}
+			<div style="float: left;">
+				<a href="{{ page.next.url }}">&larr; {{ page.next.title | truncate: 35 }}</a>
+			</div>
+		{% endif %}
 	{% endif %}
 	</div>
 	
@@ -29,7 +35,7 @@
 
 	{% if page.no_ad %}
 	{% else %}
-	{% include ad.html %}
+		{% include ad.html %}
 	{% endif %}
 
 	{% if page.page_img %}
