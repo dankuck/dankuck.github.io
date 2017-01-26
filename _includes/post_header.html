@@ -13,29 +13,15 @@
      
      <div>
 	{% if page.previous %}
-	{% if page.previous.draft != 1 %}
 		<div style="float: right">
 			<a href="{{ page.previous.url }}">{{ page.previous.title }} &rarr;</a>
 		</div>
-		<script type="text/javascript">
-		window.go_previous_page = function(){
-			location = "{{ page.previous.url }}";
-		};
-		</script>
-	{% endif %}
 	{% endif %}
 	
 	{% if page.next %}
-	{$ if page.next.draft != 1 %}
 		<div style="float: left;">
 			<a href="{{ page.next.url }}">&larr; {{ page.next.title }}</a>
 		</div>
-		<script type="text/javascript">
-		window.go_next_page = function(){
-			location = "{{ page.next.url }}";
-		};
-		</script>
-	{% endif %}
 	{% endif %}
 	</div>
 	
