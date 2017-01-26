@@ -14,13 +14,13 @@
      <div>
 	{% if page.previous %}
 		<div style="float: right">
-			<a href="{{ page.previous.url }}">{{ page.previous.title }} &rarr;</a>
+			<a href="{{ page.previous.url }}">{{ page.previous.title | truncate: 25 }} &rarr;</a>
 		</div>
 	{% endif %}
 	
 	{% if page.next %}
 		<div style="float: left;">
-			<a href="{{ page.next.url }}">&larr; {{ page.next.title }}</a>
+			<a href="{{ page.next.url }}">&larr; {{ page.next.title | truncate: 25 }}</a>
 		</div>
 	{% endif %}
 	</div>
