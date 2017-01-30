@@ -9,15 +9,20 @@ draft: 1
 
 Lindsey Bernstein interviewed Daniel Dennett on <a href="http://www.pointofinquiry.org/daniel_dennett_the_magic_of_consciousnesswithout_the_magic/">Point of Inquiry</a> and at one point she asked him if there was a limit to what humans could understand.
 
-An intuitive answer could go either way. To a person who has just started knowing things, it seems like knowing everything there is to know just takes time.
+An intuitive answer could go either way. To a person who has just started knowing things, it seems obvious that it just takes time to learn everything ever.
 
 Then you look at our nearest evolutionary neighbor, the chimpanzee. This poor guy can't even pass a driving test. He is forever cut off from the simplest intellectual feats, like wondering if the mechanism that turns off the refrigerator light is broken. (If the light stayed on, how would you even know?)
 
-So maybe people have similar limits.
+So maybe people have similar innate limits.
 
-But at this point, you're giving yourself too much credit. Because a big part of what makes you so smart isn't inside you, it was given to you by others. You don't even realize the advantages you've had. We could call it Sapiens Privilege. You don't realize that, if it weren't for speech, you wouldn't be able to pass the driver's test either.
+But at this point, you're giving yourself too much credit. Because a big part of what makes you so smart isn't innate at all; it was given to you by others. You don't even realize the advantages you've had. We could call it Sapiens Privilege. You don't realize that, if it weren't for speech, you wouldn't be able to pass the driver's test either.
 
-It is Speech that makes us this smart. The ability to convey our ideas to each other. We can make up words like tiger and names like Tony. Ultimately, that allowed us to invent Kellogg's® Frosted Flakes.
+<div class="illustration">
+    <img src="/assets/frosted-flakes.png" />
+    Behold the sacred milestone on the path to enlightenment.
+</div>
+
+It is speech that makes us this smart. The ability to convey our ideas to each other. We can make up words like tiger and names like Tony. Ultimately, that allowed us to invent Kellogg's® Frosted Flakes.
 
 Sure, you have one innate advantage; your brain is bigger than the other apes' brains. That makes a difference. But words are the real key to it all. If the other apes could understand words, they could do what we do, even if their limited brains meant it would take them longer.
 
