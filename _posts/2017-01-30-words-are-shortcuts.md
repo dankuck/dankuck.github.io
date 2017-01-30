@@ -2,9 +2,9 @@
 layout: post
 title: "Words Are Shortcuts"
 page_img: /assets/limit-coaster.jpg
-page_img_desc: "The beginning and end of this train track are really close. Just take the shortcut."
+page_img_desc: "This train goes nowhere. Take the shortcut."
 no_ad: 1
-draft: 1
+draft: 
 ---
 
 Lindsey Bernstein interviewed Daniel Dennett on <a href="http://www.pointofinquiry.org/daniel_dennett_the_magic_of_consciousnesswithout_the_magic/">Point of Inquiry</a> and at one point she asked him if there was a limit to what humans could understand.
