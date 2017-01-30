@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Words Are Shortcuts"
-page_img: 
-page_img_desc: ""
+page_img: /assets/limit-coaster.jpg
+page_img_desc: "The beginning and end of this train track are really close. Just take the shortcut."
 no_ad: 1
 draft: 1
 ---
@@ -21,7 +21,7 @@ It is Speech that makes us this smart. The ability to convey our ideas to each o
 
 Sure, you have one innate advantage; your brain is bigger than the other apes' brains. That makes a difference. But words are the real key to it all. If the other apes could understand words, they could do what we do, even if their limited brains meant it would take them longer.
 
-A word is a shortcut. It holds a bunch of thoughts that a million people had to have manually before the word was invented.
+A word is a shortcut. It holds a bunch of thoughts that a million people had to have manually before the word was invented, so you can jump straight from the beginning of the thought to the end without trudging through the middle.
 
 Take your smartphone, for example. There's this Thing in your phone that's full of ones and zeros. They're all in order. Taken as groups they make larger numbers. You can take a number from near the beginning of the Thing and use it to count in order until you reach another section of the Thing. When you reach that place, you can put down numbers you want to save and come back to get them later.
 
