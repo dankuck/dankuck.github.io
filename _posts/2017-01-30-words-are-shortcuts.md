@@ -52,6 +52,7 @@ But over time, we can discard the words that don't work and use better words ins
 With those shortcuts, the sky is the limit on what we can understand. We just need to understand it a few words at a time.
 
 
-
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">There might be no limit on what humans can understand. We just have to make shortcuts. <a href="https://t.co/2hw5o3xJXn">https://t.co/2hw5o3xJXn</a> <a href="https://t.co/7qjsUFUjeh">pic.twitter.com/7qjsUFUjeh</a></p>&mdash; Dan Kuck-Alvarez (@dankuck) <a href="https://twitter.com/dankuck/status/826177315445018625">January 30, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
