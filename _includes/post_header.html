@@ -12,26 +12,22 @@
      </div>
      
      <div>
-	{% if page.previous && page.previous.draft != 1 %}
-		<div style="float: right">
-			<a href="{{ page.previous.url }}">{{ page.previous.title }} &rarr;</a>
-		</div>
-		<script type="text/javascript">
-		window.go_previous_page = function(){
-			location = "{{ page.previous.url }}";
-		};
-		</script>
+	{% if page.previous %}
+		{% if page.previous.draft %}
+		{% else %}
+			<div style="float: right">
+				<a href="{{ page.previous.url }}">{{ page.previous.title | truncate: 35 }} &rarr;</a>
+			</div>
+		{% endif %}
 	{% endif %}
 	
-	{% if page.next && page.next.draft != 1 %}
-		<div style="float: left;">
-			<a href="{{ page.next.url }}">&larr; {{ page.next.title }}</a>
-		</div>
-		<script type="text/javascript">
-		window.go_next_page = function(){
-			location = "{{ page.next.url }}";
-		};
-		</script>
+	{% if page.next %}
+		{% if page.next.draft %}
+		{% else %}
+			<div style="float: left;">
+				<a href="{{ page.next.url }}">&larr; {{ page.next.title | truncate: 35 }}</a>
+			</div>
+		{% endif %}
 	{% endif %}
 	</div>
 	
@@ -39,7 +35,7 @@
 
 	{% if page.no_ad %}
 	{% else %}
-	{% include ad.html %}
+		{% include ad.html %}
 	{% endif %}
 
 	{% if page.page_img %}
