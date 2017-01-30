@@ -19,7 +19,7 @@ But at this point, you're giving yourself too much credit. Because a big part of
 
 <div class="illustration">
     <img src="/assets/frosted-flakes.jpg" />
-    Behold the sacred milestone on the path to enlightenment.
+    Behold the sacred milestone on the path to enlightenment. <a href="https://www.flickr.com/photos/jeepersmedia/29200959630" class="attribution">&copy; Mike Mozard</a>
 </div>
 
 It is speech that makes us this smart. The ability to convey our ideas to each other. We can make up words like tiger and names like Tony. Ultimately, that lead us to invent Kellogg's® Frosted Flakes.
