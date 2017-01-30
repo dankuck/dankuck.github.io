@@ -32,12 +32,12 @@ Take your smartphone, for example. There's this Thing in your phone that's full 
 
 I'm about to lose your interest, even if you're doing fine at understanding me. So I'll try it again quicker. Your phone has a flash drive inside. It stories information for you as files. Your phone tells the flash drive what file name to access and you can either save information there or read it.
 
-These words, flash drive, file, file name, information, are all shortcuts for talking about the Thing and numbers stored on it. Without these words, we would spend all day talking about what we want the phone to do, and we'd still only have a tentative grasp on what we were accomplishing.
-
 <div class="illustration">
     <img src="/assets/Mona_Lisa_2000.jpg" />
-    And somehow fire lead to Mona Lisa made of toast.
+    If we didn't have the word fire, we never would have made it here, to Mona Lisa Toast.
 </div>
+
+These words, flash drive, file, file name, information, are all shortcuts for talking about the Thing and numbers stored on it. Without these words, we would spend all day talking about what we want the phone to do, and we'd still only have a tentative grasp on what we were accomplishing.
 
 It's better to make up the word file and put all that meaning about counting and order and bits into it. This is the trick that we used way back when we invented the words fire and warm and third-degree burn.
 
