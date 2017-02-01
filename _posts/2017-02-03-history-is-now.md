@@ -13,7 +13,7 @@ As you grow up, the past gets closer and closer. WWII was ancient when I was 12,
 
 Suddenly, history is crashing in on the present, metaphorically and literally. Ancient Rome is now, metaphorically. It had its strengths and weaknesses, its justice and its unforgivable offenses. And so do we, now.
 
-Then that metaphor bleeds into the literal world. In the US, we think of the American Revolution as A Long Time Ago™. In Egypt, the revolution is current.
+Then that metaphor bleeds into the literal world. In the US, we think of the American Revolution as A Long Time Ago™. In <a href="https://en.wikipedia.org/wiki/Egyptian_revolution_of_2011">Egypt</a>, the revolution is current.
 
 In the west, we moved from a feudal system to monarchies a Very Long Time Ago™. Some middle eastern countries are barely countries to speak of. They are in fact loosely attached tribes.
 
@@ -24,15 +24,15 @@ In the west, we moved from a feudal system to monarchies a Very Long Time Ago™
 
 The US is the past for the Europeans who have had socialized health care for decades.
 
-There are currently -- in the world -- civilizations living in the stone age, using only tools available in the stone age. There are also ape tribes which have created stone age tools.
+There are currently -- in the world -- civilizations <a href="https://en.wikipedia.org/wiki/Sentinelese">living in the stone age</a>, using only tools available in the stone age. There are also non-human <a href="http://www.bbc.com/earth/story/20150818-chimps-living-in-the-stone-age">ape tribes which have created stone age tools</a>.
 
 Everything you think of as old is actually being represented in the world right now, somewhere.
 
 I'm tempted to come up with theories about how the past is actually a form of-- Then I would give some simplified unfalsifiable conjecture. So I won't bother with that.
 
-I could also scold myself for thinking of the stone age and feudalism/tribalism as old and less advanced. But it takes a lot of energy to defend the claim that stone age living practices were superior to the modern day. I'm not going to try it.
+I could also scold myself for thinking of the stone age and feudalism/tribalism as old and less advanced. But it takes a lot of energy to defend the claim that <a href="https://www.theguardian.com/books/2014/sep/05/were-we-happier-in-the-stone-age">stone age living practices were superior to the modern day's</a>. I'm not going to try it.
 
-I'll point out where I'm wrong, though. All of those examples, except the stone age one, are pushing right up against modern technology in a smaller world than the one in the past. The chances that a human in a tribal society will interact with someone in a monarchical or democratic society are very high, because everyone has a smart phone.
+I'll point out where I'm wrong, though. All of those examples, except the stone age one, are pushing right up against modern technology in a smaller world than the one in the past. The chances that a human in a tribal society will interact with someone in a monarchical or democratic society are notable, because everyone has a smart phone.
 
 So the past is with us. If you want to time travel, it has never been easier to do. Maybe the past will always will be with us. But it might be harder to recognize now, because even the past is constantly updated by access to technology.
 
