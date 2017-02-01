@@ -17,6 +17,11 @@ Then that metaphor bleeds into the literal world. In the US, we think of the Ame
 
 In the west, we moved from a feudal system to monarchies a Very Long Time Ago™. Some middle eastern countries are barely countries to speak of. They are in fact loosely attached tribes.
 
+<div class="illustration">
+    <img src="/assets/1917-nurse.png" />
+    Pictured: A British nurse in 1917 or a U.S. nurse in 2017.
+</div>
+
 The US is the past for the Europeans who have had socialized health care for decades.
 
 There are currently -- in the world -- civilizations living in the stone age, using only tools available in the stone age. There are also ape tribes which have created stone age tools.
