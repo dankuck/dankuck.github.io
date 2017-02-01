@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "History Is Still With Us"
-page_img_thumb: 
-page_img_desc: ""
+page_img_thumb: /assets/stone-age.jpg
+page_img_desc: "A lot of history happening in 15 square feet"
 no_ad: 1
 draft: 1
 ---
