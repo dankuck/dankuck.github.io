@@ -4,7 +4,7 @@ title: "Illegal Prime"
 page_img: 
 page_img_desc: ""
 no_ad: 1
-draft: 1
+draft: 
 ---
 
 A friend on Facebook posted the link to <a href="https://en.wikipedia.org/wiki/Illegal_prime">Illegal Prime on Wikipedia</a> and asked this:
