@@ -4,7 +4,7 @@ title: "History Is Still With Us"
 page_img: /assets/stone-age.jpg
 page_img_desc: "A lot of history happening in 15 square feet"
 no_ad: 1
-draft: 1
+draft: 
 ---
 
 When you're young, learning about history, you think of historical events as A Long Time Ago™.
