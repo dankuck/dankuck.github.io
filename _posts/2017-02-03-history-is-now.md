@@ -42,3 +42,6 @@ I'll point out where I'm wrong, though. All of those examples, except the stone 
 So the past is with us. If you want to time travel, it has never been easier to do. Maybe the past will always will be with us. But it might be harder to recognize now, because even the past is constantly updated by access to technology.
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fdankuck%2Fposts%2F10209942370570144&width=500" width="500" height="482" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Don&#39;t look now, but there&#39;s a time travel right next to you. <a href="https://t.co/DpesrOFSGv">https://t.co/DpesrOFSGv</a> <a href="https://t.co/u4xew2PEw2">pic.twitter.com/u4xew2PEw2</a></p>&mdash; Dan Kuck-Alvarez (@dankuck) <a href="https://twitter.com/dankuck/status/827551481649848321">February 3, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
