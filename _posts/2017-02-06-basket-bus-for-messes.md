@@ -42,3 +42,6 @@ Now you're ready to start on the second room. Tomorrow.
 <div style="clear: both;"></div>
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fdankuck%2Fposts%2F10209967511878661&width=500" width="500" height="545" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Bus your mess around the house in a laundry basket. Your dream job. <a href="https://t.co/EY08KviTkW">https://t.co/EY08KviTkW</a> <a href="https://t.co/N2b9cST5xE">pic.twitter.com/N2b9cST5xE</a></p>&mdash; Dan Kuck-Alvarez (@dankuck) <a href="https://twitter.com/dankuck/status/828721906207563779">February 6, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
