@@ -39,3 +39,4 @@ When you've visited each room again, you'll still have stuff left. Throw away ev
 
 Now you're ready to start on the second room. Tomorrow.
 
+<div style="clear: both;"></div>
