@@ -4,7 +4,7 @@ title: "Use the Basket Bus for Messes"
 page_img: /assets/nostalgia-635619_960_720.jpg
 page_img_desc: "Toss those clothes, you've got work to do"
 no_ad: 1
-draft: 1
+draft: 
 ---
 
 Use a laundry basket to clean your messy house. Like this.
