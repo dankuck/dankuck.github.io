@@ -40,3 +40,5 @@ When you've visited each room again, you'll still have stuff left. Throw away ev
 Now you're ready to start on the second room. Tomorrow.
 
 <div style="clear: both;"></div>
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fdankuck%2Fposts%2F10209967511878661&width=500" width="500" height="545" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
