@@ -7,9 +7,7 @@ no_ad: 1
 draft: 1
 ---
 
-I found this question <a href="https://www.quora.com/Why-is-music-much-more-popular-than-podcasts-for-recreational-activities">on Quora</a>.
-
-Here's my response:
+I found this question <a href="https://www.quora.com/Why-is-music-much-more-popular-than-podcasts-for-recreational-activities">on Quora</a> and responded.
 
 Any answer is going to be conjecture. So here’s my conjecture.
 
