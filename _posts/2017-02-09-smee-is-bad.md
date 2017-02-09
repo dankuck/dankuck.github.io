@@ -22,3 +22,6 @@ Mr. Smee could throw in his lot with the good guys. He could clear his conscienc
 Smee must one day face the music like the others. Whatever justice system finally catches up to them, Mr. Smee should not be spared its wrath. He'll likely turn state's evidence, though, and that's just fine.
 
 <small>Post image by <a href="https://www.flickr.com/photos/lorenjavier/5396980587">Loren Javier</a>.</small>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Here&#39;s something nobody needed to write. <a href="https://t.co/Y9ndLLQRqH">https://t.co/Y9ndLLQRqH</a></p>&mdash; Dan Kuck-Alvarez (@dankuck) <a href="https://twitter.com/dankuck/status/829814901279432713">February 9, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
