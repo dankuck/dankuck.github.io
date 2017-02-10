@@ -4,7 +4,7 @@ title: "Trump Heap"
 page_img_thumb: https://pbs.twimg.com/media/C4QUY44WcAAhDf7.jpg
 page_img_desc: ""
 no_ad: 1
-draft: 1
+draft: 
 ---
 
 I <a href="https://www.facebook.com/photo.php?fbid=10208429925199955&set=gm.1153090201421519&type=3&theater">made this</a> for the <a href="https://www.facebook.com/groups/1144470838950122/">rUUUse</a> Facebook group.
