@@ -4,7 +4,7 @@ title: "Get It In Writing"
 page_img: /assets/writing.jpg
 page_img_desc: ""
 no_ad: 1
-draft: 1
+draft: 
 ---
 
 You take writing for granted. You've been using it all your life. You can barely take a shower without reading a shampoo bottle.
