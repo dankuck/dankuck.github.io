@@ -25,3 +25,5 @@ So here you go, big statement: Humans who don't write much are wasting a big par
 
 Whatever it is you're doing, get it in writing.
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Writing is kind of a big deal. <a href="https://t.co/eEKjTVARnI">https://t.co/eEKjTVARnI</a></p>&mdash; Dan Kuck-Alvarez (@dankuck) <a href="https://twitter.com/dankuck/status/831512551930339328">February 14, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
