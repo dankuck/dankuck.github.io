@@ -16,7 +16,7 @@ Here's something else. What are those bubbles in boiling water? This one sounds 
 Somehow these connections fell through the cracks for me. The steam example might have been labeled in a science book. It reminds me of Richard Feynman's <a href="http://v.cx/2010/04/feynman-brazil-education">Look At The Water</a> essay. He describes how book-learning failed to connect with anything in the real world for his students in Brazil. They knew the formulas but without experiment, they didn't learn what the formulas do here in the real world.
 
 <div class="illustration">
-    <img src="/assets/Fire.jpg" />
+    <img src="/assets/Fire.JPG" />
     Gas!
 </div>
 
