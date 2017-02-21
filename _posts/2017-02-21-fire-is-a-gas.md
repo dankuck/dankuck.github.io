@@ -40,3 +40,6 @@ I realized the truth about the steam bubbles while I was boiling water. I realiz
 There are probably a few lessons to be learned here. The first one is to notice when you have all the clues necessary to answer a question. The second one is to experiment *while* you're doing your thinking.
 
 <small>Post image by <a href="https://www.flickr.com/photos/ervins_strauhmanis/18775075796">Ervins Strauhmanis</a>.</small>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Fire is just a gas. It looks like a gas. Just look at it. It’s a gas. It’s only weird because it’s hot and it glows. <a href="https://t.co/ZKYrXvcjxI">https://t.co/ZKYrXvcjxI</a> <a href="https://t.co/NOUyyz7I1R">pic.twitter.com/NOUyyz7I1R</a></p>&mdash; Dan Kuck-Alvarez (@dankuck) <a href="https://twitter.com/dankuck/status/834045953107755008">February 21, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
