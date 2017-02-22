@@ -4,7 +4,7 @@ title: "Do athletes “gamble” just by competing?"
 page_img: https://qph.ec.quoracdn.net/main-thumb-t-66953-200-y8NEGs3fiSiYOdA0aaDUzdrfWsSMYgB4.jpeg
 page_img_desc: ""
 no_ad: 1
-draft: 1
+draft: 
 ---
 
 I found this question <a href="https://www.quora.com/Do-athletes-“gamble”-just-by-competing">on Quora</a>.
