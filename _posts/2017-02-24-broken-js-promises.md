@@ -152,3 +152,4 @@ I hope you enjoyed the ride as I thought through broken Promises and some of the
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">What happens when a JavaScript Promise gets broken? Nothing much. <a href="https://t.co/8HAik75jnV">https://t.co/8HAik75jnV</a> <a href="https://twitter.com/hashtag/javascript?src=hash">#javascript</a> <a href="https://twitter.com/hashtag/promise?src=hash">#promise</a> <a href="https://t.co/t8U4Js6M7i">pic.twitter.com/t8U4Js6M7i</a></p>&mdash; Dan Kuck-Alvarez (@dankuck) <a href="https://twitter.com/dankuck/status/834975531426791425">February 24, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fdankuck%2Fposts%2F10210101979360264&width=500" width="500" height="520" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
