@@ -19,7 +19,7 @@ The fact is that you can't be sure he won't come back and you can't be sure that
 
 The rest of this is gonna be technical. Oh you thought it already was technical. Well I promise it'll be imprecise as well, okay?
 
-You'll probably want to understand what a Promise is, before continuing.
+You'll probably want to go learn what a Promise is before continuing.
 
 <h3>Broken Promises</h3>
 
