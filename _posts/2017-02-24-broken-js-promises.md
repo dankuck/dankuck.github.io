@@ -91,12 +91,11 @@ That one should be intuitive. Let's look at another one that's a little sneakier
 
 ```
 function x() {
-    var p = new Promise(function (resolve, error) {
-        setTimeout(function () {
+    new Promise(function funcA (resolve, error) {
+        setTimeout(function funcB () {
             resolve('some data');
         }, 10000);
-    });
-    p.then(function (data) {
+    }).then(function funcC (data) {
         console.log(data);
     });
 }
@@ -104,5 +103,38 @@ function x() {
 x();
 ```
 
-Now something interesting happens. The timeout created by `setTimeout` calls `resolve` after a 10 second wait. In those 10 seconds, the `x()` function finishes. But the `p` variable is not released. It cannot be garbage collected, because of the timeout and the almighty SCOPE.
+Now something interesting happens. First, I took out the variable `p` so there are no obvious references to the Promise. Then I named the closures so I could talk about them clearly here.
 
+The timeout created by `setTimeout` calls `resolve` after a 10 second wait. In those 10 seconds, the `x()` function finishes. But the Promise remains in memory. It cannot be garbage collected, because of the timeout and the almighty SCOPE.
+
+The secret is `setTimeout` and that `resolve` callback. The `setTimeout` function must keep its closures somewhere safe until it no longer needs them. And since `setTimeout` is attached to the only non-garbage-collectible object, `window`, it cannot be garbage collected either. (I checked, even if you delete the identifier `setTimeout`, it still does its job, so there's probably something smart going on under the hood to keep it alive.)
+
+Meanwhile, the `resolve` callback has to have a reference to the Promise within it or it wouldn't be able to do the job of setting the value inside the Promise.
+
+So the chain of references looks like this:
+
+`window` -> `setTimeout` -> `funcB` -> `resolve` -> `Promise`
+
+So the Promise will continue to exist as long as `resolve` exists. And on up the chain, they will all exist until `setTimeout` has no further use for `funcB`.
+
+When `setTimeout` is done, and the Promise's `then` chain is complete, the Promise and all the closures will have no further references and they will be garbage collected. No memory leaks.
+
+But we were talking about broken Promises. So let's make one last change to that example:
+
+```
+function x() {
+    new Promise(function funcA (resolve, error) {
+        setTimeout(function funcB () {
+            // do nothing
+        }, 10000);
+    }).then(function funcC (data) {
+        console.log(data);
+    });
+}
+
+x();
+```
+
+In this case, we still have a timeout after 10 seconds. But now we have a broken Promise. It doesn't call `resolve` or `error`. Even though it doesn't use `resolve`, it still has the reference to `resolve`, so for those 10 seconds, the same chain of references from above still exists. And when the timeout is complete, the references are released and garbage collection can happen.
+
+I hope you liked the ride as I thought through broken Promises and some of the concerns I've seen others have. If you have any further questions, let  me know in the posts on Facebook or Twitter below.
