@@ -149,3 +149,6 @@ In this case, we still have a timeout after 10 seconds. But now we have a broken
 
 I hope you enjoyed the ride as I thought through broken Promises and some of the concerns I've seen others have. If you have any questions, I'd love to hear them. Promises seem kind of magical, and we make some <a href="http://www.datchley.name/promise-patterns-anti-patterns/">common mistakes</a> because we don't think of them quite right. Let  me know your thoughts in the posts on Facebook or Twitter below.
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">What happens when a JavaScript Promise gets broken? Nothing much. <a href="https://t.co/8HAik75jnV">https://t.co/8HAik75jnV</a> <a href="https://twitter.com/hashtag/javascript?src=hash">#javascript</a> <a href="https://twitter.com/hashtag/promise?src=hash">#promise</a> <a href="https://t.co/t8U4Js6M7i">pic.twitter.com/t8U4Js6M7i</a></p>&mdash; Dan Kuck-Alvarez (@dankuck) <a href="https://twitter.com/dankuck/status/834975531426791425">February 24, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
