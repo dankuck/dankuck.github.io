@@ -143,5 +143,5 @@ x();
 
 In this case, we still have a timeout after 10 seconds. But now we have a broken Promise. It doesn't call `resolve` or `error`. Even though it doesn't use `resolve`, it still has the *reference* to `resolve`, so for those 10 seconds, the same chain of references from above still exists. And when the timeout is complete, the references are released and garbage collection can happen.
 
-I hope you enjoyed the ride as I thought through broken Promises and some of the concerns I've seen others have. If you have any questions, I'd love to hear them. Promises seem kind of magical, and we make some common mistakes because we don't think of them quite right. Let  me know your thoughts in the posts on Facebook or Twitter below.
+I hope you enjoyed the ride as I thought through broken Promises and some of the concerns I've seen others have. If you have any questions, I'd love to hear them. Promises seem kind of magical, and we make some <a href="http://www.datchley.name/promise-patterns-anti-patterns/">common mistakes</a> because we don't think of them quite right. Let  me know your thoughts in the posts on Facebook or Twitter below.
 
