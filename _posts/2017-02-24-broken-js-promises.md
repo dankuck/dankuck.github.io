@@ -4,7 +4,7 @@ title: "JavaScript and Broken Promises"
 page_img: /assets/js.png
 page_img_desc: ""
 no_ad: 1
-draft: 1
+draft:
 ---
 
 I Googled to see what happens if a JavaScript Promise never resolves. Google wasn't very informative; it only gave more questions. So I'm going to work it out.
@@ -13,9 +13,13 @@ The TL;DR is that it depends on the code you give it. There are no bad consequen
 
 A JavaScript <a href="https://spin.atomicobject.com/2016/02/16/how-javascript-promises-work/">Promise</a> is an object that performs some work and then passes a result to a callback that it is given. There are important details I'm leaving out, of course, but that's the gist of it.
 
-A broken Promise is like an uncle who went to travel the world and just never came back. Technically, he hasn't come back *yet*. You don't know why. He could have died or he might be lost or he might still want to come back. All you know is, he was suppose to bring you a t-shirt. And now you have no t-shirt. The upshot is that you can't be sure he won't come back and you can't be sure that a broken Promise isn't still doing its job (unless you know what's going on inside it or you can solve the <a href="https://en.wikipedia.org/wiki/Halting_problem">Halting Problem</a>).
+A broken Promise is like an uncle who went to travel the world and just never came back. Technically, he hasn't come back *yet*. You don't know why. He could have died or he might be lost or he might still want to come back. All you know is, he was suppose to bring you a t-shirt. And now you have no t-shirt.
+
+The fact is that you can't be sure he won't come back and you can't be sure that a broken Promise isn't still doing its job (unless you know what's going on inside it or you can solve the <a href="https://en.wikipedia.org/wiki/Halting_problem">Halting Problem</a>).
 
 The rest of this is gonna be technical. Oh you thought it already was technical. Well I promise it'll be imprecise as well, okay?
+
+You'll probably want to understand what a Promise is, before continuing.
 
 <h3>Broken Promises</h3>
 
