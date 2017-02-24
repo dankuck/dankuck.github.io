@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "JavaScript and Broken Promises"
-page_img: 
+page_img: /assets/js.png
 page_img_desc: ""
 no_ad: 1
 draft: 1
 ---
 
-I was curious what happens if a JavaScript Promise never resolves. Google wasn't very informative; it only gave more questions. So I'm going to work it out.
+I Googled to see what happens if a JavaScript Promise never resolves. Google wasn't very informative; it only gave more questions. So I'm going to work it out.
 
 The TL;DR is that it depends on the code you give it. There are no bad consequences, such as memory leaks, unless you give it code that would have had that problem anyway.
 
@@ -90,6 +90,8 @@ x();
 ```
 
 When the Promise is created, the closure is immediately run. The `resolve` is never called. The closure finishes. The `x()` function finishes. Nothing has any references to `p` anymore, so the Promise is garbage collected.
+
+<h3>References You Forgot</h3>
 
 That one should be intuitive. Let's look at another one that's a little sneakier.
 
