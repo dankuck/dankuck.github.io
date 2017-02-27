@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Should children be implanted with neurostimulators and such so that they can make better decisions and avoid parental stresses turned violent?"
+title: "Should children be implanted with neurostimulators for behavior modification?"
 page_img: https://qph.ec.quoracdn.net/main-thumb-t-2077-200-hLbvF5dBLlTLgbAh0lp8HhkhtxXDnmMd.jpeg
 page_img_desc: ""
 no_ad: 1
@@ -9,9 +9,11 @@ draft: 1
 
 I found this question <a href="https://www.quora.com/Should-children-be-implanted-with-neurostimulators-and-such-so-that-they-can-make-better-decisions-and-avoid-parental-stresses-turned-violent/">on Quora</a>.
 
+The original title was <i>Should children be implanted with neurostimulators and such so that they can make better decisions and avoid parental stresses turned violent?</i>
+
 The asker offered the following explanation:
 
-<blockquote>
+<blockquote style="color: grey;">
 my nephew gets beat by his parents for not finishing his food and other very unruly reasons, and he complains to me about it, i think if he had a physical stimulant to better his eating amongst other decisions he would avoid violent situations and abuse.
 </blockquote>
 
