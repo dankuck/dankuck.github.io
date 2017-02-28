@@ -4,7 +4,7 @@ title: "Should children be implanted with neurostimulators for behavior modifica
 page_img: https://qph.ec.quoracdn.net/main-thumb-t-2077-200-hLbvF5dBLlTLgbAh0lp8HhkhtxXDnmMd.jpeg
 page_img_desc: ""
 no_ad: 1
-draft: 1
+draft: 
 ---
 
 I found this question <a href="https://www.quora.com/Should-children-be-implanted-with-neurostimulators-and-such-so-that-they-can-make-better-decisions-and-avoid-parental-stresses-turned-violent/">on Quora</a>.
