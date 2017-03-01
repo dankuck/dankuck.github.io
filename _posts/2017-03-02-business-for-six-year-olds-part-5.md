@@ -21,11 +21,23 @@ As promised, I left the subject alone for a while. But a few days after visiting
 <dd>The tables and the chairs and the pancake mix and the building...</dd>
 
 <dt>Dan</dt>
-<dd>That's right. And whatever money the restaurant owned. There's one more thing that they would get, too. The name.</dd>
-<dd>When your restaurant has a name people know about, even if someone else owns the name, people still go because they know that name.</dd>
-<dd>Imagine you wanted to open a place just like Chuck E. Cheese's. You'd have to buy a building and stuff to make pizza and a lot of video games. And then you'd have to figure out how to make sure people know about your place.</dd>
-<dd>But if you just bought Chuck E. Cheese's, it already has all those things. And all the people who already go to Chuck E. Cheese's would still go. You wouldn't need to do anything to make them go.</dd>
-<dd>So more than just the stuff that goes into a business, the name of the business is very valuable, too.</dd>
+<dd>
+    <p>
+    That's right. And whatever money the restaurant owned. There's one more thing that they would get, too. The name.
+    </p>
+    <p>
+    When your restaurant has a name people know about, even if someone else owns the name, people still go because they know that name.
+    </p>
+    <p>
+    Imagine you wanted to open a place just like Chuck E. Cheese's. You'd have to buy a building and stuff to make pizza and a lot of video games. And then you'd have to figure out how to make sure people know about your place.
+    </p>
+    <p>
+    But if you just bought a Chuck E. Cheese's restaurant, it already has all those things. And all the people who already go to Chuck E. Cheese's would still go. You wouldn't need to do anything to make them go.
+    </p>
+    <p>
+    So more than just the stuff that goes into a business, the name of the business is very valuable, too.
+    </p>
+</dd>
 
 In real life the conversation was not so one-sided. She was following along. But it was still brief, so I didn't lose her interest.
 
