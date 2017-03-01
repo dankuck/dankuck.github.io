@@ -32,7 +32,7 @@ As promised, I left the subject alone for a while. But a few days after visiting
     Imagine you wanted to open a place just like Chuck E. Cheese's. You'd have to buy a building and stuff to make pizza and a lot of video games. And then you'd have to figure out how to make sure people know about your place.
     </p>
     <p>
-    But if you just bought a Chuck E. Cheese's restaurant, it already has all those things. And all the people who already go to Chuck E. Cheese's would still go. You wouldn't need to do anything to make them go.
+    But if you just bought a Chuck E. Cheese's restaurant, it already has all those things. And all the people who already go to Chuck E. Cheese's would still go. You wouldn't need to do anything to make them go. So you might pay extra for the business because people know about it already.
     </p>
     <p>
     So more than just the stuff that goes into a business, the name of the business is very valuable, too.
