@@ -4,7 +4,7 @@ title: "Knowledge of Good & Evil, Inc."
 page_img_thumb: https://pbs.twimg.com/media/C58FZgOWUAITqpa.jpg
 page_img_desc: ""
 no_ad: 1
-draft: 1
+draft: 
 ---
 
 I <a href="https://www.facebook.com/photo.php?fbid=10209376351380018&set=gm.1263583730372165&type=3&theater">made this</a> for the <a href="https://www.facebook.com/groups/1144470838950122/">rUUUse</a> Facebook group.
