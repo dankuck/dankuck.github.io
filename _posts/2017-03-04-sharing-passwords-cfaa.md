@@ -17,7 +17,7 @@ A Netflix account is not a cable TV service, so it definitely doesn’t fall und
 
 The Computer Fraud and Abuse Act has been used in convictions involving password sharing. In each case the courts made it clear that their decisions did not apply broadly, but only to the cases in question. (They added this language after people expressed concern about the question you asked.)
 
-Take Two: Ninth Circuit Revises Two Password Sharing Decisions, But Fails to Fix CFAA Mess
+<a href="https://www.eff.org/deeplinks/2016/12/take-two-ninth-circuit-revises-two-password-sharing-decisions-fails-fix-cfaa-mess">Take Two: Ninth Circuit Revises Two Password Sharing Decisions, But Fails to Fix CFAA Mess</a>
 
 So it may be illegal, the existing case law could be used as precedent, but the cases do not automatically make it illegal. It’s still unclear until someone tests it.
 
