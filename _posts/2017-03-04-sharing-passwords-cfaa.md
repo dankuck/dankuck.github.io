@@ -4,7 +4,7 @@ title: "Can splitting a Netflix Family plan with friends that I don’t live wit
 page_img: https://qph.ec.quoracdn.net/main-thumb-t-1772-200-qlpozsriavpogdpqslonbrkowxgtctgz.jpeg
 page_img_desc: ""
 no_ad: 1
-draft: 1
+draft: 
 ---
 
 I found this question <a href="https://www.quora.com/Can-splitting-a-Netflix-Family-plan-with-friends-that-I-don’t-live-with-be-considered-a-federal-crime/">on Quora</a>.
