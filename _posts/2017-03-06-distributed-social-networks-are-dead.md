@@ -96,7 +96,7 @@ So email was distributed because it had to be.
 
 <div class="illustration">
     <img src="/assets/1024px-NeoCube.jpg" />
-    Users feel a magnetic pull to the best service, not to a distribution.
+    Users feel a magnetic pull to the best service, not to a panopoly of services offering the same thing.
 </div>
 
 That's a tall order at this late date. If the idea of email was invented today, someone would sell it. There would be one big company selling the idea of sending messages to your office mates and other businesses. There would be competitors, but they would mostly die away because the biggest one refused to interoperate.
