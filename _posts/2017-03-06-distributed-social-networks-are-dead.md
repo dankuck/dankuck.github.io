@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "The Time I Didn't Revolutionize Social Networking"
-page_img: /assets/4265711814_9a006ee5b8_z.jpg
-page_img_desc: ""
+page_img: /assets/10272222124_386d09566d_z.jpg
+page_img_desc: "There's no way to make distributed social networking sexy."
 no_ad: 1
 draft: 1
 ---
@@ -119,4 +119,4 @@ I'm not the guy for the job of revolutionizing the social networks. But somewher
 
 For my part, I think there are simpler things I can revolutionize.
 
-<small>Page image by <a href="https://www.flickr.com/photos/horiavarlan/4265711814">Horia Varlan</a>.</small>
+<small>Page image by <a href="https://www.flickr.com/photos/39908901@N06/10272222124">m01229</a>.</small>
