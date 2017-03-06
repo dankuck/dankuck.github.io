@@ -113,7 +113,7 @@ If social networks can be reworked as a distributed system that isn't owned by a
 
 <h3>Is The Dream Dead?</h3>
 
-I'm not saying it can't be done. That would just be an excuse for my failure. I'm saying it *can* be done. The people can own their own social network. Or at least, more players can be involved.
+I'm not saying a distributed social network can't be done. I'm not interested in excuses. I'm saying it *can* be done. The people can own their own social network. Or at least, more players can be involved.
 
 I'm not the guy for the job of revolutionizing the social networks. But somewhere there is just such a person. And if you are that person or you know that person, maybe you should try this. I've laid out some major points I think you'd have to hit. Heck, maybe Diaspora is still viable, if it has good leadership and can find an attractive niche objective.
 
