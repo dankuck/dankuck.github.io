@@ -2,9 +2,9 @@
 layout: post
 title: "The Time I Didn't Revolutionize Social Networking"
 page_img: /assets/10272222124_386d09566d_z.jpg
-page_img_desc: "There's no way to make distributed social networking sexy."
+page_img_desc: "Don't try to make distributed social networking sexy."
 no_ad: 1
-draft: 1
+draft: 
 ---
 
 I once created a brand new social network called the Socknet. Like email, it was distributed; anyone could open their own site on the Socknet and have full control of it.
