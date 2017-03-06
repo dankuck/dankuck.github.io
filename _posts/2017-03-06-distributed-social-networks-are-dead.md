@@ -96,14 +96,14 @@ So email was distributed because it had to be.
 
 <div class="illustration">
     <img src="/assets/1024px-NeoCube.jpg" />
-    Users feel a magnetic pull to the best service, not to a panopoly of services offering the same thing.
+    Users feel a magnetic pull to the best service, not to a panoply of services offering the same thing.
 </div>
 
 That's a tall order at this late date. If the idea of email was invented today, someone would sell it. There would be one big company selling the idea of sending messages to your office mates and other businesses. There would be competitors, but they would mostly die away because the biggest one refused to interoperate.
 
 But the other side of the coin would be the way email would have ramped up. Without the need to interoperate, there's a lot more room for improvement.
 
-Suddenly you'd be able to broadcast your current status to anyone interested. And you'd be able to join special groups and choose certain businesses to get updates from. And you'd be able to make messages visible to everyone instead of just specific recipients. And hashtag them. 
+Suddenly you'd be able to broadcast your current status to anyone interested. And you'd be able to join special groups and choose certain businesses to get updates from. And you'd be able to make messages visible to everyone instead of just specific recipients. And hash tag them. 
 
 All these innovations would be the product of the capitalist machine trying to keep the thing relevant and attractive to more and more people.
 
