@@ -121,6 +121,7 @@ For my part, I think there are simpler things I can revolutionize.
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fdankuck%2Fposts%2F10210183615321112&width=500" width="500" height="520" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
-
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The Time I Didn&#39;t Revolutionize Social Networking<a href="https://t.co/bCSUVOvSQm">https://t.co/bCSUVOvSQm</a> <a href="https://t.co/pbyHLVErUY">pic.twitter.com/pbyHLVErUY</a></p>&mdash; Dan Kuck-Alvarez (@dankuck) <a href="https://twitter.com/dankuck/status/838870541767442432">March 6, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <small>Page image by <a href="https://www.flickr.com/photos/39908901@N06/10272222124">m01229</a>.</small>
