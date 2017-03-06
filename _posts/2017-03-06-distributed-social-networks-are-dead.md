@@ -119,4 +119,8 @@ I'm not the guy for the job of revolutionizing the social networks. But somewher
 
 For my part, I think there are simpler things I can revolutionize.
 
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fdankuck%2Fposts%2F10210183615321112&width=500" width="500" height="520" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+
+
+
 <small>Page image by <a href="https://www.flickr.com/photos/39908901@N06/10272222124">m01229</a>.</small>
