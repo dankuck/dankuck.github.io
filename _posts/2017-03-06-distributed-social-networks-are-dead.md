@@ -32,7 +32,7 @@ This kind of project has to have a distributed start with a lot of input from a 
 
 I didn't do any of that. I treated my social network like a toy I was building. I didn't have any of the leadership skills needed for a project like this.
 
-<h3>Clear Objective</h3>
+<h3>Have A Clear Objective</h3>
 
 <div class="illustration">
     <img src="/assets/Social_Network_Analysis_Visualization.png" />
