@@ -19,7 +19,7 @@ And I have some thoughts.
 
 <div class="illustration">
     <img src="/assets/chair-sits-in-an-empty-room-1473238758f5T.jpg" />
-    Oh, did I forget to invite anyone?
+    Oh, I forgot to invite anyone.
 </div>
 
 The major mistake I made, and which most similar projects make, is to attempt to solve the problem before gathering a community. (The second mistake I made was to never gather a community at all.)
@@ -35,7 +35,7 @@ I didn't do any of that. I treated my social network like a toy I was building. 
 <h3>Clear Objective</h3>
 
 <div class="illustration">
-    <img src="/assets/Social_Network_Analysis_Visualization.jpg" />
+    <img src="/assets/Social_Network_Analysis_Visualization.png" />
     We have 203 objectives, so we have 101 ½ social networks.
 </div>
 
@@ -51,7 +51,7 @@ But it wasn't enough to grow into a sustainable system. The objective wasn't uni
 
 <div class="illustration">
     <img src="/assets/South_Shetland-2016-Deception_Island–Chinstrap_penguin_(Pygoscelis_antarctica)_04.jpg" />
-    Socknet was quite niche, only truly targeting my interests.
+    Socknet was niche. Too niche. This is me, being the only person on Socknet.
 </div>
 
 Like with any endeavor, what we each should have looked for was a niche. A small community could rally around a network and call it theirs. Twitter courted the tech community. Facebook won over the college community.
