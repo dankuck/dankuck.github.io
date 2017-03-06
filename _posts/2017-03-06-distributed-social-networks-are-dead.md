@@ -11,7 +11,7 @@ I once created a brand new social network called the Socknet. Like email, it was
 
 It went exactly nowhere, and I let all the domains expire five years later. It was an entirely predictable failure, but I learned a few things.
 
-When I had done all the grunt work and was wondering where to go next (and where to find the time), the Diaspora project launched their Kickstarter with a very similar objective. Today Diaspora seems to have reached the end of its rope. Though it is not as big a failure as my failure.
+When I had done all the grunt work and was wondering where to go next (and where to find the time), the Diaspora project launched their Kickstarter with a very similar objective. Today Diaspora seems to have reached the end of its rope.
 
 And I have some thoughts.
 
