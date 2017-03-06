@@ -17,6 +17,11 @@ And I have some thoughts.
 
 <h3>My Major Malfunction</h3>
 
+<div class="illustration">
+    <img src="/assets/chair-sits-in-an-empty-room-1473238758f5T.jpg" />
+    Oh, did I forget to invite anyone?
+</div>
+
 The major mistake I made, and which most similar projects make, is to attempt to solve the problem before gathering a community. (The second mistake I made was to never gather a community at all.)
 
 This kind of endeavor can only be accomplished by a major push from lots of people.
@@ -29,6 +34,11 @@ I didn't do any of that. I treated my social network like a toy I was building. 
 
 <h3>Clear Objective</h3>
 
+<div class="illustration">
+    <img src="/assets/Social_Network_Analysis_Visualization.jpg" />
+    We have 203 objectives, so we have 101 ½ social networks.
+</div>
+
 Other than an army of contributors and a leader, a project like this must have a clear and attractive objective. For myself and for the creators of Diaspora, the objective was to take back our social network. We saw how important Facebook and Twitter would continue to be into the future. And we wanted to give power to the people.
 
 But the trouble is, most people aren't concerned with idealism of this sort. Each person on earth picks their own thing to be idealistic about. So most people don't pick "controlling my own messaging system".
@@ -38,6 +48,11 @@ Diaspora made a big deal of their intention to solve Facebook's most recent mist
 But it wasn't enough to grow into a sustainable system. The objective wasn't universally appealing. It wasn't even very appealing to the people who claimed to be interested.
 
 <h3>Find A Niche</h3>
+
+<div class="illustration">
+    <img src="/assets/South_Shetland-2016-Deception_Island–Chinstrap_penguin_(Pygoscelis_antarctica)_04.jpg" />
+    Socknet was quite niche, only truly targeting my interests.
+</div>
 
 Like with any endeavor, what we each should have looked for was a niche. A small community could rally around a network and call it theirs. Twitter courted the tech community. Facebook won over the college community.
 
@@ -50,6 +65,12 @@ Once you can sell your audience on your main focus, you can start to amass them.
 This is also why Google Wave and Google Plus were big flops. They tried to be everything to everyone and so they could neither accomplish major goals nor define themselves to visitors.
 
 <h3>What About Email?</h3>
+
+<div class="illustration">
+    <img src="/assets/Ken_Thompson_(sitting)_and_Dennis_Ritchie_at_PDP-11_(2876612463).jpg" />
+    Hint: Computers looked like this when email was invented.
+</div>
+
 
 Email is still the most vital service available on the Internet, and it has all the features we were trying to add to social networks.
 
@@ -65,15 +86,18 @@ It was absurd to think, in the mid-1970's, that everyone would use one system so
 
 What if that system was down? What if it was full? Who maintains this system? What do they get out of it? Do we pay them?
 
-Instead of trying to make one email system for everyone, omeone sat down and said "We can do this together. This isn't that hard. We just need to get these computers to say the right things about email to each other. Five to eight commands ought to be sufficient."
+Instead of trying to make one email system for everyone, the community got together and came up with a standard so different mainframes could send each other messages.
 
-So they wrote up a proposal, and they sent it to everyone. The community was small and it was possible to get your message out to everyone who knew anything about networked computers.
+There was some back and forth and finally they settled on what these computers would say to each other. Then people changed existing email programs to fit the specifications they had come up with.
 
-There was some back and forth and finally they settled on what these computers would say to each other. Then people wrote computer programs to fit the specifications they had come up with.
-
-So email was distributed by necessity and because it grew up organically.
+So email was distributed because it had to be.
 
 <h3>The Necessity Is Gone</h3>
+
+<div class="illustration">
+    <img src="/assets/1024px-NeoCube.jpg" />
+    Users feel a magnetic pull to the best service, not to a distribution.
+</div>
 
 That's a tall order at this late date. If the idea of email was invented today, someone would sell it. There would be one big company selling the idea of sending messages to your office mates and other businesses. There would be competitors, but they would mostly die away because the biggest one refused to interoperate.
 
@@ -91,6 +115,6 @@ If social networks can be reworked as a distributed system that isn't owned by a
 
 I'm not saying it can't be done. That would just be an excuse for my failure. I'm saying it *can* be done. The people can own their own social network. Or at least, more players can be involved.
 
-I'm not the guy for the job of revolutionizing the social networks. But somewhere there is just such a person. And if you are that person or you know that person, maybe you should try this. I've laid out some major points I think you'd have to hit.
+I'm not the guy for the job of revolutionizing the social networks. But somewhere there is just such a person. And if you are that person or you know that person, maybe you should try this. I've laid out some major points I think you'd have to hit. Heck, maybe Diaspora is still viable, if it has good leadership and can find an attractive niche objective.
 
 For my part, I think there are simpler things I can revolutionize.
