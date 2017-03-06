@@ -54,7 +54,7 @@ But it wasn't enough to grow into a sustainable system. The objective wasn't uni
     Socknet was niche. Too niche. This is me, being the only person on Socknet.
 </div>
 
-Like with any endeavor, what we each should have looked for was a niche. A small community could rally around a network and call it theirs. Twitter courted the tech community. Facebook won over the college community.
+What each project should have looked for was a niche. A small community must rally around the network and call it theirs. Twitter courted the tech community. Facebook won over the college community.
 
 These limited communities provided the beta testers necessary to get all the kinks out of those services. Facebook and Twitter were able to create an impression about what they were each *for* by targeting the interests of those limited audiences. Then they opened the gates.
 
