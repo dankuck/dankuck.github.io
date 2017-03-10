@@ -24,3 +24,7 @@ Before Twitter and other social media, it was difficult for a news writer to twi
 Now you have your choice of opinion flavors. Mix cherry and lime if you want to. You can write whatever story you want.
 
 I get skeptical when I see tweets in a news article.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Twitter is a chance for news writers to find support for any story they feel like telling. Ignore tweets in news. <a href="https://t.co/F2D3r1f87z">https://t.co/F2D3r1f87z</a> <a href="https://t.co/RinEKO1bHk">pic.twitter.com/RinEKO1bHk</a></p>&mdash; Dan Kuck-Alvarez (@dankuck) <a href="https://twitter.com/dankuck/status/840255729013518336">March 10, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
