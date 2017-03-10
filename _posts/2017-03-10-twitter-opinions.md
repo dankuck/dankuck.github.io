@@ -28,3 +28,4 @@ I get skeptical when I see tweets in a news article.
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Twitter is a chance for news writers to find support for any story they feel like telling. Ignore tweets in news. <a href="https://t.co/F2D3r1f87z">https://t.co/F2D3r1f87z</a> <a href="https://t.co/RinEKO1bHk">pic.twitter.com/RinEKO1bHk</a></p>&mdash; Dan Kuck-Alvarez (@dankuck) <a href="https://twitter.com/dankuck/status/840255729013518336">March 10, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fdankuck%2Fposts%2F10210221878077657&width=500" width="500" height="408" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
