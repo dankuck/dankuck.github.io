@@ -4,7 +4,7 @@ title: "Tractor On Roof"
 page_img_thumb: https://pbs.twimg.com/media/C6lmwtwWYAEIkxg.jpg
 page_img_desc: ""
 no_ad: 1
-draft: 1
+draft: 
 ---
 
 I <a href="https://www.facebook.com/photo.php?fbid=10210109446066927&set=gm.1350105725053298&type=3&theater">made this</a> for the <a href="https://www.facebook.com/groups/1144470838950122/">rUUUse</a> Facebook group. The idea is from A. my six-year-old daughter.
