@@ -13,7 +13,7 @@ Twitter has 319 million active users all over the world. Every newsworthy event 
 
 The more opinions you have to choose from, the easier it is to tell whatever you already believe about a story. But if you looked at all the responses on Twitter, you'd get a different story.
 
-I'm call it Tweet Mining.
+I call it Tweet Mining.
 
 When Barack Obama famously said "<a href="https://en.wikipedia.org/wiki/You_didn't_build_that">You didn't build that</a>", he wanted to point out that entrepreneurs depend on infrastructure provided by government. Some journalists quote mined this statement to give a very different message. His full words showed his real meaning.
 
