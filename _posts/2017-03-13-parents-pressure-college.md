@@ -4,7 +4,7 @@ title: "Do most students go to university because they are pressured by society 
 page_img: https://qph.ec.quoracdn.net/main-thumb-t-1337-200-Id3n3Y2yy2vcqrTzceIyBPtPLJUS8T9K.jpeg
 page_img_desc: ""
 no_ad: 1
-draft: 1
+draft: 
 ---
 
 I found this question <a href="https://www.quora.com/Do-most-students-go-to-university-because-they-are-pressured-by-society-and-their-parents/">on Quora</a>.
