@@ -4,7 +4,7 @@ title: "Why aren't there alot of waves in Florida?"
 page_img: https://qph.ec.quoracdn.net/main-thumb-t-2365-200-nceyqqnocexzmjtvyydwuqjjgkxivjkg.jpeg
 page_img_desc: ""
 no_ad: 1
-draft: 1
+draft: 
 ---
 
 I found this question <a href="https://www.quora.com/Why-arent-there-alot-of-waves-in-Florida/">on Quora</a>.
