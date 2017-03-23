@@ -46,3 +46,5 @@ Bolivia has seen a booming economy for the last decade. Some like to attribute t
 After taking office in 2005, Bolivian President Evo Morales kicked out the United States' Drug Enforcement Agency. Morales ran a pro-coca, pro-socialist, pro-change campaign. Of all those pros, one of them had to work out for the best. It turns out by kicking out the DEA, he was opening a free market for the coca leaf and for cocaine, its most popular derivative product.
 
 Bolivia has consistently taught me lessons about the free market, from its creative endeavors like professional crying, to more established industries like drug production. I don't applaud all of them, but I'm consistently impressed.
+
+On the other hand, Bolivians complain that it takes a long time to get a business permit from their centralized government. Maybe things aren't as simple as they look.
