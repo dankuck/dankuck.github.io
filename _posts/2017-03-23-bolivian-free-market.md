@@ -30,9 +30,9 @@ Unless you have cash. Chances are good someone will sell you their place near th
 
 ### Professional Criers
 
-Each year on November 2nd, All Saints Day is celebrated with typical South American tardiness and flare. You get together with your family to share a meal at the graves of your dearly departed kin.
+Each year on November 2nd, All Saints Day is celebrated with typical South American tardiness and flare. You get together with your family and share a meal at the graves of your dearly departed kin.
 
-If you feel the need to cry, but you just can't muster up any tears, don't worry. At any moment you could be addressed by a lady offering to do it for you, for a small price. And the Beatles said money can't buy love.
+If you feel the need to cry, but you just can't muster up any tears, don't worry. At any moment you could be addressed by a lady offering to cry for your loved ones in your place, for a small price. And the Beatles said money can't buy love.
 
 ### Cocaine
 
@@ -41,7 +41,7 @@ If you feel the need to cry, but you just can't muster up any tears, don't worry
     Coca leaves are chewed for the same purpose as caffeine.
 </div>
 
-Bolivia has seen a boom in its economy for the last decade. Some like to attribute this to their leftist regime change. Other less optimistic analysts point to the most obvious boom industry in Bolivia, cocaine.
+Bolivia has seen a booming economy for the last decade. Some like to attribute this to their leftist regime change. Other less optimistic analysts point to the most obvious boom industry in Bolivia, cocaine.
 
 After taking office in 2005, Bolivian President Evo Morales kicked out the United States' Drug Enforcement Agency. Morales ran a pro-coca, pro-socialist, pro-change campaign. Of all those pros, one of them had to work out for the best. It turns out by kicking out the DEA, he was opening a free market for the coca leaf and for cocaine, its most popular derivative product.
 
