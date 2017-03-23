@@ -43,7 +43,7 @@ If you feel the need to cry, but you just can't muster up any tears, don't worry
 
 Bolivia has seen a booming economy for the last decade. Some like to attribute this to their leftist regime change. Other less optimistic analysts point to the most obvious boom industry in Bolivia, cocaine.
 
-After taking office in 2005, Bolivian President Evo Morales kicked out the United States' Drug Enforcement Agency. Morales ran a pro-coca, pro-socialist, pro-change campaign. Of all those pros, one of them had to work. It turns out by kicking out the DEA, he was opening a free market for the coca leaf and for the export of cocaine, its most popular derivative product. Well, it's a market anyway. It's not really free because it's still illegal.
+After taking office in 2005, Bolivian President Evo Morales kicked out the United States' Drug Enforcement Agency. Morales ran a pro-coca, pro-socialist, pro-change campaign. Of all those pros, one of them had to work. It turns out by kicking out the DEA, he was opening a free market for the coca leaf and for the export of cocaine, its most popular derivative product. Well, it's a market anyway. It's not quite free, because cocaine is still illegal on paper.
 
 Bolivia has consistently taught me lessons about the free market, from its creative endeavors like professional crying, to more established industries like drug production. I don't applaud all of them, but I'm consistently impressed.
 
