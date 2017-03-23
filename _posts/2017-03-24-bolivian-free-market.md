@@ -24,7 +24,7 @@ Here political parties accuse each other of paying people to protest. In Bolivia
     Sorry, you forgot to fill out form H-27.
 </div>
 
-To replace your expired government issued ID in Bolivia, you need to wait in line at a place like the DMV. So you wake up, have your tea, then head out the door at 8 to discover the line is already around the block. Some of these people have been waiting since 4 AM. You're in for a dull morning.
+To replace your expired government issued ID in Bolivia, you need to wait in line at a government office. So you wake up, have your tea, then head out the door at 8 to discover the line is already around the block. Some of these people have been waiting since 4 AM. You're in for a dull morning.
 
 Unless you have cash. Chances are good someone will sell you their place near the front of the line. Several of the people in line don't even need their ID's replaced. They're just waiting so they can sell their place to you.
 
