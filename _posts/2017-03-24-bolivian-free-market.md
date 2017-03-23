@@ -38,7 +38,7 @@ If you feel the need to cry, but you just can't muster up any tears, don't worry
 
 <div class="illustration">
     <img src="/assets/Folha_de_coca.jpg" />
-    Coca leaves are chewed for a pick-me-up like coffee.
+    Coca leaves are chewed as a pick-me-up, like coffee.
 </div>
 
 Bolivia has seen a booming economy for the last decade. Some like to attribute this to their leftist regime change. Other less optimistic analysts point to the most obvious boom industry in Bolivia, cocaine.
