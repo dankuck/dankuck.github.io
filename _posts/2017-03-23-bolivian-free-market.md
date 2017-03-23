@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bolivian Free Market"
+title: "Bolivia Understands Free Markets"
 page_img: /assets/Boliviancurrency.jpg
 page_img_desc: ""
 no_ad: 1
