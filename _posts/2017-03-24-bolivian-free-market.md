@@ -4,7 +4,7 @@ title: "Bolivia Understands Free Markets"
 page_img: /assets/Boliviancurrency.jpg
 page_img_desc: ""
 no_ad: 1
-draft: 1
+draft: 
 ---
 
 I have done a lot of traveling to just one country, and so I tend to start too many sentences with "In Bolivia...".
