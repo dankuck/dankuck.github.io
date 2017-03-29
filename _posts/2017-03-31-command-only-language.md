@@ -30,11 +30,6 @@ COE: Hey you, bring me a glass of water.
 ```
 
 ```
-English: I can't hear you.
-COE: Hey you, speak louder.
-```
-
-```
 English: Hello!
 COE: Hey you, respond to me (so I know you are listening).
 ```
