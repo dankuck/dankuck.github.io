@@ -21,37 +21,31 @@ Here are some translations from normal English into command-only English. They a
 
 ```
 English: I need a drink of water.
-
 COE: Hey you, bring me a glass of water.
 ```
 
 ```
 English: I can't hear you.
-
 COE: Hey you, speak louder.
 ```
 
 ```
 English: Hello!
-
 COE: Hey you, respond to me (so I know you are listening).
 ```
 
 ```
 English: There are too many boxes to load onto this truck.
-
 COE: Hey you, get another truck for these boxes.
 ```
 
 ```
 English: Karen finished the TPS reports.
-
 COE: Hey you, remember that the TPS reports are finished. Hey you, remember that Karen was the one who finished them.
 ```
 
 ```
 English: I'm done with all my work, what should I do now?
-
 COE: Hey you, issue me a new task.
 ```
 
