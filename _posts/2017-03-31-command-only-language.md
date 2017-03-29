@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Command-Only English Would Lack Charm"
+title: "Computer Languages Are Rude"
 page_img: /assets/16010-female-hands-typing-on-a-laptop-keyboard-pv.jpg
 page_img_desc: ""
 no_ad: 1
@@ -22,7 +22,7 @@ But if you want to say something like "There are too many boxes to load onto thi
 
 Anything you say in command-only languages like computer languages must make your expectations clear.
 
-Here are some translations from normal English into command-only English. They all start with "Hey you" because otherwise the imperative tense is sometimes ambiguous in English, and because it's funnier.
+Here are some translations from complete English into command-only English. They all start with "Hey you" because otherwise the imperative tense is sometimes ambiguous in English, and because it's funnier.
 
 ```
 English: I need a drink of water.
@@ -55,9 +55,9 @@ English: I'm done with all my work, what should I do now?
 COE: Hey you, issue me a new task.
 ```
 
-In all of the normal English versions, there is an implication about what you should do with the information. Command-only English makes that implication explicit.
+In all of the complete English versions, there is an implication about what you should do with the information. Command-only English makes that implication explicit.
 
-Command-only English is a stripped down version of normal English. And so it's simpler than normal English. Imagine if instead of saying "How are you?" to your coworkers every morning, you would instead say "Hey you, acknowledge my presence." It loses some of the charm, but it removes the ambiguity over whether you actually want to know their state. 
+Command-only English is a stripped down version of complete English. And so it's simpler than complete English. Imagine if instead of saying "How are you?" to your coworkers every morning, you would instead say "Hey you, acknowledge my presence." It loses some of the charm, but it removes the ambiguity over whether you actually want to know their state. 
 
 <div class="illustration">
     <img src="/assets/tea-556777_960_720.jpg" />
@@ -66,4 +66,4 @@ Command-only English is a stripped down version of normal English. And so it's s
 
 If you want to know how they're doing, you'll command them "Hey you, tell me your current state". Then they'll command you to know that they are dreading the oblivion toward which we are all marching. They might then command you to bring them coffee while you're getting yourself some.
 
-All in all, I prefer the charm of normal English. But for practical matters, like computers, it's nice to have a simplified alternative.
+All in all, I prefer the charm of complete English. But for practical matters, like computers, it's nice to have a simplified alternative.
