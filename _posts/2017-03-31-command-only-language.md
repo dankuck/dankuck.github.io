@@ -41,7 +41,8 @@ COE: Hey you, get another truck for these boxes.
 
 ```
 English: Karen finished the TPS reports.
-COE: Hey you, remember that the TPS reports are finished. Hey you, remember that Karen was the one who finished them.
+COE: Hey you, remember that the TPS reports are finished. 
+     Hey you, remember that Karen was the one who finished them.
 ```
 
 ```
