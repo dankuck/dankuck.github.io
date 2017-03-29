@@ -64,6 +64,6 @@ Command-only English is a stripped down version of complete English. And so it's
     A charming tea time begins when the host says "Hey you, drink this."
 </div>
 
-If you want to know how they're doing, you'll command them "Hey you, tell me your current state". Then they'll command you to know that they are dreading the oblivion toward which we all march. They might then command you to bring them coffee while you're getting yourself some.
+If you want to know how they're doing, you'll command them "Hey you, tell me your current state". Then they'll command you to know that they are dreading the oblivion we all march toward. They might then command you to bring them coffee while you're getting yourself some.
 
 All in all, I prefer the charm of complete English. But for practical matters, like computers, it's nice to have a simplified alternative.
