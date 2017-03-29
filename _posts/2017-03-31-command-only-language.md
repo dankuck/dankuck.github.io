@@ -55,9 +55,14 @@ English: I'm done with all my work, what should I do now?
 COE: Hey you, issue me a new task.
 ```
 
+```
+English: You're a sack of crap.
+COE: Hey you, quit being a sack of crap.
+```
+
 In all of the complete English versions, there is an implication about what you should do with the information. Command-only English makes that implication explicit.
 
-Command-only English is a stripped down version of complete English. And so it's simpler than complete English. Imagine if instead of saying "How are you?" to your coworkers every morning, you would instead say "Hey you, acknowledge my presence." It loses some of the charm, but it removes the ambiguity over whether you actually want to know their state. 
+Command-only English is a stripped down version of complete English. It has fewer ways to say things, and so it's simpler than complete English. Imagine if instead of saying "How are you?" to your coworkers every morning, you would say "Hey you, acknowledge my presence." It loses some of the charm, but it removes the ambiguity over whether you actually want to know their state. 
 
 <div class="illustration">
     <img src="/assets/tea-556777_960_720.jpg" />
