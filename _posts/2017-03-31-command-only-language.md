@@ -9,7 +9,7 @@ draft: 1
 
 When I was a high school computer science teacher, students liked to stump me with English phrases to translate into the computer language Java.
 
-Computer languages are conceived of as actual languages, not just magic spells you chant over a keyboard. So there should be translations for anything we want to say from English to a computer language. In practice, it gets tricky.
+Computer languages are designed as actual languages, not just magic spells you chant over a keyboard. So there should be translations for anything from English to a computer language. In practice, it gets tricky.
 
 The difficulty arises because computers only understand commands. In spoken languages, this is called the imperative tense, such as "Hey you, load those boxes onto those trucks."
 
@@ -64,6 +64,6 @@ Command-only English is a stripped down version of complete English. And so it's
     A charming tea time begins when the host says "Hey you, drink this."
 </div>
 
-If you want to know how they're doing, you'll command them "Hey you, tell me your current state". Then they'll command you to know that they are dreading the oblivion toward which we are all marching. They might then command you to bring them coffee while you're getting yourself some.
+If you want to know how they're doing, you'll command them "Hey you, tell me your current state". Then they'll command you to know that they are dreading the oblivion toward which we all march. They might then command you to bring them coffee while you're getting yourself some.
 
 All in all, I prefer the charm of complete English. But for practical matters, like computers, it's nice to have a simplified alternative.
