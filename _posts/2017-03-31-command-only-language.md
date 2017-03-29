@@ -7,7 +7,7 @@ no_ad: 1
 draft: 1
 ---
 
-When I was a high school computer science teacher, students liked to stump me with English phrases they wanted me to translate into the computer language Java.
+When I was a high school computer science teacher, students liked to stump me with English phrases to translate into the computer language Java.
 
 Computer languages are conceived of as actual languages, not just magic spells you chant over a keyboard. So there should be translations for anything we want to say from English to a computer language. In practice, it gets tricky.
 
