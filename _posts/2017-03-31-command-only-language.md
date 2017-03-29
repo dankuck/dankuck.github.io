@@ -7,9 +7,9 @@ no_ad: 1
 draft: 1
 ---
 
-When I was a high school computer science teacher, students often asked me how you would translate certain English phrases to Java, the computer language we worked with.
+When I was a high school computer science teacher, students liked to stump me with English phrases they wanted me to translate into the computer language Java.
 
-Computer languages are concieved of as actual languages, not just magic spells you chant over a keyboard. So there should be translations for anything we want to say from English to a computer language. But it's a little tricky.
+Computer languages are concieved of as actual languages, not just magic spells you chant over a keyboard. So there should be translations for anything we want to say from English to a computer language. In practice, it gets tricky.
 
 The difficulty arrises because computers only understand commands. In spoken languages, this is called the imperative tense, such as "Hey you, load those boxes onto those trucks."
 
@@ -20,9 +20,9 @@ The difficulty arrises because computers only understand commands. In spoken lan
 
 But if you want to say something like "There are too many boxes to load onto this truck," the way to express that is not obvious. Mainly because it's not clear to the computer what you expect it to do with that information.
 
-Whatever you want to say in a command-only language, such as a computer language, must make clear your expectations.
+Anything you say in command-only languages like computer languages must make your expectations clear.
 
-Here are some translations from normal English into command-only English. They all start with "Hey you" because otherwise the imperative tense is sometimes unclear in English, and because it's funnier.
+Here are some translations from normal English into command-only English. They all start with "Hey you" because otherwise the imperative tense is sometimes ambiguous in English, and because it's funnier.
 
 ```
 English: I need a drink of water.
