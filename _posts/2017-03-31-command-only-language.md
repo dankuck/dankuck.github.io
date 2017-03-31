@@ -69,3 +69,6 @@ If you want to know how they're doing, you'll command them "Hey you, tell me you
 All in all, I prefer the charm of complete English. But for practical matters, like computers, it's nice to have a simplified alternative.
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fdankuck%2Fposts%2F10210387173049928&width=500" width="500" height="501" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Computer languages are not exactly charming. <a href="https://t.co/Q4WhsJjtzt">https://t.co/Q4WhsJjtzt</a> <a href="https://t.co/O2VzCx7xCV">pic.twitter.com/O2VzCx7xCV</a></p>&mdash; Dan Kuck-Alvarez (@dankuck) <a href="https://twitter.com/dankuck/status/847826008736661506">March 31, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
