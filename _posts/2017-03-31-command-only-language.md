@@ -67,3 +67,5 @@ Command-only English is a stripped down version of complete English. It has fewe
 If you want to know how they're doing, you'll command them "Hey you, tell me your current state". Then they'll command you to know that they are dreading the oblivion we all march toward. They might then command you to bring them coffee while you're getting yourself some.
 
 All in all, I prefer the charm of complete English. But for practical matters, like computers, it's nice to have a simplified alternative.
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fdankuck%2Fposts%2F10210387173049928&width=500" width="500" height="501" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
