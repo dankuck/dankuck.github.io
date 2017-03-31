@@ -4,7 +4,7 @@ title: "Computer Languages Are Rude"
 page_img: /assets/16010-female-hands-typing-on-a-laptop-keyboard-pv.jpg
 page_img_desc: ""
 no_ad: 1
-draft: 1
+draft: 
 ---
 
 When I was a high school computer science teacher, students liked to stump me with English phrases to translate into the computer language Java.
