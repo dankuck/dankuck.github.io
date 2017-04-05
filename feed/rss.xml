@@ -27,6 +27,8 @@ comment: "RSS for Jekyll by georgemandis. Find it here: https://github.com/danku
 
 						{% if page_img contains 'http://' %}
 							{% assign img_prepend_url = '' %}
+						{% elsif page_img contains 'https://' %}
+							{% assign img_prepend_url = '' %}
 						{% else %}
 							{% assign img_prepend_url = site.url %}
 						{% endif %}
