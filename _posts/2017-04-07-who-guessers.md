@@ -17,21 +17,23 @@ On each turn, the player asks the other a Yes/No question about their character.
 Does your character have a beard?
 
 No.
+```
 
 Then all characters with beards should be removed.
-```
 
 When you've eliminated all but one character you shout the name and win.
 
-If you're wrong, you lose. You're usually not wrong, but you are allowed to answer when ever you like. For example, if your opponent has two cards left on their board, then they are about to win, so you might be best off just guessing.
+If you're wrong, you lose. If you did it right you're not wrong. You could be wrong if you answered too early. For example, if your opponent has two cards left on their board, then they are about to win, so you might be best off just guessing from the cards you have remaining.
+
+So the game is all about asking the right questions. Any strategy you use will be about that.
 
 To really determine what strategy is the best, I built a simulator.
 
-<a href="https://dankuck.github.io/who-guessers/">Who Guessers</a>
+<a href="https://dankuck.github.io/who-guessers/">Play Who Guessers Now</a>
 
-<img src="/assets/Screen Shot 2017-04-05 at 5.57.47 PM.png" />
+<img src="/assets/Screen Shot 2017-04-05 at 5.57.47 PM.png" class="screenshot" />
 
-It allows anyone familiar with the JavaScript programming language to add a program for a new strategy. Then it makes them compete in hundreds of matches and records the statistics.
+It plays all the strategies it knows against each other in hundreds of matches and records the statistics. Anyone familiar with the JavaScript programming language can add new strategies, too.
 
 So far I've put in three strategies.
 
@@ -41,7 +43,7 @@ This should be nearly the worst strategy ever.
 
 SayAnything simply answers any name from its board immediately. It just guesses.
 
-Its only clever in one way. It eliminates the name of its own card from its list. Since cards come from a single deck, its opponent must clearly not have the same card.
+Its only clever in one way. It eliminates the name of its own card from its list. That's because any two opponents will never have the same card.
 
 ### PickAnyTrait
 
