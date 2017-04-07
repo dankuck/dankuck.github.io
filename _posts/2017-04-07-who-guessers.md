@@ -7,11 +7,16 @@ no_ad: 1
 draft: 1
 ---
 
-Guess Who has gotten popular at my house and as it has my obsession has grown.
+<a href="http://www.amazon.com/Winning-Moves-Games-1191-Guess/dp/B00S732WJE/ref=sr_1_2?s=toys-and-games&ie=UTF8&qid=1491586221&sr=1-2&keywords=guess+who+board+game&tag=dankuck-20">Guess Who</a> has gotten popular at my house and now I'm obsessed.
 
 It's a simple elimination game. Each player has a secret card with a face and name printed on it and a secret board of cards.
 
 On each turn, the player asks the other a Yes/No question about their character. Then they eliminate any characters on their board that don't match the answer.
+
+<div class="illustration">
+    <img src="/assets/guess-who.jpg" />
+    Leaving those unused deck cards exposed is a rookie mistake.
+</div>
 
 ```
 Does your character have a beard?
