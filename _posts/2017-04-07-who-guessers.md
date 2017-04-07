@@ -34,7 +34,7 @@ So the game is all about asking the right questions. Any strategy you use will b
 
 To really determine what strategy is the best, I built a simulator.
 
-<a href="https://dankuck.github.io/who-guessers/">Play Who Guessers Now</a>
+## <a href="https://dankuck.github.io/who-guessers/">Who Guessers</a>
 
 <img src="/assets/Screen Shot 2017-04-05 at 5.57.47 PM.png" class="screenshot" />
 
