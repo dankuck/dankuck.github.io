@@ -34,7 +34,7 @@ So the game is all about asking the right questions. Any strategy you use will b
 
 To really determine what strategy is the best, I built a simulator.
 
-## <a href="https://dankuck.github.io/who-guessers/">Who Guessers</a>
+<a href="https://dankuck.github.io/who-guessers/">Run Who Guessers Now</a>
 
 <img src="/assets/Screen Shot 2017-04-05 at 5.57.47 PM.png" class="screenshot" />
 
@@ -65,4 +65,7 @@ Because of the way the cards are designed by Hasbro, this means it always elimin
 ### Next Steps
 
 My next major push will be to improve the logs. Each match played has a log, but it's very sparse and so it is limited in how much it can help the designer to build a better strategy.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I built a Guess Who simulator so I can kick the pants off my six year old for a change. <a href="https://t.co/YXUZbI7dEZ">https://t.co/YXUZbI7dEZ</a> <a href="https://t.co/dHZ8ZpFjIu">pic.twitter.com/dHZ8ZpFjIu</a></p>&mdash; Dan Kuck-Alvarez (@dankuck) <a href="https://twitter.com/dankuck/status/850412290876768256">April 7, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
