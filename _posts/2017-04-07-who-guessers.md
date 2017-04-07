@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Who Guessers"
-page_img: 
+page_img: /assets/guess-who-close.jpg
 page_img_desc: ""
 no_ad: 1
 draft: 1
@@ -13,16 +13,16 @@ It's a simple elimination game. Each player has a secret card with a face and na
 
 On each turn, the player asks the other a Yes/No question about their character. Then they eliminate any characters on their board that don't match the answer.
 
-<div class="illustration">
-    <img src="/assets/guess-who.jpg" />
-    Leaving those unused deck cards exposed is a rookie mistake.
-</div>
-
 ```
 Does your character have a beard?
 
 No.
 ```
+
+<div class="illustration">
+    <img src="/assets/guess-who.jpg" />
+    I can see those those unused deck cards. Rookie mistake, little Emily.
+</div>
 
 Then all characters with beards should be removed.
 
