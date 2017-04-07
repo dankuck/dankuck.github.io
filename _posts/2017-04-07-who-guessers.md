@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Who Guessers"
+title: "Simulator for Guess Who to Find the Best Strategy"
 page_img: /assets/guess-who-close.jpg
 page_img_desc: ""
 no_ad: 1
@@ -11,7 +11,7 @@ draft:
 
 It's a simple elimination game. Each player has a secret card with a face and name printed on it and a secret board of cards.
 
-On each turn, the player asks the other a Yes/No question about their character. Then they eliminate any characters on their board that don't match the answer.
+On each turn, the player asks their opponent a Yes/No question about their secret character. Then they eliminate any characters on their board that don't match the answer.
 
 ```
 Does your character have a beard?
