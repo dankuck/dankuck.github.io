@@ -69,3 +69,4 @@ My next major push will be to improve the logs. Each match played has a log, but
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I built a Guess Who simulator so I can kick the pants off my six year old for a change. <a href="https://t.co/YXUZbI7dEZ">https://t.co/YXUZbI7dEZ</a> <a href="https://t.co/dHZ8ZpFjIu">pic.twitter.com/dHZ8ZpFjIu</a></p>&mdash; Dan Kuck-Alvarez (@dankuck) <a href="https://twitter.com/dankuck/status/850412290876768256">April 7, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fdankuck%2Fposts%2F10210452304238167&width=500" width="500" height="482" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
