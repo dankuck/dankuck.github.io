@@ -21,7 +21,7 @@ No.
 
 <div class="illustration">
     <img src="/assets/guess-who.jpg" />
-    I can see those those unused deck cards. Rookie mistake, little Emily.
+    I can see those unused deck cards. Rookie mistake, little Emily.
 </div>
 
 Then all characters with beards should be removed.
