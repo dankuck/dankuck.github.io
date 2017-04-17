@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "David de Milo"
-page_img_thumb: 
+page_img_thumb: https://pbs.twimg.com/media/C9nu2DKXoAEpGZ9.jpg
 page_img_desc: ""
 no_ad: 1
 draft: 
