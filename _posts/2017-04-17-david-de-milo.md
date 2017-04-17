@@ -4,7 +4,7 @@ title: "David de Milo"
 page_img_thumb: 
 page_img_desc: ""
 no_ad: 1
-draft: 1
+draft: 
 ---
 
 I <a href="https://www.facebook.com/photo.php?fbid=10210383651921902&set=gm.1384266074970596&type=3&theater">made this</a> for the <a href="https://www.facebook.com/groups/1144470838950122/">rUUUse</a> Facebook group. I think it wasn't very popular because the statue of David is hard to recognize without his arms.
