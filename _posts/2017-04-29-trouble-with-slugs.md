@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Trouble With Tags"
-page_img: /assets/Orange_slug.png
+page_img: /assets/Orange_slug.jpg
 page_img_desc: ""
 no_ad: 1
 draft: 
