@@ -47,3 +47,7 @@ A slug doesn't make sense for real tags. They are their names.
 A slug might not make sense for a post. Maybe a regular integer id makes sense there.
 
 A slug makes perfect sense for that middle ground.
+
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">How slugs will stop me from getting carried away with string identifiers. <a href="https://t.co/DkNbCtUWhR">https://t.co/DkNbCtUWhR</a> <a href="https://t.co/JVnnKQFdd5">pic.twitter.com/JVnnKQFdd5</a></p>&mdash; Dan Kuck-Alvarez (@dankuck) <a href="https://twitter.com/dankuck/status/858050101515882496">April 28, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
