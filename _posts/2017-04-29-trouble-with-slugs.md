@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The Trouble With Tags"
-page_img: /assets/tag.png
+page_img: /assets/Orange_slug.png
 page_img_desc: ""
 no_ad: 1
-draft: 1
+draft: 
 ---
 
 Last year I lead a project to produce a web service that included a lot of tag-type data.
