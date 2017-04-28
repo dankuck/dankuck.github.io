@@ -19,7 +19,7 @@ It started with `content_providers`. It's only kind of like a tag. In the databa
 
 But conceptually, it's very different. It's an umbrella that much of the rest of the data hangs from.
 
-And there are sub-content providers that have a lot more information involved. URL's, TTL's, and other configurations. That should have been a clue. But I went ahead and identified `content_providers` and the sub-content providers by name.
+And there are sub-providers that have a lot more information involved. URL's, TTL's, and other configurations. That should have been a clue. But I went ahead and identified `content_providers` and the sub-providers by name.
 
 The trouble came to light after the whole thing was built and the product team said "Let's make the name field editable." Sounded fine.
 
@@ -38,7 +38,7 @@ So I learned something about identifiers. Next time, I'll have these rules of th
     If anything happens, Desmond will be my constant.
 </div>
 
-There is a middle-ground. For these structures that are tag-like but have baggage and might need to change their names, the best identifier is a slug. That's a string identifier, usually with hyphens instead of spaces, based on the name of the item. And it doesn't change, even if the name does.
+There is a middle-ground. For these structures that are tag-like but have baggage and might need to change their names, the best identifier is a slug. That's a string identifier, usually with hyphens instead of spaces, based on the name of the item. It's easy to see and it doesn't change, even if the name does.
 
 A slug doesn't make sense for real tags. They can just use their names.
 
