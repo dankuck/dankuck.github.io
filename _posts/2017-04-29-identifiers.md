@@ -38,9 +38,11 @@ So I learned something about identifiers. Next time, I'll have these rules of th
     If anything happens, Desmond will be my constant.
 </div>
 
-There is a middle-ground. For these structures that are tag-like but have baggage and might need to change their names, the best identifier is a slug. That's a string identifier, usually with hyphens instead of spaces, based on the name of the item. It's easy to see and it doesn't change, even if the name does.
+There is a middle-ground. For these structures that are tag-like but have baggage and might need to change their names, the best identifier is a slug. 
 
-A slug doesn't make sense for real tags. They can just use their names.
+A slug is a string identifier based on the name of the item. `this-is-an-example`. It's easy to read and it doesn't change, even if the name does.
+
+A slug doesn't make sense for real tags. They are their names.
 
 A slug might not make sense for a post. Maybe a regular integer id makes sense there.
 
