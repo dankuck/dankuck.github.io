@@ -4,7 +4,7 @@ title: "Database Reporting Is Hard"
 page_img: 
 page_img_desc: ""
 no_ad: 1
-draft: 1
+draft: 
 ---
 
 The king of data storage is a kind of software called a relational database. MySQL, MS SQL, Postgre, and Oracle are some popular examples. They keep data in tables with rows and columns.
@@ -38,9 +38,9 @@ And oddly, there is no great advice on how to solve this problem. There's no mag
 
 The best strategy I've heard of is to keep a running count in another separate table. E.g., every time a photo row is added to the photos table, go over to the photos_count table and add 1 to the count field.
 
-This is a workable strategy. But it's not very friendly to the programmers who have to build and maintain it. There isn't a simple way to set this up. Instead it requires some careful thought. It may be quick a thought, but it's not effortless.
+This is a workable strategy. But it's not very friendly to the programmers who have to build and maintain it. There isn't a simple way to set this up. Instead it requires some careful thought. It may be quick to think up, but it's not effortless.
 
-And it's prone to errors. So it needs to have a refresh option that pulls all the data again, the slow way, and rebuilds the counting table.
+And it's prone to errors. So it needs to have a refresh option that occasionally pulls all the data again, the slow way, and rebuilds the counting table.
 
 The weirdest part is that I can't find a lot of discussion about this. Even though I have to make slow reports like these once or twice a year, I haven't found much advice for doing it right. There was nothing about it in any of my college classes.
 
