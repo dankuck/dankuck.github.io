@@ -46,4 +46,4 @@ The weirdest part is that I can't find a lot of discussion about this. Even thou
 
 Maybe I just haven't found the right search terms. I'd figure that if someone knows what to do here -- maybe someone who took a few more databases classes -- they would have mentioned something about it on Stack Overflow in response to some question.
 
-I hope someone will tell me they know the answer and that I've been dumb about in my search for this. In the meantime, I'll probably be solving this problem myself in a generalizable way for the Laravel PHP framework.
+I hope someone will tell me they know the answer and that I've been missing something obvious in my search for this. In the meantime, I'll probably be solving this problem myself in a generalizable way for the Laravel PHP framework.
