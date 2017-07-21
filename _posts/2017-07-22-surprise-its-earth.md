@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Was The Ending of Planet Of The Apes Really a Surprise?"
+title: "Was The End of Planet Of The Apes Really a Surprise?"
 page_img: /assets/Planet-of-the-Apes-1968-1.jpg
 page_img_desc: "You maniacs!"
 no_ad: 1
@@ -49,6 +49,13 @@ Recently we have started to demand that aliens speak something else and learn En
 But in 1968, everything spoke the language of the audience. No explanation was necessary.
 
 ## Didn't They Wonder About The Twist?
+
+
+<div class="illustration">
+    <img src="/assets/twist.jpg" />
+    They only see what they want to see. They don't know they're [on Earth the whole time].
+</div>
+
 
 Sixties audiences didn't expect twists.
 
