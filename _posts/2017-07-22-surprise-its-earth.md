@@ -1,15 +1,17 @@
 ---
 layout: post
-title: "Why Didn't You Expect Planet Of The Apes' Ending?"
-page_img: 
-page_img_desc: ""
+title: "Was The Ending of Planet Of The Apes Really a Surprise?"
+page_img: /assets/Planet-of-the-Apes-1968-1.jpg
+page_img_desc: "You maniacs!"
 no_ad: 1
 draft: 1
 ---
 
 Planet of the Apes blew audiences away in 1968. After an hour and 50 minutes of a great movie, its ending really stoked the audience's excitement.
 
-Now, everyone knows the ending going into the movie. And that's fine. It's fine that the ending is actually on the DVD cover, because the movie is so great. It's fine that Taylor's final words echoed in our everyday language for decades afterward, because it's about Taylor's journey. It's fine that we now know that Charlton Heston was on Earth all along, because the ending doesn't actually matter.
+Now, everyone knows the ending going into the movie. And that's fine. It's fine that the ending is spoiled by the DVD cover, because the movie is so great. 
+
+It's fine that Taylor's final words echoed in our everyday language for decades, because the film is about Taylor's journey. It's fine that we now know that Charlton Heston was on Earth all along, because the ending doesn't actually matter.
 
 They could have left the ending out. The film works great without it. They put it in as a big reveal to excite the audience.
 
