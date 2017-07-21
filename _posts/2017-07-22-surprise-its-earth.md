@@ -34,15 +34,15 @@ But this wasn't enough in the 1960's.
     When you use attractive humans, the audience stops asking questions.
 </div>
 
-That the planet was inhabited by humans was and still is the least useful clue. We still have no clue what an alien would look like. If they had been planning to populate a new planet, they would probably pick one like Earth. And Earth might just happen to have ape-like creatures on it. Including a few hairless ones.
+The least useful clue was that the planet was inhabited by humans. And it still is a terrible clue. We still have no clue what an alien would look like. The characters were planning to populate a new planet. They would probably pick one like Earth. And an Earth-like planet might just happen to have ape-like creatures on it. Including a few hairless ones.
 
 For a film, it makes perfect sense. In the 60's film makers didn't have the resources we have now. So if your brain started tingling with feelings of Maybe This Is a Clue, you probably just ignored it as "a movie can't be more advanced than this". Most people were used to this, and didn't get that brain tingle at all.
 
-## When The Apes Spoke English, Surely That Was A Clue
+## When The Apes Spoke English, Was That A Clue?
 
 There was a lot of lead up to the first ape speaking. And speaking English! This was a real clue.
 
-But to the audiences of 1968, it was easy to ignore. Star Trek was just getting popular and all of the aliens in that series spoke English. For a decade all sci-fi had everyone speak English.
+But to the audiences of 1968, it was easy to ignore. Star Trek was just getting popular and all of the aliens in that series spoke English. For the previous decade, all film and television sci-fi had everyone speak English.
 
 Recently we have started to demand that aliens speak something else and learn English. Or else they must explain how they know English. For realism.
 
@@ -61,5 +61,6 @@ Sixties audiences didn't expect twists.
 
 If I'm right, it explains a lot. Nobody had a tiny M. Night Shyamalan living in their brain in the 1960's. Every film has exposition. There are things constantly being revealed at just the right moment to astound the audience. But there weren't so many twists.
 
-It was natural for an audience to think that what they were told by the film was exactly the truth. We still do this most of the time. If we lost this trust, fiction wouldn't be fun anymore. But now we are on the look out for secrets, too.
+It was natural for an audience to think that what they were told by the film was exactly the truth. We still do this most of the time. Whenever a film loses our trust, we lose interest.
 
+But now, even when we trust a movie to be what it claims to be, we're on the look out for secrets, too.
