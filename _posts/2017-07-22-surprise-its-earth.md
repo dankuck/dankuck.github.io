@@ -4,7 +4,7 @@ title: "Was The End of Planet Of The Apes Really a Surprise?"
 page_img: /assets/Planet-of-the-Apes-1968-1.jpg
 page_img_desc: "You maniacs!"
 no_ad: 1
-draft: 1
+draft: 
 ---
 
 Planet of the Apes blew audiences away in 1968. After an hour and fifty minutes of a great movie, the end riled up the audience so they could drive home and tell their friends one at a time on their rotary dial telephones.
