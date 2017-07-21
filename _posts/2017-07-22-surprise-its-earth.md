@@ -7,13 +7,17 @@ no_ad: 1
 draft: 1
 ---
 
-Planet of the Apes blew audiences away in 1968. After an hour and 50 minutes of a great movie, its ending really stoked the audience's excitement.
+Planet of the Apes blew audiences away in 1968. After an hour and fifty minutes of a great movie, the end riled up the audience so they could drive home and tell their friends one at a time on their rotary dial telephones.
 
-Now, everyone knows the ending going into the movie. And that's fine. It's fine that the ending is spoiled by the DVD cover, because the movie is so great. 
+In 2017, most of us know the ending before we see the movie. And that's fine. 
 
-It's fine that Taylor's final words echoed in our everyday language for decades, because the film is about Taylor's journey. It's fine that we now know that Charlton Heston was on Earth all along, because the ending doesn't actually matter.
+It's fine that the ending is spoiled by the DVD cover, because the movie is so great. 
 
-They could have left the ending out. The film works great without it. They put it in as a big reveal to excite the audience.
+It's fine that Taylor's final words echoed in our everyday language for decades, because the film is about Taylor's journey. 
+
+It's fine that we now know that Charlton Heston was on Earth all along, because the ending doesn't actually matter.
+
+They could have left the ending out. The film is riveting even without it. The end is just a big reveal to excite the audience. The end is even exciting when you see it coming.
 
 But why didn't they see it coming?
 
@@ -24,6 +28,11 @@ There were a lot of clues to the ending. The planet had humans. The characters e
 But this wasn't enough in the 1960's.
 
 ## Weren't The Humans a Tipoff?
+
+<div class="illustration">
+    <img src="/assets/nova_and_taylor.jpg" />
+    When you use attractive humans, the audience stops asking questions.
+</div>
 
 That the planet was inhabited by humans was and still is the least useful clue. We still have no clue what an alien would look like. If they had been planning to populate a new planet, they would probably pick one like Earth. And Earth might just happen to have ape-like creatures on it. Including a few hairless ones.
 
