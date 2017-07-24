@@ -32,16 +32,16 @@ Some of these are based on books. My ratings do not reflect on the books.
 * [The Caller](https://www.youtube.com/watch?v=V4jMiH6cDtE)<br />Young lady gets horrified by old lady's phone calls from the past
 
 ### Dramatic Bad
-* Planet of the Apes (2001)
-* The Time Machine (2002)
-* The Time Traveler's Wife
-* The Lake House
-* Escape from the Planet of the Apes
+* Planet of the Apes (2001)<br />Marky Mark chases a monkey through space, but time is backwards so things go all wrong
+* The Time Machine (2002)<br />Fate is a jerk, so the scientists just goes to the future instead
+* The Time Traveler's Wife<br />Eric Bana travels through time while drunk, but he still can't act
+* The Lake House<br />It's like Speed but slower and there's a magic mailbox
+* Escape from the Planet of the Apes<br />People in ape masks look less realistic when they visit the 70's.
 
 ### Dramatic Ugly
-* Premonition
-* Sound of Thunder
-* Freejack
+* Premonition<br />Sandra Bullock can't make anything coherent
+* Sound of Thunder<br />They kill a butterfly or something
+* Freejack<br />Emelio Estevez should have died in a race car accident
 
 ## Comedy
 
@@ -51,21 +51,21 @@ Some of these are based on books. My ratings do not reflect on the books.
 
 ### Comedy Good
 
-* [Back to the Future](https://www.youtube.com/watch?v=UpEbGV-mjq0), [II](https://www.youtube.com/watch?v=hdEorlgVe-c), [III](https://www.youtube.com/watch?v=TSXf27_J8vw)
-* [Bill and Ted's Excellent Adventure](https://www.youtube.com/watch?v=tHL_Of_CZ1A)
-* [Groundhog Day](https://www.youtube.com/watch?v=8skEQx5w8Cs)
-* [Hot Tub Time Machine](https://www.youtube.com/watch?v=6f0R6atZcbQ)
-* [FAQ About Time Travel](https://www.youtube.com/watch?v=JfvA6iE_lWw)
-* [Flight of the Navigator](https://www.youtube.com/watch?v=YXLxrUTd9kk)
-* [Safety Not Guaranteed](https://www.youtube.com/watch?v=91FDjrG-XnY)
-* [Bill and Ted's Bogus Journey](https://www.youtube.com/watch?v=cPc-MeuUU10)
-* [Fetching Cody](https://www.amazon.com/Fetching-Cody-Barclay-Hope/dp/B001HCQVSK)
-* [Men in Black 3](https://www.youtube.com/watch?v=H0sbIxjUD1s)
+* [Back to the Future](https://www.youtube.com/watch?v=UpEbGV-mjq0), [II](https://www.youtube.com/watch?v=hdEorlgVe-c), [III](https://www.youtube.com/watch?v=TSXf27_J8vw)<br />A wild-eyed scientist and a kid make life hard for the town bully and his ancestors
+* [Bill and Ted's Excellent Adventure](https://www.youtube.com/watch?v=tHL_Of_CZ1A)<br />Future society makes sure that their idols pass their history exam
+* [Groundhog Day](https://www.youtube.com/watch?v=8skEQx5w8Cs)<br />Bill Murray hates a little Pennsylvania town so fate makes him stay there for maybe eternity
+* [Hot Tub Time Machine](https://www.youtube.com/watch?v=6f0R6atZcbQ)<br />Time travel antics in a hot tub
+* [FAQ About Time Travel](https://www.youtube.com/watch?v=JfvA6iE_lWw)><br />Time travel antics, but now it's in a British pub
+* [Flight of the Navigator](https://www.youtube.com/watch?v=YXLxrUTd9kk)<br />Florida boy abducted by aliens, confused by 80's culture
+* [Safety Not Guaranteed](https://www.youtube.com/watch?v=91FDjrG-XnY)<br />Aubrey Plaza answers a newspaper ad seeking a time travel companion
+* [Bill and Ted's Bogus Journey](https://www.youtube.com/watch?v=cPc-MeuUU10)<br />Bill and Ted again, but this time they die and go to hell
+* [Fetching Cody](https://www.amazon.com/Fetching-Cody-Barclay-Hope/dp/B001HCQVSK)<br />Guy tries to fix the crappy childhood of his girlfriend but generally mucks it up
+* [Men in Black 3](https://www.youtube.com/watch?v=H0sbIxjUD1s)<br />When Agent K was younger, he was that guy from Goonies
 
 ### Comedy Bad
-* Midnight in Paris
-* Meet the Robinsons
-* Teenage Mutant Ninja Turtles III
+* Midnight in Paris - Owen Wilson through time and there's a moral to be learned
+* Meet the Robinsons - It's like Dreamworks, but it's made by Disney
+* Teenage Mutant Ninja Turtles III - Teenage Mutant Ninja Turtles get magicked to ancient China
 
 ### Comedy Ugly
 None
