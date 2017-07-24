@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Time Travel Movies Ranked By Dan"
+title: "Time Travel Movies Ranked"
 page_img: /assets/51ZT6MjIXOL._SY300_.jpg
 page_img_desc: ""
 no_ad: 1
