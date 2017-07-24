@@ -7,9 +7,7 @@ no_ad: 1
 draft: 1
 ---
 
-I've seen and read a lot of time travel fiction. Here are my ratings for just movies. I don't think it's smart to compare dramatic time travel with comedic, so I split them up.
-
-Some of these are based on books. My ratings do not reflect on the books.
+I've seen and read a lot of time travel fiction. Here are my ratings for all the time travel movies I can remember. I don't think it's smart to compare dramatic time travel with comedic, so I split them up.
 
 <div style="clear: both"></div>
 
@@ -69,6 +67,8 @@ Some of these are based on books. My ratings do not reflect on the books.
 
 ### Comedy Ugly
 None
+
+Some of these are based on books. My ratings do not reflect on the books.
 
 I made most of this list in 2013 and got some good feedback on the following Facebook post. I haven't seen a lot of time travel movies in the last four years, pitifully. On the other hand, there are no new time travel ideas. Just new executions of the same ideas. So I haven't missed much.
 
