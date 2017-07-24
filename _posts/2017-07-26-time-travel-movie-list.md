@@ -13,11 +13,11 @@ Some of these are based on books. My ratings do not reflect on the books.
 
 ## Dramatic
 
-### Dramatic Good
-
-<div class="illustration">
+<div class="illustration" style="width: 150px">
     <img src="/assets/Primer_(2004_film_poster).jpg" />
 </div>
+
+### Dramatic Good
 
 * [Primer](https://www.youtube.com/watch?v=9A7fCKM4ERA)
 * [Looper](https://www.youtube.com/watch?v=1C3yDHl_MBM)
@@ -43,11 +43,11 @@ Some of these are based on books. My ratings do not reflect on the books.
 
 ## Comedy
 
-### Comedy Good
-
-<div class="illustration">
+<div class="illustration" style="width: 150px">
     <img src="/assets/51ZT6MjIXOL._SY300_.jpg" />
 </div>
+
+### Comedy Good
 
 * [Back to the Future](https://www.youtube.com/watch?v=UpEbGV-mjq0), [II](https://www.youtube.com/watch?v=hdEorlgVe-c), [III](https://www.youtube.com/watch?v=TSXf27_J8vw)
 * [Bill and Ted's Excellent Adventure](https://www.youtube.com/watch?v=tHL_Of_CZ1A)
