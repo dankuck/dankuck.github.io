@@ -25,7 +25,7 @@ Some of these are based on books. My ratings do not reflect on the books.
 * [The Caller](https://www.youtube.com/watch?v=V4jMiH6cDtE)
 
 ### Dramatic Bad
-* [Planet of the Apes (2001)]
+* Planet of the Apes (2001)
 * The Time Machine (2002)
 * The Time Traveler's Wife
 * The Lake House
@@ -58,6 +58,6 @@ Some of these are based on books. My ratings do not reflect on the books.
 ### Comedy Ugly
 None
 
-Note: I originally made this list in 2013 and got some good feedback here. I haven't seen a lot of time travel movies in the last 4 years, pitifully. On the other hand, there are no new time travel ideas. Just new executions of the same ideas.
+I made most of this list in 2013 and got some good feedback on the following Facebook post. I haven't seen a lot of time travel movies in the last four years, pitifully. On the other hand, there are no new time travel ideas. Just new executions of the same ideas. So I haven't missed much.
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fdankuck%2Fposts%2F10200884397806486&width=500" width="500" height="281" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
