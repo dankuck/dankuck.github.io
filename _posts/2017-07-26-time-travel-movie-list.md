@@ -11,6 +11,8 @@ I've seen and read a lot of time travel fiction. Here are my ratings for just mo
 
 Some of these are based on books. My ratings do not reflect on the books.
 
+<div style="clear: both"></div>
+
 ## Dramatic
 
 <div class="illustration" style="width: 150px">
@@ -19,15 +21,15 @@ Some of these are based on books. My ratings do not reflect on the books.
 
 ### Dramatic Good
 
-* [Primer](https://www.youtube.com/watch?v=9A7fCKM4ERA) - Entrepreneur engineers accidentally discover closed time loops
-* [Looper](https://www.youtube.com/watch?v=1C3yDHl_MBM) - Hitmen kill people from the future, including themselves, until Bruce Willis changes his mind
-* [Los Cronocrimenes (aka Timecrimes)](https://www.youtube.com/watch?v=UtL-3iEInQI) - There are plot twists
-* [ARQ](https://www.netflix.com/title/80092885) - Infinite energy project accidentally creates time loop
-* [Star Trek (2009)](https://www.youtube.com/watch?v=FTzIaSQwxCU) - Spock accidentally resets time and causes a lot of lens flares
-* [Terminator](https://www.youtube.com/watch?v=-fN82upbGPo) - Robot wrapped in skin has to kill a lady but fails
-* [Terminator 2](https://www.youtube.com/watch?v=ut0PQ5sTDu0) - Robot wrapped in skin has to save a kid
-* [The Butterfly Effect](https://www.youtube.com/watch?v=yreck-Kp8kI) - Ashton Kusher finds out his childhood blackouts were just time travel 
-* [The Caller](https://www.youtube.com/watch?v=V4jMiH6cDtE)
+* [Primer](https://www.youtube.com/watch?v=9A7fCKM4ERA)<br />Entrepreneur engineers accidentally discover closed time loops
+* [Looper](https://www.youtube.com/watch?v=1C3yDHl_MBM)<br />Hitmen kill people from the future, including themselves, until Bruce Willis changes his mind
+* [Los Cronocrimenes (aka Timecrimes)](https://www.youtube.com/watch?v=UtL-3iEInQI)<br />There are plot twists
+* [ARQ](https://www.netflix.com/title/80092885)<br />Infinite energy project accidentally creates time loop
+* [Star Trek (2009)](https://www.youtube.com/watch?v=FTzIaSQwxCU)<br />Spock accidentally resets time and causes a lot of lens flares
+* [Terminator](https://www.youtube.com/watch?v=-fN82upbGPo)<br />Robot wrapped in skin has to kill a lady but fails
+* [Terminator 2](https://www.youtube.com/watch?v=ut0PQ5sTDu0)<br />Robot wrapped in skin has to save a kid
+* [The Butterfly Effect](https://www.youtube.com/watch?v=yreck-Kp8kI)<br />Ashton Kusher finds out he has congenital time travel disease
+* [The Caller](https://www.youtube.com/watch?v=V4jMiH6cDtE)<br />Young lady gets horrified by old lady's phone calls from the past
 
 ### Dramatic Bad
 * Planet of the Apes (2001)
