@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Time Travel Movies Ranked By Dan"
-page_img: 
+page_img: /assets/51ZT6MjIXOL._SY300_.jpg
 page_img_desc: ""
 no_ad: 1
 draft: 1
@@ -19,14 +19,14 @@ Some of these are based on books. My ratings do not reflect on the books.
 
 ### Dramatic Good
 
-* [Primer](https://www.youtube.com/watch?v=9A7fCKM4ERA)
-* [Looper](https://www.youtube.com/watch?v=1C3yDHl_MBM)
-* [Los Cronocrimenes (aka Timecrimes)](https://www.youtube.com/watch?v=UtL-3iEInQI)
-* [ARQ](https://www.netflix.com/title/80092885)
-* [Star Trek (2009)](https://www.youtube.com/watch?v=FTzIaSQwxCU)
-* [Terminator](https://www.youtube.com/watch?v=-fN82upbGPo)
-* [Terminator 2](https://www.youtube.com/watch?v=ut0PQ5sTDu0)
-* [The Butterfly Effect](https://www.youtube.com/watch?v=yreck-Kp8kI)
+* [Primer](https://www.youtube.com/watch?v=9A7fCKM4ERA) - Entrepreneur engineers accidentally discover closed time loops
+* [Looper](https://www.youtube.com/watch?v=1C3yDHl_MBM) - Hitmen kill people from the future, including themselves, until Bruce Willis changes his mind
+* [Los Cronocrimenes (aka Timecrimes)](https://www.youtube.com/watch?v=UtL-3iEInQI) - There are plot twists
+* [ARQ](https://www.netflix.com/title/80092885) - Infinite energy project accidentally creates time loop
+* [Star Trek (2009)](https://www.youtube.com/watch?v=FTzIaSQwxCU) - Spock accidentally resets time and causes a lot of lens flares
+* [Terminator](https://www.youtube.com/watch?v=-fN82upbGPo) - Robot wrapped in skin has to kill a lady but fails
+* [Terminator 2](https://www.youtube.com/watch?v=ut0PQ5sTDu0) - Robot wrapped in skin has to save a kid
+* [The Butterfly Effect](https://www.youtube.com/watch?v=yreck-Kp8kI) - Ashton Kusher finds out his childhood blackouts were just time travel 
 * [The Caller](https://www.youtube.com/watch?v=V4jMiH6cDtE)
 
 ### Dramatic Bad
@@ -44,7 +44,7 @@ Some of these are based on books. My ratings do not reflect on the books.
 ## Comedy
 
 <div class="illustration" style="width: 150px">
-    <img src="/assets/51ZT6MjIXOL._SY300_.jpg" />
+    <img src="/assets/bill_ted_s_excellent_adventure-471795106-large.jpg" />
 </div>
 
 ### Comedy Good
