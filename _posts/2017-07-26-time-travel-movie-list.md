@@ -22,13 +22,13 @@ Some of these are based on books. My ratings do not reflect on the books.
 ### Dramatic Good
 
 * [Primer](https://www.youtube.com/watch?v=9A7fCKM4ERA)<br />Entrepreneur engineers accidentally discover closed time loops.
-* [Looper](https://www.youtube.com/watch?v=1C3yDHl_MBM)<br />Hitmen kill people from the future, including themselves, until Bruce Willis changes his mind.
-* [Los Cronocrimenes (aka Timecrimes)](https://www.youtube.com/watch?v=UtL-3iEInQI)<br />There are plot twists.
-* [ARQ](https://www.netflix.com/title/80092885)<br />Infinite energy project accidentally creates time loop.
+* [Looper](https://www.youtube.com/watch?v=1C3yDHl_MBM)<br />Hitmen kill people from the future, including themselves, until Bruce Willis decides something different.
+* [Los Cronocrimenes (aka Timecrimes)](https://www.youtube.com/watch?v=UtL-3iEInQI)<br />Everything about this is a spoiler.
+* [ARQ](https://www.netflix.com/title/80092885)<br />When you die you go back to the beginning.
 * [Star Trek (2009)](https://www.youtube.com/watch?v=FTzIaSQwxCU)<br />Spock accidentally resets time and causes a lot of lens flares.
 * [Terminator](https://www.youtube.com/watch?v=-fN82upbGPo)<br />Robot wrapped in skin has to kill a lady but fails.
 * [Terminator 2](https://www.youtube.com/watch?v=ut0PQ5sTDu0)<br />Robot wrapped in skin has to save a kid.
-* [The Butterfly Effect](https://www.youtube.com/watch?v=yreck-Kp8kI)<br />Ashton Kusher finds out he has congenital time travel disease.
+* [The Butterfly Effect](https://www.youtube.com/watch?v=yreck-Kp8kI)<br />Ashton Kusher finds out he has congenital time travel disease and it causes blackouts.
 * [The Caller](https://www.youtube.com/watch?v=V4jMiH6cDtE)<br />Young lady gets horrified by old lady's phone calls from the past.
 
 ### Dramatic Bad
@@ -55,7 +55,7 @@ Some of these are based on books. My ratings do not reflect on the books.
 * [Bill and Ted's Excellent Adventure](https://www.youtube.com/watch?v=tHL_Of_CZ1A)<br />Future society makes sure that their idols pass their history exam.
 * [Groundhog Day](https://www.youtube.com/watch?v=8skEQx5w8Cs)<br />Bill Murray hates a little Pennsylvania town so fate makes him stay there for maybe eternity.
 * [Hot Tub Time Machine](https://www.youtube.com/watch?v=6f0R6atZcbQ)<br />Time travel antics in a hot tub.
-* [FAQ About Time Travel](https://www.youtube.com/watch?v=JfvA6iE_lWw)><br />Time travel antics, but now it's in a British pub.
+* [FAQ About Time Travel](https://www.youtube.com/watch?v=JfvA6iE_lWw)<br />Time travel antics, but now it's in a British pub.
 * [Flight of the Navigator](https://www.youtube.com/watch?v=YXLxrUTd9kk)<br />Florida boy abducted by aliens, confused by 80's culture.
 * [Safety Not Guaranteed](https://www.youtube.com/watch?v=91FDjrG-XnY)<br />Aubrey Plaza answers a newspaper ad seeking a time travel companion.
 * [Bill and Ted's Bogus Journey](https://www.youtube.com/watch?v=cPc-MeuUU10)<br />Bill and Ted again, but this time they die and go to hell.
@@ -63,9 +63,9 @@ Some of these are based on books. My ratings do not reflect on the books.
 * [Men in Black 3](https://www.youtube.com/watch?v=H0sbIxjUD1s)<br />When Agent K was younger, he was that guy from Goonies.
 
 ### Comedy Bad
-* Midnight in Paris - Owen Wilson through time and there's a moral to be learned.
-* Meet the Robinsons - It's like Dreamworks, but it's made by Disney.
-* Teenage Mutant Ninja Turtles III - Teenage Mutant Ninja Turtles get magicked to ancient China.
+* Midnight in Paris<br />Owen Wilson through time and there's a moral to be learned.
+* Meet the Robinsons<br />It's like Dreamworks, but it's made by Disney.
+* Teenage Mutant Ninja Turtles III<br />Teenage Mutant Ninja Turtles get magicked to ancient China.
 
 ### Comedy Ugly
 None
