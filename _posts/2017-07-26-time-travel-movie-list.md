@@ -13,7 +13,7 @@ Some of these are based on books. My ratings do not reflect on the books.
 
 ## Dramatic
 
-### Good
+### Dramatic Good
 * [Primer](https://www.youtube.com/watch?v=9A7fCKM4ERA)
 * [Looper](https://www.youtube.com/watch?v=1C3yDHl_MBM)
 * [Los Cronocrimenes (aka Timecrimes)](https://www.youtube.com/watch?v=UtL-3iEInQI)
@@ -24,21 +24,21 @@ Some of these are based on books. My ratings do not reflect on the books.
 * [The Butterfly Effect](https://www.youtube.com/watch?v=yreck-Kp8kI)
 * [The Caller](https://www.youtube.com/watch?v=V4jMiH6cDtE)
 
-### Bad
+### Dramatic Bad
 * [Planet of the Apes (2001)]
 * The Time Machine (2002)
 * The Time Traveler's Wife
 * The Lake House
 * Escape from the Planet of the Apes
 
-### Ugly
+### Dramatic Ugly
 * Premonition
 * Sound of Thunder
 * Freejack
 
 ## Comedy
 
-### Good
+### Comedy Good
 * [Back to the Future](https://www.youtube.com/watch?v=UpEbGV-mjq0), [II](https://www.youtube.com/watch?v=hdEorlgVe-c), [III](https://www.youtube.com/watch?v=TSXf27_J8vw)
 * [Bill and Ted's Excellent Adventure](https://www.youtube.com/watch?v=tHL_Of_CZ1A)
 * [Groundhog Day](https://www.youtube.com/watch?v=8skEQx5w8Cs)
@@ -50,14 +50,14 @@ Some of these are based on books. My ratings do not reflect on the books.
 * [Fetching Cody](https://www.amazon.com/Fetching-Cody-Barclay-Hope/dp/B001HCQVSK)
 * [Men in Black 3](https://www.youtube.com/watch?v=H0sbIxjUD1s)
 
-### Bad
+### Comedy Bad
 * Midnight in Paris
 * Meet the Robinsons
 * Teenage Mutant Ninja Turtles III
 
-### Ugly
+### Comedy Ugly
 None
 
-Note: I originally made this list in 2013 and got some good feedback here. I haven't seen a lot of time travel movies in the last 4 years, pitifully.
+Note: I originally made this list in 2013 and got some good feedback here. I haven't seen a lot of time travel movies in the last 4 years, pitifully. On the other hand, there are no new time travel ideas. Just new executions of the same ideas.
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fdankuck%2Fposts%2F10200884397806486&width=500" width="500" height="281" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
