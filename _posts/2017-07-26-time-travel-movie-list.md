@@ -4,7 +4,7 @@ title: "Time Travel Movies Ranked"
 page_img: /assets/51ZT6MjIXOL._SY300_.jpg
 page_img_desc: ""
 no_ad: 1
-draft: 1
+draft: 
 ---
 
 I've seen and read a lot of time travel fiction. Here are my ratings for all the time travel movies I can remember. I don't think it's smart to compare dramatic time travel with comedic, so I split them up.
