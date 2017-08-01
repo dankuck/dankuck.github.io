@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Computer Code Visualization"
-page_img: matrix code.jpg
-page_img_desc: ""
+title: "I Can't See My Software"
+page_img: /assets/2568645910_8d55b4541b_b.jpg
+page_img_desc: "This is a terrible way to look at information."
 no_ad: 1
 draft: 1
 ---
