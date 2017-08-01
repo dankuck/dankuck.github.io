@@ -4,7 +4,7 @@ title: "Alternatives to EXTERNAL_ID"
 page_img: 
 page_img_desc: ""
 no_ad: 1
-draft: 1
+draft: 
 ---
 
 <img src="/assets/Screen Shot 2017-08-01 at 3.00.00 PM.png" />
@@ -25,12 +25,12 @@ So you use `external_id`. But you are tired of that, and you feel like it doesn'
 Luckily, the thesaurus has some other words you can try.
 
 * `extraneous_id`: No, that makes it sound unimportant.
-* `foreign_id`: Well, they are all foreign ids aren't they? That's not good either.
+* `foreign_id`: Well, foreign ID means something else. That's not good either.
 * `alien_id`: These are becoming less meaningful.
-* `exterior_id`: No, exterior is a noun. What if we make an `exteriors` table? What it could happen.
+* `exterior_id`: No, exterior is a noun. What if we make an `exteriors` table? Well, it could happen.
 * `independent_id`: That's almost useful actually.
 * `out_id`: Um...?
-* `over_id`: baddevsezwhat?
+* `over_id`: See above.
 * `peripheral_id`: No, now people will look for a physical object.
 * All the other ones are crap, too.
 
