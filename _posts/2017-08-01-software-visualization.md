@@ -7,7 +7,7 @@ no_ad: 1
 draft: 1
 ---
 
-Last week, I tried to have a conversation with my wife Patricia about messy computer code. It turns out architects don't have to deal with messes the same way software developers do.
+Last week I had a conversation with my wife Patricia about messy computer code. It turns out architects don't have to deal with messes the same way software developers do.
 
 I was dealing with some code at work that had been copied and modified four times.
 
