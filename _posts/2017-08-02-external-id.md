@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Alternatives to EXTERNAL_ID"
+title: "There Are No Alternatives To EXTERNAL_ID"
 page_img: 
 page_img_desc: ""
 no_ad: 1
@@ -38,5 +38,5 @@ I guess we'll just stick with `external_id`. It's really the best option. It mak
 
 Just don't make a table called `externals`.
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">You may have a bunch of fields in your database called external_id. This may distress you. <a href="https://t.co/BLpZ1S8cah">https://t.co/BLpZ1S8cah</a> <a href="https://t.co/yZ8iPsBxBr">pic.twitter.com/yZ8iPsBxBr</a></p>&mdash; Dan Kuck-Alvarez (@dankuck) <a href="https://twitter.com/dankuck/status/892738233746034688">August 2, 2017</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">How I learned to relax and love external_id <a href="https://t.co/BLpZ1S8cah">https://t.co/BLpZ1S8cah</a> <a href="https://t.co/sGC1OyqqnJ">pic.twitter.com/sGC1OyqqnJ</a></p>&mdash; Dan Kuck-Alvarez (@dankuck) <a href="https://twitter.com/dankuck/status/892755528836894720">August 2, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
