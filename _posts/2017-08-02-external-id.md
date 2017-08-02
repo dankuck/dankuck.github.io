@@ -34,6 +34,9 @@ Luckily, the thesaurus has some other words you can try.
 * `peripheral_id` - No, now people will look for a physical object.
 * All the other ones are crap, too.
 
-I guess we'll just stick with `external_id`. It's really the best option. It makes its meaning clear. This ID is from some external place.
+I guess we'll just stick with `external_id`. It's really the best option. It makes its meaning clear. This ID is from some external place. Hopefully the table's own name explains what external place.
 
 Just don't make a table called `externals`.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">You may have a bunch of fields in your database called external_id. This may distress you. <a href="https://t.co/BLpZ1S8cah">https://t.co/BLpZ1S8cah</a> <a href="https://t.co/yZ8iPsBxBr">pic.twitter.com/yZ8iPsBxBr</a></p>&mdash; Dan Kuck-Alvarez (@dankuck) <a href="https://twitter.com/dankuck/status/892738233746034688">August 2, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
