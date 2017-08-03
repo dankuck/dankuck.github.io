@@ -4,7 +4,7 @@ title: "The Memorial"
 page_img_thumb: https://pbs.twimg.com/media/DGP1jN2VoAAVC9v.jpg
 page_img_desc: ""
 no_ad: 1
-draft: 1
+draft: 
 ---
 
 I <a href="https://www.facebook.com/groups/ruuuse/permalink/1444696802260856/">made this</a> for the <a href="https://www.facebook.com/groups/1144470838950122/">rUUUse</a> Facebook group. It's part of my #rUUUseMinusrUUUse series.
