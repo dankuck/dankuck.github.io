@@ -4,7 +4,7 @@ title: "Women demand equality, yet when it comes to divorce, they are most likel
 page_img: https://qph.ec.quoracdn.net/main-thumb-t-30383-200-viicyeogjckunkjnszwqsicexjvvcedw.jpeg
 page_img_desc: ""
 no_ad: 1
-draft: 1
+draft: 
 ---
 
 I found this question <a href="https://www.quora.com/Women-demand-equality-yet-when-it-comes-to-divorce-they-are-most-likely-to-win-child-custody-and-child-support-putting-the-father-into-poverty-How-do-we-fix-this">on Quora</a>.
