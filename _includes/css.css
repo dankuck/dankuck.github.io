@@ -1,0 +1,94 @@
+
+a{
+    color: black;
+}
+    h1 a, h2 a, h3 a, h4 a, h5 a, h6 a{
+        text-decoration: none;
+    }
+    a.more-link{
+        font-size: 90%;
+    }
+    a.button{
+        background-color: #444;
+        border: 1px solid #CCC;
+        border-radius: 5px;
+        padding: .25em;
+        text-decoration: none;
+    }
+body{
+    margin: 0; 
+    padding: 0; 
+    background-color: #FFF; 
+    font-family: arial; 
+    color: black;
+}
+.major-content{
+    padding: 1em; 
+    background-color: white; 
+    min-height: 30em; 
+    border-bottom: 1px solid black; 
+    border-radius: 3px;
+    line-height: 140%;
+    border-left: 1px solid #ccc;
+}
+.post-content{
+    margin: 0 2em;
+    width: 77%;
+}
+.page-width-limiter{
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.series-explain{
+    font-size: 80%;
+    padding: 1em;
+    border: 1px solid #222;
+    margin-top: 4em;
+}
+.page-img{
+    max-width: 400px;
+    max-height: 400px;
+}
+h1 {
+    text-shadow: 3px 3px 5px #AAA;
+    line-height: 1.25;
+}
+.stats {
+    font-size: 80%; 
+    margin-bottom: 2em;
+    padding: .5em;
+}
+.footer {
+    width: 100%; 
+    border-top: 1px solid #ccc;
+}
+.illustration {
+    float: right;
+    width: 350px;
+    background-color: #EEE;
+    margin: 1em;
+    padding: 1em;
+}
+.illustration img {
+    width: 100%;
+    display: block;
+}
+.attribution {
+    color: #CCC;
+    text-decoration: none;
+}
+code.highlighter-rouge {
+    color: #1c50a0;
+}
+pre.highlight {
+    margin-left: 1em;
+}
+.byline, .byline a {
+    margin-top: 2em; 
+    color: #888;
+}
+.screenshot {
+    box-shadow: 3px 3px 5px #AAA;
+    border: 1px solid #AAA;
+}
