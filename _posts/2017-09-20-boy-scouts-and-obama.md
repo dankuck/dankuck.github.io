@@ -9,9 +9,9 @@ draft:
 
 ## The Claim
 
-Human memory is pliable. 
+Do you remember when Barack Obama tried to shut down the Boy Scouts of America? 
 
-Do you remember when Barack Obama tried to shut down the Boy Scouts of America? If you do, that's your memory being pliable, because that never happened.
+Human memory is pliable. If you remember the event above, that's your memory being pliable, because that never happened.
 
 I learned a few things about Obama and the Boy Scouts of America while researching for a conversation I had about them last month.
 
