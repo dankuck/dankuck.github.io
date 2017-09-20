@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Recent Boy Scout History"
-page_img_thumb: 
+page_img: /assets/bobsa1.jpg
 page_img_desc: ""
 no_ad: 1
 draft: 1
 ---
 
-Human memory is pliable. 
-
 ## The Claim
+
+Human memory is pliable. 
 
 Do you remember when Barack Obama tried to shut down the Boy Scouts of America? If you do, that's your memory being pliable, because that never happened.
 
@@ -54,6 +54,10 @@ If even Mitt Romney felt the need to support gay scouts, then we can infer that 
 The public outcry was there before Mitt Romney and before Barack Obama. Barack Obama's interview didn't cause the outcry. The outcry caused his interview.
 
 I rate the claim that Obama purposefully and maliciously attacked the Boy Scouts as Pants on Fire. Obama held his tongue until Romney started to look more liberal than him. Perhaps he held his tongue precisely because he didn't want a firestorm to start.
+
+<div class="illustration">
+    <img src="/assets/bobsa2.jpg" />
+</div>
 
 ## What Obama Really Thinks
 
