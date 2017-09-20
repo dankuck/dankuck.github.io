@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Recent Boy Scout History"
+title: "What Did Obama Do To The Boy Scouts?"
 page_img: /assets/bobsa1.jpg
 page_img_desc: ""
 no_ad: 1
