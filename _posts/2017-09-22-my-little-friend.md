@@ -4,7 +4,7 @@ title: "My Little Friend Minus Me"
 page_img_thumb: https://pbs.twimg.com/media/DKLNU6QXkAUImlh.jpg
 page_img_desc: ""
 no_ad: 1
-draft: 1
+draft: 
 ---
 
 I <a href="https://www.facebook.com/photo.php?fbid=10211277732393355&set=p.10211277732393355&type=1&theater">made this</a> for the <a href="https://www.facebook.com/groups/1144470838950122/">rUUUse</a> Facebook group. It's part of my #rUUUseMinusrUUUse series.
