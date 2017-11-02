@@ -26,3 +26,8 @@ Perhaps I'm looking at it wrong. Perhaps this book is a cat. And maybe cat lover
 By the end of the story, my library's copy had a scratched disk. So I didn't have to slog through that part. When I realized how relieved I was, I decided to always quit listening to a boring audiobook earlier rather than later.
 
 The best I can say for the book is that the reading by George Guidall was excellent and professional.
+
+<hr />
+
+I also posted this review on <a href="https://www.amazon.com/gp/customer-reviews/R14OF08TVEQHJG/ref=cm_cr_arp_d_rvw_ttl?ie=UTF8&ASIN=B000OCXJCK&tag=dankuck-20">Amazon.com</a>.
+
