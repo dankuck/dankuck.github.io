@@ -15,8 +15,6 @@ When I found this on audiobook, mystery was a new genre for me. I hoped a book a
 
 Instead I found a meandering jumble of tidbits of stories that were all dull in their own right.
 
-But the book went nowhere fast.
-
 First there is no goal. The dectective at the center of it doesn't even know he's investigating a mystery. He occasionally wonders about the stories people are telling in town.
 
 Which brings me to the missing narrative. Since the detective has no goal, much of the book is a collection of scenes where he isn't present. These scenes give the reader no reason to care about any of the characters.
