@@ -13,7 +13,7 @@ Like most folks, I first saw the <a href="www.amazon.com/Catch-You-Widescreen-Tw
 
 It's billed as the true story of Frank Abagnale, Junior a now famous imposter who posed as a doctor and an airline pilot in the 1960's, mainly as a way of advancing check fraud schemes.
 
-But there's another author on the cover named Stan Redding. Since the book was published, Frank let slip that it is somewhat embellished. Maybe that explains the ending, when I spoil it in a moment.
+But there's another author on the cover named Stan Redding. Since the book was published, Frank admitted that it is somewhat embellished by him. Maybe that will explain the ending when I spoil it in a moment.
 
 But what else would we expect from an admitted and convicted fraudster? And a good one. Con artists are good at making you like them, and this book succeeds at making you like Frank Abagnale, Jr.
 
