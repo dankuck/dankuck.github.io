@@ -70,6 +70,9 @@ h1 {
     margin: 1em;
     padding: 1em;
 }
+.illustration.small {
+    width: 200px;
+}
 .illustration img {
     width: 100%;
     display: block;

@@ -19,9 +19,9 @@ And what else but embellishment should we expect from an admitted and convicted 
 
 If you're familiar with the film, there are some big differences in the book. For the film, a single FBI detective was invented. There was no single FBI detective doggedly pursuing Abagnale across country and continents, though Joseph Shea comes close. In fact, it wasn't just the FBI. Almost every country he lived in or visited was on the look out for Abagnale. And several of them caught him.
 
-<div class="illustration">
+<div class="illustration small">
     <a href="https://www.amazon.com/Catch-Me-If-You-Can/dp/B00007BKUE?tag=dankuck-20"><img src="https://images-na.ssl-images-amazon.com/images/I/51QVG1Jc5HL.jpg" /></a>
-    The <a href="https://www.amazon.com/Catch-Me-If-You-Can/dp/B00007BKUE?tag=dankuck-20">soundtrack</a> is unbeatable.
+    The film's <a href="https://www.amazon.com/Catch-Me-If-You-Can/dp/B00007BKUE?tag=dankuck-20">soundtrack</a> by John Williams is unbeatable.
 </div>
 
 The book ends differently, too. It never gets to Abagnale's cinematic absolution. In the film as in real life, Abagnale was freed from US prison on the condition that he would help the FBI catch check fraudsters like himself. The book comes to a close with a satisfying non-ending. When the FBI has Abagnale's hotel surrounded and he has nowhere to go, he gets out anyway and walks off into the darkness.
@@ -67,7 +67,7 @@ Frank remained at large and had several other run ins with the law until finally
 I think the story tips its hand because of its dramatic flare, but there's other evidence to prove it is embellished. In 1978, before the book was published, a San Francisco Chronicle reporter with an advanced copy contacted several of the places mentioned in the book. A lot of them claim to have never had incidents like those described.
 
 
-<div class="illustration">
+<div class="illustration small">
     <img src="/assets/Frank_W._Abagnale_in_2008.jpg" />
     Frank Abagnale Jr. in 2008
 </div>
