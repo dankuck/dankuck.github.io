@@ -42,11 +42,11 @@ You can see how he develops his natural charm into clever tricks. Eventually he 
 
 So he tells everyone he's a pediatrician taking a year off. That works fine until one of his neighbors who is a real doctor begs him to take a shift as a supervisor at the local hospital.
 
-Somehow Frank can't say no, and he winds up supervising for six months. Most of that time is spent hiding out on a forgotten section under construction so no one will ask him to do anything. But he recounts one incident where he almost killed a boy. The boy lived but Frank got out, whether through guilt or because he was afraid of being found out again.
+Somehow Frank can't say no, and he winds up supervising for six months. Most of that time is spent hiding out in a forgotten section under construction so no one will ask him to do anything. But he recounts one incident where he almost killed a boy. The boy lived but Frank got out, whether through guilt or because he was afraid of being found out again.
 
-Staying on the move seems to be a requirement for someone who can't keep to himself, so Frank has a few more adventures before being caught in France, again living a relaxing life with a pile of money, this time in the small town where his mother grew up.
+Staying on the move seems to be a requirement for someone who can't keep to himself, so Frank has a few more adventures before being caught in France, this time living a relaxing life with a pile of money in the small town where his mother grew up.
 
-A foreshortened trial sends him to prison and to one of the most harrowing true stories I've heard.
+A foreshortened trial leads to prison and to one of the most harrowing true stories I've heard.
 
 To hear him tell it, France kept Frank Abagnale Jr. naked for six months in a pitch black cell that he couldn't stand up in with only a bucket for facilities. This is the part of the story you need to hear because he goes on about it at length.
 
