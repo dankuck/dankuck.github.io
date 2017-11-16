@@ -1,7 +1,9 @@
 ---
 layout: post
 title: "Review: Catch Me If You Can"
-page_img: https://images-na.ssl-images-amazon.com/images/I/51QStl4ZQ-L._SX323_BO1,204,203,200_.jpg
+page_img: /assets/catch-me-if-you-can.jpg
+page_img_width: 325
+page_img_height: 499
 page_img_desc: ""
 no_ad: 1
 draft: 
