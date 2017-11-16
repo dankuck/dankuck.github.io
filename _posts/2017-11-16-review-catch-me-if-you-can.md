@@ -9,7 +9,7 @@ no_ad: 1
 draft: 
 ---
 
-The <a href="www.amazon.com/Catch-You-Widescreen-Two-Disc-Special/dp/B00005JLSB/ref=pd_lpo_sbs_14_img_0?_encoding=UTF8&psc=1&refRID=9SYGYHC9FW7WSZ5005EG&tag=dankuck-20">film version</a> of Frank Abagnale Jr.'s *Catch Me If You Can* hit theaters fifteen years ago on Christmas Day.
+The <a href="https://www.amazon.com/Catch-You-Widescreen-Two-Disc-Special/dp/B00005JLSB/ref=pd_lpo_sbs_14_img_0?_encoding=UTF8&psc=1&refRID=9SYGYHC9FW7WSZ5005EG&tag=dankuck-20">film version</a> of Frank Abagnale Jr.'s *Catch Me If You Can* hit theaters fifteen years ago on Christmas Day.
 
 If you saw it and liked it, <a href="https://www.amazon.com/Catch-Me-If-You-Can/dp/0767905385?tag=dankuck-20">the book</a> is stupendous. I listened to the audiobook narrated by Barrett Whitener.
 
@@ -84,3 +84,5 @@ Meanwhile, Stan Redding hasn't written any other books. I wonder what his story 
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;Catch Me If You Can&quot; hit theaters 15 years ago on Christmas. My review of the book it&#39;s based on: <a href="https://t.co/0xIwLddm7P">https://t.co/0xIwLddm7P</a> <a href="https://t.co/qkiMufVv6Q">pic.twitter.com/qkiMufVv6Q</a></p>&mdash; Dan Kuck-Alvarez (@dankuck) <a href="https://twitter.com/dankuck/status/931200952471904256?ref_src=twsrc%5Etfw">November 16, 2017</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fdankuck%2Fposts%2F10212263668601144&width=500" width="500" height="451" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
