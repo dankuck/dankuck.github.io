@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Review: &quot;Catch Me If You Can: The True Story of a Real Fake&quot;"
+title: Catch Me If You Can: The True Story of a Real Fake
 page_img: https://images-na.ssl-images-amazon.com/images/I/51QStl4ZQ-L._SX323_BO1,204,203,200_.jpg
 page_img_desc: ""
 no_ad: 1
 draft: 1
 ---
 
-Like most folks, I first saw the <a href="www.amazon.com/Catch-You-Widescreen-Two-Disc-Special/dp/B00005JLSB/ref=pd_lpo_sbs_14_img_0?_encoding=UTF8&psc=1&refRID=9SYGYHC9FW7WSZ5005EG&tag=dankuck-20">film version</a> of Frank Abagnale Jr.'s *Catch Me If You Can* which hit theaters on Christmas Day 15 years ago.
+The <a href="www.amazon.com/Catch-You-Widescreen-Two-Disc-Special/dp/B00005JLSB/ref=pd_lpo_sbs_14_img_0?_encoding=UTF8&psc=1&refRID=9SYGYHC9FW7WSZ5005EG&tag=dankuck-20">film version</a> of Frank Abagnale Jr.'s *Catch Me If You Can* hit theaters fifteen years ago on Christmas Day.
 
-<a href="https://www.amazon.com/Catch-Me-If-You-Can/dp/0767905385?tag=dankuck-20">The book</a> is stupendous.
+If you saw it and liked it, <a href="https://www.amazon.com/Catch-Me-If-You-Can/dp/0767905385?tag=dankuck-20">the book</a> is stupendous. I listened to the audiobook narrated by Barrett Whitener.
 
 It's billed as the true story of Frank Abagnale Jr. a now famous impostor who posed as a doctor, an airline pilot, and many other positions in the 1960's, mainly as a way of advancing check fraud schemes.
 
