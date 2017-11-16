@@ -28,7 +28,7 @@ The book ends differently, too. It never gets to Abagnale's cinematic absolution
 
 Maybe that's a clue that the book is partly fiction for sake of drama. In real life, there has to be some connection from the resolution of a true story to the part where the anti-hero tells all in a best-selling novel.
 
-Not to harp on it, but it is a thrilling book.
+But it is a thrilling book.
 
 Frank starts off with a simple check book his father gives him. He soon realizes that he can write checks even if he has no money in the bank.
 
