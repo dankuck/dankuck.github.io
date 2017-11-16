@@ -4,7 +4,7 @@ title: "Catch Me If You Can: The True Story of a Real Fake"
 page_img: https://images-na.ssl-images-amazon.com/images/I/51QStl4ZQ-L._SX323_BO1,204,203,200_.jpg
 page_img_desc: ""
 no_ad: 1
-draft: 1
+draft: 
 ---
 
 The <a href="www.amazon.com/Catch-You-Widescreen-Two-Disc-Special/dp/B00005JLSB/ref=pd_lpo_sbs_14_img_0?_encoding=UTF8&psc=1&refRID=9SYGYHC9FW7WSZ5005EG&tag=dankuck-20">film version</a> of Frank Abagnale Jr.'s *Catch Me If You Can* hit theaters fifteen years ago on Christmas Day.
@@ -13,9 +13,9 @@ If you saw it and liked it, <a href="https://www.amazon.com/Catch-Me-If-You-Can/
 
 It's billed as the true story of Frank Abagnale Jr. a now famous impostor who posed as a doctor, an airline pilot, and many other positions in the 1960's, mainly as a way of advancing check fraud schemes.
 
-But there's another author on the cover named Stan Redding. Since the book was published, Frank admitted that it is somewhat embellished by Redding. Maybe that will explain the ending when I spoil it in a moment.
+But there's another author on the cover named Stan Redding. Since the book was published, Abagnale admitted that it is somewhat embellished by Redding. Maybe that will explain the ending when I spoil it in a moment.
 
-And what else but embellishment should we expect from an admitted and convicted fraudster? A successful con-artist makes you like them, and this book succeeds at making you like Abagnale.
+And what else but embellishment should we expect from an admitted and convicted fraudster? A successful con-artist makes you like them, and this book succeeds at making you like Abagnale despite his crimes and lack of concern for others.
 
 If you're familiar with the film, there are some big differences in the book. For the film, a single FBI detective was invented. There was no single FBI detective doggedly pursuing Abagnale across country and continents, though Joseph Shea comes close. In fact, it wasn't just the FBI. Almost every country he lived in or visited was on the look out for Abagnale. And several of them caught him.
 
