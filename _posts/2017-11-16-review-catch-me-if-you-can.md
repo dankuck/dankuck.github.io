@@ -79,3 +79,6 @@ Or, Frank Abagnale Jr. could have told a true story with the wrong names, either
 Whatever the case, it's a good story, with a lot of lessons to be learned about giving trust and gaining trust. Just remember to use your powers for good and not evil.
 
 Meanwhile, Stan Redding hasn't written any other books. I wonder what his story is...
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;Catch Me If You Can&quot; hit theaters 15 years ago on Christmas. My review of the book it&#39;s based on: <a href="https://t.co/0xIwLddm7P">https://t.co/0xIwLddm7P</a> <a href="https://t.co/qkiMufVv6Q">pic.twitter.com/qkiMufVv6Q</a></p>&mdash; Dan Kuck-Alvarez (@dankuck) <a href="https://twitter.com/dankuck/status/931200952471904256?ref_src=twsrc%5Etfw">November 16, 2017</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
