@@ -76,6 +76,6 @@ The real Abagnale shrugs that off saying they probably wouldn't admit it out of 
 
 Or, Frank Abagnale Jr. could have told a true story with the wrong names, either to cover himself legally or because he is such a bullshitter that he doesn't even care whether the events he remembers even happened the way he remembers them.
 
-Whatever the case, it's a good story, with a lot of lessons to be learned about trusting people and gaining trust. Just remember to use your powers for good and not evil.
+Whatever the case, it's a good story, with a lot of lessons to be learned about giving trust and gaining trust. Just remember to use your powers for good and not evil.
 
 Meanwhile, Stan Redding hasn't written any other books. I wonder what his story is...
