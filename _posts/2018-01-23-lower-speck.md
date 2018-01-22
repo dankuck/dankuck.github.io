@@ -47,5 +47,5 @@ It's called <a href="http://www.lowerspeck.org/">Lower Speck</a>. It's a single 
 
 After unit tests, I'd say it's the best thing you can do for any project meant to last.
 
-I'm going to write a series of posts about what I think it can do, and what experiences we have with it working at <a href="http://thatsus.com/">That's Us</a>. If you're a developer who decides to try it, I want your feedback.
+I'm going to write a series of posts about what I think it can do, and what experiences we have working with it at <a href="http://thatsus.com/">That's Us</a>. If you're a developer who decides to try it, I want your feedback.
 
