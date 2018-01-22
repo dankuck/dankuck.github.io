@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Your Project Deserves a Requirements Doc"
-page_img: 
+page_img: /assets/gear-1127518_960_720.png
 page_img_desc: ""
 no_ad: 1
 draft: 1
