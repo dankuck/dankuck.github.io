@@ -11,7 +11,7 @@ In the last ten years as a software developer, I've worked on two major commerci
 
 We had plenty of documents. Pages of paragraphs about what the software should do. Mockups upon mockups. Tickets and feature requests and emails.
 
-So didn't we have one single document that tells us what the entire software is supposed to do in a formal breakdown?
+So why didn't we have one single document that tells us what the entire software is supposed to do in a formal breakdown?
 
 Because that's our job.
 
