@@ -37,11 +37,11 @@ It's easy to say we're just lazy. We are and that's our virtue.
 
 But it's more than that.
 
-Since we already have all these documents coming from management, we generally think we have enough. Since we really _can_ work directly from the documents we're given, we just do. Requirements specification sounds like *their job*. I'm here to design beautiful code.
+Since we already have all these documents coming from management, we generally think we have enough. Since we really can work directly from the documents we're given, we just do. Requirements specification sounds like "their job". I'm here to design beautiful code.
 
 But if we make requirements documents our job, we can do it the right way and get a lot of value for ourselves.
 
-With that in mind, I came up with a specification for just such a document.
+With that in mind, I came up with a specification for requirements documents.
 
 It's called <a href="http://www.lowerspeck.org/">Lower Speck</a>. It's a single text-document you keep at the base of your project. There are some light-weight rules for how to keep it in order and reference it in your code. That way you can remember later why you wrote the code just so.
 
