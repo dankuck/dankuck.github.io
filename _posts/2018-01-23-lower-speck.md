@@ -9,9 +9,9 @@ draft: 1
 
 In the last ten years as a software developer, I've worked on two major commercial products, three supporting projects, and countless personal projects. All of these were produced without any formal requirements documentation.
 
-We had plenty of documents. Pages of paragraphs about what the software should do. Mockups upon mockups. Tickets and feature requests and emails.
+We had plenty of documents. Pages of paragraphs about what the software should do. Mockups upon mockups. Tickets and feature requests and emails scattered all over and thrown away when we launched.
 
-So why didn't we have one single document that tells us what the entire software is supposed to do in a formal breakdown?
+So why don't we have one single document that tells us what the entire software is supposed to do in a formal breakdown?
 
 Because that's our job.
 
