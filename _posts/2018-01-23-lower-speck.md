@@ -4,7 +4,7 @@ title: "Your Project Deserves a Requirements Doc"
 page_img: /assets/gear-1127518_960_720.png
 page_img_desc: ""
 no_ad: 1
-draft: 1
+draft: 
 ---
 
 In the last ten years as a software developer, I've worked on two major commercial products, three supporting projects, and countless personal projects. All of these were produced without any formal requirements documentation.
