@@ -59,5 +59,7 @@ It's called <a href="http://www.lowerspeck.org/">Lower Speck</a>. It's a single 
 
 After unit tests, I'd say it's the best thing you can do for any project meant to last.
 
-I'm going to write a series of posts about what I think it can do, and what experiences we have working with it at <a href="http://thatsus.com/">That's Us</a>. If you're a developer who decides to try it, I really want your feedback.
+I'm going to write a series of posts about what I think it can do, and what experiences we have working with it at <a href="http://thatsus.com/">That's Us</a>. Let me know if you're a developer who decides to try it. I really want your feedback.
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Your Project Deserves a Requirements Doc <a href="https://t.co/spFiBGenxV">https://t.co/spFiBGenxV</a> A simple requirements doc can clear up a lot of the hassle your team has to deal with on every new software feature and bug report <a href="https://twitter.com/hashtag/LowerSpeck?src=hash&amp;ref_src=twsrc%5Etfw">#LowerSpeck</a> <a href="https://t.co/QW5HYJ0pbg">pic.twitter.com/QW5HYJ0pbg</a></p>&mdash; Dan Kuck-Alvarez (@dankuck) <a href="https://twitter.com/dankuck/status/955835666763526144?ref_src=twsrc%5Etfw">January 23, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
