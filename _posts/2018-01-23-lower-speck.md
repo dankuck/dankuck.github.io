@@ -15,7 +15,7 @@ So why don't we have one single document that tells us what the entire software 
 
 Because that's our job.
 
-==Whose Job Is It?
+## Whose Job Is It?
 
 The developers and architects should have the job of writing down what we are told to do in a systematic way. We owe it to ourselves to keep a document with the requirements as we understand them.
 
@@ -53,11 +53,11 @@ But if we make requirements documents our job, we can do it the right way and ge
 
 With that in mind, I came up with a specification for requirements documents.
 
-==Lower Speck
+## Lower Speck
 
 It's called <a href="http://www.lowerspeck.org/">Lower Speck</a>. It's a single text-document you keep at the base of your project. There are some light-weight rules for how to keep it in order and reference it in your code. That way you can remember later why you wrote the code just so.
 
 After unit tests, I'd say it's the best thing you can do for any project meant to last.
 
-I'm going to write a series of posts about what I think it can do, and what experiences we have working with it at <a href="http://thatsus.com/">That's Us</a>. If you're a developer who decides to try it, I want your feedback.
+I'm going to write a series of posts about what I think it can do, and what experiences we have working with it at <a href="http://thatsus.com/">That's Us</a>. If you're a developer who decides to try it, I really want your feedback.
 
