@@ -15,7 +15,7 @@ So why don't we have one single document that tells us what the entire software 
 
 Because that's our job.
 
-== Whose Job Is It?
+==Whose Job Is It?
 
 The developers and architects should have the job of writing down what we are told to do in a systematic way. We owe it to ourselves to keep a document with the requirements as we understand them.
 
@@ -28,10 +28,11 @@ This is what we should be doing for our own sanity.
 But there's more. This doesn't just let us remind ourselves later. It lets us see what's missing.
 
 <div class="illustration small">
-    <img src="/assets/porsche-outside.png" /><br />
-    <img src="/assets/porsche-inside.png" />
-    Top: What your manager specified.<br />
-    Bottom: What your manager forgot to specify.
+    <img src="/assets/porsche-outside.png" />
+    Imagining the project.
+
+    <img src="/assets/porsche-inside.png" style="margin-top: .5em"/>
+    Realizing what you forgot.
 </div>
 
 Software changes are almost universally easier said than done. And its even easier for a manager to say too little about a requirement.
@@ -52,7 +53,7 @@ But if we make requirements documents our job, we can do it the right way and ge
 
 With that in mind, I came up with a specification for requirements documents.
 
-== Lower Speck
+==Lower Speck
 
 It's called <a href="http://www.lowerspeck.org/">Lower Speck</a>. It's a single text-document you keep at the base of your project. There are some light-weight rules for how to keep it in order and reference it in your code. That way you can remember later why you wrote the code just so.
 
