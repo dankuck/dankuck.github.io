@@ -4,12 +4,12 @@ title: "Tilt Solver"
 page_img: "/assets/tilt.jpg"
 page_img_desc: "ThinkFun Tilt"
 no_ad: 1
-draft: 
+draft:
 ---
 
 <a href="http://www.thinkfun.com">ThinkFun</a> makes great puzzle games.
 
-<a href="www.amazon.com/Think-Fun-1001-ThinkFun-Tilt/dp/B004INGVJ4/ref=sr_1_2?tag=dankuck-20">Tilt</a> is innovative, basic enough for a 5 year old, and just complicated enough to make a 34 year old spend a weekend building a web tool to solve it. See below.
+<a href="https://www.amazon.com/Think-Fun-1001-ThinkFun-Tilt/dp/B004INGVJ4/ref=sr_1_2?tag=dankuck-20">Tilt</a> is innovative, basic enough for a 5 year old, and just complicated enough to make a 34 year old spend a weekend building a web tool to solve it. See below.
 
 <div class="illustration">
     <img src="/assets/tilt-example.jpg" />
