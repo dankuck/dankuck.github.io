@@ -4,7 +4,7 @@ title: "Simulator for Guess Who to Find the Best Strategy"
 page_img: /assets/guess-who-close.jpg
 page_img_desc: ""
 no_ad: 1
-draft: 
+draft:
 ---
 
 <a href="http://www.amazon.com/Winning-Moves-Games-1191-Guess/dp/B00S732WJE/ref=sr_1_2?s=toys-and-games&ie=UTF8&qid=1491586221&sr=1-2&keywords=guess+who+board+game&tag=dankuck-20">Guess Who</a> has gotten popular at my house and now I'm obsessed.
@@ -34,7 +34,7 @@ So the game is all about asking the right questions. Any strategy you use will b
 
 To really determine what strategy is the best, I built a simulator.
 
-<a href="https://dankuck.github.io/who-guessers/">Run Who Guessers Now</a>
+<a href="/who-guessers/">Run Who Guessers Now</a>
 
 <img src="/assets/Screen Shot 2017-04-05 at 5.57.47 PM.png" class="screenshot" />
 

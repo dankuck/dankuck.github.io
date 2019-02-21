@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "The Four Sciences"
-page_img_thumb: http://dankuck.github.io/assets/640px-Destroy_CD137841.jpg
+page_img_thumb: /assets/640px-Destroy_CD137841.jpg
 no_ad: 1
-draft: 
+draft:
 ---
 
 You might have noticed that the science taught to kids in school looks different from the science you're supposed to know all about when you argue on the Internet. And they both look different from science as practiced in TV shows.
@@ -42,7 +42,7 @@ There are actually four things called science. These are them.
 
 <div class="illustration">
     <img src="/assets/640px-Piers_Sellers_spacewalk.jpg" />
-    "It's still empty up here. Maybe we should check over there." by NASA, Astronaut Michael Edward Fossum 
+    "It's still empty up here. Maybe we should check over there." by NASA, Astronaut Michael Edward Fossum
 </div>
 
 <p>Now we're getting warmer on what Science is supposed to mean. In the better science-oriented TV shows, the scientists go around looking for new things to know. Then when they find something new, they deny it until some big climax forces them to accept it without any further doubt.</p>
@@ -59,7 +59,7 @@ There are actually four things called science. These are them.
 
 <p>If you ask for a real definition of Science, you get this one. Science is about eliminating false hypotheses. Narrowing down the remaining list until you're left with just one theory that predicts every move of the thing you're studying.</p>
 
-<p>When chemists wanted to know if carbon atoms had 5 or 6 or 7 electrons, they used this Science to <a href="https://www.quora.com/How-did-the-scientists-find-out-the-number-of-protons-in-an-atom">figure it out</a>. Some hypotheses were proposed. Those hypotheses each predicted a measurement. When measurements were taken, the failing hypotheses were throw out. Right in the garbage with your dreams.</p>
+<p>When chemists wanted to know if carbon atoms had 5 or 6 or 7 electrons, they used this Science to <a href="https://www.quora.com/How-did-the-scientists-find-out-the-number-of-protons-in-an-atom">figure it out</a>. Some hypotheses were proposed. Those hypotheses each predicted a measurement. When measurements were taken, the failing hypotheses were thrown out. Right in the garbage with your dreams.</p>
 
 <p>What about dogs? Did Science prove they are mammals? Imagine one day a young hairy guy with a club walked out of his cave and looked at the animals around him. Some of them had scales and laid eggs. They were not like him. Some others had hair and their babies drank milk. Just like his babies. So he classified them in the same group as himself.</p>
 
