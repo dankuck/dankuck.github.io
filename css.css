@@ -16,17 +16,17 @@ a{
         text-decoration: none;
     }
 body{
-    margin: 0; 
-    padding: 0; 
-    background-color: #FFF; 
-    font-family: arial; 
+    margin: 0;
+    padding: 0;
+    background-color: #FFF;
+    font-family: arial;
     color: black;
 }
 .major-content{
-    padding: 1em; 
-    background-color: white; 
-    min-height: 30em; 
-    border-bottom: 1px solid black; 
+    padding: 1em;
+    background-color: white;
+    min-height: 30em;
+    border-bottom: 1px solid black;
     border-radius: 3px;
     line-height: 140%;
     border-left: 1px solid #ccc;
@@ -55,12 +55,12 @@ h1 {
     line-height: 1.25;
 }
 .stats {
-    font-size: 80%; 
+    font-size: 80%;
     margin-bottom: 2em;
     padding: .5em;
 }
 .footer {
-    width: 100%; 
+    width: 100%;
     border-top: 1px solid #ccc;
 }
 .illustration {
@@ -88,10 +88,13 @@ pre.highlight {
     margin-left: 1em;
 }
 .byline, .byline a {
-    margin-top: 2em; 
+    margin-top: 2em;
     color: #888;
 }
 .screenshot {
     box-shadow: 3px 3px 5px #AAA;
     border: 1px solid #AAA;
+}
+.screenshot.full {
+    width: 100%;
 }
