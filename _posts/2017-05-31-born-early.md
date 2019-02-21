@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "What is wrong with me since I was born two weeks earlier?"
-page_img: https://qph.ec.quoracdn.net/main-thumb-t-8537-200-mO6vUmAXfG49ca0IVVFun2jS8sna97wQ.jpeg
 page_img_desc: ""
 no_ad: 1
-draft: 
+draft:
 ---
 
 I found this question <a href="https://www.quora.com/What-is-wrong-with-me-since-I-was-born-two-weeks-earlier">on Quora</a>.

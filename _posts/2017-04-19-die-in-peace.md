@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "What can I do today that will make me die in peace?"
-page_img: https://qph.ec.quoracdn.net/main-thumb-t-11686-200-1BJrxzLRGIEkR8EqEkyHZrG6G5jkPc8h.jpeg
 page_img_desc: ""
 no_ad: 1
-draft: 
+draft:
 ---
 
 I found this question <a href="https://www.quora.com/What-can-I-do-today-that-will-make-me-die-in-peace">on Quora</a>.

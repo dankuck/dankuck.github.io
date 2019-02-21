@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Do you think The Truman Show would make a good television series, why or why not?"
-page_img: https://qph.ec.quoracdn.net/main-qimg-d0483ee9d42879ef9d879eca03b4776c-c
 page_img_desc: ""
 no_ad: 1
-draft: 
+draft:
 ---
 
 I found this question <a href="https://www.quora.com/Do-you-think-The-Truman-Show-would-make-a-good-television-series-why-or-why-not/">on Quora</a>.

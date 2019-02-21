@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "In your opinion, which branch of science is most important?"
-page_img: https://qph.ec.quoracdn.net/main-thumb-t-15617-200-ulllewvqfhlioqourfyztjoonpuluolb.jpeg
 page_img_desc: ""
 no_ad: 1
-draft: 
+draft:
 ---
 
 I found this question <a href="https://www.quora.com/In-your-opinion-which-branch-of-science-is-most-important">on Quora</a>.

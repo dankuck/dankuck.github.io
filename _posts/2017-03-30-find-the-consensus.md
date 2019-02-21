@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Where would I look to find the current consensus of professionals on a given issue?"
-page_img: https://qph.ec.quoracdn.net/main-thumb-t-931-200-c8WCPwZ9qPsh5zLGQ5wHh1ddxtc9Cch7.jpeg
 page_img_desc: ""
 no_ad: 1
-draft: 
+draft:
 ---
 
 I found this question <a href="https://www.quora.com/Where-would-I-look-to-find-the-current-consensus-of-professionals-on-a-given-issue/">on Quora</a>.

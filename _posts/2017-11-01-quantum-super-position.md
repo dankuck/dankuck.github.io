@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Why is the idea that both statements are true until observed acceptable in science?"
-page_img: https://qph.ec.quoracdn.net/main-thumb-t-6023-200-FlB0ZNFrAyUAUU8wnH9qyRG8Wrgkh6Th.jpeg
 page_img_desc: ""
 no_ad: 1
-draft: 
+draft:
 ---
 
 I found this question <a href="https://www.quora.com/Why-is-the-idea-that-both-statements-are-true-until-observed-acceptable-in-science/">on Quora</a>.

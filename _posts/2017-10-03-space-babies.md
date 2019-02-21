@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "If astronauts had a baby in space, would the baby be considered an alien or would the baby be human?"
-page_img: https://qph.ec.quoracdn.net/main-thumb-t-2049-200-bfyvcilqcricfgybdqypshusuziwwidb.jpeg
 page_img_desc: ""
 no_ad: 1
-draft: 
+draft:
 ---
 
 I found this question <a href="https://www.quora.com/If-astronauts-had-a-baby-in-space-would-the-baby-be-considered-an-alien">on Quora</a>.

@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Why should I believe in science?"
-page_img: https://qph.ec.quoracdn.net/main-thumb-t-11852-200-eFB3txm0fhX0tDf3nHX4scPy2sxbPbqH.jpeg
 page_img_desc: ""
 no_ad: 1
-draft: 
+draft:
 ---
 
 I found this question <a href="https://www.quora.com/Why-should-I-believe-in-science/">on Quora</a>. It was originally "Why <i>must</i> I believe science?" but someone merged it with an older question.

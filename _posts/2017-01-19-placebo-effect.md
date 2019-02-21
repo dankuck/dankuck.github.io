@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "What are some ways people can use the placebo effect on themselves for their own advantage?"
-page_img_thumb: https://qph.ec.quoracdn.net/main-thumb-t-18633-200-hogaarqnprvblujnfheqzvvfnrexgmdh.jpeg
 page_img_desc: ""
 no_ad: 1
-draft: 
+draft:
 ---
 
 I found this question <a href="https://www.quora.com/What-are-some-ways-people-can-use-the-placebo-effect-on-themselves-for-their-own-advantage/">on Quora</a>.

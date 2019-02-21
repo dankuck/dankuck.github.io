@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "What should I know before I start learning programming any language?"
-page_img: https://qph.ec.quoracdn.net/main-thumb-t-785-200-SPdel3dlJbwe69kzHRdC9zraBLeasYX0.jpeg
 page_img_desc: ""
 no_ad: 1
-draft: 
+draft:
 ---
 
 I found this question <a href="https://www.quora.com/What-should-I-know-before-I-start-learning-programming-any-language/">on Quora</a>.

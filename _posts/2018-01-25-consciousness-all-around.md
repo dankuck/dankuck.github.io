@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Is consciousness around us as well as inside us?"
-page_img: https://qph.ec.quoracdn.net/main-thumb-t-7839-200-q6jwi2DicpZDfszBIxJVGeWtPOQ8Bg76.jpeg
 page_img_desc: ""
 no_ad: 1
 draft: 1

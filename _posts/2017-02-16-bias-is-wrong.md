@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Is being biased always wrong?"
-page_img: https://qph.ec.quoracdn.net/main-thumb-t-40808-200-cbeqnzzymyvtjujaguigeuwinonxxjuy.jpeg
 page_img_desc: ""
 no_ad: 1
-draft: 
+draft:
 ---
 
 I found this question <a href="http://www.quora.com/Is-being-biased-always-wrong">on Quora</a>.

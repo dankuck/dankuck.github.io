@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Will killing everybody end all of humanity's problems?"
-page_img: https://qph.ec.quoracdn.net/main-thumb-t-3965-200-CeYivvirME5bMz5xwAzMsoX0JXzi8jMc.jpeg
 page_img_desc: ""
 no_ad: 1
-draft: 
+draft:
 ---
 
 I found this question <a href="https://www.quora.com/Will-killing-everybody-end-all-of-humanitys-problems">on Quora</a>.
