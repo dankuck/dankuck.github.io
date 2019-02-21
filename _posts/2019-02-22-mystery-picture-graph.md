@@ -49,10 +49,10 @@ The coordinates you clicked are shown in the output at the bottom.
 
 Just copy those coordinates and print them out! Your favorite math wiz will love it.
 
-## Other features
+## Some tips
 
 * Zoom using the slider.
 * Use "Set Origin" to choose the center of your graph.
 * Use "Fit Image" to resize the image.
 * Keep your graph simple by limiting the number of points.
-* Make text edits in the coordinates box and see the graph change too.
+* Make text edits in the coordinates box and see the graph change too. This is a way to delete points or move them slightly.
