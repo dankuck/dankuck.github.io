@@ -56,4 +56,4 @@ Just copy those coordinates and print them out! Your favorite math wiz will love
 * The "Fit Image" button lets you resize the image to fit how you want it to.
 * The quick facts box shows how many points your math champion will have to plot.
 * The quick facts box also shows the minimum and maximum X and Y values. Make sure these fit on the graph paper you'll use.
-* You can edit the coordinates and see the graph change too.
+* You can make edits in the coordinates box and see the graph change too.
