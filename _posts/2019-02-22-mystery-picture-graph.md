@@ -25,7 +25,7 @@ Here's how it works:
 
 Let's use this image of a handsome fellow.
 
-<img src="/mystery-picture-graph/screenshots/dankuck.jpeg" class="full screenshot" />
+<img src="/mystery-picture-graph/screenshots/dankuck.jpeg" class="half screenshot" />
 
 It doesn't matter that it is low resolution. We just want to trace it.
 

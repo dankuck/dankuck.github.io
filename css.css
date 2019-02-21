@@ -98,3 +98,6 @@ pre.highlight {
 .screenshot.full {
     width: 100%;
 }
+.screenshot.half {
+    width: 50%;
+}
