@@ -4,12 +4,12 @@ title: "Mystery Picture Graph"
 page_img: /assets/mystery-picture-graph.png
 page_img_desc: ""
 no_ad: 1
-draft: 1
+draft:
 ---
 
 Make graph puzzles quickly and easily using <a href="/myster-picture-graph">Mystery Picture Graph</a>.
 
-A mystery picture graph is a set of coordinates that you can plot on graph paper like a connect-the-dots puzzle. You remember these from math class.
+A mystery picture graph is a set of coordinates that you can plot on graph paper like a connect-the-dots puzzle. You remember... from math class?
 
 I built Mystery Picture Graph to meet a need for myself. There are lots of great exercises for sale on <a href="http://teacherspayteachers.com">teacherspayteachers.com</a>. My kid likes those ones, but I needed more. I needed to be able to find my own pictures and turn them into fun puzzles. So I built this!
 
