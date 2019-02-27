@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mystery Picture Graph"
+title: "Make Any Mystery Picture Graph"
 page_img: /assets/mystery-picture-graph.png
 page_img_desc: ""
 no_ad: 1
