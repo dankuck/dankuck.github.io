@@ -4,14 +4,14 @@ title: "What Is Fire?"
 page_img: /assets/18775075796_5cc4a5c738_b.jpg
 page_img_desc: ""
 no_ad: 1
-draft: 
+draft:
 ---
 
 I asked what fire was in a science class once. I didn't receive an answer that made any sense. Which is weird, because fire is just a gas. It looks like a gas. Just look at it. It's a gas. It's only weird because it's hot and it glows.
 
 Which gas it is specifically depends on what chemicals are mixed with oxygen. I'm personally satisfied to know that it is a gas.
 
-Here's something else. What are those bubbles in boiling water? This one sounds dumb if you have already put two and two together. 
+Here's something else. What are those bubbles in boiling water? This one sounds dumb if you have already put two and two together.
 
 If you haven't put it together yet, your dumb brain says all bubbles are air. But you know that water turns to steam when it's too hot.
 
@@ -38,6 +38,8 @@ Nothing about that says "glowing gas" to me. Now that I know it's a gas, I can r
 I realized the truth about the steam bubbles while I was boiling water. I realized about fire while I was watching a fire.
 
 There are probably a few lessons to be learned here. The first one is to notice when you have all the clues necessary to answer a question. The second one is to experiment *while* you're doing your thinking.
+
+* Note: It's worth mentioning that I know the three-states-of-matter is a <a href="https://en.wikipedia.org/wiki/Lie-to-children">lie-to-children</a> convenience concept. But if we are going around shoving things into that framework, then fire belongs solidly in the gas category.
 
 <small>Post image by <a href="https://www.flickr.com/photos/ervins_strauhmanis/18775075796">Ervins Strauhmanis</a>.</small>
 
