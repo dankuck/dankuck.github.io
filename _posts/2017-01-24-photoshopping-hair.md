@@ -18,4 +18,4 @@ Ultimately, you won’t get the hair exactly as in the original, but it will loo
 
 I used that technique for this. I probably could have gotten a better effect if I’d gone over it again with a lower opacity.
 
-<img src="https://qph.ec.quoracdn.net/main-qimg-23e7f0345f9f3e0bbc2ee904319f160a-c?convert_to_webp=true" />
+<img src="/assets/main-qimg-4f2541df09fe48687fbea31326ea0f8a-c.png" />
