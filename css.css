@@ -19,7 +19,7 @@ body{
     margin: 0;
     padding: 0;
     background-color: #FFF;
-    font-family: arial;
+    font-family: Baskerville, Garamond, Arial;
     color: black;
 }
 .major-content{
@@ -51,7 +51,7 @@ body{
     max-height: 400px;
 }
 h1 {
-    text-shadow: 3px 3px 5px #AAA;
+    text-shadow: 2px 2px 5px #CCC;
     line-height: 1.25;
 }
 .stats {
