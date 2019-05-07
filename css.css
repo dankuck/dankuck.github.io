@@ -36,16 +36,11 @@ body{
     margin: 0 2em;
     width: 77%;
 }
-.page-width-limiter{
-    max-width: 800px;
-    margin-left: auto;
-    margin-right: auto;
-}
-@media (max-width: 800px) {
+@media (min-width: 800px) {
     .page-width-limiter{
-        max-width: 0;
-        margin-left: 0;
-        margin-right: 0;
+        max-width: 800px;
+        margin-left: auto;
+        margin-right: auto;
     }
 }
 .series-explain{
