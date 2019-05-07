@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Terrorist Activity In Hill Valley, California"
+page_img_thumb: /assets/Car-Asphalt-Parking-Lot-Bttf-Delorean-3249993.jpg
 og_page_img: /assets/Car-Asphalt-Parking-Lot-Bttf-Delorean-3249993.jpg
 page_img_width: 1280
 page_img_height: 853
