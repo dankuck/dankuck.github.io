@@ -18,17 +18,18 @@ a{
 body{
     margin: 0;
     padding: 0;
-    background-color: #FFF;
+    background-color: #d6cbcb;
     font-family: Baskerville, Garamond, Arial;
     color: black;
 }
 .major-content{
     padding: 1em;
-    background-color: white;
+    background-color: #fffdfa;
     min-height: 30em;
     border-bottom: 1px solid black;
     border-radius: 3px;
-    line-height: 140%;
+    line-height: 23px;
+    font-size: 17px;
     border-left: 1px solid #ccc;
 }
 .post-content{
