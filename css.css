@@ -41,6 +41,13 @@ body{
     margin-left: auto;
     margin-right: auto;
 }
+@media (max-width: 800px) {
+    .page-width-limiter{
+        max-width: 0;
+        margin-left: 0;
+        margin-right: 0;
+    }
+}
 .series-explain{
     font-size: 80%;
     padding: 1em;
