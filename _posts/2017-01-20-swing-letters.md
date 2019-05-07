@@ -4,7 +4,7 @@ title: "Swing Letters"
 page_img: /assets/WLA_hmaa_Winslow_Homer_Girl_on_a_Swing.jpg
 page_img_desc: "Girl on a Swing - Winslow Homer"
 no_ad: 1
-draft: 
+draft:
 ---
 
 When A. had learned all her letters, the next step was to teach her to recognize them when they are used. So I came up with a game.
@@ -67,3 +67,9 @@ We did this for months and months. Before she learned to power her own swinging,
 The lessons stuck. She loves writing things phonetically.
 
 I've tried to do similar stuff with E. but he's still young. Until recently the only questions I could think of that he could answer were animal noises. He's making complete sentences now, so I'll have to revisit this the next time we're on the playground. He does know a few letters.
+
+---
+
+Update, May 7th, 2019:
+
+E. is now 4 years old and this technique is working great for him. He knows all his letters and he can work through them one by one with help. That's a 100% success rate for this technique. I recommend it.
