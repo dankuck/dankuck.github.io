@@ -24,5 +24,6 @@
     <a href="{{ site.url }}{{ post.url }}" title="{{ post.title | xml_escape }}" class="more-link">Continue</a>
 </div>
 <div style="font-size: 80%; padding-bottom: 5em; clear: both;">
-    <a href="{{ site.url }}{{ post.url }}" title="{{ post.title | xml_escape }}">Permalink</a> {{ post.date | date: '%B %d, %Y' }} <a href="/contact/dankuck.html"><img src="http://www.gravatar.com/avatar/3b55d9d2629003d8f6d3365c4ea79122?s=16" border="0" /></a></a> <a href="/contact/dankuck.html">dankuck</a>
+    <a href="/contact/dankuck.html"><img src="http://www.gravatar.com/avatar/3b55d9d2629003d8f6d3365c4ea79122?s=16" border="0" style="border-radius: 50%" /></a></a> <a href="/contact/dankuck.html">dankuck</a>
+    <a href="{{ site.url }}{{ post.url }}" title="{{ post.title | xml_escape }}">{{ post.date | date: '%B %d, %Y' }}</a>
 </div>
