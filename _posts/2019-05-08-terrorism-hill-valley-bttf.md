@@ -18,7 +18,7 @@ References: 1. Manhattan Project press release Telegraph, 12/12/45<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. Hill Valley plutonium theft report invalid, California, 10/25/85<br />
 Character of Case: Nuclear Terrorism
 
-I’m bypassing normal filing procedure and filing this report with the director due to the involvement of Soviet-connected actors, both known and suspected.
+I’m bypassing normal filing procedure and sending this report to the director due to the involvement of Soviet-connected actors, both known and suspected.
 
 On the morning of October 26th, a witness describes finding the deceased bodies of two men in the parking lot of the Lone Pine shopping mall in Hill Valley, California. Local police were called at 5:35 AM and the FBI took jurisdiction at 8:19 AM.
 
