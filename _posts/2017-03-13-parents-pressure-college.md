@@ -12,7 +12,7 @@ Here's my answer:
 
 A 2014 survey by New America revealed that most students go to university for some reason other than parental pressure. Parental pressure rated lowest, at 42%, among options on the survey.
 
-<img src="https://qph.ec.quoracdn.net/main-qimg-a2961d4eed04cf348551b8598a09671d" />
+<img src="/assets/main-qimg-609334e6ee400f0a1be6c6d099b32a78.png" />
 
 <a href="https://www.newamerica.org/education-policy/edcentral/collegedecisions/#">College Decisions Survey: Deciding to Go to College</a>
 
