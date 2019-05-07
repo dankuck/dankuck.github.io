@@ -35,7 +35,7 @@ Members from the terrorist cell made contact with Manhattan Project physicist Em
 
 During his time in contact with the Libyans, agents observed Brown purchasing a DMC DeLorean vehicle. The tires of that vehicle would match the tracks discovered in the Lone Pine Mall parking lot.
 
-<img src="/assets/Car-Asphalt-Parking-Lot-Bttf-Delorean-3249993.jpg" alt="1983 DMC DeLorean Automobile" style="width: 50%" />
+<img src="/assets/Car-Asphalt-Parking-Lot-Bttf-Delorean-3249993.jpg" alt="1983 DMC DeLorean Automobile" style="width: 295px;margin-left: auto;margin-right: auto;display: block;padding: 5px;border: 1px solid grey;filter: saturate(0) blur(.5px);" />
 
 FBI agents should have witnessed the events of the VW bus crash due to the bureau’s surveillance of both the terrorist cell and Doctor Brown. However, surveillance failed on the night in question due to three factors.
 
