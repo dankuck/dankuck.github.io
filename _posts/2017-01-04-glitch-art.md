@@ -4,7 +4,7 @@ title: "Glitch Art"
 page_img: /assets/cat.jpeg
 page_img_desc: ""
 no_ad: 1
-draft: 
+draft:
 ---
 
 <style>
@@ -30,7 +30,7 @@ draft:
     <a href="https://www.flickr.com/photos/manueluna/4497531493">A cat with no glitches</a>.
 </div>
 
-Computers are the coolest when they mess up. It's called a glitch. Strongly written software will detect glitches and stop operating. The idea is that it's better to stop than to do things wrong.
+Computers are the coolest when they mess up. It's called a glitch. Defensively-written software will detect glitches and stop operating. The idea is that it's better to stop than to do things wrong.
 
 But it's more fun when the computer doesn't notice the glitch or tries to work with it anyway.
 
@@ -71,4 +71,4 @@ It works best with JPG images. You load up an image, then use the + button as ma
     <a href="https://www.flickr.com/photos/downstream/23208918486">A man on a bike</a>
 </div>
 
-<a href="/glitcher/">The Glitcher</a> is at this link. For the next step, I'd like to give it a nice interface and have it implement several different random methods. Like occasionally changing a section of the data to random numbers.
+<a href="/glitcher/">The Glitcher</a> is at this link. <strike>For the next step, I'd like to give it a nice interface and have it implement several different random methods. Like occasionally changing a section of the data to random numbers.</strike> I added a few features that I described in this post: <a href="/2017/01/17/glitch-art-2.html">Glitcher 2.0</a>.
