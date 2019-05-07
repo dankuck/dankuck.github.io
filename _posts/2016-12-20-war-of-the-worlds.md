@@ -4,7 +4,7 @@ title: "The War of the Worlds Wouldn't Work"
 page_img: /assets/War_of_the_Worlds_shoot.jpg
 page_img_desc: "The War of the Worlds"
 no_ad: 1
-draft: 
+draft:
 ---
 
 <b>Spoilers for The War of the Worlds</b>
@@ -25,11 +25,11 @@ The ending is fatalistic. The humans never find a way to defeat the Martians. A 
     Look at that pale guy. Let's challenge him to a sneezing contest.
 </div>
 
-It's not based on poor reasoning. History offers us an example, though it was in the opposite direction. Jared Diamond's <a href="http://www.amazon.com/Guns-Germs-Steel-Fates-Societies/dp/0393317552?tag=dankuck-20">Guns, Germs, and Steel</a> describes how the European invaders in the New World brought germs with them. They were germs that they cultivated, accidentally, through millenia of living close together and living close to live stock.
+It's not based on poor reasoning. History offers us an example, though it was the invaders who wrote that history. Jared Diamond's <a href="http://www.amazon.com/Guns-Germs-Steel-Fates-Societies/dp/0393317552?tag=dankuck-20">Guns, Germs, and Steel</a> describes how the European invaders in the New World brought germs with them. They were germs that they cultivated, accidentally, through millenia of living close together and living close to live stock.
 
-The natives of the New World didn't have much live stock and they were more spread out than the Europeans. So instead of occasionally dying out in vast waves of disease, they enjoyed a relative quarantine. The worst diseases would wipe out local groups and have nowhere else to go. Except syphilis. Syphilis will always be with you. I think Jesus said that.
+The natives of the New World didn't have much live stock and they were more spread out than the Europeans. So instead of occasionally dying out in vast waves of disease, they enjoyed a relative quarantine from each other. The worst diseases would wipe out local groups and have nowhere else to go. Except syphilis. Syphilis will always be with you. I think Jesus said that.
 
-But the other side of the coin was that the European survivors emerged stronger and the diseases got a chance to live along side them. So when the Europeans showed up in the New World, they brought their favorite diseases with them. Diseases well-honed to kill slowly so their hosts could travel around and they could cover the country.
+But the other side of the coin was that the European survivors emerged stronger and the diseases got a chance to live alongside them. So when the Europeans showed up in the New World, they brought their favorite diseases with them. Diseases well-honed to kill slowly so their hosts could travel around and they could cover the country.
 
 Now imagine it the other way around. Several peoples of the New World were approaching the level of technology necessary to sail across the Atlantic. Imagine they had sailed to Spain and tried to invade it, as the Martians flew to Earth in H.G. Wells's book.
 
