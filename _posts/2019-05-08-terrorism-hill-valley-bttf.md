@@ -2,6 +2,8 @@
 layout: post
 title: "Terrorist Activity In Hill Valley, California"
 og_page_img: /assets/Car-Asphalt-Parking-Lot-Bttf-Delorean-3249993.jpg
+page_img_width: 1280
+page_img_height: 853
 page_img_desc: ""
 no_ad: 1
 draft: 1
@@ -32,6 +34,8 @@ In the wake of the alleged plutonium theft, the Hill Valley FBI branch made surv
 Members from the terrorist cell made contact with Manhattan Project physicist Emmett Brown. Bureau files show that Brown is the only scientist in Hill Valley with nuclear experience (see reference 1).
 
 During his time in contact with the Libyans, agents observed Brown purchasing a DMC DeLorean vehicle. The tires of that vehicle would match the tracks discovered in the Lone Pine Mall parking lot.
+
+<img src="/assets/Car-Asphalt-Parking-Lot-Bttf-Delorean-3249993.jpg" alt="1983 DMC DeLorean Automobile" style="width: 50%" />
 
 FBI agents should have witnessed the events of the VW bus crash due to the bureau’s surveillance of both the terrorist cell and Doctor Brown. However, surveillance failed on the night in question due to three factors.
 
