@@ -12,10 +12,10 @@ From: Special Agent Hugh E. Lewis<br />
 To: The Offices of Director William Webster<br />
 Date: October 28th, 1985<br />
 References: 1. Manhattan Project press release Telegraph, 12/12/45<br />
-        2. Libyan nationals with known connections to Soviets, 04/03/83<br />
-        3. Plutonium theft in Hill Valley, California, 09/26/85<br />
-        4. Agent killed in line of duty, 10/18/85<br />
-        5. Hill Valley plutonium theft report invalid, California, 10/25/85<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Libyan nationals with known connections to Soviets, 04/03/83<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Plutonium theft in Hill Valley, California, 09/26/85<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Agent killed in line of duty, 10/18/85<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. Hill Valley plutonium theft report invalid, California, 10/25/85<br />
 Character of Case: Nuclear Terrorism
 
 I’m bypassing normal filing procedure and filing this report with the director due to the involvement of Soviet-connected actors, both known and suspected.
