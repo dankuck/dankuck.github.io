@@ -8,9 +8,9 @@
 	{% endif %}
 
      <div class="stats">
-     	<a href="{{ page.url }}">Permalink</a> {{ page.date }} <a href="/contact/dankuck.html"><img src="http://www.gravatar.com/avatar/3b55d9d2629003d8f6d3365c4ea79122?s=16" border="0" /></a> <a href="/contact/dankuck.html">dankuck</a>
+     	<a href="{{ page.url }}">Permalink</a> {{ page.date }} <a href="/contact/dankuck.html"><img src="http://www.gravatar.com/avatar/3b55d9d2629003d8f6d3365c4ea79122?s=16" border="0" style="border-radius: 50%" /></a> <a href="/contact/dankuck.html">dankuck</a>
      </div>
-     
+
      <div>
 	{% if page.previous %}
 		{% if page.previous.draft %}
@@ -20,7 +20,7 @@
 			</div>
 		{% endif %}
 	{% endif %}
-	
+
 	{% if page.next %}
 		{% if page.next.draft %}
 		{% else %}
@@ -30,7 +30,7 @@
 		{% endif %}
 	{% endif %}
 	</div>
-	
+
 	<div style="clear: both"></div>
 
 	{% if page.no_ad %}
@@ -55,4 +55,3 @@
 	{% endif %}
 
 	<div class="post-content">
-		

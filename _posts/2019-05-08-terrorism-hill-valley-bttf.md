@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Terrorist Activity In Hill Valley, California"
-page_img: /assets/Car-Asphalt-Parking-Lot-Bttf-Delorean-3249993.jpg
+og_page_img: /assets/Car-Asphalt-Parking-Lot-Bttf-Delorean-3249993.jpg
 page_img_desc: ""
 no_ad: 1
 draft: 1
 ---
+
 Title of Case: Terrorist Activity In Hill Valley, California
 
 From: Special Agent Hugh E. Lewis<br />
