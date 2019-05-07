@@ -36,9 +36,9 @@ FBI agents should have witnessed the events of the VW bus crash due to the burea
 
 First, the news on October 25th that no nuclear materials had been stolen lead to dereliction of duties by the agents assigned to surveil the Libyan nationalist cell.
 
-Second, since the 1950’s, Doctor Brown has been known in Hill Valley for conducting harmless experiments. His suspicious activities were discounted by the agents assigned to surveil him.
+Second, Doctor Brown has been known in Hill Valley for conducting harmless experiments since the 1950’s. His suspicious activities were discounted by the agents assigned to surveil him.
 
-Finally, at the time of the incident most of the department’s agents were off duty commemorating the life of Special Agent Amherst Strickland. Strickland -- killed two days before his retirement -- came from a long line of law enforcement and had been well-liked (see reference 4).
+Finally, at the time of the incident most of the department’s agents were off duty commemorating the life of Special Agent Amherst Strickland. Strickland -- who was killed two days before his retirement -- came from a long line of law enforcement and had been well-liked (see reference 4).
 
 These failures ultimately converged so that no FBI agents witnessed the events that occurred at the mall.
 
