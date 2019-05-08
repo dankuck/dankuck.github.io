@@ -41,7 +41,7 @@ During his time in contact with the Libyans, agents observed Brown purchasing a 
 
 FBI agents should have witnessed the events of the VW bus crash due to the bureau’s surveillance of both the terrorist cell and Doctor Brown. However, surveillance failed on the night in question due to three factors.
 
-First, the news on October 25th that no nuclear materials had been stolen lead to dereliction of duties by the agents assigned to surveil the Libyan nationalist cell.
+First, the news on October 25th that no nuclear materials had been stolen led to dereliction of duties by the agents assigned to surveil the Libyan nationalist cell.
 
 Second, Doctor Brown has been known in Hill Valley for conducting harmless experiments since the 1950’s. His suspicious activities were discounted by the agents assigned to surveil him.
 
