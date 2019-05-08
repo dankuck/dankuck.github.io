@@ -9,6 +9,11 @@ page_img_desc: ""
 no_ad: 1
 sample_content: The terrorist cell met with Manhattan Project physicist Emmett Brown. FBI files show that Brown is the only scientist in Hill Valley with nuclear experience (see reference 1).
 draft:
+posts:
+  - https://www.reddit.com/r/rational/comments/bm5r98/fbi_report_from_1985_terrorist_activity_in_hill/
+  - https://twitter.com/dankuck/status/1126125747318476800
+  - https://facebook.com/groups/734922333324790?view=permalink&id=1278463028970715
+  - https://facebook.com/story.php?story_fbid=10215984188811824&id=1061012727
 ---
 
 Title of Case: Terrorist Activity In Hill Valley, California
