@@ -6,7 +6,7 @@ comment: "RSS for Jekyll by georgemandis. Find it here: https://github.com/danku
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>{{ site.name | xml_escape }}</title>
-		<description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>		
+		<description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>
 		<link>{{ site.url }}</link>
 		<atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
 		{% for post in site.posts limit:10 %}
@@ -36,7 +36,12 @@ comment: "RSS for Jekyll by georgemandis. Find it here: https://github.com/danku
 						<a href="{{ site.url }}{{ post.url }}"><img src="{{ img_prepend_url }}{{ page_img }}" style="max-width: 150px; max-height: 150px;" /></a><br />
 						<br />
 					{% endif %}
-					{{ post.content | split:site.excerpt_separator | first | strip_html | truncate:300 | xml_escape }} [<a href="{{ site.url }}{{ post.url }}">more</a>]
+					{% if post.sample_content %}
+						{{ post.sample_content }}
+					{% else %}
+						{{ post.content | split:site.excerpt_separator | first | strip_html | truncate:300 | xml_escape }}
+					{% endif %}
+					[<a href="{{ site.url }}{{ post.url }}">more</a>]
 					]]>
 				</description>
 				<pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
