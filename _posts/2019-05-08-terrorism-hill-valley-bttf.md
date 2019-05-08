@@ -7,6 +7,7 @@ page_img_width: 1280
 page_img_height: 853
 page_img_desc: ""
 no_ad: 1
+sample_content: Members from the terrorist cell made contact with Manhattan Project physicist Emmett Brown. Bureau files show that Brown is the only scientist in Hill Valley with nuclear experience (see reference 1).
 draft:
 ---
 
