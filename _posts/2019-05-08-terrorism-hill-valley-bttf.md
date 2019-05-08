@@ -65,3 +65,7 @@ Lone Pine Mall incident.
 The FBI does not consider Principal Strickland a threat to national security.
 
 END OF REPORT
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Here&#39;s a pretty freaky FBI report, a 1985 terrorism case involving a Delorean. As usual the Russians were involved <a href="https://twitter.com/hashtag/fanfic?src=hash&amp;ref_src=twsrc%5Etfw">#fanfic</a> <a href="https://twitter.com/hashtag/bttf?src=hash&amp;ref_src=twsrc%5Etfw">#bttf</a> <a href="https://t.co/jLqas73w0t">https://t.co/jLqas73w0t</a></p>&mdash; Dan Kuck-Alvarez (@dankuck) <a href="https://twitter.com/dankuck/status/1126125747318476800?ref_src=twsrc%5Etfw">May 8, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
