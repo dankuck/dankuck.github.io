@@ -7,7 +7,7 @@ page_img_width: 1280
 page_img_height: 853
 page_img_desc: ""
 no_ad: 1
-draft: 1
+draft:
 ---
 
 Title of Case: Terrorist Activity In Hill Valley, California
