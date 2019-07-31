@@ -4,6 +4,7 @@ title: "Where would I look to find the current consensus of professionals on a g
 page_img_desc: ""
 no_ad: 1
 draft:
+label: quora
 ---
 
 I found this question <a href="https://www.quora.com/Where-would-I-look-to-find-the-current-consensus-of-professionals-on-a-given-issue/">on Quora</a>.

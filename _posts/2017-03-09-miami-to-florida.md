@@ -4,6 +4,7 @@ title: "How far is a drive from Miami to Florida?"
 page_img_desc: ""
 no_ad: 1
 draft:
+label: quora
 ---
 
 I found this question <a href="https://www.quora.com/How-far-is-a-drive-from-Miami-to-Florida/">on Quora</a> with the following explanation.

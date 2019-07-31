@@ -4,6 +4,7 @@ title: "Is consciousness around us as well as inside us?"
 page_img_desc: ""
 no_ad: 1
 draft: 1
+label: quora
 ---
 
 I found this question <a href="https://www.quora.com/Is-consciousness-around-us-as-well-as-inside-us/answer/Daniel-Kuck-Alvarez">on Quora</a>.

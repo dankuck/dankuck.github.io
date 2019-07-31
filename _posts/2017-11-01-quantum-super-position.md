@@ -4,6 +4,7 @@ title: "Why is the idea that both statements are true until observed acceptable 
 page_img_desc: ""
 no_ad: 1
 draft:
+label: quora
 ---
 
 I found this question <a href="https://www.quora.com/Why-is-the-idea-that-both-statements-are-true-until-observed-acceptable-in-science/">on Quora</a>.

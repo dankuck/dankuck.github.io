@@ -4,6 +4,7 @@ title: "Why is music much more popular than podcasts for recreational activities
 page_img_desc: ""
 no_ad: 1
 draft:
+label: quora
 ---
 
 I found this question <a href="https://www.quora.com/Why-is-music-much-more-popular-than-podcasts-for-recreational-activities">on Quora</a> and responded.

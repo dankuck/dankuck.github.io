@@ -4,7 +4,8 @@ title: "Would the existence of magic spell the end of science?"
 page_img: /assets/some-science.jpg
 page_img_desc: ""
 no_ad: 1
-draft: 
+draft:
+label: quora
 ---
 
 I found this question <a href="https://www.quora.com/Would-the-existence-of-magic-spell-the-end-of-science">on Quora</a>.

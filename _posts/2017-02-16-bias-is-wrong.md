@@ -4,6 +4,7 @@ title: "Is being biased always wrong?"
 page_img_desc: ""
 no_ad: 1
 draft:
+label: quora
 ---
 
 I found this question <a href="http://www.quora.com/Is-being-biased-always-wrong">on Quora</a>.

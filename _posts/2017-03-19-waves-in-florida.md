@@ -4,6 +4,7 @@ title: "Why aren't there alot of waves in Florida?"
 page_img_desc: ""
 no_ad: 1
 draft:
+label: quora
 ---
 
 I found this question <a href="https://www.quora.com/Why-arent-there-alot-of-waves-in-Florida/">on Quora</a>.

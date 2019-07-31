@@ -1,15 +1,16 @@
 ---
 layout: post
 title: "Can lying during parenting be justified?"
-page_img: 
+page_img:
 page_img_desc: ""
 no_ad: 1
-draft: 
+draft:
+label: quora
 ---
 
 I found this question <a href="https://www.quora.com/Can-lying-during-parenting-be-justified">on Quora</a>.
 
-My answer: 
+My answer:
 
 A <a href="https://en.wikipedia.org/wiki/Lie-to-children">lie-to-children</a> is an over simplified statement as a starting point to get people to understand a concept.
 

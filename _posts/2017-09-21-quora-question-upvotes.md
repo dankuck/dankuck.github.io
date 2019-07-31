@@ -4,6 +4,7 @@ title: "Why does Quora not introduce the upvote feature for questions asked?"
 page_img_desc: ""
 no_ad: 1
 draft:
+label: quora
 ---
 
 I found this question <a href="https://www.quora.com/Why-does-Quora-not-introduce-the-upvote-feature-for-questions-asked">on Quora</a>.

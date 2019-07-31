@@ -4,6 +4,7 @@ title: "What should I know before I start learning programming any language?"
 page_img_desc: ""
 no_ad: 1
 draft:
+label: quora
 ---
 
 I found this question <a href="https://www.quora.com/What-should-I-know-before-I-start-learning-programming-any-language/">on Quora</a>.

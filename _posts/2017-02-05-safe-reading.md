@@ -4,6 +4,7 @@ title: "My almost 7 year old daughter is a voracious reader. She can go through 
 page_img_desc: ""
 no_ad: 1
 draft:
+label: quora
 ---
 
 I found this question <a href="https://www.quora.com/My-almost-7-year-old-daughter-is-a-voracious-reader-She-can-go-through-like-3-chapter-books-one-evening-Is-this-too-much-of-reading-at-this-age/">on Quora</a>.

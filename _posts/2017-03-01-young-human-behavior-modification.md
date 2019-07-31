@@ -5,6 +5,7 @@ page_img: /assets/rat-head.png
 page_img_desc: ""
 no_ad: 1
 draft:
+label: quora
 ---
 
 I found this question <a href="https://www.quora.com/Should-children-be-implanted-with-neurostimulators-and-such-so-that-they-can-make-better-decisions-and-avoid-parental-stresses-turned-violent/">on Quora</a>.

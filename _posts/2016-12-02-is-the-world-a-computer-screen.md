@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "Is The World A Computer Screen"
-page_img: 
+page_img:
 page_img_desc: ""
 no_ad: 1
+label: quora
 ---
 
 I found this question on Quora.

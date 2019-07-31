@@ -1,10 +1,11 @@
 ---
 layout: post
 title: "Is six months old too old to try the cry it out method?"
-page_img_thumb: 
+page_img_thumb:
 page_img_desc: ""
 no_ad: 1
-draft: 
+draft:
+label: quora
 ---
 
 I found this question <a href="https://www.quora.com/Is-six-months-old-too-old-to-try-the-cry-it-out-method/">on Quora</a>.

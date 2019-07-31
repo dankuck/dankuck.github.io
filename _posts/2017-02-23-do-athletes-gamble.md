@@ -4,6 +4,7 @@ title: "Do athletes “gamble” just by competing?"
 page_img_desc: ""
 no_ad: 1
 draft:
+label: quora
 ---
 
 I found this question <a href="https://www.quora.com/Do-athletes-“gamble”-just-by-competing">on Quora</a>.

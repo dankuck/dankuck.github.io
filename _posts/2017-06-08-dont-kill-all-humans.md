@@ -4,6 +4,7 @@ title: "Will killing everybody end all of humanity's problems?"
 page_img_desc: ""
 no_ad: 1
 draft:
+label: quora
 ---
 
 I found this question <a href="https://www.quora.com/Will-killing-everybody-end-all-of-humanitys-problems">on Quora</a>.

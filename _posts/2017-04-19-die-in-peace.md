@@ -4,6 +4,7 @@ title: "What can I do today that will make me die in peace?"
 page_img_desc: ""
 no_ad: 1
 draft:
+label: quora
 ---
 
 I found this question <a href="https://www.quora.com/What-can-I-do-today-that-will-make-me-die-in-peace">on Quora</a>.

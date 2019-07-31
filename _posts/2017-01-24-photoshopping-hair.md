@@ -4,6 +4,7 @@ title: "How can you select hair accurately in order to layer in Photoshop?"
 page_img_desc: ""
 no_ad: 1
 draft:
+label: quora
 ---
 
 I found this question <a href="https://www.quora.com/How-can-you-select-hair-accurately-in-order-to-layer-in-Photoshop/">on Quora</a>.
