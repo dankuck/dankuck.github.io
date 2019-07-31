@@ -1,7 +1,7 @@
 
 <div style="padding-bottom: 2em;">
     <h1><a href="{{ site.url }}{{ post.url }}" title="{{ post.title | xml_escape }}">
-        {% if post.label = 'quora' %}Quora: {% endif %}
+        {% if post.label == 'quora' %}Quora: {% endif %}
         {{ post.title }}
     </a></h1>
 
