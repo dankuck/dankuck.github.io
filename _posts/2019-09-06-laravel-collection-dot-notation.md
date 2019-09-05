@@ -35,60 +35,60 @@ echo 'Users: ' . $employees->implode('login.username', '; ');
 The documentation for Laravel Collections doesn't tell you which methods support dot-notation. So I figured it out.
 
 ## Methods that respect dot-notation
-* average
-* avg
-* contains
-* containsStrict
-* duplicates
-* duplicatesStrict
-* every
-* except
-* firstWhere
-* forget
-* groupBy
-* implode
-* keyBy
-* max
-* median
-* min
-* mode
-* partition
-* pluck
-* pull
-* some
-* sortBy
-* sortByDesc
-* sum
-* unique
-* uniqueStrict
-* where
-* whereBetween
-* whereIn
-* whereInStrict
-* whereNotBetween
-* whereNotIn
-* whereNotInStrict
-* whereStrict
+* `average`
+* `avg`
+* `contains`
+* `containsStrict`
+* `duplicates`
+* `duplicatesStrict`
+* `every`
+* `except`
+* `firstWhere`
+* `forget`
+* `groupBy`
+* `implode`
+* `keyBy`
+* `max`
+* `median`
+* `min`
+* `mode`
+* `partition`
+* `pluck`
+* `pull`
+* `some`
+* `sortBy`
+* `sortByDesc`
+* `sum`
+* `unique`
+* `uniqueStrict`
+* `where`
+* `whereBetween`
+* `whereIn`
+* `whereInStrict`
+* `whereNotBetween`
+* `whereNotIn`
+* `whereNotInStrict`
+* `whereStrict`
 
 ## Methods that do NOT respect dot-notation
 
 These methods work directly on the internal array without checking to see whether it is nested or whether the key passed into them contains dots.
 
-* get
-* has
-* only
-* prepend
-* put
+* `get`
+* `has`
+* `only`
+* `prepend`
+* `put`
 
 ### PHP operations that don't respect dot-notation:
 
 Similar to the above methods these native PHP operations only act directly on the internal array and do not change their behavior for a key with dots.
 
-* isset($collection['key.key']);
-* echo $collection['key.key'];
-* $collection['key.key'] = 'value';
-* unset($collection['key.key']);
-* echo $collection->{'key.key'};
+* `isset($collection['key.key'])`
+* `echo $collection['key.key']`
+* `$collection['key.key'] = 'value'`
+* `unset($collection['key.key'])`
+* `echo $collection->{'key.key'}`
 
 ## Contribution
 
