@@ -35,7 +35,7 @@ echo 'Users: ' . $employees->implode('login.username', '; ');
 The documentation for Laravel Collections doesn't tell you which methods support dot-notation. So I figured it out.
 
 ## Methods that respect dot-notation
-* averge
+* average
 * avg
 * contains
 * containsStrict
