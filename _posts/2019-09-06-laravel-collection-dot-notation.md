@@ -7,7 +7,7 @@ sample_content:
 draft:
 ---
 
-When working with nested structures in Laravel's Collection class, several of its methods allow you to use a short-hand to access the nested values.
+When working with nested structures in Laravel's <a href="https://laravel.com/docs/5.8/collections">Collection</a> class, several of its methods allow you to use a short-hand to access the nested values.
 
 Here's an example with some nested structures. We just want one part of each.
 
@@ -92,4 +92,4 @@ Similar to the above methods these native PHP operations only act directly on th
 
 ## Contribution
 
-I want to expand this list with examples of each method in action. If you want to help, you can fork <a href="https://github.com/dankuck/dankuck.github.io">the repo</a> and edit `_posts/2019-09-06-laravel-collection-dot-notation.md`.
+I want to expand this list with examples of each method in action. If you want to help, you can fork <a href="https://github.com/dankuck/dankuck.github.io">the repo</a>, edit `_posts/2019-09-06-laravel-collection-dot-notation.md`, and submit a pull request.
