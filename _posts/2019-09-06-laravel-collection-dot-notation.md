@@ -9,7 +9,7 @@ draft: 1
 
 When working with nested structures in Laravel's Collection class, several of its methods allow you to use a short-hand to access the nested values.
 
-Here's an example with some nested structures in which we just want one part.
+Here's an example with some nested structures. We just want one part of each.
 
 ```
 $employees = collect([
@@ -34,7 +34,7 @@ echo 'Users: ' . $employees->implode('login.username', '; ');
 
 The documentation for Laravel Collections doesn't tell you which methods support dot-notation. So I figured it out.
 
-== Methods that respect dot-notation
+## Methods that respect dot-notation
 * averge
 * avg
 * contains
@@ -70,7 +70,7 @@ The documentation for Laravel Collections doesn't tell you which methods support
 * whereNotInStrict
 * whereStrict
 
-== Methods that do NOT respect dot-notation
+## Methods that do NOT respect dot-notation
 
 These methods work directly on the internal array without checking to see whether it is nested or whether the key passed into them contains dots.
 
@@ -80,16 +80,16 @@ These methods work directly on the internal array without checking to see whethe
 * prepend
 * put
 
-=== PHP operations that don't respect dot-notation:
+### PHP operations that don't respect dot-notation:
 
 Similar to the above methods these native PHP operations only act directly on the internal array and do not change their behavior for a key with dots.
 
-* isset($collection['key.key'])
-* echo $collection['key.key']
-* $collection['key.key'] = 'value'
-* unset($collection['key.key'])
-* echo $collection->{'key.key'}
+* isset($collection['key.key']);
+* echo $collection['key.key'];
+* $collection['key.key'] = 'value';
+* unset($collection['key.key']);
+* echo $collection->{'key.key'};
 
-== Contribution
+## Contribution
 
 I want to expand this list with examples of each method in action. If you want to help, you can fork <a href="https://github.com/dankuck/dankuck.github.io">the repo</a> and edit `_posts/2019-09-06-laravel-collection-dot-notation.md`.
