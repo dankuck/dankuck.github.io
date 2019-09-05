@@ -4,7 +4,7 @@ title: "Which Laravel Collection methods use dot-notation?"
 page_img_desc: ""
 no_ad: 1
 sample_content:
-draft: 1
+draft:
 ---
 
 When working with nested structures in Laravel's Collection class, several of its methods allow you to use a short-hand to access the nested values.
