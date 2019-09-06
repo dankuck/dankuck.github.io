@@ -36,7 +36,7 @@ The documentation for Laravel Collections doesn't tell you which methods support
 
 ## TL;DR
 
-Most methods that accept key names respect dot-notation. The list of those that don't is short: `get`, `has`, `only`, `prepend`, `put`.
+Most methods that accept key names respect dot-notation. The list of those that DON'T is short: `forget`, `get`, `has`, `only`, `prepend`, `put`.
 
 A lot of methods that respect dot-notation work because they behave very similarly to `where`. So any method that takes those same parameters -- `where($key, [$operator, [$value]])` -- will also respect dot-notation.
 
@@ -147,7 +147,7 @@ $employees->duplicates('position.title');
 // [2 => 'Developer']
 ```
 
-Another undocumented feature of `duplicates` is that the largest key is preserved for each value. Use `values` to reset the keys.
+Another undocumented feature of `duplicates` is that the largest key is preserved for each value. Use <a href="https://laravel.com/docs/5.8/collections#method-values">values</a> to reset the keys.
 
 #### `duplicatesStrict`
 
@@ -155,15 +155,147 @@ Strict-comparison version of <a href="#duplicates">duplicates</a>.
 
 #### `every`
 
+Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-every">every</a>
 
+```
+$swans = collect([
+    [
+        'name' => 'Fredrico',
+        'appearance' => [
+            'color' => 'white',
+            'size' => 'large',
+        ],
+    ],
+    [
+        'name' => 'Ferdinand',
+        'appearance' => [
+            'color' => 'white',
+            'size' => 'small',
+        ],
+    ],
+    [
+        'name' => 'Fabian',
+        'appearance' => [
+            'color' => 'black',
+            'size' => 'tiny',
+        ],
+    ],
+]);
+$swans->every('appearance.color', 'white');
+// false
+```
 
 #### `except`
 
+Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-except">except</a>
+
+```
+$user = collect([
+    'name'       => 'Gravely',
+    'created_at' => '2019-09-09',
+    'photo' => [
+        'url'    => 'http://lorempixel.com/400/200/',
+        'width'  => 400,
+        'height' => 200,
+    ],
+]);
+$user->except('photo.width', 'photo.height', 'created_at');
+// [
+//     'name' => 'Gravely',
+//     'photo' => [
+//         'url' => 'http://lorempixel.com/400/200/',
+//     ],
+// ]
+```
+
 #### `firstWhere`
 
-#### `forget`
+Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-first-where">firstWhere</a>
+
+```
+$houses = collect([
+    [
+        'name' => 'Chateau Louisiana',
+        'owner' => [
+            'name' => 'Hurkey',
+            'owner_since' => '2019-08-07',
+        ],
+    ],
+    [
+        'name' => 'Chateau Detritus',
+        'owner' => [
+            'name' => 'Hardey',
+            'owner_since' => '2019-08-07',
+        ],
+    ],
+]);
+$houses->firstWhere('owner.name', 'Hardey');
+// [
+//     'name' => 'Chateau Detritus',
+//     'owner' => [
+//         'name' => 'Hardey',
+//         'owner_since' => '2019-08-07',
+//     ],
+// ]
+```
 
 #### `groupBy`
+
+Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-group-by">groupBy</a>
+
+```
+$birds = collect([
+    [
+        'type' => 'Duck',
+        'traits' => [
+            'feet' => 'webbed',
+            'bill' => 'broad',
+        ],
+    ],
+    [
+        'type' => 'Blue jay',
+        'traits' => [
+            'feet' => 'non-webbed',
+            'bill' => 'slender',
+        ],
+    ],
+    [
+        'type' => 'Goose',
+        'traits' => [
+            'feet' => 'webbed',
+            'bill' => 'slender',
+        ],
+    ],
+]);
+$birds->groupBy('traits.feet');
+// [
+//     'webbed' => [
+//         [
+//             'type' => 'Duck',
+//             'traits' => [
+//                 'feet' => 'webbed',
+//                 'bill' => 'broad',
+//             ],
+//         ],
+//         [
+//             'type' => 'Goose',
+//             'traits' => [
+//                 'feet' => 'webbed',
+//                 'bill' => 'slender',
+//             ],
+//         ],
+//     ],
+//     'non-webbed' => [
+//         [
+//             'type' => 'Blue jay',
+//             'traits' => [
+//                 'feet' => 'non-webbed',
+//                 'bill' => 'slender',
+//             ],
+//         ],
+//     ],
+// ]
+```
 
 #### `implode`
 
@@ -215,6 +347,7 @@ Strict-comparison version of <a href="#duplicates">duplicates</a>.
 
 These methods work directly on the internal array without checking to see whether it is nested or whether the key passed into them contains dots.
 
+* `forget`
 * `get`
 * `has`
 * `only`
