@@ -32,13 +32,21 @@ echo 'Users: ' . $employees->implode('login.username', '; ');
 // Users: thelms@example.com; vchance@example.com
 ```
 
-The documentation for Laravel Collections doesn't tell you which methods support dot-notation. So I figured it out. Here's the list with examples.
+The documentation for Laravel Collections doesn't tell you which methods support dot-notation. So I figured it out.
+
+## TL;DR
+
+Most methods that accept key names respect dot-notation. The list of those that don't is short: `get`, `has`, `only`, `prepend`, `put`.
+
+A lot of methods that respect dot-notation work because they behave very similarly to `where`. So any method that takes those same parameters -- `where($key, [$operator, [$value]])` -- will also respect dot-notation.
+
+Here's the list with examples.
 
 ## Methods that respect dot-notation
 
 #### `average`
 
-Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#average">average</a>
+Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-average">average</a>
 
 ```
 $students = collect([
@@ -74,7 +82,7 @@ Alias for <a href="#average">average</a>.
 
 #### `contains`
 
-Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#contains">contains</a>
+Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-contains">contains</a>
 
 ```
 $owners = collect([
@@ -99,8 +107,8 @@ $owners = collect([
         ],
     ],
 ]);
-echo "Someone Likes Snowcrash: " . ($owners->contains('books.likes', 'Snowcrash') ? 'Y' : 'N');
-// Someone Likes Snowcrash: Y
+$owners->contains('books.likes', 'Snowcrash');
+// true
 ```
 
 #### `containsStrict`
@@ -109,10 +117,10 @@ Strict-comparison version of <a href="#contains">contains</a>.
 
 #### `duplicates`
 
-Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#duplicates">duplicates</a>
+Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-duplicates">duplicates</a>
 
 ```
-$languages = collect([
+$employees = collect([
     [
         'name' => 'Evangeline',
         'position' => [
@@ -135,15 +143,19 @@ $languages = collect([
         ],
     ],
 ]);
-echo "Positions with several employees: " . $languages->duplicates('position.title')->implode(', ');
-// Positions with several employees: Developer
+$employees->duplicates('position.title');
+// [2 => 'Developer']
 ```
+
+Another undocumented feature of `duplicates` is that the largest key is preserved for each value. Use `values` to reset the keys.
 
 #### `duplicatesStrict`
 
 Strict-comparison version of <a href="#duplicates">duplicates</a>.
 
 #### `every`
+
+
 
 #### `except`
 
