@@ -32,43 +32,172 @@ echo 'Users: ' . $employees->implode('login.username', '; ');
 // Users: thelms@example.com; vchance@example.com
 ```
 
-The documentation for Laravel Collections doesn't tell you which methods support dot-notation. So I figured it out.
+The documentation for Laravel Collections doesn't tell you which methods support dot-notation. So I figured it out. Here's the list with examples.
 
 ## Methods that respect dot-notation
-* `average`
-* `avg`
-* `contains`
-* `containsStrict`
-* `duplicates`
-* `duplicatesStrict`
-* `every`
-* `except`
-* `firstWhere`
-* `forget`
-* `groupBy`
-* `implode`
-* `keyBy`
-* `max`
-* `median`
-* `min`
-* `mode`
-* `partition`
-* `pluck`
-* `pull`
-* `some`
-* `sortBy`
-* `sortByDesc`
-* `sum`
-* `unique`
-* `uniqueStrict`
-* `where`
-* `whereBetween`
-* `whereIn`
-* `whereInStrict`
-* `whereNotBetween`
-* `whereNotIn`
-* `whereNotInStrict`
-* `whereStrict`
+
+#### `average`
+
+Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#average">average</a>
+
+```
+$students = collect([
+    [
+        'name' => 'Carol',
+        'assessment' => [
+            'created_at' => '2019-09-06',
+            'score'      => 98,
+        ],
+    ],
+    [
+        'name' => 'Carl',
+        'assessment' => [
+            'created_at' => '2019-09-05',
+            'score'      => 97,
+        ],
+    ],
+    [
+        'name' => 'Coral',
+        'assessment' => [
+            'created_at' => '2019-09-06',
+            'score'      => 99,
+        ],
+    ],
+]);
+echo "Average Score: " . $students->average('assessment.score');
+// Average Score: 98
+```
+
+#### `avg`
+
+Alias for <a href="#average">average</a>.
+
+#### `contains`
+
+Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#contains">contains</a>
+
+```
+$owners = collect([
+    [
+        'name' => 'Drake',
+        'books' => [
+            'hates' => 'Of Mice And Men',
+            'likes' => 'Great Expectations',
+        ],
+    ],
+    [
+        'name' => 'Brake',
+        'books' => [
+            'likes' => 'Men Explain Things To Me',
+        ],
+    ],
+    [
+        'name' => 'Blake',
+        'books' => [
+            'likes' => 'Snowcrash',
+            'hates' => 'Wall-E Novelization',
+        ],
+    ],
+]);
+echo "Someone Likes Snowcrash: " . ($owners->contains('books.likes', 'Snowcrash') ? 'Y' : 'N');
+// Someone Likes Snowcrash: Y
+```
+
+#### `containsStrict`
+
+Strict-comparison version of <a href="#contains">contains</a>.
+
+#### `duplicates`
+
+Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#duplicates">duplicates</a>
+
+```
+$languages = collect([
+    [
+        'name' => 'Evangeline',
+        'position' => [
+            'title' => 'Developer',
+            'started_at' => '2004-03-02',
+        ],
+    ],
+    [
+        'name' => 'Edwin',
+        'position' => [
+            'title' => 'Developer',
+            'started_at' => '2008-12-01',
+        ],
+    ],
+    [
+        'name' => 'Erica',
+        'position' => [
+            'title' => 'SysAdmin',
+            'started_at' => '2015-09-12',
+        ],
+    ],
+]);
+echo "Positions with several employees: " . $languages->duplicates('position.title')->implode(', ');
+// Positions with several employees: Developer
+```
+
+#### `duplicatesStrict`
+
+Strict-comparison version of <a href="#duplicates">duplicates</a>.
+
+#### `every`
+
+#### `except`
+
+#### `firstWhere`
+
+#### `forget`
+
+#### `groupBy`
+
+#### `implode`
+
+#### `keyBy`
+
+#### `max`
+
+#### `median`
+
+#### `min`
+
+#### `mode`
+
+#### `partition`
+
+#### `pluck`
+
+#### `pull`
+
+#### `some`
+
+#### `sortBy`
+
+#### `sortByDesc`
+
+#### `sum`
+
+#### `unique`
+
+#### `uniqueStrict`
+
+#### `where`
+
+#### `whereBetween`
+
+#### `whereIn`
+
+#### `whereInStrict`
+
+#### `whereNotBetween`
+
+#### `whereNotIn`
+
+#### `whereNotInStrict`
+
+#### `whereStrict`
 
 ## Methods that do NOT respect dot-notation
 
