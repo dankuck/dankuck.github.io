@@ -615,13 +615,137 @@ $snakes->some('traits.length', '>', 10);
 
 #### `sortBy`
 
+Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-sort-by">sortBy</a>
+
+```
+$vegetables = collect([
+    [
+        'description' => 'carrots',
+        'ratings' => [
+            'satisfaction' => 5,
+            'production' => 8,
+        ],
+    ],
+    [
+        'description' => 'brocolli',
+        'ratings' => [
+            'satisfaction' => 7,
+            'production' => 4,
+        ],
+    ],
+    [
+        'description' => 'potate',
+        'ratings' => [
+            'satisfaction' => 3,
+            'production' => 5,
+        ],
+    ],
+]);
+$vegetables->sortBy('ratings.satisfaction');
+// [
+//     [
+//         'description' => 'potate',
+//         'ratings' => [
+//             'satisfaction' => 3,
+//             'production' => 5,
+//         ],
+//     ],
+//     [
+//         'description' => 'carrots',
+//         'ratings' => [
+//             'satisfaction' => 5,
+//             'production' => 8,
+//         ],
+//     ],
+//     [
+//         'description' => 'brocolli',
+//         'ratings' => [
+//             'satisfaction' => 7,
+//             'production' => 4,
+//         ],
+//     ],
+// ]
+```
+
 #### `sortByDesc`
+
+Reverse version of <a href="#sortBy">sortBy</a>.
 
 #### `sum`
 
+Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-sum">sum</a>
+
+```
+$bugs = collect([
+    [
+        'description' => 'Customer explodes',
+        'time' => [
+            'alloted' => 5,
+            'spent' => 6,
+        ],
+    ],
+    [
+        'description' => 'Button incorrectly colored',
+        'time' => [
+            'alloted' => 1,
+            'spent' => 3,
+        ],
+    ],
+]);
+$bugs->sum('time.spent');
+// 9
+```
+
 #### `unique`
 
+Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-unique">unique</a>
+
+```
+$aliens = collect([
+    [
+        'name' => 'Slime Species',
+        'quick_facts' => [
+            'population' => 1.4e10,
+            'home' => 'Gangnam 4',
+        ],
+    ],
+    [
+        'name' => 'Dog-like Species',
+        'quick_facts' => [
+            'population' => 3.1e8,
+            'home' => 'Kilroy 2',
+        ],
+    ],
+    [
+        'name' => 'Cat-like Species',
+        'quick_facts' => [
+            'population' => 2.8e7,
+            'home' => 'Kilroy 2',
+        ],
+    ],
+]);
+$aliens->unique('quick_facts.home');
+// [
+//     [
+//         'name' => 'Slime Species',
+//         'quick_facts' => [
+//             'population' => 1.4e10,
+//             'home' => 'Gangnam 4',
+//         ],
+//     ],
+//     [
+//         'name' => 'Dog-like Species',
+//         'quick_facts' => [
+//             'population' => 3.1e8,
+//             'home' => 'Kilroy 2',
+//         ],
+//     ],
+// ]
+```
+
 #### `uniqueStrict`
+
+Strict-comparison version of <a href="#unique">unique</a>.
 
 #### `where`
 
