@@ -112,6 +112,9 @@ $owners->contains('books.likes', 'Snowcrash');
 // true
 ```
 
+This method accepts the same parameters as
+<a href="https://laravel.com/docs/5.8/collections#method-where">where</a>.
+
 #### `containsStrict`
 
 Strict-comparison version of <a href="#contains">contains</a>.
@@ -186,6 +189,9 @@ $swans->every('appearance.color', 'white');
 // false
 ```
 
+This method accepts the same parameters as
+<a href="https://laravel.com/docs/5.8/collections#method-where">where</a>.
+
 #### `except`
 
 Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-except">except</a>
@@ -239,6 +245,9 @@ $houses->firstWhere('owner.name', 'Hardey');
 //     ],
 // ]
 ```
+
+This method accepts the same parameters as
+<a href="https://laravel.com/docs/5.8/collections#method-where">where</a>.
 
 #### `groupBy`
 
@@ -532,6 +541,9 @@ $cart_items->partition('price.base', '>', 3.00);
 // ]
 ```
 
+This method accepts the same parameters as
+<a href="https://laravel.com/docs/5.8/collections#method-where">where</a>.
+
 #### `pluck`
 
 Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-partition">partition</a>
@@ -748,6 +760,51 @@ $aliens->unique('quick_facts.home');
 Strict-comparison version of <a href="#unique">unique</a>.
 
 #### `where`
+
+Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-where">where</a>
+
+```
+$countries = collect([
+    [
+        'name' => 'USA!',
+        'people' => [
+            'population' => 300e6,
+            'average_age' => 38.1,
+        ],
+    ],
+    [
+        'name' => 'Canada',
+        'people' => [
+            'population' => 37e6,
+            'average_age' => 40.8,
+        ],
+    ],
+    [
+        'name' => 'Bolivia',
+        'people' => [
+            'population' => 11e6,
+            'average_age' => 23.1,
+        ],
+    ],
+]);
+$countries->where('people.population', '<', 100e6);
+// [
+//     [
+//         'name' => 'Canada',
+//         'people' => [
+//             'population' => 37e6,
+//             'average_age' => 40.8,
+//         ],
+//     ],
+//     [
+//         'name' => 'Bolivia',
+//         'people' => [
+//             'population' => 11e6,
+//             'average_age' => 23.1,
+//         ],
+//     ],
+// ]
+```
 
 #### `whereBetween`
 
