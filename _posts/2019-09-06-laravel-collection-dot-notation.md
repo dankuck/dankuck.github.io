@@ -300,23 +300,318 @@ $birds->groupBy('traits.feet');
 
 #### `implode`
 
+Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-implode">implode</a>
+
+```
+$employees = collect([
+    [
+        'name' => 'Terry',
+        'login' => [
+            'username' => 'thelms@example.com',
+            'password_hash' => '352663636',
+        ],
+    ],
+    [
+        'name' => 'Vic',
+        'login' => [
+            'username' => 'vchance@example.com',
+            'password_hash' => '84888B277',
+        ],
+    ],
+]);
+echo 'Users: ' . $employees->implode('login.username', '; ');
+// Users: thelms@example.com; vchance@example.com
+```
+
 #### `keyBy`
+
+Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-key-by">keyBy</a>
+
+```
+$parks = collect([
+    [
+        'name' => 'Yosemite',
+        'authority' => [
+            'chief' => 'Gilbert',
+            'technical' => 'Gandry',
+        ],
+    ],
+    [
+        'name' => 'Yellow Stone',
+        'authority' => [
+            'chief' => 'Gertrude',
+            'technical' => 'Gillian',
+        ],
+    ],
+]);
+$parks->keyBy('authority.chief');
+// [
+//     'Gilbert' => [
+//         'name' => 'Yosemite',
+//         'authority' => [
+//             'chief' => 'Gilbert',
+//             'technical' => 'Gandry',
+//         ],
+//     ],
+//     'Gertrude' => [
+//         'name' => 'Yellow Stone',
+//         'authority' => [
+//             'chief' => 'Gertrude',
+//             'technical' => 'Gillian',
+//         ],
+//     ],
+// ]
+```
 
 #### `max`
 
+Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-max">max</a>
+
+```
+$charts = collect([
+    [
+        'name' => 'WENUS',
+        'range' => [
+            'highest_value' => 59,
+            'lowest_value' => 11,
+        ],
+    ],
+    [
+        'name' => 'Top 40',
+        'range' => [
+            'highest_value' => 40,
+            'lowest_value' => 1,
+        ],
+    ],
+]);
+$charts->max('range.highest_value');
+// 59
+```
+
+This one doesn't return the element that has the max value, but instead returns the value itself.
+
 #### `median`
+
+Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-median">median</a>
+
+```
+$lakes = collect([
+    [
+        'name' => 'Blue Lake',
+        'customer_ratings' => ['high' => 100, 'low' => 98],
+    ],
+    [
+        'name' => 'Moose Lake',
+        'customer_ratings' => ['high' => 78, 'low' => 15],
+    ],
+    [
+        'name' => 'Sad Lake',
+        'customer_ratings' => ['high' => 99, 'low' => 80],
+    ],
+]);
+$lakes->median('customer_ratings.high');
+// 99
+```
+
+This one doesn't return the element that has the median value, but instead returns the value itself.
 
 #### `min`
 
+Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-min">min</a>
+
+```
+$racing_crabs = collect([
+    [
+        'name' => 'Charlie',
+        'times' => ['fastest' => 27, 'slowest' => 51],
+    ],
+    [
+        'name' => 'Ban mi',
+        'times' => ['fastest' => 40, 'slowest' => 45],
+    ],
+    [
+        'name' => 'Gator Hater',
+        'times' => ['fastest' => 28, 'slowest' => 39],
+    ],
+]);
+$racing_crabs->min('times.fastest');
+// 27
+```
+
+This one doesn't return the element that has the min value, but instead returns the value itself.
+
 #### `mode`
+
+Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-mode">mode</a>
+
+```
+$homes = collect([
+    [
+        'neighborhood' => 'Clampet Estates',
+        'details' => [
+            'type' => 'ranch',
+            'area' => 2100,
+        ],
+    ],
+    [
+        'neighborhood' => 'Fletcher Pavilion',
+        'details' => [
+            'type' => 'ranch',
+            'area' => 3000,
+        ],
+    ],
+    [
+        'neighborhood' => 'Terrence Terraces',
+        'details' => [
+            'type' => 'bungalow',
+            'area' => 1200,
+        ],
+    ],
+]);
+$homes->mode('details.type');
+// ['ranch']
+```
+
+This one doesn't return the element that has the mode value, but instead returns the value itself in an array. If multiple values could be considered the mode, they are all present in the array.
 
 #### `partition`
 
+Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-partition">partition</a>
+
+```
+$cart_items = collect([
+    [
+        'description' => 'Cake',
+        'price' => [
+            'base' => 4.00,
+            'tax'  => 0.28,
+        ],
+    ],
+    [
+        'description' => 'Rice',
+        'price' => [
+            'base' => 1.50,
+            'tax'  => 0.00,
+        ],
+    ],
+    [
+        'description' => 'Limburger',
+        'price' => [
+            'base' => 10.00,
+            'tax'  => 0.00,
+        ],
+    ],
+]);
+$cart_items->partition('price.base', '>', 3.00);
+// [
+//     [
+//         [
+//             'description' => 'Cake',
+//             'price' => [
+//                 'base' => 4.00,
+//                 'tax'  => 0.28,
+//             ],
+//         ],
+//         [
+//             'description' => 'Limburger',
+//             'price' => [
+//                 'base' => 10.00,
+//                 'tax'  => 0.00,
+//             ],
+//         ],
+//     ],
+//     [
+//         [
+//             'description' => 'Rice',
+//             'price' => [
+//                 'base' => 1.50,
+//                 'tax'  => 0.00,
+//             ],
+//         ],
+//     ],
+// ]
+```
+
 #### `pluck`
+
+Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-partition">partition</a>
+
+```
+$equipment = collect([
+    [
+        'description' => 'balls',
+        'location' => [
+            'building' => 4,
+            'bin' => 17,
+        ],
+    ],
+    [
+        'description' => 'pads',
+        'location' => [
+            'building' => 2,
+            'bin' => 10,
+        ],
+    ],
+]);
+$equipment->pluck('location.building');
+// [4, 2]
+```
 
 #### `pull`
 
+Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-pull">pull</a>
+
+```
+$system = collect([
+    'name' => 'rothchild-1',
+    'tasks' => [
+        [
+            'commmand' => 'start-jml',
+        ],
+        [
+            'commmand' => 'start-interest-blt',
+        ],
+    ],
+]);
+$system->pull('tasks.0');
+// [
+//     'commmand' => 'start-jml',
+// ]
+// AND
+// $system = [
+//     'name' => 'rothchild-1',
+//     'tasks' => [
+//         [
+//             'commmand' => 'start-interest-blt',
+//         ],
+//     ],
+// ]
+```
+
 #### `some`
+
+Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-some">some</a>
+
+```
+$snakes = collect([
+    [
+        'name' => 'Jim',
+        'traits' => [
+            'breed' => 'black racer',
+            'length' => 14,
+        ],
+    ],
+    [
+        'name' => 'Bruce O\'Leary',
+        'traits' => [
+            'breed' => 'antillean',
+            'length' => 1,
+        ],
+    ],
+]);
+$snakes->some('traits.length', '>', 10);
+// true
+```
 
 #### `sortBy`
 
