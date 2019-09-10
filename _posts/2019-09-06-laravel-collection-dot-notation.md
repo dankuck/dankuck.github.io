@@ -8,9 +8,9 @@ draft:
 notes: "https://github.com/laravel/framework/blob/5.8/src/Illuminate/Support/Arr.php, https://github.com/laravel/framework/blob/5.8/src/Illuminate/Support/Collection.php"
 ---
 
-When working with nested structures in Laravel's <a href="https://laravel.com/docs/5.8/collections">Collection</a> class, several of its methods allow you to use a short-hand to access the nested values.
+When working with Laravel's <a href="https://laravel.com/docs/5.8/collections">Collection</a> class, several of its methods allow you to use a short-hand to access nested values.
 
-Here's an example with some nested structures. We just want one part of each.
+Here's an example of a structure that has nested data we want to pull out and echo.
 
 ```
 $employees = collect([
@@ -33,15 +33,13 @@ echo 'Users: ' . $employees->implode('login.username', '; ');
 // Users: thelms@example.com; vchance@example.com
 ```
 
-The documentation for Laravel Collections doesn't tell you which methods support dot-notation. So I figured it out.
+But which Laravel Collection methods support dot-notation? Not all of them.
 
 ## TL;DR
 
-Most methods that accept key names respect dot-notation. The list of those that DON'T is short: `forget`, `get`, `has`, `only`, `prepend`, `put`.
+Most methods that accept key names respect dot-notation. The list of those that DON'T is short: `forget`, `get`, `has`, `only`, `prepend`, `put`. Some other methods only accept callbacks, such as `map`.
 
-Many methods that respect dot-notation do so because they use the same core code as `where`. Any method that accepts those same parameters -- `where($key, [$operator, [$value]])` -- will also respect dot-notation.
-
-Here's the list with examples.
+Many methods that respect dot-notation do so because they use the same core code as `where`. Any method that accepts those same parameters -- `where($key, $operator, $value)` -- will also respect dot-notation.
 
 ## Methods that respect dot-notation
 
