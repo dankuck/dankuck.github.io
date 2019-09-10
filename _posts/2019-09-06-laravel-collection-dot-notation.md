@@ -87,7 +87,7 @@ Here's the list with examples.
 
 <div style="clear:both"></div>
 
-#### `average`
+### `average`
 
 Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-average">average</a>
 
@@ -121,11 +121,11 @@ echo "Average Score: " . $students->average('assessment.score');
 // Average Score: 98
 ```
 
-#### `avg`
+### `avg`
 
 Alias for <a href="#average">average</a>.
 
-#### `contains`
+### `contains`
 
 Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-contains">contains</a>
 
@@ -161,11 +161,11 @@ $owners->contains('books.likes', 'Snowcrash');
 This method accepts the same parameters as
 <a href="https://laravel.com/docs/5.8/collections#method-where">where</a>.
 
-#### `containsStrict`
+### `containsStrict`
 
 Strict-comparison version of <a href="#contains">contains</a>.
 
-#### `duplicates`
+### `duplicates`
 
 Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-duplicates">duplicates</a>
 
@@ -201,11 +201,11 @@ $employees->duplicates('position.title');
 
 Another undocumented feature of `duplicates` is that the largest key is preserved for each value. Use <a href="https://laravel.com/docs/5.8/collections#method-values">values</a> to reset the keys.
 
-#### `duplicatesStrict`
+### `duplicatesStrict`
 
 Strict-comparison version of <a href="#duplicates">duplicates</a>.
 
-#### `every`
+### `every`
 
 Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-every">every</a>
 
@@ -242,7 +242,7 @@ $swans->every('appearance.color', 'white');
 This method accepts the same parameters as
 <a href="https://laravel.com/docs/5.8/collections#method-where">where</a>.
 
-#### `except`
+### `except`
 
 Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-except">except</a>
 
@@ -267,7 +267,7 @@ $user->except('photo.width', 'photo.height', 'created_at');
 // ]
 ```
 
-#### `firstWhere`
+### `firstWhere`
 
 Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-first-where">firstWhere</a>
 
@@ -303,7 +303,7 @@ $houses->firstWhere('owner.name', 'Hardey');
 This method accepts the same parameters as
 <a href="https://laravel.com/docs/5.8/collections#method-where">where</a>.
 
-#### `groupBy`
+### `groupBy`
 
 Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-group-by">groupBy</a>
 
@@ -363,7 +363,7 @@ $birds->groupBy('traits.feet');
 // ]
 ```
 
-#### `implode`
+### `implode`
 
 Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-implode">implode</a>
 
@@ -390,7 +390,7 @@ echo 'Users: ' . $employees->implode('login.username', '; ');
 // Users: thelms@example.com; vchance@example.com
 ```
 
-#### `keyBy`
+### `keyBy`
 
 Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-key-by">keyBy</a>
 
@@ -432,7 +432,7 @@ $parks->keyBy('authority.chief');
 // ]
 ```
 
-#### `max`
+### `max`
 
 Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-max">max</a>
 
@@ -461,7 +461,7 @@ $charts->max('range.highest_value');
 
 This one doesn't return the element that has the max value, but instead returns the value itself.
 
-#### `median`
+### `median`
 
 Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-median">median</a>
 
@@ -488,7 +488,7 @@ $lakes->median('customer_ratings.high');
 
 This one doesn't return the element that has the median value, but instead returns the value itself.
 
-#### `min`
+### `min`
 
 Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-min">min</a>
 
@@ -515,7 +515,7 @@ $racing_crabs->min('times.fastest');
 
 This one doesn't return the element that has the min value, but instead returns the value itself.
 
-#### `mode`
+### `mode`
 
 Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-mode">mode</a>
 
@@ -551,7 +551,7 @@ $homes->mode('details.type');
 
 This one doesn't return the element that has the mode value, but instead returns the value itself in an array. If multiple values could be considered the mode, they are all present in the array.
 
-#### `partition`
+### `partition`
 
 Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-partition">partition</a>
 
@@ -614,7 +614,7 @@ $cart_items->partition('price.base', '>', 3.00);
 This method accepts the same parameters as
 <a href="https://laravel.com/docs/5.8/collections#method-where">where</a>.
 
-#### `pluck`
+### `pluck`
 
 Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-partition">partition</a>
 
@@ -641,7 +641,7 @@ $equipment->pluck('location.building');
 // [4, 2]
 ```
 
-#### `pull`
+### `pull`
 
 Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-pull">pull</a>
 
@@ -674,7 +674,7 @@ $system->pull('tasks.0');
 // ]
 ```
 
-#### `some`
+### `some`
 
 Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-some">some</a>
 
@@ -701,7 +701,7 @@ $snakes->some('traits.length', '>', 10);
 // true
 ```
 
-#### `sortBy`
+### `sortBy`
 
 Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-sort-by">sortBy</a>
 
@@ -757,11 +757,11 @@ $vegetables->sortBy('ratings.satisfaction');
 // ]
 ```
 
-#### `sortByDesc`
+### `sortByDesc`
 
 Reverse version of <a href="#sortBy">sortBy</a>.
 
-#### `sum`
+### `sum`
 
 Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-sum">sum</a>
 
@@ -788,7 +788,7 @@ $bugs->sum('time.spent');
 // 9
 ```
 
-#### `unique`
+### `unique`
 
 Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-unique">unique</a>
 
@@ -837,11 +837,11 @@ $aliens->unique('quick_facts.home');
 // ]
 ```
 
-#### `uniqueStrict`
+### `uniqueStrict`
 
 Strict-comparison version of <a href="#unique">unique</a>.
 
-#### `where`
+### `where`
 
 Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-where">where</a>
 
@@ -890,19 +890,19 @@ $countries->where('people.population', '<', 100e6);
 // ]
 ```
 
-#### `whereBetween`
+### `whereBetween`
 
-#### `whereIn`
+### `whereIn`
 
-#### `whereInStrict`
+### `whereInStrict`
 
-#### `whereNotBetween`
+### `whereNotBetween`
 
-#### `whereNotIn`
+### `whereNotIn`
 
-#### `whereNotInStrict`
+### `whereNotInStrict`
 
-#### `whereStrict`
+### `whereStrict`
 
 ## Methods that do NOT respect dot-notation
 
