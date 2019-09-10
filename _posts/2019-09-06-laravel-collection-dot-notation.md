@@ -45,9 +45,53 @@ Here's the list with examples.
 
 ## Methods that respect dot-notation
 
+<ul style="float: left">
+    <li><a href="#average">average</a></li>
+    <li><a href="#avg">avg</a></li>
+    <li><a href="#contains">contains</a></li>
+    <li><a href="#containsStrict">containsStrict</a></li>
+    <li><a href="#duplicates">duplicates</a></li>
+    <li><a href="#duplicatesStrict">duplicatesStrict</a></li>
+    <li><a href="#every">every</a></li>
+    <li><a href="#except">except</a></li>
+    <li><a href="#firstWhere">firstWhere</a></li>
+    <li><a href="#groupBy">groupBy</a></li>
+    <li><a href="#implode">implode</a></li>
+</ul>
+<ul style="float: left">
+    <li><a href="#keyBy">keyBy</a></li>
+    <li><a href="#max">max</a></li>
+    <li><a href="#median">median</a></li>
+    <li><a href="#min">min</a></li>
+    <li><a href="#mode">mode</a></li>
+    <li><a href="#partition">partition</a></li>
+    <li><a href="#pluck">pluck</a></li>
+    <li><a href="#pull">pull</a></li>
+    <li><a href="#some">some</a></li>
+    <li><a href="#sortBy">sortBy</a></li>
+    <li><a href="#sortByDesc">sortByDesc</a></li>
+</ul>
+<ul style="float: left">
+    <li><a href="#sum">sum</a></li>
+    <li><a href="#unique">unique</a></li>
+    <li><a href="#uniqueStrict">uniqueStrict</a></li>
+    <li><a href="#where">where</a></li>
+    <li><a href="#whereBetween">whereBetween</a></li>
+    <li><a href="#whereIn">whereIn</a></li>
+    <li><a href="#whereInStrict">whereInStrict</a></li>
+    <li><a href="#whereNotBetween">whereNotBetween</a></li>
+    <li><a href="#whereNotIn">whereNotIn</a></li>
+    <li><a href="#whereNotInStrict">whereNotInStrict</a></li>
+    <li><a href="#whereStrict">whereStrict</a></li>
+</ul>
+
+<div style="clear:both"></div>
+
 #### `average`
 
 Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-average">average</a>
+
+Dot-notation Example:
 
 ```
 $students = collect([
@@ -84,6 +128,8 @@ Alias for <a href="#average">average</a>.
 #### `contains`
 
 Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-contains">contains</a>
+
+Dot-notation Example:
 
 ```
 $owners = collect([
@@ -123,6 +169,8 @@ Strict-comparison version of <a href="#contains">contains</a>.
 
 Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-duplicates">duplicates</a>
 
+Dot-notation Example:
+
 ```
 $employees = collect([
     [
@@ -161,6 +209,8 @@ Strict-comparison version of <a href="#duplicates">duplicates</a>.
 
 Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-every">every</a>
 
+Dot-notation Example:
+
 ```
 $swans = collect([
     [
@@ -196,6 +246,8 @@ This method accepts the same parameters as
 
 Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-except">except</a>
 
+Dot-notation Example:
+
 ```
 $user = collect([
     'name'       => 'Gravely',
@@ -218,6 +270,8 @@ $user->except('photo.width', 'photo.height', 'created_at');
 #### `firstWhere`
 
 Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-first-where">firstWhere</a>
+
+Dot-notation Example:
 
 ```
 $houses = collect([
@@ -252,6 +306,8 @@ This method accepts the same parameters as
 #### `groupBy`
 
 Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-group-by">groupBy</a>
+
+Dot-notation Example:
 
 ```
 $birds = collect([
@@ -311,6 +367,8 @@ $birds->groupBy('traits.feet');
 
 Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-implode">implode</a>
 
+Dot-notation Example:
+
 ```
 $employees = collect([
     [
@@ -335,6 +393,8 @@ echo 'Users: ' . $employees->implode('login.username', '; ');
 #### `keyBy`
 
 Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-key-by">keyBy</a>
+
+Dot-notation Example:
 
 ```
 $parks = collect([
@@ -376,6 +436,8 @@ $parks->keyBy('authority.chief');
 
 Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-max">max</a>
 
+Dot-notation Example:
+
 ```
 $charts = collect([
     [
@@ -403,6 +465,8 @@ This one doesn't return the element that has the max value, but instead returns 
 
 Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-median">median</a>
 
+Dot-notation Example:
+
 ```
 $lakes = collect([
     [
@@ -428,6 +492,8 @@ This one doesn't return the element that has the median value, but instead retur
 
 Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-min">min</a>
 
+Dot-notation Example:
+
 ```
 $racing_crabs = collect([
     [
@@ -452,6 +518,8 @@ This one doesn't return the element that has the min value, but instead returns 
 #### `mode`
 
 Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-mode">mode</a>
+
+Dot-notation Example:
 
 ```
 $homes = collect([
@@ -486,6 +554,8 @@ This one doesn't return the element that has the mode value, but instead returns
 #### `partition`
 
 Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-partition">partition</a>
+
+Dot-notation Example:
 
 ```
 $cart_items = collect([
@@ -548,6 +618,8 @@ This method accepts the same parameters as
 
 Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-partition">partition</a>
 
+Dot-notation Example:
+
 ```
 $equipment = collect([
     [
@@ -572,6 +644,8 @@ $equipment->pluck('location.building');
 #### `pull`
 
 Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-pull">pull</a>
+
+Dot-notation Example:
 
 ```
 $system = collect([
@@ -604,6 +678,8 @@ $system->pull('tasks.0');
 
 Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-some">some</a>
 
+Dot-notation Example:
+
 ```
 $snakes = collect([
     [
@@ -628,6 +704,8 @@ $snakes->some('traits.length', '>', 10);
 #### `sortBy`
 
 Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-sort-by">sortBy</a>
+
+Dot-notation Example:
 
 ```
 $vegetables = collect([
@@ -687,6 +765,8 @@ Reverse version of <a href="#sortBy">sortBy</a>.
 
 Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-sum">sum</a>
 
+Dot-notation Example:
+
 ```
 $bugs = collect([
     [
@@ -711,6 +791,8 @@ $bugs->sum('time.spent');
 #### `unique`
 
 Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-unique">unique</a>
+
+Dot-notation Example:
 
 ```
 $aliens = collect([
@@ -762,6 +844,8 @@ Strict-comparison version of <a href="#unique">unique</a>.
 #### `where`
 
 Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-where">where</a>
+
+Dot-notation Example:
 
 ```
 $countries = collect([
@@ -822,7 +906,7 @@ $countries->where('people.population', '<', 100e6);
 
 ## Methods that do NOT respect dot-notation
 
-These methods work directly on the internal array without checking to see whether it is nested or whether the key passed into them contains dots.
+These methods work directly on a Collection's internal array without checking to see whether the keys passed in contain dots.
 
 * `forget`
 * `get`
