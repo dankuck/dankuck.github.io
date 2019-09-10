@@ -39,7 +39,7 @@ The documentation for Laravel Collections doesn't tell you which methods support
 
 Most methods that accept key names respect dot-notation. The list of those that DON'T is short: `forget`, `get`, `has`, `only`, `prepend`, `put`.
 
-A lot of methods that respect dot-notation work because they behave very similarly to `where`. So any method that takes those same parameters -- `where($key, [$operator, [$value]])` -- will also respect dot-notation.
+Many methods that respect dot-notation do so because they use the same core code as `where`. Any method that accepts those same parameters -- `where($key, [$operator, [$value]])` -- will also respect dot-notation.
 
 Here's the list with examples.
 
@@ -49,17 +49,17 @@ Here's the list with examples.
     <li><a href="#average">average</a></li>
     <li><a href="#avg">avg</a></li>
     <li><a href="#contains">contains</a></li>
-    <li><a href="#containsStrict">containsStrict</a></li>
+    <li><a href="#containsstrict">containsStrict</a></li>
     <li><a href="#duplicates">duplicates</a></li>
-    <li><a href="#duplicatesStrict">duplicatesStrict</a></li>
+    <li><a href="#duplicatesstrict">duplicatesStrict</a></li>
     <li><a href="#every">every</a></li>
     <li><a href="#except">except</a></li>
-    <li><a href="#firstWhere">firstWhere</a></li>
-    <li><a href="#groupBy">groupBy</a></li>
+    <li><a href="#firstwhere">firstWhere</a></li>
+    <li><a href="#groupby">groupBy</a></li>
     <li><a href="#implode">implode</a></li>
 </ul>
 <ul style="float: left">
-    <li><a href="#keyBy">keyBy</a></li>
+    <li><a href="#keyby">keyBy</a></li>
     <li><a href="#max">max</a></li>
     <li><a href="#median">median</a></li>
     <li><a href="#min">min</a></li>
@@ -68,21 +68,21 @@ Here's the list with examples.
     <li><a href="#pluck">pluck</a></li>
     <li><a href="#pull">pull</a></li>
     <li><a href="#some">some</a></li>
-    <li><a href="#sortBy">sortBy</a></li>
-    <li><a href="#sortByDesc">sortByDesc</a></li>
+    <li><a href="#sortby">sortBy</a></li>
+    <li><a href="#sortbydesc">sortByDesc</a></li>
 </ul>
 <ul style="float: left">
     <li><a href="#sum">sum</a></li>
     <li><a href="#unique">unique</a></li>
-    <li><a href="#uniqueStrict">uniqueStrict</a></li>
+    <li><a href="#uniquestrict">uniqueStrict</a></li>
     <li><a href="#where">where</a></li>
-    <li><a href="#whereBetween">whereBetween</a></li>
-    <li><a href="#whereIn">whereIn</a></li>
-    <li><a href="#whereInStrict">whereInStrict</a></li>
-    <li><a href="#whereNotBetween">whereNotBetween</a></li>
-    <li><a href="#whereNotIn">whereNotIn</a></li>
-    <li><a href="#whereNotInStrict">whereNotInStrict</a></li>
-    <li><a href="#whereStrict">whereStrict</a></li>
+    <li><a href="#wherebetween">whereBetween</a></li>
+    <li><a href="#wherein">whereIn</a></li>
+    <li><a href="#whereinstrict">whereInStrict</a></li>
+    <li><a href="#wherenotbetween">whereNotBetween</a></li>
+    <li><a href="#wherenotin">whereNotIn</a></li>
+    <li><a href="#wherenotinstrict">whereNotInStrict</a></li>
+    <li><a href="#wherestrict">whereStrict</a></li>
 </ul>
 
 <div style="clear:both"></div>
