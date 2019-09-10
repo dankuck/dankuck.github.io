@@ -904,17 +904,54 @@ $snakes->whereBetween('traits.length', [10, 20]);
 
 ### `whereIn`
 
+Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-where-in">whereIn</a>
+
+Dot-notation Example:
+
+```
+$bears = collect([
+    [
+        'name' => 'Grizzly',
+        'ratings' => [
+            'danger' => 'high',
+            'cuddliness' => 'low',
+        ],
+    ],
+    [
+        'name' => 'Teddy',
+        'ratings' => [
+            'danger' => 'low',
+            'cuddliness' => 'high',
+        ],
+    ],
+]);
+$bears->whereIn('ratings.danger', ['high', 'medium']);
+// [
+//     [
+//         'name' => 'Grizzly',
+//         'ratings' => [
+//             'danger' => 'high',
+//             'cuddliness' => 'low',
+//         ],
+//     ],
+// ]
+```
+
 ### `whereInStrict`
+
+Strict-comparison version of <a href="#wherein">whereIn</a>.
 
 ### `whereNotBetween`
 
-Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-where-not-between">whereNotBetween</a>
-
-The reverse of <a href="#wherebetween">whereBetween</a>.
+Reverse version of <a href="#wherebetween">whereBetween</a>.
 
 ### `whereNotIn`
 
+Reverse version of <a href="#wherein">whereIn</a>.
+
 ### `whereNotInStrict`
+
+Reverse and strict-comparison version of <a href="#wherein">whereIn</a>.
 
 ### `whereStrict`
 
@@ -940,7 +977,3 @@ Similar to the above methods these native PHP operations only act directly on th
 * `$collection['key.key'] = 'value'`
 * `unset($collection['key.key'])`
 * `echo $collection->{'key.key'}`
-
-## Contribution
-
-I want to expand this list with examples of each method in action. If you want to help, you can fork <a href="https://github.com/dankuck/dankuck.github.io">the repo</a>, edit `_posts/2019-09-06-laravel-collection-dot-notation.md`, and submit a pull request.
