@@ -676,30 +676,7 @@ $system->pull('tasks.0');
 
 ### `some`
 
-Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-some">some</a>
-
-Dot-notation Example:
-
-```
-$snakes = collect([
-    [
-        'name' => 'Jim',
-        'traits' => [
-            'breed' => 'black racer',
-            'length' => 14,
-        ],
-    ],
-    [
-        'name' => 'Bruce O\'Leary',
-        'traits' => [
-            'breed' => 'antillean',
-            'length' => 1,
-        ],
-    ],
-]);
-$snakes->some('traits.length', '>', 10);
-// true
-```
+Alias for <a href="#contains">contains</a>.
 
 ### `sortBy`
 
@@ -892,17 +869,56 @@ $countries->where('people.population', '<', 100e6);
 
 ### `whereBetween`
 
+Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-where-between">whereBetween</a>
+
+Dot-notation Example:
+
+```
+$snakes = collect([
+    [
+        'name' => 'Jim',
+        'traits' => [
+            'breed' => 'black racer',
+            'length' => 14,
+        ],
+    ],
+    [
+        'name' => 'Bruce O\'Leary',
+        'traits' => [
+            'breed' => 'antillean',
+            'length' => 1,
+        ],
+    ],
+]);
+$snakes->whereBetween('traits.length', [10, 20]);
+// [
+//     [
+//         'name' => 'Jim',
+//         'traits' => [
+//             'breed' => 'black racer',
+//             'length' => 14,
+//         ],
+//     ],
+// ]
+```
+
 ### `whereIn`
 
 ### `whereInStrict`
 
 ### `whereNotBetween`
 
+Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-where-not-between">whereNotBetween</a>
+
+The reverse of <a href="#wherebetween">whereBetween</a>.
+
 ### `whereNotIn`
 
 ### `whereNotInStrict`
 
 ### `whereStrict`
+
+Strict-comparison version of <a href="#where">where</a>.
 
 ## Methods that do NOT respect dot-notation
 
