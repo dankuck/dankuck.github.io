@@ -975,3 +975,238 @@ Similar to the above methods these native PHP operations only act directly on th
 * `$collection['key.key'] = 'value'`
 * `unset($collection['key.key'])`
 * `echo $collection->{'key.key'}`
+
+## What about \*?
+
+Dot-notation lets us use an asterisk (\*) wildcard in place of any particular key, with some caveats:
+
+* The element \* searches through must be an array or Collection.
+* The result will be an Collection of arrays.
+* If something is missing, the result Collection may have a null in spots instead of arrays.
+
+```
+$players = collect([
+    [
+        'name' => 'XDestroyY',
+        'achievements' => [
+            [
+                'description' => 'Collect 400 Chipples',
+                'difficulty' => 2,
+                'time' => 12345,
+                'player_id' => 14,
+            ],
+            [
+                'description' => 'Pass the Mork',
+                'difficulty' => 5,
+                'time' => 23456,
+                'player_id' => 14,
+            ],
+            [
+                // why is this one empty? ¯\_(ツ)_/¯
+            ],
+        ],
+        'items' => [
+            [
+                'name' => 'hammer',
+                'ready' => true,
+                'hp' => 4,
+            ],
+            [
+                'name' => 'candle',
+                'ready' => false,
+                'hp' => 1,
+            ],
+        ],
+    ],
+    [
+        'name' => 'BunnyNewb',
+        // no achievements
+        'items' => [
+            [
+                'name' => 'scissors',
+                'ready' => true,
+                'hp' => 6,
+            ],
+        ],
+    ],
+]);
+$players->pluck('achievements.*.description')
+// [
+//     [
+//         "Collect 400 Chipples",
+//         "Pass the Mork",
+//         null,
+//     ],
+//     null,
+// ]
+```
+
+You may need to `flatten` and/or `filter` the Collection to get the results you want.
+
+```
+$players->pluck('achievements.*.description')->flatten()->filter();
+// [
+//     "Collect 400 Chipples",
+//     "Pass the Mork",
+// ]
+```
+
+Because of the caveats, some methods don't really support \* even if they support dot-notation.
+
+As always, test your expectations.
+
+### Dot-notation examples with \*:
+
+```
+$players->average('achievements.*.time');
+// 0 // WRONG!
+
+$players->pluck('achievements.*.time')->flatten()->average();
+// 17900.5
+```
+```
+$players->contains('achievements.*.description', 'Collect 400 Chipples')
+// false // WRONG!
+
+$players->pluck('achievements.*.description')->flatten()->contains('Collect 400 Chipples')
+// true
+```
+```
+$players->duplicates('acheivements.*.player_id');
+// [] // WRONG!
+
+$players->pluck('achievements.*.player_id')->flatten()->filter()->duplicates()
+// [14]
+```
+```
+$players->every('items.*.ready');
+// true // WRONG!
+
+$players->pluck('items.*')->flatten(1)->every('ready')
+// false
+```
+```
+collect($players[0])->except('items.*.ready', 'achievements')
+// [ // WRONG!
+//     'name' => 'XDestroyY',
+//     'items' => [
+//         [
+//             'name' => 'hammer',
+//             'ready' => true,
+//         ],
+//         [
+//             'name' => 'candle',
+//             'ready' => false,
+//         ],
+//     ],
+// ] // WRONG!
+
+// If you can think of a chain that removes `ready` in an elegant manner, let
+// me know.
+```
+```
+$players->firstWhere('items.*.hp', '>=', 6);
+// [ // WRONG!
+//     'name' => 'XDestroyY',
+//     ... the whole array ...
+// ] // WRONG!
+
+$players->first(function ($player) { return collect($player['items'])->contains('hp', '>=', 6); });
+// [
+//     'name' => 'BunnyNewb',
+//     ... the whole array ...
+// ]
+```
+```
+$players->groupBy('items.*.name');
+// [
+//     'hammer' => [
+//         [
+//             'name' => 'XDestroyY',
+//             ... the whole array ...
+//         ],
+//     ],
+//     'candle' => [
+//         [
+//             'name' => 'XDestroyY',
+//             ... the whole array ...
+//         ],
+//     ],
+//     'scissors' => [
+//         [
+//             'name' => 'BunnyNewb',
+//             ... the whole array ...
+//         ],
+//     ],
+// ]
+// Notice that XDestroyY was copied into two different groups!
+```
+```
+$players->implode();
+```
+```
+$players->keyby();
+```
+```
+$players->max();
+```
+```
+$players->median();
+```
+```
+$players->min();
+```
+```
+$players->mode();
+```
+```
+$players->partition();
+```
+```
+$players->pluck();
+```
+```
+$players->pull();
+```
+```
+$players->some();
+```
+```
+$players->sortby();
+```
+```
+$players->sortbydesc();
+```
+```
+$players->sum();
+```
+```
+$players->unique();
+```
+```
+$players->uniquestrict();
+```
+```
+$players->where();
+```
+```
+$players->wherebetween();
+```
+```
+$players->wherein();
+```
+```
+$players->whereinstrict();
+```
+```
+$players->wherenotbetween();
+```
+```
+$players->wherenotin();
+```
+```
+$players->wherenotinstrict();
+```
+```
+$players->wherestrict();
+```
