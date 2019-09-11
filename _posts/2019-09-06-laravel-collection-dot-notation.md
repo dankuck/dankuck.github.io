@@ -39,7 +39,7 @@ But which Laravel Collection methods support dot-notation? Not all of them.
 
 Most methods that accept key names respect dot-notation. The list of those that DON'T is short: `forget`, `get`, `has`, `only`, `prepend`, `put`. Some other methods only accept callbacks, such as `map`.
 
-Many methods that respect dot-notation do so because they use the same core code as `where`. Any method that accepts those same parameters -- `where($key, $operator, $value)` -- will also respect dot-notation.
+Many methods that respect dot-notation do so because they use the same core code as `where($key, $operator, $value)`. Any method that accepts those same parameters will also respect dot-notation.
 
 ## Methods that respect dot-notation
 
