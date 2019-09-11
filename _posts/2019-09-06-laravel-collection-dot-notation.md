@@ -1010,11 +1010,13 @@ $players = collect([
                 'name' => 'hammer',
                 'ready' => true,
                 'hp' => 4,
+                'min_level' => 2,
             ],
             [
                 'name' => 'candle',
                 'ready' => false,
                 'hp' => 1,
+                'min_level' => 2,
             ],
         ],
     ],
@@ -1026,6 +1028,7 @@ $players = collect([
                 'name' => 'scissors',
                 'ready' => true,
                 'hp' => 6,
+                'min_level' => 1,
             ],
         ],
     ],
@@ -1142,22 +1145,67 @@ $players->groupBy('items.*.name');
 // Notice that XDestroyY was copied into two different groups!
 ```
 ```
-$players->implode();
+$players->implode('achievements.*.description', ', ');
+// PHP Notice:  Array to string conversion // WRONG!
+
+$players->pluck('achievements.*.description')->flatten()->filter()->implode(', ');
+// Collect 400 Chipples, Pass the Mork
 ```
 ```
-$players->keyby();
+$players->keyBy('items.*.name');
+// PHP Warning:  Illegal offset type // WRONG!
+
+$players->groupBy('items.*.name')->map(function ($group) { return $group->last(); });
+// [
+//     'hammer' => [
+//         'name' => 'XDestroyY',
+//         ... the whole array ...
+//     ],
+//     'candle' => [
+//         'name' => 'XDestroyY',
+//         ... the whole array ...
+//     ],
+//     'scissors' => [
+//         'name' => 'BunnyNewb',
+//         ... the whole array ...
+//     ],
+// ]
 ```
 ```
-$players->max();
+$players->max('achievements.*.time');
+// [ // WRONG!
+//     12345,
+//     23456,
+//     null,
+// ] // WRONG!
+
+$players->pluck('achievements.*.time')->flatten()->max();
+// 23456
 ```
 ```
-$players->median();
+$players->median('items.*.hp');
+// 0 // WRONG!
+
+$players->pluck('items.*.hp')->flatten()->median();
+// 4
 ```
 ```
-$players->min();
+$players->min('items.*.hp');
+// [ // WRONG!
+//     6,
+// ] // WRONG!
+
+$players->pluck('items.*.hp')->flatten()->min();
+// 1
 ```
 ```
-$players->mode();
+$players->mode('items.*.min_level');
+// PHP Warning:  array_key_exists(): The first argument should be either a string or an integer
+
+$players->pluck('items.*.min_level')->flatten()->mode();
+// [
+//     2,
+// ]
 ```
 ```
 $players->partition();
