@@ -41,7 +41,7 @@ But which Laravel Collection methods support dot-notation? Not all of them.
 
 Any method that accepts the same parameters as `where($key, $operator, $value)` will also respect dot-notation.
 
-Only `pluck` and `groupBy` will use the <a href="#what-about-">array-wildcard \*</a> correctly. The others will give wrong results.
+Only `pluck` and `groupBy` use the <a href="#what-about-">array-wildcard \*</a> correctly. The others will give wrong results.
 
 ## Methods that respect dot-notation
 
