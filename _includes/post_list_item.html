@@ -23,8 +23,8 @@
     </div>
     {% endif %}
 
-    {% if sample_content %}
-        {{ sample_content }}
+    {% if post.sample_content %}
+        {% include short_content.html content=post.sample_content %}
     {% else %}
         {% include short_content.html content=post.content %}
     {% endif %}
