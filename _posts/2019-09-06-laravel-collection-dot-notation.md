@@ -37,9 +37,11 @@ But which Laravel Collection methods support dot-notation? Not all of them.
 
 ## TL;DR
 
-Most methods that accept key names respect dot-notation. The list of those that DON'T is short: `forget`, `get`, `has`, `only`, `prepend`, `put`. Some other methods only accept callbacks, such as `map`.
+<a href="#methods-that-respect-dot-notation">Most methods that accept key names</a> respect dot-notation. The <a href="#methods-that-do-not-respect-dot-notation">list of those that DON'T</a> is short: `forget`, `get`, `has`, `only`, `prepend`, `put`. Some other methods only accept callbacks, such as `map`.
 
-Many methods that respect dot-notation do so because they use the same core code as `where($key, $operator, $value)`. Any method that accepts those same parameters will also respect dot-notation.
+Any method that accepts the same parameters as `where($key, $operator, $value)` will also respect dot-notation.
+
+Only `pluck` and `groupBy` use the <a href="#what-about-">array-wildcard \*</a> correctly. The others will give wrong results.
 
 ## Methods that respect dot-notation
 
@@ -119,6 +121,8 @@ echo "Average Score: " . $students->average('assessment.score');
 // Average Score: 98
 ```
 
+This method does not play nice with <a href="#what-about-">\*</a>.
+
 ### `avg`
 
 Alias for <a href="#average">average</a>.
@@ -159,6 +163,8 @@ $owners->contains('books.likes', 'Snowcrash');
 This method accepts the same parameters as
 <a href="https://laravel.com/docs/5.8/collections#method-where">where</a>.
 
+This method does not play nice with <a href="#what-about-">\*</a>.
+
 ### `containsStrict`
 
 Strict-comparison version of <a href="#contains">contains</a>.
@@ -198,6 +204,8 @@ $employees->duplicates('position.title');
 ```
 
 Another undocumented feature of `duplicates` is that the largest key is preserved for each value. Use <a href="https://laravel.com/docs/5.8/collections#method-values">values</a> to reset the keys.
+
+This method does not play nice with <a href="#what-about-">\*</a>.
 
 ### `duplicatesStrict`
 
@@ -240,6 +248,8 @@ $swans->every('appearance.color', 'white');
 This method accepts the same parameters as
 <a href="https://laravel.com/docs/5.8/collections#method-where">where</a>.
 
+This method does not play nice with <a href="#what-about-">\*</a>.
+
 ### `except`
 
 Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-except">except</a>
@@ -264,6 +274,8 @@ $user->except('photo.width', 'photo.height', 'created_at');
 //     ],
 // ]
 ```
+
+This method does not play nice with <a href="#what-about-">\*</a>.
 
 ### `firstWhere`
 
@@ -300,6 +312,8 @@ $houses->firstWhere('owner.name', 'Hardey');
 
 This method accepts the same parameters as
 <a href="https://laravel.com/docs/5.8/collections#method-where">where</a>.
+
+This method does not play nice with <a href="#what-about-">\*</a>.
 
 ### `groupBy`
 
@@ -361,6 +375,8 @@ $birds->groupBy('traits.feet');
 // ]
 ```
 
+This method plays nice with \*. See <a href="#what-about-">What about \*?</a> below for an example.
+
 ### `implode`
 
 Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-implode">implode</a>
@@ -387,6 +403,8 @@ $employees = collect([
 echo 'Users: ' . $employees->implode('login.username', '; ');
 // Users: thelms@example.com; vchance@example.com
 ```
+
+This method does not play nice with <a href="#what-about-">\*</a>.
 
 ### `keyBy`
 
@@ -430,6 +448,8 @@ $parks->keyBy('authority.chief');
 // ]
 ```
 
+This method does not play nice with <a href="#what-about-">\*</a>, but the similar <a href="#groupby">groupBy</a> does.
+
 ### `max`
 
 Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-max">max</a>
@@ -459,6 +479,8 @@ $charts->max('range.highest_value');
 
 This one doesn't return the element that has the max value, but instead returns the value itself.
 
+This method does not play nice with <a href="#what-about-">\*</a>.
+
 ### `median`
 
 Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-median">median</a>
@@ -486,6 +508,8 @@ $lakes->median('customer_ratings.high');
 
 This one doesn't return the element that has the median value, but instead returns the value itself.
 
+This method does not play nice with <a href="#what-about-">\*</a>.
+
 ### `min`
 
 Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-min">min</a>
@@ -512,6 +536,8 @@ $racing_crabs->min('times.fastest');
 ```
 
 This one doesn't return the element that has the min value, but instead returns the value itself.
+
+This method does not play nice with <a href="#what-about-">\*</a>.
 
 ### `mode`
 
@@ -548,6 +574,8 @@ $homes->mode('details.type');
 ```
 
 This one doesn't return the element that has the mode value, but instead returns the value itself in an array. If multiple values could be considered the mode, they are all present in the array.
+
+This method does not play nice with <a href="#what-about-">\*</a>.
 
 ### `partition`
 
@@ -612,6 +640,8 @@ $cart_items->partition('price.base', '>', 3.00);
 This method accepts the same parameters as
 <a href="https://laravel.com/docs/5.8/collections#method-where">where</a>.
 
+This method does not play nice with <a href="#what-about-">\*</a>.
+
 ### `pluck`
 
 Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-partition">partition</a>
@@ -639,6 +669,8 @@ $equipment->pluck('location.building');
 // [4, 2]
 ```
 
+This method plays nice with \*. See <a href="#what-about-">What about \*?</a> below for an example.
+
 ### `pull`
 
 Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-pull">pull</a>
@@ -665,12 +697,17 @@ $system->pull('tasks.0');
 // $system = [
 //     'name' => 'rothchild-1',
 //     'tasks' => [
-//         [
+//         1 => [
 //             'commmand' => 'start-interest-blt',
 //         ],
 //     ],
 // ]
 ```
+
+This method does not play nice with <a href="#what-about-">\*</a>.
+
+Notice in this example that we pulled `0` from the `tasks` array, but the
+remaining element did not change its key. It's still at `1`.
 
 ### `some`
 
@@ -732,6 +769,8 @@ $vegetables->sortBy('ratings.satisfaction');
 // ]
 ```
 
+This method does not play nice with <a href="#what-about-">\*</a>.
+
 ### `sortByDesc`
 
 Reverse version of <a href="#sortBy">sortBy</a>.
@@ -762,6 +801,8 @@ $bugs = collect([
 $bugs->sum('time.spent');
 // 9
 ```
+
+This method does not play nice with <a href="#what-about-">\*</a>.
 
 ### `unique`
 
@@ -811,6 +852,8 @@ $aliens->unique('quick_facts.home');
 //     ],
 // ]
 ```
+
+This method does not play nice with <a href="#what-about-">\*</a>.
 
 ### `uniqueStrict`
 
@@ -865,6 +908,8 @@ $countries->where('people.population', '<', 100e6);
 // ]
 ```
 
+This method does not play nice with <a href="#what-about-">\*</a>.
+
 ### `whereBetween`
 
 Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-where-between">whereBetween</a>
@@ -900,6 +945,8 @@ $snakes->whereBetween('traits.length', [10, 20]);
 // ]
 ```
 
+This method does not play nice with <a href="#what-about-">\*</a>.
+
 ### `whereIn`
 
 Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-where-in">whereIn</a>
@@ -934,6 +981,8 @@ $bears->whereIn('ratings.danger', ['high', 'medium']);
 //     ],
 // ]
 ```
+
+This method does not play nice with <a href="#what-about-">\*</a>.
 
 ### `whereInStrict`
 
@@ -975,3 +1024,102 @@ Similar to the above methods these native PHP operations only act directly on th
 * `$collection['key.key'] = 'value'`
 * `unset($collection['key.key'])`
 * `echo $collection->{'key.key'}`
+
+## What about \*?
+
+When we want to act on every element of a nested array, dot-notation lets us use an asterisk (\*) wildcard, with some caveats:
+
+* The element \* searches through must be an array or Collection.
+* Each use of \* creates an array or null result in the core code, and most methods cannot deal with it.
+* If something in the key path is missing, the result Collection will have nulls in some spots instead of arrays.
+
+Because of these caveats, the only two methods that support \* well are <a href="#pluck">pluck</a> and <a href="#groupby">groupBy</a>. Other methods will simply return bad results.
+
+```
+$players = collect([
+    [
+        'name' => 'XDestroyY',
+        'achievements' => [
+            [
+                'description' => 'Collect 400 Chipples',
+                'difficulty' => 2,
+            ],
+            [
+                'description' => 'Pass the Mork',
+                'difficulty' => 5,
+            ],
+            [
+                // why is this one empty? ¯\_(ツ)_/¯
+            ],
+        ],
+    ],
+    [
+        'name' => 'BunnyNewb',
+        // no achievements
+    ],
+]);
+$players->pluck('achievements.*.description')
+// [
+//     [
+//         "Collect 400 Chipples",
+//         "Pass the Mork",
+//         null,
+//     ],
+//     null,
+// ]
+```
+
+You may need to `flatten` and/or `filter` the Collection to get the results you want.
+
+```
+$players->pluck('achievements.*.description')->flatten()->filter();
+// [
+//     "Collect 400 Chipples",
+//     "Pass the Mork",
+// ]
+```
+
+When the `groupBy` method encounters a \*, it will group each item into all the group names that result.
+
+```
+$players->groupBy('achievements.*.description');
+// [
+//     'Collect 400 Chipples' => [
+//         [
+//             'name' => 'XDestroyY',
+//             ... the whole array ...
+//         ],
+//     ],
+//     'Pass the Mork' => [
+//         [
+//             'name' => 'XDestroyY',
+//             ... the whole array ...
+//         ],
+//     ],
+//     '' => [
+//         [
+//             'name' => 'BunnyNewb',
+//             ... the whole array ...
+//         ],
+//         [
+//             'name' => 'XDestroyY',
+//             ... the whole array ...
+//         ],
+//     ],
+// ]
+```
+
+Notice in the above example that the nulls that `pluck` would produce were turned into `''` and used as a group name.
+
+Some methods that cannot use \* can still be applied elegantly by using the \* in a `pluck` call first. Some that work well that way are `average`, `contains`, `duplicates`, `every`, `implode`, `max`, `median`, `min`, `mode`, and `sum`.
+
+```
+$players->contains('achievements.*.description', 'Collect 400 Chipples')
+// false
+
+$players
+    ->pluck('achievements.*.description')
+    ->flatten()
+    ->contains('Collect 400 Chipples')
+// true
+```
