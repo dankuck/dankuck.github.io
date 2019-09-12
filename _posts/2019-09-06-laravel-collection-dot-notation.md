@@ -8,7 +8,7 @@ draft:
 notes: "https://github.com/laravel/framework/blob/5.8/src/Illuminate/Support/Arr.php, https://github.com/laravel/framework/blob/5.8/src/Illuminate/Support/Collection.php"
 ---
 
-When working with Laravel's <a href="https://laravel.com/docs/5.8/collections">Collection</a> class, several of its methods allow you to use a short-hand to access nested values.
+When working with Laravel's <a href="https://laravel.com/docs/5.8/collections">Collection</a> class, several of its methods allow you to use a short hand called dot-notation to access nested values.
 
 Here's an example of a structure that has nested data we want to pull out and echo.
 
@@ -18,17 +18,20 @@ $employees = collect([
         'name' => 'Terry',
         'login' => [
             'username' => 'thelms@example.com',
-            'password_hash' => '352663636',
         ],
     ],
     [
         'name' => 'Vic',
         'login' => [
             'username' => 'vchance@example.com',
-            'password_hash' => '84888B277',
         ],
     ],
 ]);
+```
+
+To access the username, we use the dot-notation key string "login.username".
+
+```
 echo 'Users: ' . $employees->implode('login.username', '; ');
 // Users: thelms@example.com; vchance@example.com
 ```
