@@ -119,6 +119,8 @@ echo "Average Score: " . $students->average('assessment.score');
 // Average Score: 98
 ```
 
+This method does not play nice with <a href="#what-about-">\*</a>.
+
 ### `avg`
 
 Alias for <a href="#average">average</a>.
@@ -159,6 +161,8 @@ $owners->contains('books.likes', 'Snowcrash');
 This method accepts the same parameters as
 <a href="https://laravel.com/docs/5.8/collections#method-where">where</a>.
 
+This method does not play nice with <a href="#what-about-">\*</a>.
+
 ### `containsStrict`
 
 Strict-comparison version of <a href="#contains">contains</a>.
@@ -198,6 +202,8 @@ $employees->duplicates('position.title');
 ```
 
 Another undocumented feature of `duplicates` is that the largest key is preserved for each value. Use <a href="https://laravel.com/docs/5.8/collections#method-values">values</a> to reset the keys.
+
+This method does not play nice with <a href="#what-about-">\*</a>.
 
 ### `duplicatesStrict`
 
@@ -240,6 +246,8 @@ $swans->every('appearance.color', 'white');
 This method accepts the same parameters as
 <a href="https://laravel.com/docs/5.8/collections#method-where">where</a>.
 
+This method does not play nice with <a href="#what-about-">\*</a>.
+
 ### `except`
 
 Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-except">except</a>
@@ -264,6 +272,8 @@ $user->except('photo.width', 'photo.height', 'created_at');
 //     ],
 // ]
 ```
+
+This method does not play nice with <a href="#what-about-">\*</a>.
 
 ### `firstWhere`
 
@@ -300,6 +310,8 @@ $houses->firstWhere('owner.name', 'Hardey');
 
 This method accepts the same parameters as
 <a href="https://laravel.com/docs/5.8/collections#method-where">where</a>.
+
+This method does not play nice with <a href="#what-about-">\*</a>.
 
 ### `groupBy`
 
@@ -361,6 +373,8 @@ $birds->groupBy('traits.feet');
 // ]
 ```
 
+This method plays nice with \*. See <a href="#what-about-">What about \*?</a> below for an example.
+
 ### `implode`
 
 Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-implode">implode</a>
@@ -387,6 +401,8 @@ $employees = collect([
 echo 'Users: ' . $employees->implode('login.username', '; ');
 // Users: thelms@example.com; vchance@example.com
 ```
+
+This method does not play nice with <a href="#what-about-">\*</a>.
 
 ### `keyBy`
 
@@ -430,6 +446,8 @@ $parks->keyBy('authority.chief');
 // ]
 ```
 
+This method does not play nice with <a href="#what-about-">\*</a>, but the similar <a href="#groupby">groupBy</a> does.
+
 ### `max`
 
 Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-max">max</a>
@@ -459,6 +477,8 @@ $charts->max('range.highest_value');
 
 This one doesn't return the element that has the max value, but instead returns the value itself.
 
+This method does not play nice with <a href="#what-about-">\*</a>.
+
 ### `median`
 
 Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-median">median</a>
@@ -486,6 +506,8 @@ $lakes->median('customer_ratings.high');
 
 This one doesn't return the element that has the median value, but instead returns the value itself.
 
+This method does not play nice with <a href="#what-about-">\*</a>.
+
 ### `min`
 
 Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-min">min</a>
@@ -512,6 +534,8 @@ $racing_crabs->min('times.fastest');
 ```
 
 This one doesn't return the element that has the min value, but instead returns the value itself.
+
+This method does not play nice with <a href="#what-about-">\*</a>.
 
 ### `mode`
 
@@ -548,6 +572,8 @@ $homes->mode('details.type');
 ```
 
 This one doesn't return the element that has the mode value, but instead returns the value itself in an array. If multiple values could be considered the mode, they are all present in the array.
+
+This method does not play nice with <a href="#what-about-">\*</a>.
 
 ### `partition`
 
@@ -612,6 +638,8 @@ $cart_items->partition('price.base', '>', 3.00);
 This method accepts the same parameters as
 <a href="https://laravel.com/docs/5.8/collections#method-where">where</a>.
 
+This method does not play nice with <a href="#what-about-">\*</a>.
+
 ### `pluck`
 
 Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-partition">partition</a>
@@ -638,6 +666,8 @@ $equipment = collect([
 $equipment->pluck('location.building');
 // [4, 2]
 ```
+
+This method plays nice with \*. See <a href="#what-about-">What about \*?</a> below for an example.
 
 ### `pull`
 
@@ -671,6 +701,8 @@ $system->pull('tasks.0');
 //     ],
 // ]
 ```
+
+This method does not play nice with <a href="#what-about-">\*</a>.
 
 ### `some`
 
@@ -732,6 +764,8 @@ $vegetables->sortBy('ratings.satisfaction');
 // ]
 ```
 
+This method does not play nice with <a href="#what-about-">\*</a>.
+
 ### `sortByDesc`
 
 Reverse version of <a href="#sortBy">sortBy</a>.
@@ -762,6 +796,8 @@ $bugs = collect([
 $bugs->sum('time.spent');
 // 9
 ```
+
+This method does not play nice with <a href="#what-about-">\*</a>.
 
 ### `unique`
 
@@ -811,6 +847,8 @@ $aliens->unique('quick_facts.home');
 //     ],
 // ]
 ```
+
+This method does not play nice with <a href="#what-about-">\*</a>.
 
 ### `uniqueStrict`
 
@@ -865,6 +903,8 @@ $countries->where('people.population', '<', 100e6);
 // ]
 ```
 
+This method does not play nice with <a href="#what-about-">\*</a>.
+
 ### `whereBetween`
 
 Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-where-between">whereBetween</a>
@@ -900,6 +940,8 @@ $snakes->whereBetween('traits.length', [10, 20]);
 // ]
 ```
 
+This method does not play nice with <a href="#what-about-">\*</a>.
+
 ### `whereIn`
 
 Laravel Docs: <a href="https://laravel.com/docs/5.8/collections#method-where-in">whereIn</a>
@@ -934,6 +976,8 @@ $bears->whereIn('ratings.danger', ['high', 'medium']);
 //     ],
 // ]
 ```
+
+This method does not play nice with <a href="#what-about-">\*</a>.
 
 ### `whereInStrict`
 
@@ -981,8 +1025,10 @@ Similar to the above methods these native PHP operations only act directly on th
 To help with arrays, dot-notation lets us use an asterisk (\*) wildcard in place of any particular key, with some caveats:
 
 * The element \* searches through must be an array or Collection.
-* The result will be a Collection of arrays.
+* Each use of \* produces an array or null, and most methods cannot deal with that.
 * If something in the key path is missing, the result Collection will have a null in some spots instead of arrays.
+
+Because of the caveats, most methods don't really support \* even if they support dot-notation. The only two methods that support it very well are <a href="#pluck">pluck</a> and <a href="#groupby">groupBy</a>.
 
 ```
 $players = collect([
@@ -992,45 +1038,19 @@ $players = collect([
             [
                 'description' => 'Collect 400 Chipples',
                 'difficulty' => 2,
-                'time' => 12345,
-                'player_id' => 14,
             ],
             [
                 'description' => 'Pass the Mork',
                 'difficulty' => 5,
-                'time' => 23456,
-                'player_id' => 14,
             ],
             [
                 // why is this one empty? ¯\_(ツ)_/¯
-            ],
-        ],
-        'items' => [
-            [
-                'name' => 'hammer',
-                'ready' => true,
-                'hp' => 4,
-                'min_level' => 2,
-            ],
-            [
-                'name' => 'candle',
-                'ready' => false,
-                'hp' => 1,
-                'min_level' => 1,
             ],
         ],
     ],
     [
         'name' => 'BunnyNewb',
         // no achievements
-        'items' => [
-            [
-                'name' => 'scissors',
-                'ready' => true,
-                'hp' => 6,
-                'min_level' => 2,
-            ],
-        ],
     ],
 ]);
 $players->pluck('achievements.*.description')
@@ -1054,306 +1074,40 @@ $players->pluck('achievements.*.description')->flatten()->filter();
 // ]
 ```
 
-Because of the caveats, some methods don't really support \* even if they support dot-notation.
-
-As always, test your expectations.
-
-### Dot-notation examples with \*:
+The `groupBy` method can use of arrays. If the first parameter to `groupBy` produces an array of strings, then the results will have all of the strings as group names and the item will be copied into each group.
 
 ```
-$players->average('achievements.*.time');
-// 0 // WRONG!
-
-$players->pluck('achievements.*.time')->flatten()->average();
-// 17900.5
+$players->groupBy('achievements.*.description');
+// [
+//     'Collect 400 Chipples' => [
+//         [
+//             'name' => 'XDestroyY',
+//             ... the whole array ...
+//         ],
+//     ],
+//     'Pass the Mork' => [
+//         [
+//             'name' => 'XDestroyY',
+//             ... the whole array ...
+//         ],
+//     ],
+//     '' => [
+//         [
+//             'name' => 'BunnyNewb',
+//             ... the whole array ...
+//         ],
+//         [
+//             'name' => 'XDestroyY',
+//             ... the whole array ...
+//         ],
+//     ],
+// ]
 ```
-```
-$players->contains('achievements.*.description', 'Collect 400 Chipples')
-// false // WRONG!
 
+Notice in the above example that the nulls that `pluck` would produce were turned into `''` and used as a group name.
+
+Some methods can still be used elegantly by using `pluck` first
+
+```
 $players->pluck('achievements.*.description')->flatten()->contains('Collect 400 Chipples')
-// true
-```
-```
-$players->duplicates('acheivements.*.player_id');
-// [] // WRONG!
-
-$players->pluck('achievements.*.player_id')->flatten()->filter()->duplicates()
-// [14]
-```
-```
-$players->every('items.*.ready');
-// true // WRONG!
-
-$players->pluck('items.*')->flatten(1)->every('ready')
-// false
-```
-```
-collect($players[0])->except('items.*.ready', 'achievements')
-// [ // WRONG!
-//     'name' => 'XDestroyY',
-//     'items' => [
-//         [
-//             'name' => 'hammer',
-//             'ready' => true,
-//         ],
-//         [
-//             'name' => 'candle',
-//             'ready' => false,
-//         ],
-//     ],
-// ] // WRONG!
-
-// If you can think of a chain that removes `ready` in an elegant manner, let
-// me know.
-```
-```
-$players->firstWhere('items.*.hp', '>=', 6);
-// [ // WRONG!
-//     'name' => 'XDestroyY',
-//     ... the whole array ...
-// ] // WRONG!
-
-$players->first(function ($player) { return collect($player['items'])->contains('hp', '>=', 6); });
-// [
-//     'name' => 'BunnyNewb',
-//     ... the whole array ...
-// ]
-```
-```
-$players->groupBy('items.*.name');
-// [
-//     'hammer' => [
-//         [
-//             'name' => 'XDestroyY',
-//             ... the whole array ...
-//         ],
-//     ],
-//     'candle' => [
-//         [
-//             'name' => 'XDestroyY',
-//             ... the whole array ...
-//         ],
-//     ],
-//     'scissors' => [
-//         [
-//             'name' => 'BunnyNewb',
-//             ... the whole array ...
-//         ],
-//     ],
-// ]
-// Notice that XDestroyY was copied into two different groups!
-```
-```
-$players->implode('achievements.*.description', ', ');
-// PHP Notice:  Array to string conversion // WRONG!
-
-$players->pluck('achievements.*.description')->flatten()->filter()->implode(', ');
-// Collect 400 Chipples, Pass the Mork
-```
-```
-$players->keyBy('items.*.name');
-// PHP Warning:  Illegal offset type // WRONG!
-
-$players->groupBy('items.*.name')->map(function ($group) { return $group->last(); });
-// [
-//     'hammer' => [
-//         'name' => 'XDestroyY',
-//         ... the whole array ...
-//     ],
-//     'candle' => [
-//         'name' => 'XDestroyY',
-//         ... the whole array ...
-//     ],
-//     'scissors' => [
-//         'name' => 'BunnyNewb',
-//         ... the whole array ...
-//     ],
-// ]
-```
-```
-$players->max('achievements.*.time');
-// [ // WRONG!
-//     12345,
-//     23456,
-//     null,
-// ] // WRONG!
-
-$players->pluck('achievements.*.time')->flatten()->max();
-// 23456
-```
-```
-$players->median('items.*.hp');
-// 0 // WRONG!
-
-$players->pluck('items.*.hp')->flatten()->median();
-// 4
-```
-```
-$players->min('items.*.hp');
-// [ // WRONG!
-//     6,
-// ] // WRONG!
-
-$players->pluck('items.*.hp')->flatten()->min();
-// 1
-```
-```
-$players->mode('items.*.min_level');
-// PHP Warning:  array_key_exists(): The first argument should be either a string or an integer
-
-$players->pluck('items.*.min_level')->flatten()->mode();
-// [
-//     2,
-// ]
-```
-```
-$players->partition('items.*.hp', '>=', 6);
-// [ // WRONG!
-//     [
-//         [
-//             'name' => 'XDestroyY',
-//             ... the whole array ...
-//         ],
-//         [
-//             'name' => 'BunnyNewb',
-//             ... the whole array ...
-//         ],
-//     ],
-//     [
-//         ... nothing didn't match ...
-//     ],
-// ] // WRONG!
-
-$players->partition(function ($player) { return collect($player['items'])->contains('hp', '>=', 6); });
-// [
-//     [
-//         [
-//             'name' => 'BunnyNewb',
-//             ... the whole array ...
-//         ],
-//     ],
-//     [
-//         [
-//             'name' => 'XDestroyY',
-//             ... the whole array ...
-//         ],
-//     ],
-// ]
-```
-```
-$players->pluck('achievements.*.difficulty');
-// [
-//     [
-//         2,
-//         5,
-//         null,
-//     ],
-//     null,
-// ]
-
-// Maybe that's good enough for you, but maybe you want to simplify.
-$players->pluck('achievements.*.difficulty')->flatten()->filter();
-// [
-//     2,
-//     5,
-// ]
-```
-```
-$players->pull('achievements.*.time');
-// null // WRONG!
-// And $players is unchanged.
-
-// Pull does not support \*
-// If you can think of an elegant way to remove and return `time` in this
-// case, let me know
-```
-```
-$players->sortBy('items.*.hp');
-// [ // WRONG!
-//     [
-//         [
-//             'name' => 'BunnyNewb',
-//             ... the whole array ...
-//         ],
-//     ],
-//     [
-//         [
-//             'name' => 'XDestroyY',
-//             ... the whole array ...
-//         ],
-//     ],
-// ] // WRONG!
-
-// Since sorting an array by more than one value for each element doesn't have
-// an inuitive meaning, I'll just show one option:
-$players->sortBy(function ($player) { return collect($player['items'])->sum('hp'); });
-// [
-//     [
-//         [
-//             'name' => 'XDestroyY',
-//             ... the whole array ...
-//         ],
-//     ],
-//     [
-//         [
-//             'name' => 'BunnyNewb',
-//             ... the whole array ...
-//         ],
-//     ],
-// ]
-```
-```
-$players->sum('achivements.*.time');
-// 0 // WRONG!
-
-$players->pluck('achievements.*.time')->flatten()->sum();
-// 35801
-```
-```
-$players->unique('items.*.min_level');
-// [
-//     [
-//         [
-//             'name' => 'XDestroyY',
-//             ... the whole array ...
-//         ],
-//     ],
-//     [
-//         [
-//             'name' => 'BunnyNewb',
-//             ... the whole array ...
-//         ],
-//     ],
-// ]
-
-// You would really need to recreate unique if you wanted to checking that
-// nothing under * intersects with anything under another element's *.
-```
-```
-$players->where('items.*.hp', '>=', 6);
-// [ // WRONG!
-//     [
-//         [
-//             'name' => 'XDestroyY',
-//             ... the whole array ...
-//         ],
-//     ],
-//     [
-//         [
-//             'name' => 'BunnyNewb',
-//             ... the whole array ...
-//         ],
-//     ],
-// ] // WRONG!
-
-$players->filter(function ($player) { return collect($player['items'])->contains('hp', '>=', 6); });
-// [
-//     [
-//         [
-//             'name' => 'BunnyNewb',
-//             ... the whole array ...
-//         ],
-//     ],
-// ]
 ```
