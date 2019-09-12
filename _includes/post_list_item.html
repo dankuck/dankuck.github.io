@@ -23,7 +23,11 @@
     </div>
     {% endif %}
 
-    {% include short_content.html content=post.content %}
+    {% if sample_content %}
+        {{ sample_content }}
+    {% else %}
+        {% include short_content.html content=post.content %}
+    {% endif %}
     <a href="{{ site.url }}{{ post.url }}" title="{{ post.title | xml_escape }}" class="more-link">Continue</a>
 </div>
 <div style="font-size: 80%; padding-bottom: 5em; clear: both;">
