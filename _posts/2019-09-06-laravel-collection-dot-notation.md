@@ -3,7 +3,7 @@ layout: post
 title: "Which Laravel Collection methods use dot-notation?"
 page_img_desc: ""
 no_ad: 1
-sample_content:
+sample_content: "average, avg, contains, containsStrict, duplicates, duplicatesStrict, every, except, firstWhere, groupBy, implode, keyBy, max, median, min, mode, partition, pluck, pull, some, sortBy, sortByDesc, sum, unique, uniqueStrict, where, whereBetween, whereIn, whereInStrict, whereNotBetween, whereNotIn, whereNotInStrict, whereStrict"
 draft:
 notes: "https://github.com/laravel/framework/blob/5.8/src/Illuminate/Support/Arr.php, https://github.com/laravel/framework/blob/5.8/src/Illuminate/Support/Collection.php"
 ---
