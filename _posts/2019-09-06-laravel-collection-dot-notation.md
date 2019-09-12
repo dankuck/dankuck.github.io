@@ -697,7 +697,7 @@ $system->pull('tasks.0');
 // $system = [
 //     'name' => 'rothchild-1',
 //     'tasks' => [
-//         [
+//         1 => [
 //             'commmand' => 'start-interest-blt',
 //         ],
 //     ],
@@ -705,6 +705,9 @@ $system->pull('tasks.0');
 ```
 
 This method does not play nice with <a href="#what-about-">\*</a>.
+
+Notice in this example that we pulled `0` from the `tasks` array, but the
+remaining element did not change its key. It's still at `1`.
 
 ### `some`
 
@@ -1024,11 +1027,11 @@ Similar to the above methods these native PHP operations only act directly on th
 
 ## What about \*?
 
-When we expect to encounter a numeric array, dot-notation lets us use an asterisk (\*) wildcard in the key, with some caveats:
+When we want to act on every element of a nested array, dot-notation lets us use an asterisk (\*) wildcard, with some caveats:
 
 * The element \* searches through must be an array or Collection.
-* Each use of \* produces an array or null, and most methods cannot deal with that.
-* If something in the key path is missing, the result Collection will have a null in some spots instead of arrays.
+* Each use of \* creates an array or null result in the core code, and most methods cannot deal with it.
+* If something in the key path is missing, the result Collection will have nulls in some spots instead of arrays.
 
 Because of these caveats, the only two methods that support \* well are <a href="#pluck">pluck</a> and <a href="#groupby">groupBy</a>. Other methods will simply return bad results.
 
