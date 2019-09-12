@@ -978,11 +978,11 @@ Similar to the above methods these native PHP operations only act directly on th
 
 ## What about \*?
 
-Dot-notation lets us use an asterisk (\*) wildcard in place of any particular key, with some caveats:
+To help with arrays, dot-notation lets us use an asterisk (\*) wildcard in place of any particular key, with some caveats:
 
 * The element \* searches through must be an array or Collection.
-* The result will be an Collection of arrays.
-* If something is missing, the result Collection may have a null in spots instead of arrays.
+* The result will be a Collection of arrays.
+* If something in the key path is missing, the result Collection will have a null in some spots instead of arrays.
 
 ```
 $players = collect([
@@ -1016,7 +1016,7 @@ $players = collect([
                 'name' => 'candle',
                 'ready' => false,
                 'hp' => 1,
-                'min_level' => 2,
+                'min_level' => 1,
             ],
         ],
     ],
@@ -1028,7 +1028,7 @@ $players = collect([
                 'name' => 'scissors',
                 'ready' => true,
                 'hp' => 6,
-                'min_level' => 1,
+                'min_level' => 2,
             ],
         ],
     ],
@@ -1208,53 +1208,152 @@ $players->pluck('items.*.min_level')->flatten()->mode();
 // ]
 ```
 ```
-$players->partition();
+$players->partition('items.*.hp', '>=', 6);
+// [ // WRONG!
+//     [
+//         [
+//             'name' => 'XDestroyY',
+//             ... the whole array ...
+//         ],
+//         [
+//             'name' => 'BunnyNewb',
+//             ... the whole array ...
+//         ],
+//     ],
+//     [
+//         ... nothing didn't match ...
+//     ],
+// ] // WRONG!
+
+$players->partition(function ($player) { return collect($player['items'])->contains('hp', '>=', 6); });
+// [
+//     [
+//         [
+//             'name' => 'BunnyNewb',
+//             ... the whole array ...
+//         ],
+//     ],
+//     [
+//         [
+//             'name' => 'XDestroyY',
+//             ... the whole array ...
+//         ],
+//     ],
+// ]
 ```
 ```
-$players->pluck();
+$players->pluck('achievements.*.difficulty');
+// [
+//     [
+//         2,
+//         5,
+//         null,
+//     ],
+//     null,
+// ]
+
+// Maybe that's good enough for you, but maybe you want to simplify.
+$players->pluck('achievements.*.difficulty')->flatten()->filter();
+// [
+//     2,
+//     5,
+// ]
 ```
 ```
-$players->pull();
+$players->pull('achievements.*.time');
+// null // WRONG!
+// And $players is unchanged.
+
+// Pull does not support \*
+// If you can think of an elegant way to remove and return `time` in this
+// case, let me know
 ```
 ```
-$players->some();
+$players->sortBy('items.*.hp');
+// [ // WRONG!
+//     [
+//         [
+//             'name' => 'BunnyNewb',
+//             ... the whole array ...
+//         ],
+//     ],
+//     [
+//         [
+//             'name' => 'XDestroyY',
+//             ... the whole array ...
+//         ],
+//     ],
+// ] // WRONG!
+
+// Since sorting an array by more than one value for each element doesn't have
+// an inuitive meaning, I'll just show one option:
+$players->sortBy(function ($player) { return collect($player['items'])->sum('hp'); });
+// [
+//     [
+//         [
+//             'name' => 'XDestroyY',
+//             ... the whole array ...
+//         ],
+//     ],
+//     [
+//         [
+//             'name' => 'BunnyNewb',
+//             ... the whole array ...
+//         ],
+//     ],
+// ]
 ```
 ```
-$players->sortby();
+$players->sum('achivements.*.time');
+// 0 // WRONG!
+
+$players->pluck('achievements.*.time')->flatten()->sum();
+// 35801
 ```
 ```
-$players->sortbydesc();
+$players->unique('items.*.min_level');
+// [
+//     [
+//         [
+//             'name' => 'XDestroyY',
+//             ... the whole array ...
+//         ],
+//     ],
+//     [
+//         [
+//             'name' => 'BunnyNewb',
+//             ... the whole array ...
+//         ],
+//     ],
+// ]
+
+// You would really need to recreate unique if you wanted to checking that
+// nothing under * intersects with anything under another element's *.
 ```
 ```
-$players->sum();
-```
-```
-$players->unique();
-```
-```
-$players->uniquestrict();
-```
-```
-$players->where();
-```
-```
-$players->wherebetween();
-```
-```
-$players->wherein();
-```
-```
-$players->whereinstrict();
-```
-```
-$players->wherenotbetween();
-```
-```
-$players->wherenotin();
-```
-```
-$players->wherenotinstrict();
-```
-```
-$players->wherestrict();
+$players->where('items.*.hp', '>=', 6);
+// [ // WRONG!
+//     [
+//         [
+//             'name' => 'XDestroyY',
+//             ... the whole array ...
+//         ],
+//     ],
+//     [
+//         [
+//             'name' => 'BunnyNewb',
+//             ... the whole array ...
+//         ],
+//     ],
+// ] // WRONG!
+
+$players->filter(function ($player) { return collect($player['items'])->contains('hp', '>=', 6); });
+// [
+//     [
+//         [
+//             'name' => 'BunnyNewb',
+//             ... the whole array ...
+//         ],
+//     ],
+// ]
 ```
