@@ -37,7 +37,7 @@ But which Laravel Collection methods support dot-notation? Not all of them.
 
 ## TL;DR
 
-<a href="#methods-that-respect-dot-notation">Most methods that accept key names</a> respect dot-notation. The <a href="#methods-that-do-not-respect-dot-notation">list of those that DON'T</a> is short: `forget`, `get`, `has`, `only`, `prepend`, `put`. Some other methods only accept callbacks, such as `map`.
+<a href="#methods-that-respect-dot-notation">Most methods</a> that accept key names respect dot-notation. The list of <a href="#methods-that-do-not-respect-dot-notation">those that don't</a> is short: `forget`, `get`, `has`, `only`, `prepend`, `put`. Some other methods only accept callbacks, such as `map`.
 
 Any method that accepts the same parameters as `where($key, $operator, $value)` will also respect dot-notation.
 
@@ -729,7 +729,7 @@ $vegetables = collect([
         ],
     ],
     [
-        'description' => 'brocolli',
+        'description' => 'broccoli',
         'ratings' => [
             'satisfaction' => 7,
             'production' => 4,
@@ -760,7 +760,7 @@ $vegetables->sortBy('ratings.satisfaction');
 //         ],
 //     ],
 //     [
-//         'description' => 'brocolli',
+//         'description' => 'broccoli',
 //         'ratings' => [
 //             'satisfaction' => 7,
 //             'production' => 4,
