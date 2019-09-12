@@ -37,9 +37,11 @@ But which Laravel Collection methods support dot-notation? Not all of them.
 
 ## TL;DR
 
-Most methods that accept key names respect dot-notation. The list of those that DON'T is short: `forget`, `get`, `has`, `only`, `prepend`, `put`. Some other methods only accept callbacks, such as `map`.
+<a href="#methods-that-respect-dot-notation">Most methods that accept key names</a> respect dot-notation. The <a href="#methods-that-do-not-respect-dot-notation">list of those that DON'T</a> is short: `forget`, `get`, `has`, `only`, `prepend`, `put`. Some other methods only accept callbacks, such as `map`.
 
-Many methods that respect dot-notation do so because they use the same core code as `where($key, $operator, $value)`. Any method that accepts those same parameters will also respect dot-notation.
+Any method that accepts the same parameters as `where($key, $operator, $value)` will also respect dot-notation.
+
+Only `pluck` and `groupBy` will use the <a href="#what-about-">array-wildcard \*</a> correctly. The others will give wrong results.
 
 ## Methods that respect dot-notation
 
@@ -1022,13 +1024,13 @@ Similar to the above methods these native PHP operations only act directly on th
 
 ## What about \*?
 
-To help with arrays, dot-notation lets us use an asterisk (\*) wildcard in place of any particular key, with some caveats:
+When we expect to encounter a numeric array, dot-notation lets us use an asterisk (\*) wildcard in the key, with some caveats:
 
 * The element \* searches through must be an array or Collection.
 * Each use of \* produces an array or null, and most methods cannot deal with that.
 * If something in the key path is missing, the result Collection will have a null in some spots instead of arrays.
 
-Because of the caveats, most methods don't really support \* even if they support dot-notation. The only two methods that support it very well are <a href="#pluck">pluck</a> and <a href="#groupby">groupBy</a>.
+Because of these caveats, the only two methods that support \* well are <a href="#pluck">pluck</a> and <a href="#groupby">groupBy</a>. Other methods will simply return bad results.
 
 ```
 $players = collect([
@@ -1074,7 +1076,7 @@ $players->pluck('achievements.*.description')->flatten()->filter();
 // ]
 ```
 
-The `groupBy` method can use of arrays. If the first parameter to `groupBy` produces an array of strings, then the results will have all of the strings as group names and the item will be copied into each group.
+When the `groupBy` method encounters a \*, it will group each item into all the group names that result.
 
 ```
 $players->groupBy('achievements.*.description');
@@ -1106,8 +1108,15 @@ $players->groupBy('achievements.*.description');
 
 Notice in the above example that the nulls that `pluck` would produce were turned into `''` and used as a group name.
 
-Some methods can still be used elegantly by using `pluck` first
+Some methods that cannot use \* can still be applied elegantly by using the \* in a `pluck` call first. Some that work well that way are `average`, `contains`, `duplicates`, `every`, `implode`, `max`, `median`, `min`, `mode`, and `sum`.
 
 ```
-$players->pluck('achievements.*.description')->flatten()->contains('Collect 400 Chipples')
+$players->contains('achievements.*.description', 'Collect 400 Chipples')
+// false
+
+$players
+    ->pluck('achievements.*.description')
+    ->flatten()
+    ->contains('Collect 400 Chipples')
+// true
 ```
