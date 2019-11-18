@@ -23,12 +23,12 @@ Google Maps would give you a different answer, however. It claims that the drive
 
 This odd result happens because Google Maps is actually showing the distance from the center of Miami, Florida to the center of the state of Florida.
 
-<img src="/assets/miami-1.jpeg" />
+<img src="/assets/miami-1.png" />
 
 It also claims that it takes 21 hours and 27 minutes to get from Miami, Florida to the United States of America. This is how it feels if you don’t speak Spanish in Miami, but it’s false geographically.
 
-<img src="/assets/miami-2.jpeg" />
+<img src="/assets/miami-2.png" />
 
 And apparently it is impossible to get to North America from Miami, Florida. At least, that’s true in Donald Trump’s fever dreams.
 
-<img src="/assets/miami-3.jpeg" />
+<img src="/assets/miami-3.png" />
