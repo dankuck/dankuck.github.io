@@ -47,4 +47,4 @@ Bolivia has consistently taught me lessons about the free market, from its creat
 
 On the other hand, Bolivians complain that it takes a long time to get a business permit from their centralized government. Maybe things aren't as simple as they look.
 
-** Updated: This post is cavalier as usual, but I made some changes because it was not sensitive enough to experiences other than my own. I hope the changes make up for that. I'm lucky to have people who offer constructive criticism.
+** Updated: This post is cavalier as usual, but I made some tweaks because it was not clear enough and not sensitive enough to experiences other than my own. I think the changes have made for a better article overall, and I hope they make up for my neglect. I'm lucky to have people who offer constructive criticism.
