@@ -15,6 +15,8 @@ posts:
   - https://twitter.com/dankuck/status/1126125747318476800
   - https://www.reddit.com/r/BacktotheFuture/comments/bm8odj/fbi_report_from_1985_terrorist_activity_in_hill/
   - https://www.reddit.com/r/rational/comments/bm5r98/fbi_report_from_1985_terrorist_activity_in_hill/
+  - http://rationalreads.com/#/works/223
+  - https://fictionhub.io/post/terrorist-activity-in-hill-v-6f444/
 ---
 
 Title of Case: Terrorist Activity In Hill Valley, California
