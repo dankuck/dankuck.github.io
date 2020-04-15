@@ -9,13 +9,12 @@ page_img_desc: ""
 no_ad: 1
 sample_content:
 draft: 1
+tags: truman
+truman_title: "1. The Discrete Conspiracy"
+truman_description: "Truman loses his father and is introduced to rationality"
 posts:
 
 ---
-
-Based on characters owned by Scott Rudin Productions
-
-
 
 
 I did not expect to find the edge of the world when I set sail that morning. I just tacked out of the harbor toward wherever the Gulf of Mexico met the first light of dawn. The timing was right and my hiding spot would be useless in the daylight.
@@ -134,3 +133,5 @@ I turned the page and began to read The Sequences. That’s how I started on a l
 
 My mother had other ideas for me.
 
+
+{% include series_trumans_map.html %}
