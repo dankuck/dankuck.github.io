@@ -121,7 +121,7 @@ I pulled down *Discrete Mathematics And Its Applications* and took it upstairs t
 
 Looking back, this moment was Their first mistake. They probably thought a kid reading a giant math book was weird, but not too weird. Kids do weird things when they’re grieving.
 
-Maybe They could tell I was thinking about Dad, he loved math. So They had no reason to suspect anything when I brought it to the little desk in my room, where I always studied.
+Maybe They could tell I was thinking about Dad; he loved math. So They had no reason to suspect anything when I brought it to the little desk in my room, where I always studied.
 
 I had seen this book, blue with orange and green stripes, up on the shelf for months. I still wonder when he gutted it to put in his own pages.
 
