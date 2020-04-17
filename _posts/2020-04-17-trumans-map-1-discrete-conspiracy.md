@@ -31,7 +31,7 @@ No, not observers. Just one observer. Just me. Why had I never picked up a teles
 
 My thoughts kept updating. My mind was the steady clatter of falling dominoes.
 
-\***
+<p align="center">\***</p>
 
 My dad started behaving strangely, in the weeks before he died, when I was ten. I’d be washing dishes, or sitting with my math book open -- he’d always help me with my math, not because I needed it, but because he liked it -- and I’d catch him staring, stars in his eyes, smiling. A bittersweet smile.
 
