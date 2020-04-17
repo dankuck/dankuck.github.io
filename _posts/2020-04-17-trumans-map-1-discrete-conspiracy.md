@@ -33,7 +33,7 @@ My thoughts kept updating. My mind was the steady clatter of falling dominoes.
 
 \***
 
-My dad started behaving strangely, in the weeks before he died, when I was ten. Sitting with my math book open or washing dishes, I’d catch him staring, stars in his eyes, smiling. A bittersweet smile.
+My dad started behaving strangely, in the weeks before he died, when I was ten. I’d be washing dishes, or sitting with my math book open -- he’d always help me with my math, not because I needed it, but because he liked it -- and I’d catch him staring, stars in his eyes, smiling. A bittersweet smile.
 
 I’d say something like “Come to visit the Truman Zoo?” and make a pig nose or pull my ears out like a monkey. Each time he would laugh, apologize for staring, and tell me he loved me. Then the next day he’d get starry eyed again.
 
@@ -121,7 +121,7 @@ I pulled down *Discrete Mathematics And Its Applications* and took it upstairs t
 
 Looking back, this moment was Their first mistake. They probably thought a kid reading a giant math book was weird, but not too weird. Kids do weird things when they’re grieving.
 
-Maybe they could tell I was thinking about Dad, since he had always worked on my math with me. Not because I needed it, but because he liked it. So They had no reason to suspect anything when I brought it to the little desk in my room, where I always studied.
+Maybe They could tell I was thinking about Dad, he loved math. So They had no reason to suspect anything when I brought it to the little desk in my room, where I always studied.
 
 I had seen this book, blue with orange and green stripes, up on the shelf for months. I still wonder when he gutted it to put in his own pages.
 
