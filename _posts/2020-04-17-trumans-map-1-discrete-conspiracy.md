@@ -8,7 +8,7 @@ page_img_height:
 page_img_desc: ""
 no_ad: 1
 sample_content:
-draft: 1
+draft:
 tags: truman
 truman_title: "1. The Discrete Conspiracy"
 truman_description: "Truman loses his father and is introduced to rationality"
