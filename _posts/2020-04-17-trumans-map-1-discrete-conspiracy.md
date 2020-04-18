@@ -11,7 +11,7 @@ sample_content:
 draft:
 tags: truman
 truman_title: "1. The Discrete Conspiracy"
-truman_description: "Truman loses his father and is introduced to rationality"
+truman_description: "Truman Burbank doesn't know he lives in a TV show. Can his father's secret book set him free?"
 posts:
 
 ---
