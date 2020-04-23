@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>{{ include.title }}</title>
+        <description>{{ include.description }}</description>
+        <link>{{ link }}</link>
+        <atom:link href="{{ atomlink }}" rel="self" type="application/rss+xml" />
+        {% for post in posts %}
+            {% if post.draft != 1 %}
+            <item>
+                <title>{{ post.title | xml_escape }}</title>
+                <description>
+                    <![CDATA[
+                    {% if post.page_img_thumb %}
+                        {% assign page_img = post.page_img_thumb %}
+                    {% elsif post.page_img %}
+                        {% assign page_img = post.page_img %}
+                    {% else %}
+                        {% assign page_img = 0 %}
+                    {% endif %}
+
+                    {% if page_img != 0 %}
+
+                        {% if page_img contains 'http://' %}
+                            {% assign img_prepend_url = '' %}
+                        {% elsif page_img contains 'https://' %}
+                            {% assign img_prepend_url = '' %}
+                        {% else %}
+                            {% assign img_prepend_url = site.url %}
+                        {% endif %}
+
+                        <a href="{{ site.url }}{{ post.url }}"><img src="{{ img_prepend_url }}{{ page_img }}" style="max-width: 150px; max-height: 150px;" /></a><br />
+                        <br />
+                    {% endif %}
+                    {% if post.sample_content %}
+                        {{ post.sample_content }}
+                    {% else %}
+                        {{ post.content | split:site.excerpt_separator | first | strip_html | truncate:300 | xml_escape }}
+                    {% endif %}
+                    [<a href="{{ site.url }}{{ post.url }}">more</a>]
+                    ]]>
+                </description>
+                <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+                <link>{{ site.url }}{{ post.url }}</link>
+                <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
+            </item>
+            {% endif %}
+        {% endfor %}
+    </channel>
+</rss>
