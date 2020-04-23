@@ -3,15 +3,15 @@ layout: none
 comment: "RSS for Jekyll by georgemandis. Find it here: https://github.com/dankuck/jekyll-rss-feeds"
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- 1 -->
-{% capture link %}{{ site.url }}/2020/04/17/trumans-map-1-discrete-conspiracy.html{% endcapture %}
 
-{% capture atomlink %}{{ site.url }}/feed/truman.xml{% endcapture %}
-
-{% include rss.xml
-    title="Truman's Map / Fanfiction"
-    description="Truman Burbank doesn't know he lives in a TV show. Can his father's secret book set him free?"
-    link=link
-    atomlink=atomlink
-    posts=site.tags.truman
-%}
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Truman's Map / Fanfiction</title>
+        <description>Truman Burbank doesn't know he lives in a TV show. Can his father's secret book set him free?</description>
+        <link>{{ site.url }}/2020/04/17/trumans-map-1-discrete-conspiracy.html</link>
+        <atom:link href="{{ site.url }}/feed/truman.xml" rel="self" type="application/rss+xml" />
+        {% for post in site.tags.truman %}
+            {% include rss_post.xml post=post %}
+        {% endfor %}
+    </channel>
+</rss>
