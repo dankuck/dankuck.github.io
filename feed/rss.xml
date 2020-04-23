@@ -51,4 +51,5 @@ comment: "RSS for Jekyll by georgemandis. Find it here: https://github.com/danku
 			{% endif %}
 		{% endfor %}
 	</channel>
+	<x-test>1</x-test>
 </rss>
