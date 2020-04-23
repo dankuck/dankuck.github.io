@@ -5,7 +5,7 @@
         <description>{{ include.description }}</description>
         <link>{{ link }}</link>
         <atom:link href="{{ atomlink }}" rel="self" type="application/rss+xml" />
-        {% for post in posts %}
+        {% for post in include.posts %}
             {% if post.draft != 1 %}
             <item>
                 <title>{{ post.title | xml_escape }}</title>

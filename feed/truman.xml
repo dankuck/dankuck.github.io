@@ -3,13 +3,9 @@ layout: none
 comment: "RSS for Jekyll by georgemandis. Find it here: https://github.com/dankuck/jekyll-rss-feeds"
 ---
 
-{% capture link %}
-{{ site.url }}/2020/04/17/trumans-map-1-discrete-conspiracy.html
-{% endcapture %}
+{% capture link %}{{ site.url }}/2020/04/17/trumans-map-1-discrete-conspiracy.html{% endcapture %}
 
-{% capture atomlink %}
-{{ site.url }}/feed/truman.xml
-{% endcapture %}
+{% capture atomlink %}{{ site.url }}/feed/truman.xml{% endcapture %}
 
 {% include rss.xml
     title="Truman's Map / Fanfiction"
