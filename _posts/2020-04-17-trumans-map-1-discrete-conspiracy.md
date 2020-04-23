@@ -13,7 +13,10 @@ tags: truman
 truman_title: "1. The Discrete Conspiracy"
 truman_description: "Truman Burbank doesn't know he lives in a TV show. Can his father's secret book set him free?"
 posts:
-
+    - https://archiveofourown.org/works/23705065/chapters/56917558
+    - https://www.fanfiction.net/s/13556120/1/Truman-s-Map-1-The-Discrete-Conspiracy
+    - https://www.reddit.com/r/rational/comments/g3edl1/trumans_map_1_the_discrete_conspiracy/
+    - https://www.facebook.com/groups/rationalfic/permalink/1583851145098567/
 ---
 
 
