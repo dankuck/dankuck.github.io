@@ -11,7 +11,7 @@ sample_content:
 draft: 1
 tags: truman
 truman_title: "2. Making Your Beliefs Pay Rent"
-truman_description: "A murder in town exposes a crack in 18 year-old Truman's world"
+truman_description: "A murder in town exposes a crack in 18 year-old Truman's world."
 posts:
 ---
 
