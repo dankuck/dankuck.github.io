@@ -310,7 +310,7 @@ I wrote down his phone number as he dictated. The pen wrote well. My fingers wer
 
 I couldn’t decide how the missing-not-missing pen counted as evidence.
 
-I excused myself without asking any more questions about my hypothesis. My *Partridge Killed McDermot* probability had shrunk a few times but a few of my anticipations were meaningless. I noticed I was confused, and I figured the police could ask him more questions without my help.
+I excused myself without asking any more questions about my hypothesis. My *Partridge Killed McDermot* probability had shrunk a few times, and a few of my anticipations were meaningless. I noticed I was confused, and I figured the police could ask him more questions without my help.
 
 As I stepped out on the porch Partridge said, “Thanks again, Truman, for bringing Hatchimal back to me. I’ve just been so upset since McDermot stole her.”
 
