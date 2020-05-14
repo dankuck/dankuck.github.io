@@ -13,6 +13,8 @@ tags: truman
 truman_title: "2. Making Beliefs Pay Rent"
 truman_description: "A murder in town exposes a crack in 18 year-old Truman's world. Can he use what he has learned to find the killer?"
 posts:
+    - https://archiveofourown.org/works/23705065/chapters/58250029
+    - https://www.fanfiction.net/s/13556120/2/Truman-s-Map
 ---
 
 
