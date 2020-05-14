@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Truman's Map 2: Making Your Beliefs Pay Rent"
+title: "Truman's Map 2: Making Beliefs Pay Rent"
 page_img_thumb:
 og_page_img:
 page_img_width:
@@ -10,15 +10,15 @@ no_ad: 1
 sample_content:
 draft: 1
 tags: truman
-truman_title: "2. Making Your Beliefs Pay Rent"
-truman_description: "A murder in town exposes a crack in 18 year-old Truman's world."
+truman_title: "2. Making Beliefs Pay Rent"
+truman_description: "A murder in town exposes a crack in 18 year-old Truman's world. Can he use what he has learned to find the killer?"
 posts:
 ---
 
 
 The edge of the world is a blue wall painted with clouds. Painted? Maybe it’s something more sophisticated. I couldn’t be sure, but the clouds might have been moving.
 
-Sailing a boat you only notice something is wrong a moment before the sudden bump knocks you off your feet. After colliding with the wall, you have a sense that you should have known what it was sooner. But I Should Have Known is not a trustworthy feeling. It’s hindsight bias.
+Sailing a boat, you only notice something is wrong a moment before the sudden bump knocks you off your feet. After colliding with the wall, you have a sense that you should have known what it was sooner. But I Should Have Known is not a trustworthy feeling. It’s hindsight bias.
 
 When you face the wall at the edge of the world, and when you touch it, your brain tells you This Is A Wall. When you stand on the steps at the edge of the world and gaze upward, your brain once again tells you This Is A Sky. No spell is so easily broken.
 
@@ -448,7 +448,7 @@ She took a deep breath and when she turned back the look of determination was re
 
 “Maybe. But isn’t it very weird?” she asked.
 
-Was it weird that they had the same initials?
+How weird was it that they had the same initials?
 
 The cat was a fake clue, a frame up. Rossakoff wanted us to find it because it pointed to Bertrand Partridge. But the cat had nothing to do with the initials BP.
 
@@ -458,13 +458,13 @@ But what a weird coincidence that the initials on the pen *still* pointed to Ber
 
 I wish I’d had the stroke of genius to realize I was being tested. They must have worried that I would figure it out -- figure out that I lived in a fake world -- but I wasn’t there yet.
 
-Instead, a new probability went into orbit around my head. It was called *Something Is Wrong*, and it started vague and small. It would grow a lot.
+Instead, a new probability went into orbit around my head. It was called *Something Is Wrong*, and it started vague and small.
 
 A car honked twice in the parking lot. It was Rebecca’s usual ride home.
 
 Rebecca didn’t move.
 
-“Truman…” she screwed up her eyebrows and her dad honked again. “Nevermind. I gotta go. I hope I see… I mean. Goodbye, Truman.” She hugged me, which was unusual, and started to rush away.
+“Truman…” she screwed up her eyebrows and her dad honked again. “Nevermind. I gotta go. I hope I see… I mean. Goodbye, Truman.” She hugged me -- which was unusual -- and started to rush away.
 
 "Hey, Rebecca."
 
