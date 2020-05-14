@@ -9,7 +9,7 @@
         {% if post.draft %}
             <!-- skipped a draft -->
         {% else %}
-            <p><a href="{{ post.url }}">{{ post.truman_title }}</a> - {{ post.truman_description }}.</p>
+            <p><a href="{{ post.url }}">{{ post.truman_title }}</a><br />{{ post.truman_description }}</p>
         {% endif %}
     {% endfor %}
 
