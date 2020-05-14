@@ -448,23 +448,19 @@ She took a deep breath and when she turned back the look of determination was re
 
 “Maybe. But isn’t it very weird?” she asked.
 
-Was it weird that they had the same initials? Yeah, that was weird.
+Was it weird that they had the same initials?
 
-The cat was a fake clue, a frame up. Rossakoff wanted us to find it because it pointed to Bertrand Partridge. But the cat had nothing to do with the initials she shared with Bertrand Partridge.
+The cat was a fake clue, a frame up. Rossakoff wanted us to find it because it pointed to Bertrand Partridge. But the cat had nothing to do with the initials BP.
 
-The pen was a real clue. Rossakoff did not plant that on purpose. The pen was an accident. If Vera Rossakoff had planned that, she would not have asked me where her pen was. She would have pretended not to have a gold pen.
+The pen was a real clue. Rossakoff did not plant that on purpose. If she had known about it, she would not have asked me where it was. She would have pretended not to have a gold pen.
 
-But what a weird coincidence that the initials on the pen still pointed to Bertrand Partridge. It was an accident, but it still worked in her favor. At first. What a huge small coincidence.
+But what a weird coincidence that the initials on the pen *still* pointed to Bertrand Partridge. It was an accident that fit just right with her plan. That was too convenient.
 
-Sometimes coincidences happen. I couldn’t dismiss this one though; it had been too important. Even if it didn’t add up to anything yet, I noticed that I was confused.
+I wish I’d had the stroke of genius to realize I was being tested. They must have worried that I would figure it out -- figure out that I lived in a fake world -- but I wasn’t there yet.
 
-A new probability went into orbit around my head. It was called *Something Is Wrong*, and it started vague and small. It would grow a lot.
+Instead, a new probability went into orbit around my head. It was called *Something Is Wrong*, and it started vague and small. It would grow a lot.
 
-Each of the subsequent murders took a few days to solve. The first one was too quick. It was a test. What did They learn about me? They learned that I’m better at this than They thought. That was my mistake.
-
-The later murders were harder tests. They must have worried that I would figure it out -- figure out that I lived in a fake world -- but I wasn’t there yet. I had only reached *Something Is Wrong*.
-
-A car honked twice in the parking lot. It was Rebecca’s usual ride home, but her dad seemed impatient this time.
+A car honked twice in the parking lot. It was Rebecca’s usual ride home.
 
 Rebecca didn’t move.
 
