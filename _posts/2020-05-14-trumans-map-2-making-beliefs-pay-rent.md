@@ -18,15 +18,11 @@ posts:
 
 The edge of the world is a blue wall painted with clouds. Painted? Maybe it’s something more sophisticated. I couldn’t be sure, but the clouds might have been moving.
 
-Sailing a boat, you only notice something is wrong a moment before the sudden bump knocks you off your feet. After colliding with the wall, you have a sense that you should have known what it was sooner. But I Should Have Known is not a trustworthy feeling. It’s hindsight bias.
-
-When you face the wall at the edge of the world, and when you touch it, your brain tells you This Is A Wall. When you stand on the steps at the edge of the world and gaze upward, your brain once again tells you This Is A Sky. No spell is so easily broken.
+“Mayor Burbank,” a booming voice from nowhere addressed me. This was new.
 
 I was spending too much time thinking over things that were not helping me decide whether to walk through the dark and mysterious door in the wall.
 
-“Mayor Burbank,” a booming voice from nowhere addressed me. This was new.
-
-I was imagining a probability -- flying unseen around my head -- of whether I should step through the door. Orbiting that, I perceived a second probability: that I would be brave enough to step through the door if it was the right choice. This second probability was shrinking, even though the first one was growing. I had to decide before I lost my nerve.
+I imagined a probability -- flying unseen around my head -- of whether I should step through the door. Orbiting that, I perceived a second probability: that I would be brave enough to step through the door if it was the right choice. This second probability was shrinking, even though the first one was growing. I had to decide before I lost my nerve.
 
 The voice continued. I stepped into the dark and shut the door behind me.
 
