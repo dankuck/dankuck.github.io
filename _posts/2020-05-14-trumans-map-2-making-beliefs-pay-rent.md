@@ -8,7 +8,7 @@ page_img_height:
 page_img_desc: ""
 no_ad: 1
 sample_content:
-draft: 1
+draft:
 tags: truman
 truman_title: "2. Making Beliefs Pay Rent"
 truman_description: "A murder in town exposes a crack in 18 year-old Truman's world. Can he use what he has learned to find the killer?"
