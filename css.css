@@ -93,7 +93,7 @@ pre.highlight {
 @media (max-width: 800px) {
     pre.highlight {
         margin-left: -2em;
-        margin-right: -4em;
+        margin-right: -3em;
         overflow-x: scroll;
         border-right: 1px solid grey;
     }
