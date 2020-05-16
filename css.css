@@ -90,6 +90,12 @@ code.highlighter-rouge {
 pre.highlight {
     margin-left: 1em;
 }
+@media (max-width: 800px) {
+    pre.highlight {
+        margin-left: 0;
+        margin-right: 0;
+    }
+}
 .byline, .byline a {
     margin-top: 2em;
     color: #888;
