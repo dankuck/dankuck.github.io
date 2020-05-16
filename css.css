@@ -92,8 +92,10 @@ pre.highlight {
 }
 @media (max-width: 800px) {
     pre.highlight {
-        margin-left: 0;
-        margin-right: 0;
+        margin-left: -2em;
+        margin-right: -4em;
+        overflow-x: scroll;
+        border-right: 1px solid grey;
     }
 }
 .byline, .byline a {
