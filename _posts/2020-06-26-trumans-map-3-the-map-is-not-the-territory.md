@@ -26,17 +26,17 @@ My spirit rose which embarrassed me. I couldn't let myself think of this as a fr
 
 “Truman…”
 
-I gave my eyes time to adjust from the daylight to the dimmer lamp light, but they just didn’t. There was nothing but the lamp and the door. Nothing at all. No walls, no space. It was an impossible place.
+I gave my eyes time to adjust from the daylight to the dimmer lamp light, but they just didn’t. There was nothing but the lamp and the door. Nothing at all. No walls, no size. It was an impossible place.
 
 *Any sufficiently advanced technology…* For a moment I worried that there might be obscenely magical technology in the world beyond Seahaven Island.
 
-But these thoughts were just my map. The blackness of the room was more perfect than my eyes could distinguish. This place was real; it was just invisible.
+But these thoughts were just my map. The blackness of the room was more perfect than my eyes could distinguish. This place was probably real; it was just invisible.
 
 "You're lost, Truman."
 
-I looked down at myself. The light touched my shoes, my clothes, my pen. I reached out in front of me and saw my hand touch a flat nothing. But it felt cool and softly smooth. Nothing out of the ordinary. I decided it was just very black paint.
+I looked down at myself. The light touched my shoes, my clothes, the pen in my shirt pocket. I reached out in front of me and saw my hand touch a flat nothing. But it felt cool and softly smooth. Nothing out of the ordinary. I decided it was just very black paint.
 
-The lamp had turned on automatically, like my own Polaris to guide me. This was an ordinary hallway leading from one door to another.
+This was an ordinary hallway leading from one door to another.
 
 “It’s all for you, Truman.” The Voice could go on for all I cared. I didn’t become the mayor by answering people when they demanded it.
 
@@ -46,23 +46,23 @@ Still, he did have my attention. It was all for me? Who else would it be for? My
 
 I approached the door.
 
-If he was lying, what was the opposite of a shining star? Was I really a dull meteor? Too literal. The metaphor was about being special.
+If he was lying, what was the opposite of a shining star? Was I really a dull meteor? Too literal. This was a metaphor about being special.
 
 “What are you looking for, Truman? Why did you leave your home?”
 
-I set my hand on the doorknob and paused.
+I set my hand on the door handle and paused.
 
 Stars are special and singular. Was the lie that I was not special or that I was not singular? Were there others? If there were we were all being taken for fools.
 
-“Listen closely, Truman. It’s very important that you stay put. We’re sending a car to get you, and we’ll explain everything then.”
+“Listen closely, Truman. It’s very important that you stay put. We’re sending a car to help you. Then we’ll explain everything.”
 
 I let my hypothesis launch into orbit around my head: *I Am Not The Only One*. It was vanishingly small. The only hypothesis I had.
 
-Now to the matter at hand. I had to hide. And I thought that I could, because the Voice was sending a car and telling me that I should stay put.
+Now it was time to hide. And I thought that I could, because the Voice was sending a car and telling me that I should stay put.
 
 If he needed me to stay put, that likely meant They couldn’t track me past the edge of the world. So instead They wanted to bait my curiosity. Promise me what I couldn’t resist. “We’ll explain…” But They didn’t know how much I could resist.
 
-I turned the knob. The door opened to an empty corridor as wide as Main Street and twice as high. All metal and concrete, brightly lit. Ahead I could see a few hundred yards and then the curve of the corridor blocked my view. Back the other way the same thing. And no hiding place in sight.
+I twisted the handle. The door opened to an empty corridor as wide as Main Street and twice as high. All metal and concrete, brightly lit. Ahead I could see a few hundred yards and then the curve of the corridor blocked my view. Back the other way the same thing, with no hiding place in sight.
 
 This might be harder than I thought. Keep looking, Truman.
 
@@ -70,9 +70,9 @@ The wall on my left had a map. “You are here.” I could feel time running out
 
 Due west of the city was an opening that connected the corridor to the only road and bridge onto Seahaven Island. Of course.
 
-The map was busy with labels for things like Main Offices and Food Services near that road in the west, whereas the entire east side was just a series of large empty storage facilities -- empty on the map, but surely more interesting in the territory.
+The west side was busy with labels for things like Main Offices and Food Services near the road opening, whereas the entire east side was just a series of large empty storage facilities -- empty on the map, but surely more interesting in the territory.
 
-Since I guessed that my pursuers would come from the busy area, I started to run toward the nearest storage facility. Then I stopped short. What was I doing?
+Since I guessed that my pursuers would come from the busy area, I started to run east toward the nearest storage facility. Then I stopped short. What was I doing?
 
 I went back and ripped the map off the wall. I would grok it later.
 
@@ -90,11 +90,11 @@ As I headed east again, I looked for anything in my vicinity to give me ideas. I
 
 “Truman, please. That voice is obnoxious.”
 
-I did want to bring books, but this was also part of my grand scheme.
+I didn’t want to bring books. This was part of my grand scheme.
 
 In the weeks since Dad had died, I had to find excuses for why I was in my room all the time. Naturally, since I was actually reading a book, I had gone to the library and checked out lots of books. I was in the depths of a distraction campaign. If I could convince Mom I wanted to read textbooks and sci-fi all summer, she would not suspect that I was studying The Secret.
 
-To complete the illusion, I really did read those other books. It took up a lot of my time. I was in the middle of *Stranger in a Strange Land* by Robert A. Heinlein. I was just ten years old, so I ignored the confusing parts.
+To complete the illusion, I really did read those other books. It took up a lot of my time. I was in the middle of Stranger in a Strange Land by Robert A. Heinlein. I was just ten years old, so I ignored the confusing parts.
 
 Mom’s response to all the reading had been, “Truman you’ve been in your room reading too much. I hate it. Reading makes you boring. You need to get outside. I signed you up for the Panther Scouts.”
 
@@ -432,3 +432,5 @@ I can’t hold it against her that she played Their game. After all, if she had 
 Marlon and Meryl and I had a great summer after that. I came out of my room every day. I only read when I went home. I threw my attention into our time together, like Valentine Michael Smith would have. I didn’t finish *Stranger in a Strange Land* until years later. The second half gets weird. But I like that the friendships stay strong.
 
 Those were the kinds of friendships I believed in that summer. But they don’t happen on Seahaven Island. That was my last summer with Marlon and Meryl.
+
+{% include series_trumans_map.html %}
