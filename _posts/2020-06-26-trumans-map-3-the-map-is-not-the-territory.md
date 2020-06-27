@@ -138,7 +138,7 @@ I kept walking as I reached into my pack to get my drawing pad. I was thinking a
 
 “That’s ok, let me help you.” Wow, her attitude just flipped when I agreed with her. We put my things back in my backpack, then she said, “Have you ever thought of changing your hair? You’d look better with different hair.”
 
-“Uh… sorry,” I said. Sorry worked once, and it was all I could think of saying.
+“Uh… sorry?” I said. Sorry worked once, and it was all I could think of saying.
 
 “Ha! You’re so funny, Truman,” and she walked away. I was funny?
 
@@ -208,7 +208,7 @@ When I got home, I was shocked to discover my room was clean. It was supposed to
 
 Mom crossed her arms, then waved a hand at the room. “Oh, well I didn’t recognize any of them. I thought they were all from the…” But I didn’t hear any more. I was already on my bike outside and then I was racing to the library.
 
-I wasn’t waiting. I wasn’t going to stop for anything. The wind blew back my tears. What an awful woman my mother was. Now was the time to act.
+I wasn’t waiting. I wasn’t going to stop for anything. Even though the wind and tears were stinging eyes. What an awful woman my mother was. Now was the time to act.
 
 But as I turned the corner at Whirlpool Avenue, I saw the whole street was blocked by a delivery truck with steam pouring from its engine. I couldn’t even see through the cloud, so I biked back out, past a row of immaculate lawns, and down to Hershey Avenue.
 
@@ -255,7 +255,7 @@ Wait, how was I supposed to know when five minutes passed? I opened my eyes to p
 
 “Let’s break in the back door!” I blurted.
 
-“Truman! Juvenile delinquency? I like it. Let’s go.” She grabbed my hand, and we ran through the grass around to the back of the Library.
+“Truman! Juvenile delinquency? I like it. Let’s go.” She grabbed my hand, and we ran through the grass to the back of the Library.
 
 The back was a parking lot for the librarians. It was just a square of asphalt surrounded by buildings and an alley road, with sand and scratchy weeds poking through at the seams. The door was locked, so we knocked and yelled, but no one came. I suddenly realized I didn’t know how to start breaking in a door. I said that to Meryl and sank down on the doorstep, ready to fall apart again.
 
@@ -275,7 +275,7 @@ On the other hand, what would Dad have thought? That did it. I interwove my fing
 
 “I’m sorry!”
 
-“Jeez. Shit, that hurts.” I had never heard anyone curse before. I’d only recently seen it in books, and then it was only said by roughneck space soldiers, so I was surprised. She didn’t strike me as a space soldier type. On the other hand, she did like to wisecrack. Maybe she was a space soldier.
+“Jeez! Shit, that hurts.” I had never heard anyone curse before. I’d only recently seen it in books, and then it was only said by roughneck space soldiers, so I was surprised. She didn’t strike me as a space soldier type. On the other hand, she did like to wisecrack. Maybe she *was* a space soldier.
 
 “I’m sorry, I’m sorry, let’s try again.”
 
@@ -373,7 +373,7 @@ I thanked Miss Wormwood and left again through the back door.
 
 “Your mom told me you were here. She said you needed your bookbag.” He was wearing it, so he took it off and held it out for me. We were still friends.
 
-“Oh. Yeah, I guess I do.” I put *The Sequences* in it and slid it over my shoulder.
+“Oh. Yeah, I guess I do.” I put *The Sequences* in it and slipped it over my shoulder.
 
 We walked around to the front of the library to get my bike.
 
@@ -385,7 +385,7 @@ We walked around to the front of the library to get my bike.
 
 I smiled. “It’s ok. Hey, do you wanna go to the playground?”
 
-Marlon miled too. “You know it!”
+Marlon smiled too. “You know it, man.”
 
 We raced bikes like we always used to before my dad died.
 
