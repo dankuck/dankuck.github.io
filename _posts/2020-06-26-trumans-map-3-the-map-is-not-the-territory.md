@@ -28,7 +28,7 @@ My spirit rose which embarrassed me. I couldn't let myself think of this as a fr
 
 I gave my eyes time to adjust from the daylight to the dimmer lamp light, but they just didn’t. There was nothing but the lamp and the door. Nothing at all. No walls, no size. It was an impossible place.
 
-*Any sufficiently advanced technology…* For a moment I worried that there might be obscenely magical technology in the world beyond Seahaven Island.
+_Any sufficiently advanced technology…_ For a moment I worried that there might be obscenely magical technology in the world beyond Seahaven Island.
 
 But these thoughts were just my map. The blackness of the room was more perfect than my eyes could distinguish. This place was probably real; it was just invisible.
 
@@ -40,7 +40,7 @@ This was an ordinary hallway leading from one door to another.
 
 “It’s all for you, Truman.” The Voice could go on for all I cared. I didn’t become the mayor by answering people when they demanded it.
 
-Still, he did have my attention. It was all for me? Who else would it be for? My neighbors back on Seahaven Island? All fakers. And what did they get out of it? Maybe it *was* all for me.
+Still, he did have my attention. It was all for me? Who else would it be for? My neighbors back on Seahaven Island? All fakers. And what did they get out of it? Maybe it _was_ all for me.
 
 “You are our shining star. Our hopes and dreams.” A shining star? I’d been treated like a brilliant fool.
 
@@ -56,7 +56,7 @@ Stars are special and singular. Was the lie that I was not special or that I was
 
 “Listen closely, Truman. It’s very important that you stay put. We’re sending a car to help you. Then we’ll explain everything.”
 
-I let my hypothesis launch into orbit around my head: *I Am Not The Only One*. It was vanishingly small. The only hypothesis I had.
+I let my hypothesis launch into orbit around my head: _I Am Not The Only One_. It was vanishingly small. The only hypothesis I had.
 
 Now it was time to hide. And I thought that I could, because the Voice was sending a car and telling me that I should stay put.
 
@@ -94,7 +94,7 @@ I didn’t want to bring books. This was part of my grand scheme.
 
 In the weeks since Dad had died, I had to find excuses for why I was in my room all the time. Naturally, since I was actually reading a book, I had gone to the library and checked out lots of books. I was in the depths of a distraction campaign. If I could convince Mom I wanted to read textbooks and sci-fi all summer, she would not suspect that I was studying The Secret.
 
-To complete the illusion, I really did read those other books. It took up a lot of my time. I was in the middle of Stranger in a Strange Land by Robert A. Heinlein. I was just ten years old, so I ignored the confusing parts.
+To complete the illusion, I really did read those other books. It took up a lot of my time. I was in the middle of _Stranger in a Strange Land_ by Robert A. Heinlein. I was just ten years old, so I ignored the confusing parts.
 
 Mom’s response to all the reading had been, “Truman you’ve been in your room reading too much. I hate it. Reading makes you boring. You need to get outside. I signed you up for the Panther Scouts.”
 
@@ -114,7 +114,7 @@ I hadn’t seen Marlon much lately. Most summers we would meet at the end of the
 
 “Alright, Scouts!” Mr. Waldenbooks was the very loud scout master from Pennsylvania. “We’re gonna go out there and have some fun! But we also have to be safe! Safety means!: Get a buddy! Do not leave your buddy! Do not touch the animals! Leave nature how you found it! And follow the map! Everything you want to see is on the map!”
 
-Everybody grabbed their packs and started walking from the parking lot of the L. Ron Hubbard Shoppes strip mall, down past the billboard for “Crest® Complete Whitening + Scope”, left at Meryl Scott’s house (since she was one of the kids on this trip, it was really pointless that she met us at the parking lot), past the Morgan & Morgan “For The People” Retention Pond, and into the woods.
+Everybody grabbed their packs and started walking from the parking lot of the L. Ron Hubbard Shoppes, down past the billboard for “Crest® Complete Whitening + Scope”, left at Meryl Scott’s house (since she was one of the kids on this trip, it was really pointless that she met us at the parking lot), past the Morgan & Morgan “For The People” Retention Pond, and into the woods.
 
 “Marlon, what’s wrong?” I asked, rushing to keep up.
 
@@ -168,7 +168,7 @@ Well, it looked like a clothes dryer. It was a large metal box, the right size, 
 
 I was truly lost. I sat on the edge of the concrete pad and stared into the dark.
 
-Before he died, my dad told me to read *The Sequences*, and made me promise not to talk about it. But I made one other promise -- to remember “The map is not the territory.” Why was that important? It was in the book. I would have gotten to it. Why did he single out that one?
+Before he died, my dad told me to read _The Sequences_, and made me promise not to talk about it. But I made one other promise -- to remember “The map is not the territory.” Why was that important? It was in the book. I would have gotten to it. Why did he single out that one?
 
 A flashlight shone in my face and said, “Um… What are you doing in the girls’ zone?” It was Meryl.
 
@@ -202,7 +202,7 @@ I got up and walked down the path Meryl had come in on. I was smiling all the wa
 
 I never made my map in the end. I was rattled from my twenty minutes lost in the woods, and so the next morning I just made sure to stay with the group and do whatever they did until we all went home. And since I already had the same map everyone else had, I marked down everything I saw. Starting with the restroom zones and the weird box, and even the place where we saw a Florida panther before lunch time.
 
-When I got home, I was shocked to discover my room was clean. It was supposed to be covered in stacks of books. But the worst part was that *The Sequences* was gone.
+When I got home, I was shocked to discover my room was clean. It was supposed to be covered in stacks of books. But the worst part was that _The Sequences_ was gone.
 
 “What?!? Mom, they weren’t all library books!” Why was she doing this to me?!?
 
@@ -234,8 +234,7 @@ I realized what a rationalist would do. I closed my eyes, intent on spending fiv
 
 Wait, how was I supposed to know when five minutes passed? I opened my eyes to peek at the time.
 
-“What are you doing now, Truman?” Meryl was leaning on the clock, arms folded.
-“I knew you were a nerd, but I didn’t know you prayed at the library.”
+“What are you doing now, Truman?” Meryl was leaning on the clock, arms folded. “I knew you were a nerd, but I didn’t know you prayed at the library.”
 
 “Meryl!” I stood up. “I was, uh… I need a book.”
 
@@ -275,7 +274,7 @@ On the other hand, what would Dad have thought? That did it. I interwove my fing
 
 “I’m sorry!”
 
-“Jeez! Shit, that hurts.” I had never heard anyone curse before. I’d only recently seen it in books, and then it was only said by roughneck space soldiers, so I was surprised. She didn’t strike me as a space soldier type. On the other hand, she did like to wisecrack. Maybe she *was* a space soldier.
+“Jeez! Shit, that hurts.” I had never heard anyone curse before. I’d only recently seen it in books, and then it was only said by roughneck space soldiers, so I was surprised. She didn’t strike me as a space soldier type. On the other hand, she did like to wisecrack. Maybe she _was_ a space soldier.
 
 “I’m sorry, I’m sorry, let’s try again.”
 
@@ -317,7 +316,7 @@ Buildings in Florida don’t have basements. Especially on islands. The groundwa
 
 “Yes, ma’am. Well, I mean my mom did. She didn’t know it was mine.”
 
-“It’s *Discrete Mathematics and Its Applications*, right?”
+“It’s _Discrete Mathematics and Its Applications_, right?”
 
 My heart rose and then sank. Shit. I wasn’t supposed to talk about the book, and now they both knew which one it was. “Yes, ma’am,” I muttered.
 
@@ -353,7 +352,7 @@ Miss Wormwood started to look worn out again. “I’m sure you didn’t. That�
 
 “Truman, stop touching that. It’s for librarian use only. Look, here’s your book.”
 
-The sight of *The Sequences* put all thoughts of dryers and copy machines and unmarked electrical equipment out of my head. I took it and held it tightly.
+The sight of _The Sequences_ put all thoughts of dryers and copy machines and unmarked electrical equipment out of my head. I took it and held it tightly.
 
 “Alright, you’ve got your book. I’m sure you won’t have any more trouble,” said Miss Wormwood as she shuffled through papers on the table.
 
@@ -373,7 +372,7 @@ I thanked Miss Wormwood and left again through the back door.
 
 “Your mom told me you were here. She said you needed your bookbag.” He was wearing it, so he took it off and held it out for me. We were still friends.
 
-“Oh. Yeah, I guess I do.” I put *The Sequences* in it and slipped it over my shoulder.
+“Oh. Yeah, I guess I do.” I put _The Sequences_ in it and slipped it over my shoulder.
 
 We walked around to the front of the library to get my bike.
 
@@ -393,7 +392,7 @@ We raced bikes like we always used to before my dad died.
 
 I was in the library again the next day when Meryl jumped out at me. “Ha! I knew I’d find you here,” she said much too loudly.
 
-I yelped -- also too loudly -- and I glanced over to see if Miss Wormwood would give me an evil look. She hadn’t noticed. I picked up the books I had dropped: *My Teacher Is An Alien* by Bruce Coville; *Secrets of Lock Picking* by Steven Hampton; and *Everything You Need To Know About the Union for Climate Action* by Richard N. L. Andrews. I had to replenish my supply.
+I yelped -- also too loudly -- and I glanced over to see if Miss Wormwood would give me an evil look. She hadn’t noticed. I picked up the books I had dropped: _My Teacher Is An Alien_ by Bruce Coville; _Secrets of Lock Picking_ by Steven Hampton; and _Everything You Need To Know About the Union for Climate Action_ by Richard N. L. Andrews. I had to replenish my supply.
 
 “Meryl, I’ve never seen you actually inside the library,” I said.
 
@@ -419,7 +418,7 @@ I was just glad to talk to her. So, as she requested, I didn’t listen to her u
 
 “No, I mean… nevermind.” I had been trying to ask why her mother told her to watch what she said. To who? Why?
 
-Now I think that she knew just what I meant. She had almost been swept away from Seahaven Island like so many other people. She had to play Their game. So she couldn’t tell me what she wasn’t allowed to say. *I* was who she couldn’t tell about things like basements and strange boxes in the woods and the real reason Miss Wormwood looked like she had run a hundred yards and climbed a flight of stairs that day.
+Now I think that she knew just what I meant. She had almost been swept away from Seahaven Island like so many other people. She had to play Their game. So she couldn’t tell me what she wasn’t allowed to say. _I_ was who she couldn’t tell about things like basements and strange boxes in the woods and the real reason Miss Wormwood looked like she had run a hundred yards and climbed a flight of stairs that day.
 
 Marlon arrived just then. “Hey, Truman, ready to go ride bikes?”
 
@@ -429,7 +428,7 @@ I can’t hold it against her that she played Their game. After all, if she had 
 
 “I’m coming too,” she said, and suddenly we were a gang.
 
-Marlon and Meryl and I had a great summer after that. I came out of my room every day. I only read when I went home. I threw my attention into our time together, like Valentine Michael Smith would have. I didn’t finish *Stranger in a Strange Land* until years later. The second half gets weird. But I like that the friendships stay strong.
+Marlon and Meryl and I had a great summer after that. I came out of my room every day. I only read when I went home. I threw my attention into our time together, like Valentine Michael Smith would have. I didn’t finish _Stranger in a Strange Land_ until years later. The second half gets weird. But I like that the friendships stay strong.
 
 Those were the kinds of friendships I believed in that summer. But they don’t happen on Seahaven Island. That was my last summer with Marlon and Meryl.
 
