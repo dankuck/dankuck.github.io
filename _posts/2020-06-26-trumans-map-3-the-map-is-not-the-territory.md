@@ -8,7 +8,7 @@ page_img_height:
 page_img_desc: ""
 no_ad: 1
 sample_content:
-draft: 1
+draft:
 tags: truman
 truman_title: "3. The Map is Not The Territory"
 truman_description: "Truman’s mother gets rid of his book. Can he save the last link he has to his father?"
