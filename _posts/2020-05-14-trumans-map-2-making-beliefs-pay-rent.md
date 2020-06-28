@@ -15,6 +15,8 @@ truman_description: "A murder in town exposes a crack in 18 year-old Truman's wo
 posts:
     - https://archiveofourown.org/works/23705065/chapters/58250029
     - https://www.fanfiction.net/s/13556120/2/Truman-s-Map
+    - https://www.reddit.com/r/rational/comments/gk0jfs/trumans_map_2_making_beliefs_pay_rent/
+    - https://www.facebook.com/groups/rationalfic/permalink/1607509446066070/
 ---
 
 

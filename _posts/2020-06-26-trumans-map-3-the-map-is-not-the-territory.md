@@ -13,6 +13,8 @@ tags: truman
 truman_title: "3. The Map is Not The Territory"
 truman_description: "Truman’s mother gets rid of his book. Can he save the last link he has to his father?"
 posts:
+    - https://archiveofourown.org/works/23705065/chapters/60399706
+    - https://www.fanfiction.net/s/13556120/3/Truman-s-Map
 ---
 
 
