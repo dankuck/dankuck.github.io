@@ -11,10 +11,12 @@ sample_content:
 draft:
 tags: truman
 truman_title: "3. The Map is Not The Territory"
-truman_description: "Truman’s mother gets rid of his book. Can he save the last link he has to his father?"
+truman_description: "10 year-old Truman’s mother gets rid of his book. Can he save the last link he has to his father?"
 posts:
     - https://archiveofourown.org/works/23705065/chapters/60399706
     - https://www.fanfiction.net/s/13556120/3/Truman-s-Map
+    - https://www.reddit.com/r/rational/comments/hh6e5w/trumans_map_3_the_map_is_not_the_territory/
+    - https://www.facebook.com/groups/rationalfic/permalink/1646515662165448/
 ---
 
 
