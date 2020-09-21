@@ -7,18 +7,18 @@ sample_content:
 draft: 1
 ---
 
-Chronology of "Murder, She Wrote" Episode 3x03, 12 Oct 1986
+This is a chronology of "Murder, She Wrote" Episode 3x03, "Unfinished Business", 12 Oct 1986.
 
 Detective stories almost exlusively follow the detective's discovery process. When that process becomes difficult to follow, the audience cannot understand the story. One such episode of "Murder, She Wrote" is called "Unfinished Business". Laying out the story from an omniscient narrator point of view makes the plot clearer, along with its weaknesses.
 
-In this story, a dirty cop reopens an investigation into a murder he himself committed. How Jessica Fletcher figures this out is difficult for the audience to follow. His reason for reopening the investigation is almost as murky but in short it gives him an excuse to kill a man who is blackmailing him. Here it is all laid out.
+In this story, a dirty cop reopens an investigation into a murder he himself committed. How Jessica Fletcher figures this out is difficult for the audience to follow. His reason for reopening the investigation is almost as murky but in short it gives him an excuse to kill a man who is blackmailing him. Here it is all laid out, starting in 1976 before the first murder.
 
 
 1976:
 
     VARIOUS LOCATIONS
 
-    - Reporter Lowell Dixon discovers Barney Kale is a dirty cop.
+    - Reporter Lowell Dixon discovers Officer Barney Kale is a dirty cop.
 
     - Kale finds out Dixon will go public.
 
@@ -40,7 +40,7 @@ In this story, a dirty cop reopens an investigation into a murder he himself com
 
         - Cynthia Tate, Mayhew's secretary
 
-    - Joe Cabrini the handyman finds out Kale committed the murder. He does not tell Kale or anyone else what he knows at this time.
+    - Handyman Joe Cabrini finds out Kale committed the murder. He does not tell Kale or anyone else what he knows at this time.
 
     - The murder goes unsolved. Many claim it was an accident.
 
@@ -58,11 +58,11 @@ From 1976 to 1986, in approximately correct order:
 
     - The four suspects become successful separately.
 
-    - Gary Roberts commits armed robbery and winds up in prison with Cabrini for a cellmate.
+    - Ne'er-do-well Gary Roberts commits armed robbery and winds up in prison with Cabrini for a cellmate.
 
     - Cabrini tells Roberts that Kale murderered Dixon.
 
-    - Seth meets Jessica Fletcher while living in Cabot Cove.
+    - Seth meets the show's heroine Jessica Fletcher while living in Cabot Cove.
 
 1986:
 
@@ -82,9 +82,9 @@ From 1976 to 1986, in approximately correct order:
 
         - make it look like someone was trying to kill Kale himself to prevent him solving the case.
 
-    - Kale retires for the third or fourth time to much celebration for all the murders he has solved in 30 years.
+    - Kale retires to much celebration for all the murders he has solved in 30 years.
 
-    - At his retirement party, Kale vows to solve the murder of Lake Juniper which he actually committed.
+    - At his retirement party, Kale vows to solve the murder of Lake Juniper. The one he actually committed.
 
     - Kale calls up the suspects to let them know that he'll be at the hotel investigating them again.
 
@@ -96,13 +96,13 @@ From 1976 to 1986, in approximately correct order:
 
         - Gary Roberts, the blackmailer, with wife Maggie
 
-        - Cynthia Tate, the former secretary
+        - Cynthia Tate, a former secretary for the resort
 
-        - Barney Kale, the investor
+        - Barney Kale, the now ex-cop
 
         - Terry Mayhew, the investor
 
-    - When Kale checks in he demands that Sandford give him the room that Roberts has. This later gives Roberts an excuse to go there.
+    - When Kale checks in he demands that Sandford give him the room that Roberts already has. This later gives Roberts an excuse to go there.
 
     CABOT COVE
 
@@ -164,7 +164,7 @@ From 1976 to 1986, in approximately correct order:
 
     LAKE JUNIPER RESORT - KALE'S ROOM
 
-    - Jessica discovers that the lamp was turned on when it was broken, proving that the murderer knew they were killing Roberts and not Kale.
+    - Jessica discovers that the lamp was in a switched-on state when the bulb was broken, disproving the theory that a murderer came into a dark room and killed the wrong man and broke the lamp.
 
     - Jessica, Seth, the sheriff, and Kale decide that Dixon's murderer must have killed Roberts to hide what he knew.
 
@@ -182,7 +182,7 @@ From 1976 to 1986, in approximately correct order:
 
     - Jessica calls the number and discovers that it reaches Cynthia Tate's answering machine.
 
-    - Jessica finds the pad of paper that Kale used to write the phone number. Jessica realizes that the number was written at the hotel, not ahead of time.
+    - Jessica finds the pad of paper that Kale used to write the phone number. Jessica realizes that the number was written at the hotel, not ahead of time by someone who Cynthia would have called to come to the hotel.
 
     - Jessica has a flash of realization:
 
@@ -198,7 +198,7 @@ From 1976 to 1986, in approximately correct order:
 
             - Herself
 
-            - The sheriff
+            - The local sheriff
 
             - Kale
 
@@ -208,9 +208,9 @@ From 1976 to 1986, in approximately correct order:
 
         - Jessica knows she didn't do it and she has a solid alibi with Amos.
 
-        - The sheriff has no motive.
+        - The local sheriff has no motive.
 
-        - Jessica concludes privately that Kale is the murderer.
+        - Jessica concludes to herself that Kale is the murderer.
 
     - Jessica tells the sheriff to call for help so she can accuse the murderer. He refuses so she asks that everyone be gathered in the lobby.
 
@@ -229,3 +229,5 @@ Additionally, Jessica lets Seth off the hook because she knows him and the audie
 There's no real reason to not suspect the sheriff. His story wasn't really explored.
 
 So Jessica's process of elimination is a weak way to prove guilt. It relies on getting Kale to confess. That's typical, but usually Jessica has a more solid case or a more solid way to draw out the murderer.
+
+There you go. A difficult episode is easy when you lay it out.
