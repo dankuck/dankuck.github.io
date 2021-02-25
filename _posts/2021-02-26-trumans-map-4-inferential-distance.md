@@ -20,7 +20,7 @@ posts:
 
 I was picking the lock on the first door I had come to. My heart was pounding out of my chest, and I was sure someone was going to come down the corridor at any moment.
 
-The map of the edge of the world said this door led to a storage facility and the rolling garage door nearby confirmed that. It would be good enough.
+The map of the edge of the world said this was the door to a storage facility and the rolling garage door nearby confirmed that. It would be good enough.
 
 As the lock clicked open, I whispered thanks to Steven Hampton, author of <i>Secrets of Lock Picking</i>, and to Richard Feynman whose lessons about bureaucratic idiocy had given me the confidence to carry a pen that was good for picking locks.
 
@@ -28,7 +28,7 @@ As the lock clicked open, I whispered thanks to Steven Hampton, author of <i>Sec
 
 I peeked cautiously around the first rack. Identical racks repeated for some distance, but I was alone. Even the nowhere Voice had not followed me.
 
-This was too convenient. I whispered the thing about not looking gift horses in the mouths while I checked the nearest cabinet. I found a box of garbage bags inside. <i>Perfect.</i> I moved from camera to camera around the room tying a bag over each one.
+This was too convenient. I whispered the thing about not looking gift horses in the mouths while I checked the nearest cabinet. There was a box of garbage bags inside. <i>Perfect.</i> I moved from camera to camera around the room tying a bag over each one.
 
 Now I was really alone.
 
@@ -44,9 +44,9 @@ But I never had the sky.
 
 In my escape, I had set sail expecting to come back to land. There would be another city, a lawyer, the FBI, someone I could ask for help. I believed in these things.
 
-Instead I had reached the edge of the world. If I was smart I would have wondered if everything else was fake.
+Instead I had reached the edge of the world. If I was smart I would have wondered what else was fake.
 
-But this place had normal things. Books, gravel, PVC pipe, marketing scams, and emergency exits. The enormity of realizing <em>I could have been wrong but I wasn’t</em> washed over me. Or if maybe those were faked up for Seahaven Island, I could still walk out the door and stand under the real sky.
+But it looked like the outside world would have normal things. Books, gravel, PVC pipe, marketing scams, and emergency exits. I was relieved before I even knew I was worried. And sure, these things were destined for Seahaven Island, but I could still walk out the door and stand under the real sky.
 
 I looked out the little window in the door. There it was. Bright, blue, ordinary. There were clouds. And down on earth, trees in the distance.
 
@@ -78,13 +78,13 @@ Still no one came.
 
 Something was wrong. If They could track me through Seahaven Island with their hidden cameras, they should be smart enough to notice these security cameras went black.
 
-Someone was coming in a car to look for me at the dark doorway where I left the world. I wasn’t there anymore, but how stupid could they be? Did they just assume I couldn’t get through the nearest door because it was locked?
+Someone must have come to look for me at the dark doorway where I left the world. I wasn’t there anymore, but how stupid could they be? Did they just assume I couldn’t get through the nearest door because it was locked?
 
 <i>God, so much failure…</i>
 
 After a few minutes, I wandered back and browsed the labels on the boxes of books.
 
-“Hey, I know these books!” I said to no one. One of my first acts as mayor was to order new books for the library. Every single book they had was over 30 years old. Kathryn Wormwood had blamed the post office when the shipment never arrived in the library. But they were here.
+“Hey, I know these books!” I said aloud. One of my first acts as mayor was to order new books for the library. Every single book they had was over 30 years old. Kathryn Wormwood had blamed the post office when the shipment never arrived in the library. But they were here.
 
 I looked over the boxes. Most of them were glued shut for shipping, but they all had labels. I soon found three with the label I wanted: <i>The 2020 World Book Encyclopedia</i>.
 
