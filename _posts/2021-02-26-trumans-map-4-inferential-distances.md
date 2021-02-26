@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Truman's Map 4: Inferential Distance"
+title: "Truman's Map 4: Inferential Distances"
 page_img_thumb:
 og_page_img:
 page_img_width:
@@ -10,7 +10,7 @@ no_ad: 1
 sample_content:
 draft: 1
 tags: truman
-truman_title: "4. Inferential Distance"
+truman_title: "4. Inferential Distances"
 truman_description: "21-year-old Truman is sick of the chaos. But does that justify a life of crime?"
 posts:
 ---
