@@ -13,6 +13,11 @@ tags: truman
 truman_title: "4. Inferential Distances"
 truman_description: "21-year-old Truman is sick of the chaos. But does that justify a life of crime?"
 posts:
+    - https://archiveofourown.org/works/23705065/chapters/73060347
+    - https://www.fanfiction.net/s/13556120/4/Truman-s-Map
+    - https://www.reddit.com/r/rational/comments/ltrfyk/trumans_map_4_inferential_distances/
+    - https://www.facebook.com/dankuck/posts/10221245946312473
+    - https://www.facebook.com/groups/rationalfic/permalink/1860011234149222/
 ---
 
 
