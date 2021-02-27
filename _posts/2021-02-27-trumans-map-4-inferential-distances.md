@@ -46,7 +46,7 @@ In my escape, I had set sail expecting to come back to land. There would be anot
 
 Instead I had reached the edge of the world. If I was smart I would have wondered what else was fake.
 
-But it looked like the outside world would have normal things. Books, gravel, PVC pipe, marketing scams, and emergency exits. I was relieved before I even knew I was worried. And sure, these things were destined for Seahaven Island, but I could still walk out the door and stand under the real sky.
+But it looked like the outside world would have normal things. Books, gravel, PVC pipe, marketing scams, and emergency exits. I was relieved before I even knew I was worried. And sure, these things could have been invented for Seahaven Island, but I could still walk out the door and stand under the real sky.
 
 I looked out the little window in the door. There it was. Bright, blue, ordinary. There were clouds. And down on earth, trees in the distance.
 
@@ -198,7 +198,7 @@ I clutched at the door handle and bent over. I felt guilty not saying it. A man 
 
 <p align="center">***</p>
 
-During the weeks of pursuing the Ferrarri Killer, all I could think about was returning to normalcy.
+During the weeks of pursuing the Ferrari Killer, all I could think about was returning to normalcy.
 
 Normalcy was Seahaven Island Community College, the only higher education option I ever had.
 
@@ -252,7 +252,7 @@ I started looking for opportunities. There are dozens of opportunities we ignore
 
 I found myself in front of the American Eagle Movie Theater. They were playing <i>The Breakfast Club</i> in their single auditorium. When no one was looking I checked the trash can outside for discarded ticket stubs. Someone’s stub for the matinee showing was there for the taking.
 
-I had once noticed a failure mode once. Ticket rippers never hassle people who just walk right by and flash a torn ticket. They just assume they left for something and came back.
+I had noticed a failure mode once. Ticket rippers never hassle people who just walk right by and flash a torn ticket. They just assume they left for something and came back.
 
 But then I started to doubt myself. What if he stopped me just this once? Maybe I could try to mess the ticket up so the guy couldn’t see that it was for an earlier show. Maybe I could get it wet. No, how would I explain why it was wet?
 
@@ -330,7 +330,7 @@ As we headed down the alley, I heard Jennifer call into the kitchen, “Have you
 
 I was three for three. And if you’re winning too much, it means you aren’t taking enough risks.
 
-So I started thinking of things that would be riskier. I pulled a valet scam and a guy gave me his car. I brought my lobsters along. I pulled the wrong change trick again to score free firecrackers. I threw firecrackers out the car window into yards. I scared a dog with them. I consoled the dog. I convinced Officer Carmichael that the guy throwing firecrackers went “that way”. I adopted the dog into my mobile menagerie. I barked at strangers. It was the dog’s idea. I learned that the physics of cow tipping doesn’t work. I never took five minutes to think up a great idea. I just pretended to be Steve Martin, Robert Redford, Eddie Murphy...
+So I started thinking of things that would be riskier. I pulled a valet scam and a guy gave me his Mercedes. I brought my lobsters along. I pulled the wrong change trick again to score free firecrackers. I threw firecrackers out the car window into yards. I scared a dog with them. I consoled the dog. I convinced Officer Carmichael that the guy throwing firecrackers went “that way”. I adopted the dog into my mobile menagerie. I barked at strangers. It was the dog’s idea. I learned that the physics of cow tipping doesn’t work. I never took five minutes to think up a great idea. I just pretended to be Steve Martin, Robert Redford, Eddie Murphy...
 
 After a few more adventures that were even less noteworthy than they were clever, I still had not been stopped. My dog had run off, so I thought it was time to set my lobsters free too.
 
