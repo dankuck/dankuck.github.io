@@ -8,7 +8,7 @@ page_img_height:
 page_img_desc: ""
 no_ad: 1
 sample_content:
-draft: 1
+draft:
 tags: truman
 truman_title: "4. Inferential Distances"
 truman_description: "21-year-old Truman is sick of the chaos. But does that justify a life of crime?"
