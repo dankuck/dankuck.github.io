@@ -476,5 +476,10 @@ I did not see her again. She moved away, and no one knew where.
 
 I don’t think about the other murders much. After the first one, the only thing that made the rest weird was that I kept solving them and they kept happening. Up until the year when I’d had enough -- of murders and of everything -- and I started to break the system.
 
+-----------
+
+Author’s Notes:
+
+With apologies to Agatha Christie who devised the mystery in her short story "The Double Clue". And to the writers of "Murder, She Wrote", who cribbed it before me in an episode called "An Egg to Die For". Thumbs up to both for hiding the fatal flaw very well.
 
 {% include series_trumans_map.html %}
