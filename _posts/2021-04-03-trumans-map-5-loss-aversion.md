@@ -175,7 +175,7 @@ Aw shit.
 
 “So I’ll see you at 7?” he expected at me.
 
-“Yeah, sure, we’ll be there.” Then before he could cut me off again, “Pastor what’s that thing you said about ‘the valley of the shadow of death’?” I had never mentioned those words to anyone before.
+“Yeah, sure, we’ll be there.” Then before he could cut me off again, “What’s that thing you said about ‘the valley of the shadow of death’?” I had never mentioned those words to anyone before.
 
 His smile dropped away and he glanced at the bathroom. I thought he was gonna be sick.
 
@@ -187,7 +187,7 @@ As he rushed away, Meryl came up to me.
 
 “What? My mom was in there!”
 
-“Well I didn’t mention you, of course. Nancy said she doesn’t have a boyfriend. So I figure it’s your move. Do you want me to bring her a note?” Meryl looked excited. I was less enthusiastic.
+“Well I didn’t mention you, of course. Nancy said she doesn’t have a boyfriend. So I figure it’s your move. Do you want me to bring her a note?” Meryl looked excited.
 
 I heard my mom’s voice from across the room. She was making angry sounds at Pastor Utmost, but I couldn’t hear what she said.
 
@@ -637,13 +637,13 @@ She took a deep breath. “I don’t want to fight, Truman.”
 
 “Did those scientists have a third friend? What am I even doing here, Truman?” he asked again.
 
-I didn't know what to say.
+I didn’t know what to say.
 
 “Yeah, that’s what I thought. See ya later, Shining Star,” and he walked away again.
 
 Meryl stood up to approach me. She glanced at Marlon’s receding figure.
 
-“You’re really selfish for someone so agreeable.” She waited but I didn’t know what to say. “Have a good morning, Truman. Or I dunno what time it is… maybe a good afternoon. And have a goodnight too, why not. I’ll write to you.” And she left. She moved away to Fort Myers without another goodbye.
+“You’re really selfish for someone so agreeable.” She didn’t wait for me to reply. “Have a good morning, Truman. Or I dunno what time it is… maybe a good afternoon. And have a goodnight too, why not. I’ll write to you.” And she left. She moved away to Fort Myers without another goodbye.
 
 I saw Marlon Pastel one more time after that. I never remembered what we said or did, but that was the end. He moved away, too. I didn’t really understand his problem, but maybe not understanding was the problem.
 
