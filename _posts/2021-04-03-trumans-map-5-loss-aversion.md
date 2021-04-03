@@ -11,8 +11,12 @@ sample_content:
 draft:
 tags: truman
 truman_title: "5. Loss Aversion"
-truman_description: "11-year-old Truman seeks the meaning of his father’s last words"
+truman_description: "11-year-old Truman seeks the meaning of his father’s last words. Will his obsession ruin his friendships?"
 posts:
+    - https://archiveofourown.org/works/23705065/chapters/75046317
+    - https://www.fanfiction.net/s/13556120/5/Truman-s-Map
+    - https://www.reddit.com/r/rational/comments/mjduma/trumans_map_5_loss_aversion_easter_special/
+    - https://www.facebook.com/groups/rationalfic/permalink/1887086578108354/
 ---
 
 I hauled the three boxes over to my forklift so I could read the encyclopedia and still be ready to make my escape.
