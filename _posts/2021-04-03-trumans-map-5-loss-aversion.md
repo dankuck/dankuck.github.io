@@ -8,7 +8,7 @@ page_img_height:
 page_img_desc: ""
 no_ad: 1
 sample_content:
-draft: 1
+draft:
 tags: truman
 truman_title: "5. Loss Aversion"
 truman_description: "11-year-old Truman seeks the meaning of his father’s last words"
