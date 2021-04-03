@@ -25,7 +25,7 @@ But that only lasted a moment before I thought of something else. If I was famou
 
 Once I escaped in a dramatic fake death scene, how could I find these benefactors if they existed? I had to sit down and study the 21st century. But I also had to be ready at my forklift. And now I also realized I might have to hide in the woods for a while, and I might need supplies.
 
-Eager as I was to start reading, I did another search of the warehouse. I noticed a few things I had missed the first time: pillows, neckties, a telephone on the wall, reusable grocery bags. I grabbed two grocery bags. I filled one with a length of the same rope I had used on the doors. I put a few short PVC pipes in the other. Nothing else was worth the extra weight. Mostly I wished  there was food.
+Eager as I was to start reading, I did another search of the warehouse. I didn’t spot anything new, so I just looped some rope over my shoulder. Nothing else was worth the extra weight. Mostly I wished there was food.
 
 Disappointed, I returned to my forklift and opened the boxes to find Volume T so I could understand just what kind of show was named after me.
 
@@ -671,4 +671,4 @@ Except:
 
 1. His version has a few extra articles. These show up on the pages where they would be in our version. For example, both versions have <i>Carbon</i> on page 203 of Volume 3, but his version also has <i>Carbon Concrete</i> on page 204.
 
-2. Volumes 2 and 9 are all out of whack. For example, the article for <i>Bolt</i> is on page 449 in our version and is on page 300 in his. The reader can rest assured that this is a result of random chance and not some mistake that the author made when writing Chapter 4.
+2. Volumes 2 and 9 are all out of whack. For example, the article for <i>Bolt</i> is in Volume 2 on page 449 in our version and is on page 300 in his. The reader can rest assured that the problems with those two volumes are a result of random chance and not some mistake that the author made when writing Chapter 4.
