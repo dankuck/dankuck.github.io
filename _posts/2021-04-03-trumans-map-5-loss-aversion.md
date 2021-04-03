@@ -43,13 +43,13 @@ I turned to page 300 of Volume 2, the B’s, and searched down the page for my n
 
 “Kenneth Turan of the <i>Los Angeles Times</i> wrote that ‘[Bolt] also has an intriguing plot along the lines of: What if the Truman Show starred a dog? It’s a story that’ll touch your heart and remind you just how lucky Bolt and Truman are.’”
 
-I used my broken pen to underline the passage in case I needed to come back later. I wanted to keep reading, but I estimated that there was little value in a comparison of my life and that of a cartoon dog. If I had time I would come back to this later.
+Ha! Lucky. If I needed confirmation that the world was against me, here it was. I used my broken pen to underline the passage in case I needed to come back later. I wanted to keep reading, but I estimated that there was little value in a comparison of my life and that of a cartoon dog. If I had time I would come back to this later.
 
 The next entry was <i>Carbon Concrete</i>.
 
-Carbon concrete, commonly called Ugly Betty from its Russian name Uglerodnyy Beton, is a building material combining carbon and concrete. The method of combining these materials is only known within the Soviet Union where it was developed. The only place Ugly Betty is used outside of the USSR is in the dome structure that protects Seahaven Island, Florida, the filming location of <i>The Truman Show</i>.
+“Carbon concrete, commonly called Ugly Betty from its Russian name Uglerodnyy Beton, is a building material combining carbon and concrete. The method of combining these materials is only known within the Soviet Union where it was developed. The only place Ugly Betty exists outside of the USSR is in the dome structure that protects Seahaven Island, Florida, the filming location of <i>The Truman Show</i>.
 
-The carbon structure of Ugly Betty gives it a strength which has been compared to diamond. Its true strength has not been tested in the US or reported in any publication. Russia takes measures to ensure the other countries and corporations involved with <i>The Truman Show</i> cannot examine it: first by covering the Ugly Betty in standard concrete, and second by keeping an oversight team in place at all times. This measure is ordinary, as the town also hosts oversight teams from the other governments that dedicated secret technologies to the Florida Dome project.
+“The carbon structure of Ugly Betty gives it a strength which has been compared to diamond. Its true strength has not been tested in the US or reported in any publication. Russia takes measures to ensure the other countries and corporations involved with <i>The Truman Show</i> cannot examine it: first by covering the Ugly Betty in standard concrete, and second by keeping an oversight team in place at all times. This measure is ordinary, as the town also hosts oversight teams from the other governments that contributed secret technologies to the Florida Dome project.”
 
 Nestled next to the text was a photo of an impossibly large orange dome with a leaf painted on top and the stylized text “Seahaven Island, A Florida Dome City”.
 
@@ -83,7 +83,7 @@ I got nervous for a second and glanced at Marlon. We both knew Nancy Ikea. We ha
 
 “Is Amanda Huggenkiss there?”
 
-Marlon covered his mouth to stop from giggling and I had to do it too, because seeing him made me crack up. Soft static filled the quiet phone line as my hapless victim tried to puzzle out my game.
+Marlon covered his mouth to stop from giggling and I almost cracked up. Soft static filled the quiet phone line as my hapless victim tried to puzzle out my game.
 
 Then she said, “Yes, Truman Burbank, there’s a man to hug and kiss here. But he says he’s joining the Navy in the morning, so your mom had better hurry over right away.”
 
@@ -129,7 +129,9 @@ When I turned back, Meryl’s look was disgusted. “Why do you always have to b
 
 Marlon chimed in, “Yeah, you should have told him to get out of town. The pastor hasn’t even started talking yet.”
 
-This wasn’t the first time they had mentioned it. I thought being agreeable was nice. I would have pushed back, and it probably would have become another ironic argument. But at that moment, Mr. Delta from Germany sat down to play the organ, signaling that the pastor was about to take the stage.
+This wasn’t the first time Meryl had complained that I was agreeable. I thought it was an effective way to defuse a situation. She thought it was boring or lazy or something.
+
+I would have pushed back, and it probably would have become another ironic argument. But at that moment, Mr. Delta from Germany sat down to play the organ, signaling that the pastor was about to take the stage.
 
 Pastor Father Utmost led us all in a short ritual greeting and started in on a sermon extolling the virtues of small town life. It was just another twist on the same sermon he gave every Easter. On Christmas it was always about how the true spirit of family is in the neighbors around us. He was really good at making ordinary things sound poetic. His droning lulled me into a comfortable mindlessness. The soft swing of his words, up and down, said he was simply right. Whenever I noticed that I had already forgotten what he said a moment before, he had another word to bring me back into the mystery of his truth.
 
