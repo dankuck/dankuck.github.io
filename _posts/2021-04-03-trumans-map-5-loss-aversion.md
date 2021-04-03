@@ -23,7 +23,7 @@ When I didn’t find my name in the <i>2020 World Book Encyclopedia</i>, I had t
 
 But that only lasted a moment before I thought of something else. If I was famous, maybe someone wanted to help me, but they just couldn’t get to me.
 
-If I was still planning to escape in a dramatic fake death scene, how could I find these benefactors? I had to sit down and study the 21st century. But I also had to be ready at my forklift. And now I also realized I might have to hide in the woods for a while, and I might need supplies.
+Once I escaped in a dramatic fake death scene, how could I find these benefactors if they existed? I had to sit down and study the 21st century. But I also had to be ready at my forklift. And now I also realized I might have to hide in the woods for a while, and I might need supplies.
 
 Eager as I was to start reading, I did another search of the warehouse. I noticed a few things I had missed the first time: pillows, neckties, a telephone on the wall, reusable grocery bags. I grabbed two grocery bags. I filled one with a length of the same rope I had used on the doors. I put a few short PVC pipes in the other. Nothing else was worth the extra weight. Mostly I wished  there was food.
 
@@ -39,7 +39,7 @@ With no other leads, I picked up the Reference Index again. It listed 22 referen
 
 There were no titles, so I started at the beginning.
 
-The first reference was to Volume 2 B: <i>Bolt</i>, a 2008 Disney film I had never heard of. I skimmed the article for my name.
+I turned to page 300 of Volume 2, the B’s, and searched down the page for my name. I found it in the entry for <i>Bolt</i>, a 2008 Disney film I had never heard of.
 
 “Kenneth Turan of the <i>Los Angeles Times</i> wrote that ‘[Bolt] also has an intriguing plot along the lines of: What if the Truman Show starred a dog? It’s a story that’ll touch your heart and remind you just how lucky Bolt and Truman are.’”
 
