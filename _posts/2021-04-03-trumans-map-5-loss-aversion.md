@@ -171,7 +171,7 @@ Marlon started to say something to me, but I spotted the pastor going up to the 
 
 Aw shit.
 
-“Um, pastor--” But he interrupted me again.
+“Um, pastor--”
 
 “So I’ll see you at 7?” he expected at me.
 
@@ -185,7 +185,7 @@ As he rushed away, Meryl came up to me.
 
 “Truman, I just saw Nancy in the bathroom, and I asked her if she has a boyfriend.”
 
-“What? My mom was in there!” Girlfriend stuff was like a magnet for any normal mom. Though my mom in particular wasn’t the type to get involved, it was still too risky.
+“What? My mom was in there!”
 
 “Well I didn’t mention you, of course. Nancy said she doesn’t have a boyfriend. So I figure it’s your move. Do you want me to bring her a note?” Meryl looked excited. I was less enthusiastic.
 
@@ -213,7 +213,7 @@ I sat down at our table. Someone had left a church flier among the dirty plates.
 
 “What, like ‘Do you want to go to a movie?’” I asked.
 
-“No, more like ‘Do you like movies?’” said Meryl. I didn’t think that sounded very mysterious either.
+“No, more like ‘Do you like movies?’” said Meryl. I didn’t think that sounded very mysterious.
 
 “No, that sounds like a scary movie I saw one time,” Marlon said, leaning over me.
 
@@ -327,11 +327,11 @@ When I turned around Meryl and Marlon were shaking their heads.
 
 “Truman, are you...,” my mom started to say. She stopped.
 
-After a full day of egg hunts and gorging on chocolate Mom was driving me to the church in her new 2010 Lincoln MKZ. I wasn’t supposed to wear fancy clothes to the church tween youth group, so there was no bowtie this time. But I had changed into my nicest blue jeans and a chic checkered button up shirt.
+After a full day of egg hunts and gorging on chocolate Mom was driving me to the church in her new 2010 Lincoln MKZ. I was wearing my nicest blue jeans and a chic checkered button up shirt.
 
 I had been reading a used book called <i>One Foote In The Past: The History of Modern Science</i> by Peter J. Bowler. I was in the part everyone learns in school, where Eunice Foote discovers the greenhouse effect, when my mom started trying to say something.
 
-“Truman, Pastor Utmost…” I had never seen Mom having this much trouble talking before. What could be going on?
+“Truman, Pastor Utmost…” I had never seen Mom having trouble talking before. What could be going on?
 
 “Truman,” she took a deep breath and let out a sigh. “I heard that you might be thinking about your… your father.”
 
@@ -385,7 +385,7 @@ My dad swore me to three secret things before he died. And I hadn’t told anyon
 
 Dad told me all that stuff just in time, because a few weeks later he died when he fell off our sailboat in bad weather. Now I was carrying on The Secret for him.
 
-Right before he fell, he shouted at the sky. I didn’t catch it all, but it went “Though I walk below the firmament in the valley of the shadow of death, I shall not,” something. He made it like a challenge. A challenge against God or whatever powers exist. And just then the Powers responded with lightning and fury. I kind of thought his mysterious words were a clue. A part of The Secret.
+Right before he fell, he shouted at the sky. I didn’t catch it all, but it went “Though I walk below the firmament in the valley of the shadow of death, I shall not,” something. He said it like a challenge. A challenge against God or whatever powers exist. And just then the Powers responded with lightning and fury. I kind of thought his mysterious words were a clue. A part of The Secret.
 
 But they were just crazy words. Maybe the whole Secret was just crazy.
 
@@ -455,7 +455,7 @@ Meryl glanced around and then leaned in and cupped my ear so absolutely no one c
 
 Then the pastor said, “Amen” and all the kids with their eyes still closed said it too.
 
-“Well, kids let’s have some fun. We’ve got enough of us here to play a poppin’ game of Hide and Go Seek. Who wants to be ‘It’?” called out Pastor Utmost.
+“Well kids, let’s have some fun. We’ve got enough of us here to play a poppin’ game of Hide and Go Seek. Who wants to be ‘It’?” called out Pastor Utmost.
 
 David Monopoly volunteered and while he counted the rest of us ran to hide under tables and behind crosses draped with sashes. Nancy grabbed my hand, which almost brought me out of my bad mood, and we ran for the far end of the room. As we did we passed an open doorway into a little room full of books.
 
@@ -497,7 +497,7 @@ Then, “Wait, how do you know that I like to explain things?” We hadn’t eve
 
 The Bible chapters were not in any sensible order, but I found it.
 
-Psalm 23:4, Yea, though I walk through the valley of the shadow of death, I will fear no evil.
+<i>Psalm 23:4 : Yea, though I walk through the valley of the shadow of death, I will fear no evil.</i>
 
 “Gotcha!” I dropped the Bible as David Monopoly nearly put out my ear drums.
 
@@ -575,7 +575,7 @@ Meryl stopped walking. She let out a huff. I looked back and saw her face burnin
 
 “What?” I looked at Marlon.
 
-He flashed a guilty look and then looked away at the ground.
+He flashed a guilty face at me and then looked away at the ground.
 
 “You two talk about me behind my back?”
 
@@ -583,7 +583,7 @@ Somehow that made them both laugh.
 
 “It’s not funny! Answer me, Marlon,” I demanded.
 
-He looked me in the eyes for a moment then said, “I’m still just your sidekick, Truman. It’s always gonna be about you,” He shrugged. “I do what you do.”
+He looked me in the eyes for a moment then said, “I’m still just your sidekick, Truman. It’s always gonna be about you.” He shrugged. “I do what you do.”
 
 I looked back and forth between them for a moment.
 
@@ -617,7 +617,7 @@ She took a deep breath. “I don’t want to fight, Truman.”
 
 “Yeah, I found out… pretty recently. We’re moving down to Fort Myers. 4150 Fiji Lane. It’s up high enough to be out of a flood zone, at least for a few years,” she said. I didn’t realize South Florida had flooding problems. Seahaven Island was up on the panhandle and had never even been threatened with a hurricane strike.
 
-“But you can’t leave. Why would your parents do this?” I asked.
+“This is awful. Why would your parents do this?” I asked.
 
 “Truman, I want to go. I didn’t sign up for this agreeable life you have where other people make your decisions. I might as well leave now,” she said.
 
@@ -637,19 +637,19 @@ She took a deep breath. “I don’t want to fight, Truman.”
 
 “Did those scientists have a third friend? What am I even doing here, Truman?” he asked again.
 
-I thought about it. I didn’t know where he fit in.
+I didn't know what to say.
 
 “Yeah, that’s what I thought. See ya later, Shining Star,” and he walked away again.
 
 Meryl stood up to approach me. She glanced at Marlon’s receding figure.
 
-“You’re really selfish for someone who is so agreeable.” She waited but I didn’t know what to say. “Have a good morning, Truman. Or I dunno what time it is… maybe a good afternoon. And have a goodnight too, why not. I’ll write to you.” And she left. She moved away to Fort Myers without another goodbye.
+“You’re really selfish for someone so agreeable.” She waited but I didn’t know what to say. “Have a good morning, Truman. Or I dunno what time it is… maybe a good afternoon. And have a goodnight too, why not. I’ll write to you.” And she left. She moved away to Fort Myers without another goodbye.
 
 I saw Marlon Pastel one more time after that. I never remembered what we said or did, but that was the end. He moved away, too. I didn’t really understand his problem, but maybe not understanding was the problem.
 
 Neither of them ever wrote to me. I never wrote to them. But I often wished for their friendship and their help.
 
-My dad’s memory felt more distant. No one told me bedtime stories anymore. But I read them to myself. I did everything for myself. I didn’t need anybody.
+My dad’s memory felt more distant. No one had read me bedtime stories in almost a year. But I read them to myself. I did everything for myself. I didn’t need anybody.
 
 I did keep reading <i>The Sequences</i>. I even looked up “firmament” in two dictionaries.
 
@@ -665,7 +665,9 @@ In the end, I never went on a second date with Nancy Ikea, but we liked to trade
 
 Author’s Note:
 
-It should be obvious by now that Truman’s world is somewhat different from ours, not only because it has a twelve square mile orange dome in Florida. Despite the differences, Truman’s version of the <i>2020 World Book Encyclopedia</i> is arranged identically to our own with just two exceptions of note:
+It should be obvious by now that Truman’s world is somewhat different from ours, not only because it has a twelve square mile orange dome in Florida. Despite the differences, Truman’s version of the <i>2020 World Book Encyclopedia</i> is arranged identically to our own.
+
+Except:
 
 1. His version has a few extra articles. These show up on the pages where they would be in our version. For example, both versions have <i>Carbon</i> on page 203 of Volume 3, but his version also has <i>Carbon Concrete</i> on page 204.
 
