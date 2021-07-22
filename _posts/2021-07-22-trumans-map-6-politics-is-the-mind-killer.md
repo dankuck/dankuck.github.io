@@ -90,7 +90,7 @@ The truth I realized later was that They wanted me to drop the whole thing. My m
 
 I wasn’t going to though. Linda had told me I had power. I could get what I wanted. And she was right. I had stolen a car and been let off the hook. I was special somehow.
 
-So when I began to stake out the mayor I walked all the way around the building. It was a beautiful building in a post-modernist style, clearly a precedent for the rest of downtown, though only the post office really matched it
+So when I began to stake out the mayor I walked all the way around the building. It was a beautiful building in a post-modernist style, clearly a precedent for the rest of downtown, though only the post office really matched it.
 
 City Hall took up a small block, and still it had no emergency exit. All foot traffic had to go through the big glass doors at the front. I imagined this must break some kind of zoning law. I didn’t let it trouble me since it meant that I could watch just the one exit.
 
@@ -566,7 +566,7 @@ The subject of women was touchy to me. I was attracted to women. I had been on d
 
 My mother took my silent introspection as agreement.
 
-“I will find you a nice girl. You can spend your time on that. And on finishing your last year of college. And then working your way up from sous-chef in a good restaurant to head chef at your own restaurant. That’s your dream,” she said. Now she smiled, sat down at the table, and placed her hand over my own.
+“I will find you a nice girl. You can spend your time on that. And on starting your last year of college. And then working your way up from sous-chef in a good restaurant to head chef at your own restaurant. That’s your dream,” she said. Now she smiled, sat down at the table, and placed her hand over my own.
 
 I frowned and said, “This is what I’m doing, Mom.”
 
