@@ -480,27 +480,27 @@ And when I turned to Whitley, hers was too.
 
 The die kept rolling. 
 
-\6. Henry and Megan Petscom. NO.
+Henry and Megan Petscom. 6. NO.
 
-\2. Sheila Napster. I WISH I COULD.
+Sheila Napster. 2. I WISH I COULD.
 
-\6. Evan Cortez. NO.
+Evan Cortez. 6. NO.
 
-\5. The Dyson Family. NO.
+The Dyson Family. 5. NO.
 
-\1. Michelle and Paul Imax. NO.
+Michelle and Paul Imax. 1. NO.
 
-\3. Karen Motorola. I WISH I COULD.
+Karen Motorola. 3. I WISH I COULD.
 
-\4. Horace Java. NO.
+Horace Java. 4. NO.
 
-\6. Chad and Mary Shipworks. NO.
+Chad and Mary Shipworks. 6. NO.
 
-\4. Cole Thompson. NO.
+Cole Thompson. 4. NO.
 
-\1. Shauna Digimind. NO.
+Shauna Digimind. 1. NO.
 
-\4. Wesley and Valentine Morgenstern. NO.
+Wesley and Valentine Morgenstern. 4. NO.
 
 We went back to our base of operations, my mother’s house, and went over the numbers.
 
