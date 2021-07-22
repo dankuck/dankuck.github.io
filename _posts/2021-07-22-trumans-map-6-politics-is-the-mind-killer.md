@@ -126,7 +126,7 @@ I walked out and crossed the street to the sidewalk in front of City Hall. The w
 
 I made a full circuit of the building and when I came to the front again I saw Whitley stepping out of the drugstore with her purse in hand. A cold wind started to blow in from the direction of the Gulf.
 
-“They say you can’t fight City Hall, Truman,” she called to me with a conciliatory smile. “Good night.” And she started to walk away.
+“They say you can’t fight City Hall, Truman,” she called to me with a conciliatory smile. “Goodnight.” And she started to walk away.
 
 “Hey Whitley, wait,” I called after her.
 
@@ -588,11 +588,11 @@ The day was hot again. And muggy this time. The kind of unpleasantness you rarel
 
 “Mr. Glass,” I shook his hand and then Whitley did too. He was a big deal in town.
 
-He led us through his open floor plan, past a full sized grand piano to his Florida room. A Florida room is like a living room, but the furniture is cheaper and the walls are all windows. This furniture was probably not cheaper than the living room furniture, but it was made to mimic a cheaper style while retaining its class. And the windows all looked out onto the beach.
+He led us through his open floor plan, past a full sized grand piano to his Florida room. A Florida room is like a living room, but the furniture is cheaper and the walls are all windows. The furniture in this room was probably not cheaper than the living room furniture, but it was made to mimic a cheaper style while retaining its class. And the windows all looked out onto the beach.
 
 Glass had an attendant bring us both juice.
 
-“I’ve heard what you’re up to. Go ahead, Truman. Give me your speech.” Philip Glass moved to Florida from Maryland, and he was the only person I knew with that accent.
+“I’ve heard what you’re up to. Go ahead, Truman. Give me your speech.” Philip Glass had moved to Florida from Maryland, and he was the only person I knew with that accent.
 
 “Well, Mr. Glass, thank you for inviting us in without any notice. You’ve heard right. I’m running for mayor. I’m the right man for the job. We’re the good guys. I’ve been out for a few days spreading the message that ‘Truman is Seahaven Island’. But I’m not here to convince you. What I need is to know what you’ve seen.”
 
@@ -600,7 +600,7 @@ Glass sat through my introduction with his chin resting on his steepled finger t
 
 He finally responded, “I see what you’re doing… What comes next?”
 
-I froze. I could start talking and trip over my words, but the model I had in mind stopped me. While I thought, a smile crept over my face as if I knew exactly what Glass was thinking. I did not.
+I froze. I could start talking and trip over my words, but instead I leaned on my mental model and took my time. While I thought, a smile crept over my face as if I knew exactly what Glass was thinking. I did not.
 
 Always Be Closing. I decided to skip the Question. He was acting savvy. He knew something was up. The Question wouldn’t close him.
 
@@ -618,13 +618,13 @@ A check! I knew fundraising would need to start soon.
 
 Whitley quickly said, “We just ran out of pamphlets but I’ll make sure you get one tomorrow. And our weekly newsletter.”
 
-I looked at the ocean for almost half a second and revelled in the success.
+I said, “Thank you, Mr. Glass,” and I looked at the ocean for half a second and revelled in the success.
 
-Then we excused ourselves and left through the front the door. “Thank you Mr. Glass. Good afternoon, good evening, and good night.”
+Then we excused ourselves and left through the front the door. “Thanks again, Mr. Glass. Good afternoon, good evening, and goodnight.”
 
 Whitley did an actual jump when we got outside.
 
-We went down the line to the rest of the houses, each time adding “Philip Glass is very interested”. The next day we were able to report 32% positive reactions to Mr. Glass.
+We went down the line to the rest of the houses, each time adding “Philip Glass is very interested”. The next day we were able to report 32% positive reactions to Glass.
 
 He sent the check.
 
@@ -636,13 +636,13 @@ The day was almost pleasant when I went to put them up on poles and walls downto
 
 “Hello, Truman,” she smiled at me over her big round sunglasses.
 
-“Hi, Mom, I thought you were at work,” I returned the smile. Mom worked off-island. She’d been commuting every weekday since I could remember. In the mornings when I was little I watched her drive away in the direction of the bridge before Dad and I would head to the playground, the beach, the sailboat. And although she was the CEO, she didn’t bring work home with her. No sudden phone calls interrupting dinner or reams of papers to sign off on. She would say, “When I’m at home, my family is my only job.”
+“Hi, Mom, I thought you were at work,” I returned the smile. Mom worked off-island. She’d been commuting every weekday since I could remember. In the mornings when I was little I watched her drive away toward the bridge before Dad and I would head to the playground, the beach, the sailboat. And although she was the CEO, she didn’t bring work home with her. No sudden phone calls interrupting dinner or reams of papers to sign off on. She would say, “When I’m at home, my family is my only job.”
 
 Lately, I had been doubting her dedication to that enterprise.
 
 “I was meeting with another CEO in town. She just left. Have a seat, Truman. You can take a little break,” she insisted.
 
-“Why, so you can try to talk me out of it again?” She hadn’t really said much to me since that first day of canvassing. I sat, anyway.
+“Why, so you can try to talk me out of it again?” She hadn’t really said much to me since that first day of canvassing. I sat anyway.
 
 She removed her sunglasses and looked at me coolly.
 
@@ -656,7 +656,7 @@ She removed her sunglasses and looked at me coolly.
 
 She took a moment. The waiter brought my lemonade. Neither of us drank a sip.
 
-After a time she said, “Is that what people have been telling you?” She spoke like she knew they hadn’t. And they hadn’t. It was my reason, but no one had responded to the big Question with anything about Linda Groupon.
+After a time she said, “Is that what people have been telling you?” She spoke like she knew they hadn’t. It was my reason, but no one had responded to the big Question with anything about Linda Groupon.
 
 “No. When I can get them to talk to me, they want to paint their houses whatever color they like without laws getting in the way,” I huffed. That one was common, but so petty. “They talk about which foods from back home aren’t the same in Florida. They talk about getting their families to visit. Did you know there’s a law about that?”
 
@@ -668,7 +668,7 @@ She nodded, not losing an ounce of condescension. But it suited her. It always h
 
 “So is that what you’re going to do?” She combined condescension and innocence into a new kind of smile.
 
-“I’m going to give them what they’re asking for, yes. I’ll let them paint their houses. I’ll open the gates wider for visitors. I don’t know what I can do about the food, but I’ll figure that out. And whatever else they need. I’ll listen. I’ll… I’ll be the honest and safe mayor for an honest and safe town.” By then I was sitting up straight and looking into the distance as if at the future.
+“I’m going to give them what they’re asking for, yes. I’ll let them paint their houses. I’ll open the gates wider for visitors. I don’t know what I can do about the food, but I’ll figure that out. And whatever else they need. I’ll listen. I’ll… I’ll be the honest and safe mayor for an honest and safe town.” By then I was sitting up straight and looking into the distance as if at the future, taking myself quite seriously.
 
 “And walkable?” she asked.
 
@@ -684,9 +684,9 @@ She smiled again. Her new smile showed pride at the corners.
 
 “I think…” Mom paused dramatically. “I think you are exactly what the people want.”
 
-“You do?” I’d done it.
+“You do?” I’d done it. I had won over my mother.
 
-“Yes. Truman, I’m sorry I tried to stop you. I think you can do this. And all the other things we talked about. And a dozen other things in your life,” she said.
+“Yes. Truman, I shouldn’t have tried to stop you. I think you can do this. And all the other things we talked about. And a dozen other things in your life,” she said.
 
 “Really?” I finally relaxed in my chair. For the moment I forgot about the therapists she never took me to. She was proud of me.
 
@@ -704,9 +704,9 @@ She laughed. “Of course!” And I laughed, and we both sipped our lemonades.
 
 After that, canvassing became much easier. In a few days we jumped from 35% WISH I COULDs to 49% YESes.
 
-I met everyone in town.
+I met everyone in town. The weather improved.
 
-I worked my way up to being able to look at the ocean for almost 15 seconds at a time. Then I rushed from house to house on Gulf Boulevard, keeping my eyes on the doors as much as possible. The people at each home invited me inside and that became easy too.
+Before long I was able to keep my composure when seeing the ocean for several seconds at a time. Then I rushed from house to house on Gulf Boulevard, keeping my eyes on the front doors as much as possible. The people at each home invited me inside and that became easy too.
 
 I met the German community, the Russian community, the retirement community, the service workers community, the arts community, three religious communities, the rescue workers community, the gay community, the black community. Some of them only had a handful of members, but I met them and we celebrated their unity. 
 
@@ -714,7 +714,7 @@ Whitley and I enlisted more volunteers to assist us.
 
 I didn’t mind-kill anyone, not really. Not on purpose. I stopped insisting that we were the good guys. We were just good guys. If minds were killed, that’s just politics and unavoidable.
 
-Sure I had to debate both of the other candidates. There was talk that they’d team up against me and just might squeeze out a victory. With that hanging over me, the last few weeks were the most nervous, as I slid back and forth across 50%. In the end they couldn’t come to an agreement. And anyway I was Seahaven Island, honest and safe. The two slogans we picked were “Truman is Seahaven Island” and “An honest and safe mayor for an honest and safe town”.
+Sure I had to debate both of the other candidates. There was talk that they’d form a coalition against me and just might squeeze out a victory. So the last few weeks were the most tense, as I slid back and forth across 50%. In the end they couldn’t come to an agreement. And anyway I was Seahaven Island, honest and safe. The two slogans we picked were “Truman is Seahaven Island” and “An honest and safe mayor for an honest and safe town”.
 
 And at some point my perspective shifted from running for mayor to planning for mayorship. And I began to think about how Mayors Cabot and Snyder ran things.
 
@@ -724,7 +724,7 @@ By election day, he and I were friendly rivals. I could have asked him, but I do
 
 So I visited him in his office that morning, by appointment, so we could shake hands and say, “May the best candidate win.” Then I went back to Truman HQ to wait for the results.
 
-After I won, and all the festivities died down early in the morning, and I wished everyone “good afternoon, good evening, and goodnight”, and my driver took me home, and I snuck out of my bedroom window, I went back to City Hall. The door opened freely because of the electrical tape I had sneaked into place over the strike plate.
+After I won, and I wished the town “good afternoon, good evening, and goodnight” by television and radio, and all the festivities died down early in the morning, and my driver took me home, and I climbed out of my bedroom window, I went back to City Hall. The door opened freely because of the electrical tape I had sneaked into place over the strike plate.
 
 All the lights were off and I hadn’t brought a flashlight because I didn’t want to get caught. I intended to be an honest and safe mayor. I had chosen that night because I figured no one would hassle me too much for breaking into an office that was almost mine.
 
@@ -734,7 +734,7 @@ For a minute all I could hear was my own heart, pounding out of my chest. Someon
 
 No one was there. By the light of the exit sign above the door, I could see it was just a copy machine room, almost a closet, with no exit but the door I was standing in.
 
-A single page had fallen to the floor, and for a moment I thought the machine had somehow come to life, shined its light from right to left as it copied a page, and fell dormant again. But the page wasn’t warm and neither was the machine.
+A single page had fallen to the floor, and for a moment I thought the machine had somehow come to life, shined its light from right to left as it copied a page, and fallen dormant again. But the page wasn’t warm and neither was the machine.
 
 I couldn’t read it in the dim light, so I just shoved it in my pocket.
 
@@ -744,7 +744,7 @@ I quickly covered it with my palm. My eyes went wide. Had someone seen me?
 
 I looked at the stuff all over the floor and grabbed a tool bag. When I held it up in the streetlamp light it read “Property of Seahaven Island Audio/Visual”.
 
-Why did we suddenly need security cameras now?
+None of that had been there in the morning. Why did we suddenly need security cameras now?
 
 I stood in the dark for a moment, trying to figure out what to do. I wanted to know how Snyder escaped the building. But I had another mystery on my hands.
 
@@ -752,7 +752,7 @@ There was a chance the camera wasn’t on yet. It had only just been installed.
 
 If it was on, I was already caught. But in case they hadn’t seen my face, I pulled another tool bag over and stacked them both. They weren’t quite tall enough, so I added a power drill I found nearby. I noticed that it was warm but I failed to update on that fact. Piled together they covered the camera lens.
 
-In the short time I still had, I quickly opened all of the mayor’s desk drawers, looking for anything suspicious. They were empty, except for a bottle of brandy, which was scandalous but not explanatory.
+In the short time I still had, I opened all of the mayor’s desk drawers, looking for anything suspicious. They were empty, except for a bottle of brandy, which was scandalous but not explanatory.
 
 A flashlight beam hit the ceiling from outside. Shit, they saw me on the camera. 
 
@@ -762,11 +762,11 @@ I closed all the desk drawers quietly, then dashed back to the copy room. I hid 
 
 Lowes waved his flashlight through them noncommittally, then moved on without even testing the door where I had left the tape. When he disappeared behind the corner store, I came out of hiding, crept out the door, and took the piece of electrical tape with me.
 
-Fifteen minutes later I climbed back into my room, feeling more like a teenager than a mayor, and sat down at my writing desk with <i>The Sequences</i>. I was confused. I recognized that I was confused. When the book offered no help, I stood up and began to change into pajamas.
+Fifteen minutes later I climbed back into my room, feeling more like a teenager than a mayor, and sat down at my writing desk with <i>The Sequences</i>. I was confused. I recognized that I was confused. When the book offered no help, I stood up and began to change into pajamas, lost in thought.
 
 That’s when the page from the copy room fell out of my pocket. I picked it up again.
 
-What I didn’t know was that besides City Hall, They also had cameras in my bedroom. But somehow They didn’t care what was on that sheet of paper. Perhaps They’d forgotten where I had gotten it. Paper is paper and many people think it’s dull. Maybe They thought They had stopped me when They had sent a police officer to poke around and scare me away.
+What I didn’t know was that besides City Hall, They also had cameras in my bedroom. But somehow They didn’t care what was on that sheet of paper. Perhaps They’d forgotten where I had gotten it. Paper is paper and many people think it’s dull. They probably thought They had done enough by sending a police officer to poke around and scare me away.
 
 I didn’t know any of that yet. I was just lucky, because if They had known what was going on someone would have leaped in to distract me at that moment.
 
@@ -776,7 +776,7 @@ The black lines showed a system of tunnels that ran under the city. The tunnels 
 
 I thought of the exit sign over the copy room door. City Hall didn’t need an emergency exit on the outside. It had an escape tunnel in the copy room.
 
-But I hadn’t seen any door or tunnel when I looked into the copy room. I only saw the copy machine.
+But I hadn’t seen any door or tunnel when I looked into the copy room. Only the copy machine.
 
 The copy machine. The same kind of copy machine that was in the library. The one that looked a lot like an ordinary home clothes dryer. And a lot like an electrical whatever in the middle of the forest.
 
