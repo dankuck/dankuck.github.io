@@ -17,9 +17,9 @@ posts:
 
 I was sure that the missing article from Volume U-V was <i>USSR</i>. It only made sense now that I knew the USSR had built the dome over Seahaven Island.
 
-And I thought I knew how to check. My thoughts progressed like this:
+And I thought I knew how to check:
 
-The USSR posts agents to monitor the use of their dome… There is a small community of Russians in Seahaven… There is a small community of Germans in Seahaven… Does Germany also post agents to monitor something?
+The USSR posted agents to monitor the use of their dome… There was a small community of Russians in Seahaven… There was a small community of Germans in Seahaven… Did Germany also post agents to monitor something?
 
 I needed to know what I was dealing with.
 
@@ -38,8 +38,6 @@ And he won an award for writing music to accompany my life.
 <i>Graves, Michael.</i>
 
 “Michael Graves is a world-renowned architect whose portfolio includes the Ministry of Culture building in The Hague, several designs for The Walt Disney Company, and two New Urbanist buildings in Seahaven Island, Florida, the site of <i>The Truman Show</i>.”
-
-I felt a twinge of irritation at people finding fame by riding my coattails. Whereas an hour before, I had been standing at a mysterious door, completely oblivious to my coattails. My face flushed with embarrassment over my inflated self-worth.
 
 The article on <i>Germany</i> did not list me, my fame, or Seahaven Island. So that test failed.
 
@@ -78,7 +76,7 @@ I decided the encyclopedia was still valuable. I would just need all the article
 <i>The Walt Disney Company</i><br />
 <i>Zoo Hypothesis</i><br />
 
-Several titles caught my eye. But <i>Zoo Hypothesis</i> was the funniest and most horrific, and it summed up what I’d been feeling since the night I had won the election.
+Several titles caught my eye. But <i>Zoo Hypothesis</i> was the funniest and most horrific, and it summed up my state of mind since the night I had won the election.
 
 ***
 
@@ -92,7 +90,7 @@ The truth I realized later was that They wanted me to drop the whole thing. My m
 
 I wasn’t going to though. Linda had told me I had power. I could get what I wanted. And she was right. I had stolen a car and been let off the hook. I was special somehow.
 
-So when I began to stake out the mayor I walked all the way around the building. It was a beautiful building in a post-modernist style, clearly a precedent for the rest of downtown, though no other buildings measured up to it except the post office.
+So when I began to stake out the mayor I walked all the way around the building. It was a beautiful building in a post-modernist style, clearly a precedent for the rest of downtown, though only the post office really matched it
 
 City Hall took up a small block, and still it had no emergency exit. All foot traffic had to go through the big glass doors at the front. I imagined this must break some kind of zoning law. I didn’t let it trouble me since it meant that I could watch just the one exit.
 
@@ -136,7 +134,7 @@ She turned back to me.
 
 How do you flush out a mayor who doesn’t want to be found?
 
-“Can you help me? I need you to call the mayor for me,” I said when I got close.
+“Can you help me? I need you to call the mayor,” I said when I got close.
 
 “You can call him yourself, you know,” she said. “His number is on most of his billboards.” 
 
@@ -242,7 +240,7 @@ I didn’t come up with the tactic all alone. Before she was fired, Linda said I
 
 I didn’t want to. Did I? Maybe I needed to.
 
-“What now, Truman?” asked Whitley. She should have been tired from working all day, but the thrill of our fight for justice wouldn’t let her rest. And she didn’t mind the set back. She was just right.
+“What are you gonna do now, Truman?” asked Whitley expectantly. She should have been tired from working all day, but the thrill of our fight for justice wouldn’t let her rest. And she didn’t mind the set back. She was just right for what I needed.
 
 “I promised myself I’d do whatever it takes. I guess we make good on our threat,” I said.
 
@@ -286,8 +284,6 @@ I put down a donut I hadn’t bitten into yet and looked out the window at the s
 
 Whitley was writing it down on a legal pad. “Yes. When we go out canvassing later, you’ve got to say it to every person we meet. They’ll love it. Oh my god, this is exciting.”
 
-Whitley was clearly the right person for the job.
-
 “Alright, another one,” I said, “ ‘You can Trust Truman’.”
 
 Whitley wrote it on the pad. After a couple minutes we added:
@@ -316,13 +312,13 @@ It was unusually hot in Seahaven Island that day. 77°F in the shade, no breeze.
 
 I intended to talk to everyone on the island, man, woman, and child. Given five months, if I walked door to door every day for just four hours, I would need to talk to 5.9 people per hour. It wasn’t a lot of time. And I wanted to visit everyone at least twice.
 
-In the interest of science, we didn’t want to start with my immediate neighbors, who I thought would be too easy. We started two blocks away from my house.
+We started two blocks away from my house.
 
 “Good morning, Mrs. Hobbylobby.” 
 
 Jeanette Hobbylobby was about 45, mother of three, and standing at her door ready to become my first convert after Whitley.
 
-“Well, Truman, what a surprise,” she glanced over my shoulder nervously, but I didn’t see what at. Whitley was behind me on the other side. She was dressed in a professional skirt and top with flats. She held a clipboard to note house numbers, votes, and the data for our slogans. I was in a light-fabric suit, perfect for July.
+“Well, Truman, what a surprise,” she glanced over my shoulder nervously, but I didn’t see what at. Whitley was behind me on the other side. She was dressed in a professional skirt and top with flats. She held a clipboard to note house numbers, votes, and the data for our slogans. I was in a light-fabric suit, perfect for June.
 
 “Ma’am, I wanted to let you know that I’m running for mayor, and I wanted to see if I can count on your vote. Tru-man is an Island.” I gave the slogan that we had pre-selected, chosen by fair die roll.
 
@@ -484,33 +480,33 @@ And when I turned to Whitley, hers was too.
 
 The die kept rolling. 
 
-6. Henry and Megan Petscom. NO.
+\6. Henry and Megan Petscom. NO.
 
-2. Sheila Napster. I WISH I COULD.
+\2. Sheila Napster. I WISH I COULD.
 
-6. Evan Cortez. NO.
+\6. Evan Cortez. NO.
 
-5. The Dyson Family. NO.
+\5. The Dyson Family. NO.
 
-1. Michelle and Paul Imax. NO.
+\1. Michelle and Paul Imax. NO.
 
-3. Karen Motorola. I WISH I COULD.
+\3. Karen Motorola. I WISH I COULD.
 
-4. Horace Java. NO.
+\4. Horace Java. NO.
 
-6. Chad and Mary Shipworks. NO.
+\6. Chad and Mary Shipworks. NO.
 
-4. Cole Thompson. NO.
+\4. Cole Thompson. NO.
 
-1. Shauna Digimind. NO.
+\1. Shauna Digimind. NO.
 
-4. Wesley and Valentine Morgenstern. NO.
+\4. Wesley and Valentine Morgenstern. NO.
 
 We went back to our base of operations, my mother’s house, and went over the numbers.
 
-Out of 14 houses, I hadn’t gotten a single YES. But I got three I WISH I COULDs. For now, we were calling those wins. It wasn’t enough to pin down a slogan though. We just needed to keep at it.
+Out of 14 houses, I hadn’t gotten a single YES. But I got three I WISH I COULDs. For now, we were calling those wins. It wasn’t enough to pin down a slogan though. We just needed to keep at it. It was going to require more than four hours per day.
 
-Whitley said she wanted to leave to take care of filing the paperwork and pulling stats on past elections right away. But before she left though, my mother came in. Her arms folded, she simply said, “You’ll never win this town unless you can get the support of folks out on the beach.”
+Whitley said she wanted to leave to take care of filing the paperwork and pulling stats on past elections right away. But before she left, my mother came in. Her arms folded, she simply said, “You’ll never win this town unless you can get the support of folks out on the beach.”
 
 She spoke with such authority. There was no reason to doubt it either. The beach folks were rich and influential.
 
@@ -520,7 +516,7 @@ Whitley made an audible gulp. “Truman, I can canvas on the beach instead of yo
 
 I looked at her for a moment. Then at my mother.
 
-“No… you can’t, Whitley. I have to go. They’ll want to meet me,” I said hoarsely.
+“No… you can’t, Whitley. I have to go,” I said hoarsely. “They’ll want to meet me.”
 
 “Well, maybe I can go to them and invite them here,” she suggested.
 
@@ -530,7 +526,7 @@ How did she know?
 
 “Do… do you know that I’m afraid of…” I had never told anyone. I couldn’t even say it. It was easier just to never ever say it out loud.
 
-Whitley’s face went slack. So I looked over at my mother. She had an expectant look on her face. She was leaning against the hutch in her loose fitting polyester jumpsuit, available from Macy’s.
+Whitley’s face went slack. So I looked over at my mother. She had an expectant look on her face. She was leaning against the hutch in a loose fitting polyester jumpsuit, available from Macy’s.
 
 “Who else knows?” I demanded.
 
@@ -550,11 +546,11 @@ She regarded me for another moment, like a tiger watching its prey.
 
 I hesitated then said, “This is what I’m doing, Mom.”
 
-“You shouldn’t be out there getting involved in government. You have a career path. You’re going to start an exciting career in the culinary arts. You’ve been in school for four years. People adore the culinary arts. There’s a whole channel about it on TV.” She remained leaning against the hutch.
+“You shouldn’t be out there getting involved in government. You have a career path. You’re going to start an exciting career in the culinary arts. You’ve been in school for three years. People adore the culinary arts. There’s a whole channel about it on TV.” She remained leaning against the hutch.
 
 “We don’t get that channel. And it doesn’t matter. I can be a chef and the mayor. The Chef Mayor. It’s a gimmick,” I said this in a flat voice, the closest thing I could get to firm and calm. My mother was not moving, but I felt like she was circling me. “And that doesn’t matter either. This is what I’m doing.”
 
-My mother tried something different. She looked away. “It’s boring, Truman.” She fiddled with a chachki on the hutch, a sailboat. “If you really insist on stepping out into the adult world…” This pause was for dramatic effect. “If that’s what you want, then you should be looking for a wife.”
+My mother tried something different. She looked away. “It’s boring, Truman.” She fiddled with a chachki she picked up from the hutch, a sailboat. “If you really insist on jumping into the adult world…” This pause was for dramatic effect. “If that’s what you want, then you should be looking for a wife.”
 
 That did take me by surprise.
 
@@ -570,11 +566,11 @@ The subject of women was touchy to me. I was attracted to women. I had been on d
 
 My mother took my silent introspection as agreement.
 
-“I will find you a nice girl. You can spend your time on that. And on making up your last semester of college. And then working your way up from sous-chef in a good restaurant to head chef at your own restaurant. That’s your dream,” she said. Now she smiled, sat down at the table, and placed her hand over my own.
+“I will find you a nice girl. You can spend your time on that. And on finishing your last year of college. And then working your way up from sous-chef in a good restaurant to head chef at your own restaurant. That’s your dream,” she said. Now she smiled, sat down at the table, and placed her hand over my own.
 
 I frowned and said, “This is what I’m doing, Mom.”
 
-Her smile gave way again to the piercing eyes and a frown. Then she stood up and left, forgetting the sailboat chachki in front of me on the dining room table.
+Her smile gave way again to the piercing eyes and a frown. Then she stood up and left, leaving the sailboat chachki in front of me on the dining room table.
 
 ***
 
@@ -794,13 +790,13 @@ And there was one in my house.
 
 My first thought, after I stood up and locked my bedroom door, was that I needed to tell people. About the extensive tunnel system lurking under their homes. And the team of workers who must have left through the tunnels when I arrived at City Hall, dropping their map, spilling light from the open hatch under the copy room door.
 
-My second thought was that everyone already knew. There was an exit sign leading to the copy room for Christ’s sake. They knew exactly how to use it. They just thought I’d never notice. They probably thought I’d never have to go into City Hall. And if I did, they’d make up an excuse.
+My second thought, as I tucked the map into <i>The Sequences</i>, was that everyone already knew. There was an exit sign leading to the copy room for Christ’s sake. They knew exactly how to use it. They just thought I’d never notice. They probably thought I’d never have to go into City Hall. And if I did, they’d make up an excuse.
 
-My third thought was that maybe they thought I knew. Did both my parents just forget to tell me? “Son, if there’s ever a fire, and the door feels hot, head for the clothes dryer.”
+My third thought, as I shut off the light, was that maybe they thought I knew. Did both my parents just forget to tell me? “Son, if there’s ever a fire, and the door feels hot, head for the clothes dryer.”
 
 My fourth thought was of Meryl when we were ten years old. 
 
-I had a stark memory of her face as she made up a fast lie when I found the clothes dryer in the forest.
+I lay there awake in bed with a stark memory of her face as she made up a fast lie when I found the clothes dryer in the forest.
 
 They all knew.
 
