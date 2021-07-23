@@ -39,17 +39,17 @@ And he won an award for writing music to accompany my life.
 
 “Michael Graves is a world-renowned architect whose portfolio includes the Ministry of Culture building in The Hague, several designs for The Walt Disney Company, and two New Urbanist buildings in Seahaven Island, Florida, the site of <i>The Truman Show</i>.”
 
-The article on <i>Germany</i> did not list me, my fame, or Seahaven Island. So that test failed.
+The article on <i>Germany</i> did not list me or Seahaven Island. So that test failed.
 
-I realized there was an easier way to see if the reference from <i>The Truman Show</i> to the U-V volume was the <i>USSR</i> article. I checked the Reference Index again to see if I could figure out what page in U-V had the <i>USSR</i> article. If that was the same page, I’d know that the U-V article was for the <i>USSR</i>.
+I realized there was an easier way to see if the reference from <i>The Truman Show</i> to the U-V volume was the <i>USSR</i> article. I checked the Reference Index again to see if I could figure out what page in U-V had the <i>USSR</i> article. If that was the same page…
 
 It wasn’t the same page. The mystery article was on an earlier page. The only page where <i>USSR</i> and <i>The Truman Show</i> coincided was the <i>Carbon Concrete</i> article. The <i>USSR</i> was not the article from the U-V volume.
 
-Then I realized my mistake. I had been thinking of these articles as things which were important for <i>The Truman Show</i>. But it was just the opposite. <i>The Truman Show</i> was important for the things in these articles.
-
 <i>The Truman Show</i> and the <i>USSR</i> were not important enough for each other, at least from an encyclopedia’s point of view.
 
-I looked up and around the warehouse while I re-estimated the value of the encyclopedia. I was still sitting in the fork lift, its forks poised to tip over the shelves and cause havoc at the flip of a switch. It seemed less and less likely that I would have a use for it. Nobody was coming.
+I had made a mistake. I had been thinking of these articles as things which were important for <i>The Truman Show</i>. But it was just the opposite. <i>The Truman Show</i> was important for the things in these articles.
+
+I looked up and around the warehouse while I re-estimated the value of the encyclopedia. I was still sitting in the forklift, its forks poised to tip over the shelves and cause havoc at the flip of a switch. It seemed less and less likely that I would have a use for it. Nobody was coming.
 
 I decided the encyclopedia was still valuable. I would just need all the articles together to paint the picture for me. So I started over, reading just the titles, seeking a pattern.
 
@@ -156,7 +156,7 @@ I needed something that would cement her to my side.
 
 “Because we’re the good guys. Because we’re on the side of right.”
 
-She relaxed by about half. She looked up at me. For the first time I noticed I was taller than her. She was always a grown up before.
+She relaxed by about half. She looked up at me. For the first time I noticed I was taller than her. She was always a grown-up before.
 
 “This will be easy, Whitley. I just need you to ask the mayor a simple question. And when we win, everything will be right again. It’ll be the Seahaven Island you always told me was the best place in the world,” I said.
 
@@ -172,7 +172,7 @@ This is how it must have gone.
 
 At a big mansion on the beach, the phone rang. This was not unusual. Constituents never actually called Mayor Harrison Snyder, despite his platform of availability. He didn’t wield any actual power. But his friends called him.
 
-However, today Truman was trying to get a hold of the mayor, and since the mayor knew he couldn’t do anything about Truman’s problem, he was avoiding him every way he knew how. After he had arrived at the office, he had simply left through the Disney tunnels and not come back. He trusted that Truman would simply be mystified.
+Today however, Truman was trying to get a hold of the mayor, and since the mayor knew he couldn’t do anything about Truman’s problem, he was avoiding him every way he knew how. After he had arrived at the office, he had left through the Disney tunnels and not come back. He trusted that Truman would simply be mystified.
 
 He heard his wife, Charlotte, answer the phone.
 
@@ -214,7 +214,7 @@ Why didn’t the production team call to warn him Truman was calling? The whole 
 
 “Yes, and I can always find time for… a young up-and-coming star of our city. Why don’t you come by tomorrow morning and we’ll talk about whatever you need. My door is always open.”
 
-Snyder put a hand to his forehead in hopes of faking an illness the next morning.
+Snyder put a hand to his forehead in preparation to fake an illness.
 
 “Well, Mr. Snyder, I really don’t want to be sent away by your secretary again. I’d like to talk to you now. Linda Groupon was an outstanding, decorated officer who served the Seahaven Island Police Department for twelve years. She was unfairly blamed for my mistakes and I think she should-- No, I insist that she be reinstated and… and absolved of all wrong-doing. I’ll do whatever it takes. I’ll do more community service. I’ll stop helping the police department if you want. Anything! I mean… I-- I won’t let this matter settle, sir.”
 
@@ -282,7 +282,7 @@ I put down a donut I hadn’t bitten into yet and looked out the window at the s
 
 “You mean, good afternoon, good evening, and goodnight?”
 
-Whitley was writing it down on a legal pad. “Yes. When we go out canvassing later, you’ve got to say it to every person we meet. They’ll love it. Oh my god, this is exciting.”
+“Gah, I love it!” Whitley was writing it down on a legal pad. “When we go out canvassing later, you’ve got to say it to every person we meet. They’ll eat it up. Oh my god, this is exciting.”
 
 “Alright, another one,” I said, “ ‘You can Trust Truman’.”
 
@@ -320,13 +320,13 @@ Jeanette Hobbylobby was about 45, mother of three, and standing at her door read
 
 “Well, Truman, what a surprise,” she glanced over my shoulder nervously, but I didn’t see what at. Whitley was behind me on the other side. She was dressed in a professional skirt and top with flats. She held a clipboard to note house numbers, votes, and the data for our slogans. I was in a light-fabric suit, perfect for June.
 
-“Ma’am, I wanted to let you know that I’m running for mayor, and I wanted to see if I can count on your vote. Tru-man is an Island.” I gave the slogan that we had pre-selected, chosen by fair die roll.
+“Good morning, ma’am. I wanted to let you know that I’m running for mayor, and I wanted to see if I can count on your vote. Tru-man is an Island.” I gave the slogan that we had pre-selected, chosen by fair die roll.
 
 Mrs. Hobbylobby had a big smile on her face, which got a bit more quizzical. “I’m sorry, what was that last part?”
 
 “Um, Tru-man is an island, ma’am. It’s a slogan we’re…” I glanced at Whitley, “trying out. You know that saying, ‘No man is an island’. And seeing as how we live on an island… and my name is Truman…” There was a pause.
 
-“Oh, yes, and… you’re… certainly dressed for the part of mayor. You know, I always vote for Maurine Cabot,” the smile never left her face, but it was getting more nervous.
+“Oh, yes, and… you’re… certainly dressed for the part of mayor. You know, I always vote for Maurine Cabot,” the smile never left her face, but it was getting more nervous and weary.
 
 I leaned my arm up against the door frame and slipped, “Whoops!”
 
@@ -350,7 +350,7 @@ As I turned to leave, I caught Whitley’s look, her mouth set tight and her eye
 
 “I thought I recovered from that pretty well,” I said when we had ducked around a corner.
 
-“That was a flat out train wreck, Truman,” said Whitley. “You talked over her. You almost convinced her to vote for Cabot. And what was with all the slipping and tripping? Do you do that on purpose?” Her same energy was still there, but now it was frightening.
+“That was a flat out train wreck, Truman,” said Whitley. “You talked over her. You probably convinced her to vote for Cabot. And what was with all the slipping and tripping? Do you do that on purpose?” Her same energy was still there, but now it was frightening.
 
 “I thought I brought her around at the end,” I insisted.
 
@@ -398,7 +398,7 @@ I always figure it out… But she had taken away one of my best tools. Goofing a
 
 It was a good one too.
 
-“Ok, you’re right. I can do this. I’ll think of what to say,” I said and turned to go to the next house.
+“Ok, you’re right. I can do this. I’ll think of what to say,” I said.
 
 “Wait, though. You still talked over him too much. What if you try listening,” Whitley said, noting down what she was saying. The margins of her paper were getting scribbley.
 
@@ -420,7 +420,15 @@ It was a good one too.
 
 “N-- no, I want you to ask one.” She shook her head. “Just ask any question.”
 
-“Oh!” I thought I had it now. “Something like, ‘Have you noticed something isn’t right with this town?’ ”
+“Oh! Ok, I’ve got one.” Now I could kill some minds. “ ‘Mayors Cabot and Snyder have been running this town for 23 years. Do you have any idea what their approval rating is?’ ” Priming!
+
+Whitley just stared at me. “What?”
+
+“It’s priming. It’s a psychological trick where you influence someone’s response to a question by preceding it with something that sounds close to the answer you want. It works best when they have no idea about the right answer.” I had thought it up the night before. I learned it from <i>The Sequences</i>, but it was well known in psychology.
+
+“No, Truman,” she sighed. “Nobody cares about that. I mean, sure it reminds people that you’re nerdy, and they all think that’s adorable. But you’re talking up your competition again. Think of something else.”
+
+“Oh… Are you sure?” Her face said she was. “Well, how about, ‘Have you noticed something isn’t right with this town?’ ”
 
 She raised her eyebrows at me. “Have you?”
 
@@ -430,7 +438,7 @@ She raised her eyebrows at me. “Have you?”
 
 “Ok. But before we go, give me a minute to think alone.” 
 
-When she turned away, I started to think about my new trick. Who could I pretend to be? Not Bill Murray this time. He was confident but in a chaotic way. He did not inspire confidence.
+When she turned away, I started on my new trick. Who could I pretend to be? Not Bill Murray this time. He was confident but in a chaotic way. He did not inspire confidence.
 
 I tried to think of someone who seemed perfectly competent. A model of competence who others could look up to, who could be in charge.
 
@@ -444,11 +452,11 @@ I had asked Mr. Thegeneral the big Question and it had really gotten him talking
 
 “Your brother lives far away? What’s his name?”
 
-“Bill. Yeah he lives out on the Oregon coast. The fires came and I moved here and he moved there. No fires there yet. Polar vortex is not too bad either.”
+“Bill. Yeah he lives out on the Oregon coast. The fires came and he moved there and I moved here. No fires there yet. Polar vortex is not too bad either.”
 
 I hadn’t heard about either of those things. What now…? Always Be Closing. Ok… 
 
-“Bill Thegeneral. It’s too bad there’s not some sort of program in place to get people down to Florida who don’t have the means to make it.”
+“It’s too bad there’s not some sort of program in place to get people down to Florida who don’t have the means to make it. Folks like your brother, Bill Thegeneral.”
 
 While I talked Karl looked at me for a moment like I was as stupid as a dog in a tree. Then it got worse when I finished.
 
@@ -580,13 +588,13 @@ I didn’t have a truly safe event. I needed to canvas. Canvassing made me nervo
 
 On the other hand, I was getting better at canvassing. And success is a pleasant event.
 
-After a few more days hitting regular neighborhoods, getting our WISH I COULDs up slightly, I told Whitley it was time for us to canvas the rich folks. But just the houses that backed up to the beach.
+After a few more days hitting regular neighborhoods, often in rain that gave way to sunlight and steamy streets, getting our WISH I COULDs up only slightly, I told Whitley it was time for us to canvas the rich folks. But just the houses that backed up to the beach.
 
-The day was hot again. And muggy this time. The kind of unpleasantness you rarely see on Seahaven Island.
+The day was hot and muggy. June weighed on my shoulders like a wet blanket.
 
-“Truman, I was wondering when you’d show up at my door,” said Philip Glass. He ushered us into his foyer.
+“Truman, I was wondering when you’d show up at my door,” said Philip Glass. He ushered us into his air conditioned foyer.
 
-“Mr. Glass,” I shook his hand and then Whitley did too. He was a big deal in town.
+“Mr. Glass,” I shook his hand and smiled, and then Whitley did too. He was a big deal in town.
 
 He led us through his open floor plan, past a full sized grand piano to his Florida room. A Florida room is like a living room, but the furniture is cheaper and the walls are all windows. The furniture in this room was probably not cheaper than the living room furniture, but it was made to mimic a cheaper style while retaining its class. And the windows all looked out onto the beach.
 
@@ -738,7 +746,7 @@ A single page had fallen to the floor, and for a moment I thought the machine ha
 
 I couldn’t read it in the dim light, so I just shoved it in my pocket.
 
-Then I went to the mayor’s office. In the glare of the streetlights through the window I could see the floor was covered with obstacles. On closer inspection, they were tool bags and power tools. There were several holes in the wall and ceiling, high and low, all with wires hanging out of them. All except one. I looked closer at that one. It held a small video camera.
+Then I went to the mayor’s office. In the dim of the streetlights through the window I could see the floor was covered with obstacles. On closer inspection, they were tool bags and power tools. There were several holes in the wall and ceiling, high and low, all with wires hanging out of them. All except one. I looked closer at that one. It held a small video camera.
 
 I quickly covered it with my palm. My eyes went wide. Had someone seen me?
 
@@ -768,7 +776,9 @@ That’s when the page from the copy room fell out of my pocket. I picked it up 
 
 What I didn’t know was that besides City Hall, They also had cameras in my bedroom. But somehow They didn’t care what was on that sheet of paper. Perhaps They’d forgotten where I had gotten it. Paper is paper and many people think it’s dull. They probably thought They had done enough by sending a police officer to poke around and scare me away.
 
-I didn’t know any of that yet. I was just lucky, because if They had known what was going on someone would have leaped in to distract me at that moment.
+Or maybe They weren’t watching because I was in my boxer shorts.
+
+I didn’t know any of that yet. I was just lucky, because if They had known what was going on someone would have leaped in to distract me at that moment, boxer shorts or no.
 
 When I opened the paper, the title said <i>Disney Utilidor System™ Seahaven Island</i>. Gray lines showed a map of the island, with street names and prominent landmarks. I was familiar with that. But it was the black lines that made me weak in the knees. I sat down in my chair again.
 
@@ -802,7 +812,7 @@ They all knew.
 
 They knew about the tunnels. They knew I was afraid of the ocean. They knew I couldn’t leave the island.
 
-And They did nothing to help me. Yes, it was Them. They were all in on it.
+And They did nothing to help me. It was Them. They were all in on it.
 
 So much for an honest and safe town. 
 
