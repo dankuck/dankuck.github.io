@@ -33,7 +33,7 @@ It turned out Philip Glass was famous even outside of Seahaven Island.
 
 <i>Golden Globe Award for Best Original Score.</i>
 
-And he won an award for writing music to accompany my life.
+And he won an award for writing music to accompany my life. It really was a show. Incredible.
 
 <i>Graves, Michael.</i>
 
