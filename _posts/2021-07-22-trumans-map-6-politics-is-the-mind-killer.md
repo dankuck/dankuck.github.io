@@ -652,9 +652,13 @@ He sent the check.
 
 *** 
 
-We used the money to commission flyers with my face looking into the distance as if at the future. We weren’t sure about the slogan yet, so they just said “Truman”.
+In my experience, exposure therapy is not all it’s cracked up to be. In the end, I was only able to manage about five seconds watching ocean waves crack hammer-like against the shore before I would break into a cold sweat and go weak in the knees.
 
-The day was almost pleasant when I went to put them up on poles and walls downtown. I came across my mother sitting at a sidewalk cafe called Starbucks.
+But with Whitley’s help and a fancy hat, I managed to look away from the ocean as I rushed from house to house on Gulf Boulevard where they all face the water. And when we got to each one, the owners invited us inside with smiles, even the ones that ended up giving me flat NOs.
+
+We used the money from the first check to commission flyers with my face looking into the distance as if at the future. We weren’t sure about the slogan yet, so they just said “Truman”.
+
+The day was almost pleasant when I went to put them up on poles and walls downtown. That’s where I happened upon my mother sitting at a sidewalk cafe called Starbucks.
 
 “Hello, Truman,” she smiled at me over her big round sunglasses.
 
@@ -727,8 +731,6 @@ She laughed. “Of course!” And I laughed, and we both sipped our lemonades.
 After that, canvassing became much easier. In a few days we jumped from 35% WISH I COULDs to 49% YESes, not just by household but actual, individual voters.
 
 I met everyone in town. The weather improved.
-
-Before long I was able to keep my composure when seeing the ocean for several seconds at a time. Then I rushed from house to house on Gulf Boulevard, keeping my eyes on the front doors as much as possible. The people at each home invited me inside and that became easy too.
 
 I met the German community, the Russian community, the retirement community, the service workers community, the arts community, three religious communities, the rescue workers community, the gay community, the black community. Some of them only had a handful of members, but I met them and we celebrated their unity. 
 
