@@ -676,3 +676,6 @@ Except:
 1. His version has a few extra articles. These show up on the pages where they would be in our version. For example, both versions have <i>Carbon</i> on page 203 of Volume 3, but his version also has <i>Carbon Concrete</i> on page 204.
 
 2. Volumes 2 and 9 are all out of whack. For example, the article for <i>Bolt</i> is in Volume 2 on page 449 in our version and is on page 300 in his. The reader can rest assured that the problems with those two volumes are a result of random chance and not some mistake that the author made when writing Chapter 4.
+
+
+{% include series_trumans_map.html %}

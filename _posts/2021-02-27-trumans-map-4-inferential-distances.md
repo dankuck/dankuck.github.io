@@ -482,3 +482,6 @@ God, I hoped Linda was right. Because that was the only way I could save her.
 Author’s Note:
 
 François Clemmons, who played Officer Clemmons on <i>Mr. Rogers’ Neighborhood</i>, first said the words, “I grew up in the ghetto. I did not have a positive opinion of police officers.” It took a lot for him to agree to join Fred Rogers on his show, and the move is now considered ground-breaking. An event often cited as a big step forward in television was when he and Fred put their feet in a kiddie pool together on a hot day without any fuss, in a time when segregated pools were still the norm in much of the United States. Besides that he’s a very impressive person, and I’m glad to have his story as inspiration for Linda Groupon.
+
+
+{% include series_trumans_map.html %}

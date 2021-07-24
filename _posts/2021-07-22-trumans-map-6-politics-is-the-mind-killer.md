@@ -832,3 +832,5 @@ So much for an honest and safe town.
 
 My father was right.
 
+
+{% include series_trumans_map.html %}
