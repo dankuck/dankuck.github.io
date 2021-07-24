@@ -250,7 +250,7 @@ I didn’t want to. Did I? Maybe I needed to.
 
 ***
 
-Politics is the mind-killer. That’s what Yudkowsky says in <i>The Sequences</i>, a book my father gave me about rationality. <i>The Sequences</i> covers a range of topics about how best to make decisions and win at whatever you try. And <i>The Sequences</i> is a Secret.
+Politics is the mind-killer. That’s what Yudkowsky says in <i>The Sequences</i>, a book my father gave me about rationality. <i>The Sequences</i> covers a range of topics about how best to make decisions and win at whatever you try. And <i>The Sequences</i> was a Secret.
 
 Why? At the time I ran for mayor, I thought it was because my father had been mentally unwell. He had me swear a few oaths and they really didn’t make sense. One was to keep quiet about this book. Another was to remember that “the map is not the territory”, a useful rationality concept, but I just couldn’t see how it had to be a big Secret.
 
@@ -678,11 +678,11 @@ She removed her sunglasses and looked at me coolly.
 
 She took a moment. The waiter brought my lemonade. Neither of us drank a sip.
 
-After a time she said, “Is that what people have been telling you?” She spoke like she knew they hadn’t. It was my reason, but no one had responded to the big Question with anything about Linda Groupon.
+After a time she said, “Is that what people have been telling you?” She spoke like she knew they hadn’t.
 
-“No. When I can get them to talk to me, they want to paint their houses whatever color they like without laws getting in the way,” I huffed. That one was common, but so petty. “They talk about which foods from back home aren’t the same in Florida. They talk about getting their families to visit. Did you know there’s a law about that?”
+“No. When I can get them to talk to me, they want to paint their houses whatever color they like without laws getting in the way,” I huffed. “They talk about which foods from back home aren’t the same in Florida. They talk about getting their families to visit. Did you know there’s a law about that?”
 
-She nodded, not losing an ounce of condescension. But it suited her. It always had.
+She nodded, not shedding an ounce of condescension. But it suited her. It always had.
 
 “Yes. In a lot of ways Seahaven Island is a gated community. That’s why folks like it here. It’s honest and safe,” she assured me.
 
