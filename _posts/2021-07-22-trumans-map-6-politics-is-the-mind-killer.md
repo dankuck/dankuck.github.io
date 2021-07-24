@@ -190,7 +190,7 @@ Tinny voice sounds from the receiver.
 
 “To get my take on… a new mayoral candidate?” This was simply stupefying to Charlotte. Harrison Snyder and Maurine Cabot had been trading the mayorship back and forth since the city was founded in 1997. The phrase “a new candidate” had never been said before.
 
-But for Snyder, it sounded like trouble. Were they firing him? What the hell was going on? Why wasn’t he told this during his daily phone call?
+But for Snyder, it sounded like trouble. Were they firing him? What the hell was going on? Why wasn’t he told this during his weekly phone call?
 
 He knew one thing. He wasn’t going to be more collateral damage from the fiasco that got all those writers canned along with Linda Groupon.
 
@@ -512,7 +512,9 @@ Wesley and Valentine Morgenstern. 4. NO.
 
 We went back to our base of operations, my mother’s house, and went over the numbers.
 
-Out of 14 houses, I hadn’t gotten a single YES. But I got three I WISH I COULDs. For now, we were calling those wins. It wasn’t enough to pin down a slogan though. We just needed to keep at it. It was going to require more than four hours per day.
+Out of 14 houses, I hadn’t gotten a single YES. But I got three I WISH I COULDs. For now, we were calling those wins. It wasn’t enough to pin down a slogan though. We just needed to keep at it.
+
+We had reached 21 people in three hours, 7.0 per hour. But with the overhead of our morning meeting it was  21 in 4 hours, only 5.25. We were going to have to get better at this to reach our minimum goal of 5.9 per hour.
 
 Whitley said she wanted to leave to take care of filing the paperwork and pulling stats on past elections right away. But before she left, my mother came in. Her arms folded, she simply said, “You’ll never win this town unless you can get the support of folks out on the beach.”
 
@@ -588,7 +590,7 @@ I didn’t have a truly safe event. I needed to canvas. Canvassing made me nervo
 
 On the other hand, I was getting better at canvassing. And success is a pleasant event.
 
-After a few more days hitting regular neighborhoods, often in rain that gave way to sunlight and steamy streets, getting our WISH I COULDs up only slightly, I told Whitley it was time for us to canvas the rich folks. But just the houses that backed up to the beach.
+After a few more days hitting regular neighborhoods, often in rain that gave way to sunlight and steamy streets, getting our WISH I COULDs up only slightly, getting our voters-per-hour up to 5.5, I told Whitley it was time for us to canvas the rich folks. But just the houses that backed up to the beach.
 
 The day was hot and muggy. June weighed on my shoulders like a wet blanket.
 
