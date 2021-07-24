@@ -61,7 +61,7 @@ I feverishly underlined these paragraphs. I had so many new questions, but one t
 
 And my father had once called it the firmament.
 
-***
+<p align="center">***</p>
 
 Marlon held up the ringing phone receiver to both our ears so I could hear it too.
 
@@ -103,7 +103,7 @@ We were both dressed nice with bow ties and suspenders because it was Easter Sun
 
 “Ok, Mom,” Marlon sounded annoyed, because we weren’t little anymore. But moms never learn.
 
-***
+<p align="center">***</p>
 
 “Don’t laugh.” Meryl was smoothing out some wrinkles in her yellow Easter dress when she met us in front of the church. We laughed anyway. Meryl never wore dresses. And she even had a purse.
 
@@ -159,7 +159,7 @@ I started to ask Marlon if he had ever heard the phrase before. The organ starte
 
 I saw my mom lean forward to talk to Nancy’s mom, but I couldn’t hear what they said.
 
-***
+<p align="center">***</p>
 
 At the potluck lunch after the service, Meryl said she had drunk too much iced tea and left for the bathroom. I guessed it was for the same reason that I saw my mom and Nancy both get up from their lunch tables and head towards the bathroom too.
 
@@ -327,7 +327,7 @@ When I turned around Meryl and Marlon were shaking their heads.
 
 “You asked her on a date to church?!”
 
-***
+<p align="center">***</p>
 
 “Truman, are you...,” my mom started to say. She stopped.
 
@@ -597,7 +597,7 @@ For a moment, I didn’t think they were going to follow me. I might have broken
 
 I broke into a run then. I ran all the way home, through yards and over curbs. My mother was waiting just inside the door and I hugged her and she put a hand on my shoulder and I cried into her blouse.
 
-***
+<p align="center">***</p>
 
 The next day was Easter Holiday Observed, so there was no school. But I had forgotten <i>One Foote In The Past</i> at the church, and I went to get it after breakfast.
 

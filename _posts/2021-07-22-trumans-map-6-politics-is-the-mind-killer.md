@@ -78,7 +78,7 @@ I decided the encyclopedia was still valuable. I would just need all the article
 
 Several titles caught my eye. But <i>Zoo Hypothesis</i> was the funniest and most horrific, and it summed up my state of mind since the night I had won the election.
 
-***
+<p align="center">***</p>
 
 There are little things that are wrong with Seahaven Island, Florida. For instance, the mayor’s office was built with no emergency exit. I knew this because when I was 21, after Linda Groupon was fired from her job as a police officer, after I was released from my night in jail, and after I completed 30 hours of community service to get the charges of public nuisance expunged from my record, I started staking out Mayor Harrison Snyder. I was going to get Linda’s job back. I owed it to her.
 
@@ -166,7 +166,7 @@ She looked at me for a hard moment. She wasn’t an idiot. She knew the risks be
 
 “Good, but first I really have to use the restroom.”
 
-***
+<p align="center">***</p>
 
 This is how it must have gone.
 
@@ -222,7 +222,7 @@ Balderdash! Snyder was between a rock and a hard place. He couldn’t let Truman
 
 “I can’t help you, kid,” and the phone slipped out of his sweaty palm back onto the hook. He waited a minute to be sure the camera had cut away before he poured himself a stiff drink and thought about his resumé.
 
-***
+<p align="center">***</p>
 
 I manhandled the handset back onto the hook and cursed, “Shit”. He had just hung up on me. Where was my power?
 
@@ -248,7 +248,7 @@ I didn’t want to. Did I? Maybe I needed to.
 
 “Whitley, I don’t know anybody who loves this town more than you. Will you be my campaign manager?”
 
-***
+<p align="center">***</p>
 
 Politics is the mind-killer. That’s what Yudkowsky says in <i>The Sequences</i>, a book my father gave me about rationality. <i>The Sequences</i> covers a range of topics about how best to make decisions and win at whatever you try. And <i>The Sequences</i> was a Secret.
 
@@ -306,7 +306,7 @@ The last one made me nervous, because it reminded me of the words my father had 
 
 I intended to win.
 
-***
+<p align="center">***</p>
 
 It was unusually hot in Seahaven Island that day. 77°F in the shade, no breeze.
 
@@ -346,7 +346,7 @@ As I turned to leave, I caught Whitley’s look, her mouth set tight and her eye
 
 “Oh! And in case I don’t see you,” and Mrs. Hobbylobby smiled for real because she knew what to expect now, “good afternoon, good evening, and goodnight!”
 
-***
+<p align="center">***</p>
 
 “I thought I recovered from that pretty well,” I said when we had ducked around a corner.
 
@@ -372,7 +372,7 @@ She nodded. “Ok, the next one is ‘Burbank: Promises you can take to the bank
 
 “Let’s take it to the bank.” Oof.
 
-***
+<p align="center">***</p>
 
 The next house was not quite as bad. I did not goof, even once. But I fell flat anyway.
 
@@ -444,7 +444,7 @@ I tried to think of someone who seemed perfectly competent. A model of competenc
 
 “I’ve got it.”
 
-***
+<p align="center">***</p>
 
 “You know, you’re right, something isn’t right with this town,” said Karl Thegeneral. He was short, tanned like a fisherman, with white stubble, and I thought I remembered he was over 70. “I don’t think it’s a secret. And it’s not a big thing… Honestly, no, there’s no big deal thing wrong with this town. I haven’t seen my brother in a while. Uh, because it’s far, you know. But I can visit him whenever I want. Uh… what were you saying?”
 
@@ -484,7 +484,7 @@ When he shut the door, his smile was bigger.
 
 And when I turned to Whitley, hers was too.
 
-***
+<p align="center">***</p>
 
 The die kept rolling. 
 
@@ -594,7 +594,7 @@ I frowned and said, “This is what I’m doing, Mom.”
 
 Her smile gave way again to the piercing eyes and a frown. Then she stood up and left, leaving the sailboat chachki in front of me on the dining room table.
 
-***
+<p align="center">***</p>
 
 Exposure therapy works when a person meets with the trigger for their anxiety in a safe environment. If the thing which terrorizes the patient is the environment itself, then I reasoned that the event needed to be safe.
 
@@ -650,7 +650,7 @@ We went down the line to the rest of the houses, each time adding “Philip Glas
 
 He sent the check.
 
-*** 
+<p align="center">***</p>
 
 In my experience, exposure therapy is not all it’s cracked up to be. In the end, I was only able to manage about five seconds watching ocean waves crack hammer-like against the shore before I would break into a cold sweat and go weak in the knees.
 
@@ -726,7 +726,7 @@ Always Be Closing!
 
 She laughed. “Of course!” And I laughed, and we both sipped our lemonades.
 
-***
+<p align="center">***</p>
 
 After that, canvassing became much easier. In a few days we jumped from 35% WISH I COULDs to 49% YESes, not just by household but actual, individual voters.
 
@@ -812,7 +812,7 @@ The machines were masking the entrances to the tunnels.
 
 And there was one in my house.
 
-***
+<p align="center">***</p>
 
 My first thought, after I stood up and locked my bedroom door, was that I needed to tell people. About the extensive tunnel system lurking under their homes. And the team of workers who must have left through the tunnels when I arrived at City Hall, dropping their map, spilling light from the open hatch under the copy room door.
 
