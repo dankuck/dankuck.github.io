@@ -512,7 +512,7 @@ Wesley and Valentine Morgenstern. 4. NO.
 
 We went back to our base of operations, my mother’s house, and went over the numbers.
 
-Out of 14 houses, I hadn’t gotten a single YES. But I got three I WISH I COULDs. For now, we were calling those wins. It wasn’t enough to pin down a slogan though. We just needed to keep at it.
+Each house represented a single independent test. Out of 14 houses, I hadn’t gotten a single YES. But we got three I WISH I COULDs. For now, we were calling those wins. It wasn’t enough to pin down a slogan though. We needed to keep at it.
 
 We had reached 21 people in three hours, 7.0 per hour. But with the overhead of our morning meeting it was  21 in 4 hours, only 5.25. We were going to have to get better at this to reach our minimum goal of 5.9 per hour.
 
@@ -560,6 +560,18 @@ I hesitated then said, “This is what I’m doing, Mom.”
 
 “We don’t get that channel. And it doesn’t matter. I can be a chef and the mayor. The Chef Mayor. It’s a gimmick,” I said this in a flat voice, the closest thing I could get to firm and calm. My mother was not moving, but I felt like she was circling me. “And that doesn’t matter either. This is what I’m doing.”
 
+“Truman, how big is this island?” she asked.
+
+“Two square miles,” I answered.
+
+“And how many terms have the other candidates won already?” she asked.
+
+“Six between them. Three each,” I answered.
+
+“And what do you think the chances are for an independent candidate in a town like this?” she asked.
+
+I imagined they were very low.  But I was going to defy the odds. “This is what I’m doing, Mom.”
+
 My mother tried something different. She looked away. “It’s boring, Truman.” She fiddled with a chachki she picked up from the hutch, a sailboat. “If you really insist on jumping into the adult world…” This pause was for dramatic effect. “If that’s what you want, then you should be looking for a wife.”
 
 That did take me by surprise.
@@ -590,11 +602,11 @@ I didn’t have a truly safe event. I needed to canvas. Canvassing made me nervo
 
 On the other hand, I was getting better at canvassing. And success is a pleasant event.
 
-After a few more days hitting regular neighborhoods, often in rain that gave way to sunlight and steamy streets, getting our WISH I COULDs up only slightly, getting our voters-per-hour up to 5.5, I told Whitley it was time for us to canvas the rich folks. But just the houses that backed up to the beach.
+After a few more days hitting regular neighborhoods, often in rain that gave way to sunlight and steamy streets, gathering slogan data, getting our voters-per-hour up to 5.5, I told Whitley it was time for us to canvas the rich folks. But just the houses that backed up to the beach.
 
 The day was hot and muggy. June weighed on my shoulders like a wet blanket.
 
-“Truman, I was wondering when you’d show up at my door,” said Philip Glass. He ushered us into his air conditioned foyer.
+“Truman, I was wondering when you’d show up at my door,” said Philip Glass. He ushered us into his foyer where the air conditioning was winning the fight against the heat.
 
 “Mr. Glass,” I shook his hand and smiled, and then Whitley did too. He was a big deal in town.
 
@@ -618,7 +630,7 @@ Always Be Closing. I decided to skip the Question. He was acting savvy. He knew 
 
 “I see. And does that work?” He tilted his head just a little.
 
-“We’ve gotten our positive reactions up from 21% to 28% this week.”
+“We’ve gotten our positive reactions up from 21% to 28% this week.” I fudged the house numbers as if they were voter numbers.
 
 He looked out at the ocean. I glanced at it and almost lost my composure. I looked back at Glass and remembered my technique. The person I was inside was confident and competent.
 
@@ -630,7 +642,7 @@ Whitley quickly said, “We just ran out of pamphlets but I’ll make sure you g
 
 I said, “Thank you, Mr. Glass,” and I looked at the ocean for half a second and revelled in the success.
 
-Then we excused ourselves and left through the front the door. “Thanks again, Mr. Glass. Good afternoon, good evening, and goodnight.”
+Then we excused ourselves, “Thanks again, Mr. Glass. Good afternoon, good evening, and goodnight,” and left through the front door.
 
 Whitley did an actual jump when we got outside.
 
@@ -692,7 +704,7 @@ When Neil Armstrong stepped onto the moon, I wonder if he felt like the moon’s
 
 She smiled again. Her new smile showed pride at the corners.
 
-“I think…” Mom paused dramatically. “I think you are exactly what the people want.”
+“I think…” Mom paused dramatically and took off her sunglasses. “I think you are exactly what the people want.”
 
 “You do?” I’d done it. I had won over my mother.
 
@@ -712,7 +724,7 @@ She laughed. “Of course!” And I laughed, and we both sipped our lemonades.
 
 ***
 
-After that, canvassing became much easier. In a few days we jumped from 35% WISH I COULDs to 49% YESes.
+After that, canvassing became much easier. In a few days we jumped from 35% WISH I COULDs to 49% YESes, not just by household but actual, individual voters.
 
 I met everyone in town. The weather improved.
 
