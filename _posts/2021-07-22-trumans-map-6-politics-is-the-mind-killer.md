@@ -790,7 +790,7 @@ Fifteen minutes later I climbed back into my room, feeling more like a teenager 
 
 That’s when the page from the copy room fell out of my pocket. I picked it up again.
 
-What I didn’t know was that besides City Hall, They also had cameras in my bedroom. But somehow They didn’t care what was on that sheet of paper. Perhaps They’d forgotten where I had gotten it. Paper is paper and many people think it’s dull. They probably thought They had done enough by sending a police officer to poke around and scare me away.
+What I didn’t know was that They hadn’t only put cameras in City Hall. They had also put some in my bedroom. Secret ones. They were watching, but for whatever reason They didn’t care what was on that sheet of paper. Perhaps They’d forgotten where I had gotten it. Paper is paper and many people think it’s dull. They probably thought They had done enough by sending a police officer to poke around and scare me away.
 
 Or maybe They weren’t watching because I was in my boxer shorts.
 
