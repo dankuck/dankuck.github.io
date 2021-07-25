@@ -708,7 +708,7 @@ When Neil Armstrong stepped onto the moon, I wonder if he felt like the moon’s
 
 She smiled again. Her new smile showed pride at the corners.
 
-“I think…” Mom paused dramatically and took off her sunglasses. “I think you are exactly what the people want.”
+“I think…” Mom paused dramatically. “I think you are exactly what the people want.”
 
 “You do?” I’d done it. I had won over my mother.
 
