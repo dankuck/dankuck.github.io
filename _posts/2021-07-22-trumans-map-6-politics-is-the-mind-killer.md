@@ -796,13 +796,13 @@ Or maybe They weren’t watching because I was in my boxer shorts.
 
 I didn’t know any of that yet. I was just lucky, because if They had known what was going on someone would have leaped in to distract me at that moment, boxer shorts or no.
 
-When I opened the paper, the title said <i>Disney Utilidor System™ Seahaven Island</i>. Gray lines showed a map of the island, with street names and prominent landmarks. I was familiar with that. But it was the black lines that made me weak in the knees. I sat down in my chair again.
+When I opened the paper, the title said <i>Disney Utilidor System™ Seahaven Island</i>. Gray lines showed a map of the island, with street names and prominent landmarks. I was I was familiar with that. But it was the black lines that forced me to sit down in my chair again.
 
-The black lines showed a system of tunnels that ran under the city. The tunnels connected to every house, every business, and City Hall, circled in blue pen. A tunnel even led under the bridge and off the page.
+The black lines showed a system of tunnels that ran under the city. They were not water mains or storm drains. They had restrooms marked. The tunnels connected to every house, every business, and City Hall, circled in blue pen.
 
-I thought of the exit sign over the copy room door. City Hall didn’t need an emergency exit on the outside. It had an escape tunnel in the copy room.
+I thought of the exit sign over the copy room, where I had found the map, and of the light that disappeared from right to left. City Hall didn’t need an emergency exit on the outside. It had an escape tunnel in the copy room.
 
-But I hadn’t seen any door or tunnel when I looked into the copy room. Only the copy machine.
+But not an obvious one. All I had seen was the copy machine.
 
 The copy machine. The same kind of copy machine that was in the library. The one that looked a lot like an ordinary home clothes dryer. And a lot like an electrical whatever in the middle of the forest.
 
@@ -816,13 +816,13 @@ And there was one in my house.
 
 My first thought, after I stood up and locked my bedroom door, was that I needed to tell people. About the extensive tunnel system lurking under their homes. And the team of workers who must have left through the tunnels when I arrived at City Hall, dropping their map, spilling light from the open hatch under the copy room door.
 
-My second thought, as I tucked the map into <i>The Sequences</i>, was that everyone already knew. There was an exit sign leading to the copy room for Christ’s sake. They knew exactly how to use it. They just thought I’d never notice. They probably thought I’d never have to go into City Hall. And if I did, they’d make up an excuse.
+My second thought, as I tucked the map into <i>The Sequences</i>, was that everyone already knew. There was an exit sign leading to the copy room for Christ’s sake. They knew exactly how to use it. They just thought I’d never notice. I almost didn’t. And if I did notice, they’d make up an excuse.
 
 My third thought, as I shut off the light, was that maybe they thought I knew. Did both my parents just forget to tell me? “Son, if there’s ever a fire, and the door feels hot, head for the clothes dryer.”
 
 My fourth thought was of Meryl when we were ten years old. 
 
-I lay there awake in bed with a stark memory of her face as she made up a fast lie when I found the clothes dryer in the forest.
+I lay there in bed replaying an old memory of her face as she made up a fast lie when I found the clothes dryer in the forest.
 
 They all knew.
 
