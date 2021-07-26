@@ -27,13 +27,13 @@ So I abandoned alphabetical order and went to the references that might be for G
 
 <i>Glass, Philip.</i>
 
-“Philip Glass is a prolific composer and pianist. Though his work spans the years from 1964 to the present, he is most well known for his work on … and for his composition of the score for the television show <i>The Truman Show</i>, which is filmed in Seahaven Island, Florida, where Glass lives.”
+“Philip Glass is a prolific composer and pianist. Though his work spans the years from 1964 to the present, he is most well known for his work on … and for his composition of the score for <i>The Truman Show</i>, which is filmed in Seahaven Island, Florida, where Glass lives.”
 
 It turned out Philip Glass was famous even outside of Seahaven Island.
 
 <i>Golden Globe Award for Best Original Score.</i>
 
-And he won an award for writing music to accompany my life. It really was a show. Incredible.
+And he won an award for writing music to accompany my life. It really was a television show.
 
 <i>Graves, Michael.</i>
 
