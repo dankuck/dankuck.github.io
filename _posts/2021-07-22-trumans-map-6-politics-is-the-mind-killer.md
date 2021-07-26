@@ -744,7 +744,7 @@ And at some point my perspective shifted from running for mayor to planning for 
 
 And that led me to wonder once again how Snyder had gotten past me that night.
 
-By election day, he and I were friendly rivals. I could have asked him, but I doubted he’d tell me easily, and I didn’t want to tip my hand.
+By election day, he and I were friendly rivals. But I didn’t trust him. Back when we started Whitley had even worried about winding up like Linda Groupon.
 
 So I visited him in his office that morning, by appointment, so we could shake hands and say, “May the best candidate win.” Then I went back to Truman HQ to wait for the results.
 
@@ -798,7 +798,7 @@ I didn’t know any of that yet. I was just lucky, because if They had known wha
 
 When I opened the paper, the title said <i>Disney Utilidor System™ Seahaven Island</i>. Gray lines showed a map of the island, with street names and prominent landmarks. I was I was familiar with that. But it was the black lines that forced me to sit down in my chair again.
 
-The black lines showed a system of tunnels that ran under the city. They were not water mains or storm drains. They had restrooms marked. The tunnels connected to every house, every business, and City Hall, circled in blue pen.
+The black lines showed a system of tunnels that ran under the city. The tunnels connected to every house, every business, and City Hall, circled in blue pen. They were not water mains or storm drains. If there was any doubt, the map had restrooms clearly marked.
 
 I thought of the exit sign over the copy room, where I had found the map, and of the light that disappeared from right to left. City Hall didn’t need an emergency exit on the outside. It had an escape tunnel in the copy room.
 
@@ -814,7 +814,7 @@ And there was one in my house.
 
 <p align="center">***</p>
 
-My first thought, after I stood up and locked my bedroom door, was that I needed to tell people. About the extensive tunnel system lurking under their homes. And the team of workers who must have left through the tunnels when I arrived at City Hall, dropping their map, spilling light from the open hatch under the copy room door.
+My first thought, after I locked my bedroom door, was that I needed to tell people. About the extensive tunnel system lurking under their homes. And the team of workers who must have left through the tunnels when I arrived at City Hall, dropping their map, spilling light from the open hatch under the copy room door.
 
 My second thought, as I tucked the map into <i>The Sequences</i>, was that everyone already knew. There was an exit sign leading to the copy room for Christ’s sake. They knew exactly how to use it. They just thought I’d never notice. I almost didn’t. And if I did notice, they’d make up an excuse.
 
