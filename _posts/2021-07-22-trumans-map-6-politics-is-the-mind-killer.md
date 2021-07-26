@@ -392,7 +392,7 @@ When we were out of sight, I turned to Whitley.
 
 “I haven’t thought this through,” I said.
 
-She jotted something on her clipboard and said, “That’s ok. Remember we’re just starting. You’ll be back and by then you’ll know just what to say. You always figure it out.”
+“That’s ok.” She jotted something on her clipboard and said, “Remember we’re just starting. You’ll be back and by then you’ll know just what to say. You always figure it out.”
 
 I always figure it out… But she had taken away one of my best tools. Goofing and agreeing was kind of my whole bag of tricks. Though, come to think of it, I had learned a new one during my crime spree.
 
