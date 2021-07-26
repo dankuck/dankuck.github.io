@@ -796,7 +796,7 @@ Or maybe They weren’t watching because I was in my boxer shorts.
 
 I didn’t know any of that yet. I was just lucky, because if They had known what was going on someone would have leaped in to distract me at that moment, boxer shorts or no.
 
-When I opened the paper, the title said <i>Disney Utilidor System™ Seahaven Island</i>. Gray lines showed a map of the island, with street names and prominent landmarks. I was I was familiar with that. But it was the black lines that forced me to sit down in my chair again.
+When I opened the paper, the title said <i>Disney Utilidor System™ Seahaven Island</i>. Gray lines showed a map of the island, with street names and prominent landmarks. I was familiar with that. But it was the black lines that forced me to sit down in my chair again.
 
 The black lines showed a system of tunnels that ran under the city. The tunnels connected to every house, every business, and City Hall, circled in blue pen. They were not water mains or storm drains. If there was any doubt, the map had restrooms clearly marked.
 
