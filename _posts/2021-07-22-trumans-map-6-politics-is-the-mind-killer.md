@@ -224,19 +224,19 @@ Balderdash! Snyder was between a rock and a hard place. He couldn’t let Truman
 
 <p align="center">***</p>
 
-I manhandled the handset back onto the hook and cursed, “Shit”. He had just hung up on me. Where was my power?
+I threw the handset back onto the hook and cursed, “Shit”. He had just hung up on me. Where was my power?
 
 “It didn’t work, did it?” Whitley was still there with me. “We didn’t win.”
 
-I looked at her. She had tensed up again. There’s no confidence like the false confidence you have to show to someone who looks up to you.
+I looked at her. She had tensed up again.
 
-I cleared my throat. “Not yet. But we’re not out. Winning when everything seems lost is the sweetest victory.” I sat down on the curb to think.
+I cleared my throat. “Not yet. But we’re not out. Winning is sweetest when it seems like we could lose.” I sat down on the curb to think.
 
-“I thought you were actually going to tell him you were running for mayor,” she said, sitting down next to me, more awkwardly in her waitress skirt.
+“I thought you were actually going to tell him you were running for mayor,” she said, sitting down next to me, awkwardly in her waitress skirt.
 
 “That was just a ruse to get him to answer the phone. There’s nothing a mayor fears more than competition. He couldn’t resist.” I shook my head.
 
-I didn’t come up with the tactic all alone. Before she was fired, Linda said I could do anything. She said I could be mayor if I wanted to.
+I didn’t come up with the tactic alone. Before she was fired, Linda said I could do anything. She said I could be mayor if I wanted to.
 
 I didn’t want to. Did I? Maybe I needed to.
 
