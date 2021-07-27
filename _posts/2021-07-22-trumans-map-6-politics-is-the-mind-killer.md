@@ -654,7 +654,7 @@ He sent the check.
 
 In my experience, exposure therapy is not all it’s cracked up to be. In the end, I was only able to manage about five seconds watching ocean waves crack hammer-like against the shore before I would break into a cold sweat and go weak in the knees.
 
-But with Whitley’s help and a fancy hat, I managed to look away from the ocean as I rushed from house to house on Gulf Boulevard where they all face the water. And when we got to each one, the owners invited us inside with smiles, even the ones that ended up giving me flat NOs.
+But with Whitley’s help and a fancy hat, I managed to look away from the ocean as I rushed from house to house on Gulf Boulevard where they all face the water. And when we got to each one, the owners invited us inside with smiles, even the ones who ended up giving me flat NOs.
 
 We used the money from the first check to commission flyers with my face looking into the distance as if at the future. We weren’t sure about the slogan yet, so they just said “Truman”.
 
