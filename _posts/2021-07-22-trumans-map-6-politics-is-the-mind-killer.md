@@ -822,7 +822,7 @@ My third thought, as I shut off the light, was that maybe they thought I knew. D
 
 My fourth thought was of Meryl when we were ten years old. 
 
-I lay there in bed replaying an old memory of her face as she made up a fast lie when I found the clothes dryer in the forest.
+I lay there in bed replaying an old memory of her, in the forest, standing in front of the clothes dryer and lying to my face.
 
 They all knew.
 
@@ -830,9 +830,11 @@ They knew about the tunnels. They knew I was afraid of the ocean. They knew I co
 
 And They did nothing to help me. It was Them. They were all in on it.
 
-So much for an honest and safe town. 
+So much for an honest and safe town.
 
 My father was right.
+
+How stupid could I be?
 
 
 {% include series_trumans_map.html %}
