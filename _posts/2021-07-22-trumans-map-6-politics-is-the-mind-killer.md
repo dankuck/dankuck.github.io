@@ -23,7 +23,7 @@ The USSR posted agents to monitor the use of their dome… There was a small com
 
 I needed to know what I was dealing with.
 
-So I abandoned alphabetical order and went to the references that might be for Germany. Volume 8: pages 224, 255, and 330.
+So I abandoned alphabetical order and went to the references that might be for <i>Germany</i>. Volume 8: pages 224, 255, and 330.
 
 <i>Glass, Philip.</i>
 
@@ -94,7 +94,7 @@ So when I began to stake out the mayor I walked all the way around the building.
 
 City Hall took up a small block, and still it had no emergency exit. All foot traffic had to go through the big glass doors at the front. I imagined this must break some kind of zoning law. I didn’t let it trouble me since it meant that I could watch just the one exit.
 
-“Another Pepsi, Truman? Delicious. Refreshing. Pepsi,” asked the server behind the counter at the corner drugstore where I was sitting and keeping my eye on City Hall. She repeated the Pepsi slogan every time and she always managed to give it an enthusiastic kick.
+“Another Pepsi, Truman? Delicious. Refreshing. Pepsi!” said the server behind the counter at the corner drugstore where I was sitting and keeping my eye on City Hall. She repeated the Pepsi slogan every time and she always managed to give it an enthusiastic kick.
 
 “No thanks, Whitley,” I responded dryly.
 
@@ -114,7 +114,7 @@ I had seen that Lincoln and that driver dropping the Mayor off in the morning. I
 
 But it didn’t come. Families came and went, buying after-dinner ice cream. Streetlights came on.
 
-“Is there anything I can get for you before I close up?” asked Whitley when 8:30 finally chimed. All the lights in City Hall had been switched off twenty minutes earlier when the last civil servant had locked up for the night.
+“Is there anything I can get for you before I close up?” asked Whitley when 7:30 finally chimed. All the lights in City Hall had been switched off twenty minutes earlier when the last civil servant had locked up for the night.
 
 The Mayor never came out.
 
@@ -174,13 +174,13 @@ At a big mansion on the beach, the phone rang. This was not unusual. Constituent
 
 Today however, Truman was trying to get a hold of the mayor, and since the mayor knew he couldn’t do anything about Truman’s problem, he was avoiding him every way he knew how. After he had arrived at the office, he had left through the Disney tunnels and not come back. He trusted that Truman would simply be mystified.
 
-He heard his wife, Charlotte, answer the phone.
+He waited for his wife, Charlotte, to answer the phone.
 
 “Hello, Snyder residence.”
 
 Tinny voice sounds from the receiver.
 
-“How are you this evening? I thought I knew all the reporters at the Courier. You must be new. And my, you’re working late hours.” It was only 9 PM, but news isn’t fast on Seahaven Island. Or anyway, fast news doesn’t need a newspaper.
+“How are you this evening? I thought I knew all the reporters at the Courier. You must be new. And my, you’re working late hours.” It was only 8 PM, but news isn’t fast on Seahaven Island. Or anyway, fast news doesn’t need a newspaper.
 
 … 
 
@@ -198,7 +198,7 @@ Harrison stomped over to the phone and pulled it from Charlotte’s white knuckl
 
 “This is Snyder. Just what’s going on in that monkey house they call a writer’s room?”
 
-He heard little noises as Whitley handed the payphone headset to Truman.
+He heard little noises as Whitley handed the payphone handset to me.
 
 “Mayor Snyder. This is Truman Burbank. I’d like to talk to you about Officer Linda Groupon.”
 
@@ -218,7 +218,7 @@ Snyder put a hand to his forehead in preparation to fake an illness.
 
 “Well, Mr. Snyder, I really don’t want to be sent away by your secretary again. I’d like to talk to you now. Linda Groupon was an outstanding, decorated officer who served the Seahaven Island Police Department for twelve years. She was unfairly blamed for my mistakes and I think she should-- No, I insist that she be reinstated and… and absolved of all wrong-doing. I’ll do whatever it takes. I’ll do more community service. I’ll stop helping the police department if you want. Anything! I mean… I-- I won’t let this matter settle, sir.”
 
-Balderdash! Snyder was between a rock and a hard place. He couldn’t let Truman keep talking like that. He had no power to grant his demands. He couldn’t even get him to wait until tomorrow so the producers could decide what should happen.
+Balderdash! Snyder was between a rock and a hard place. He couldn’t let Truman keep talking like that. He had no power to grant his demands. He couldn’t even get him to wait until tomorrow so the lead showrunner could decide what should happen.
 
 “I can’t help you, kid,” and the phone slipped out of his sweaty palm back onto the hook. He waited a minute to be sure the camera had cut away before he poured himself a stiff drink and thought about his resumé.
 
