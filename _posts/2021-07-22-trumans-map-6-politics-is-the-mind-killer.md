@@ -404,7 +404,7 @@ It was a good one too.
 
 “I listened. I answered him.”
 
-“You listened just so you could respond with something about you. Which is good, your campaign is about you. But it’s also about them. It’s about this town.” She looked at my stumped face.
+“No, acting is reacting. You listened just so you could respond with something about you. Which is good, your campaign is about you. But it’s also about them. It’s about this town.” She looked at my stumped face.
 
 “Truman, you know nobody lives here who didn’t choose to. This town was only opened the year before you were born. Other than the kids your age, half of whom are away at college, every voter is here because they like the idea of Seahaven Island,” she said. “It’s not just me.”
 
