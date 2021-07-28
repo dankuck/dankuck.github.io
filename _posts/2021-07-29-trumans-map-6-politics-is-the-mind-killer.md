@@ -242,7 +242,7 @@ I didn’t want to. Did I? Maybe I needed to.
 
 “What are you gonna do now, Truman?” asked Whitley expectantly. She should have been tired from working all day, but the thrill of our fight for justice wouldn’t let her rest. And she didn’t mind the set back. She was just right for what I needed.
 
-“I promised myself I’d do whatever it takes. I guess we make good on our threat,” I said.
+“I promised myself I’d do whatever it takes. We have to make good on our threat,” I said.
 
 “You mean…” She hesitated, but the edge of her voice was excitement.
 
@@ -256,7 +256,7 @@ Why? At the time I ran for mayor, I thought it was because my father had been me
 
 Still, <i>The Sequences</i> became a guide for me and I did keep it secret. I told myself this was an abundance of caution, but mostly it was sentimentality. I missed my dad, who had been the major figure in my life until I was ten.
 
-“Politics is the mind-killer” is a warning. But it is also advice. This morning I was going to enter into politics and I had to mind-kill more than fifty percent of 3,560 minds.
+“Politics is the mind-killer” is a warning about the way politics affects judgement. But it is also advice. This morning I was going to enter into politics and I had to mind-kill more than fifty percent of 3,560 minds.
 
 “We’re the good guys, and the good guys always win,” I told my bathroom mirror, but the face there wasn’t convinced.
 
@@ -318,7 +318,7 @@ We started two blocks away from my house.
 
 Jeanette Hobbylobby was about 45, mother of three, and standing at her door ready to become my first convert after Whitley.
 
-“Well, Truman, what a surprise,” she glanced over my shoulder nervously, but I didn’t see what at. Whitley was behind me on the other side. She was dressed in a professional skirt and top with flats. She held a clipboard to note house numbers, votes, and the data for our slogans. I was in a light-fabric suit, perfect for June.
+“Well, Truman, what a surprise,” she glanced over my shoulder nervously, but I didn’t see what at. Whitley was behind me on the other side. She was dressed in a professional skirt and top with flats. She held a clipboard to note addresses and the data for our slogans. I was in a light-fabric suit, perfect for June.
 
 “Good morning, ma’am. I wanted to let you know that I’m running for mayor, and I wanted to see if I can count on your vote. Tru-man is an Island.” I gave the slogan that we had pre-selected, chosen by fair die roll.
 
@@ -420,11 +420,11 @@ It was a good one too.
 
 “N-- no, I want you to ask one.” She shook her head. “Just ask any question.”
 
-“Oh! Ok, I’ve got one.” Now I could kill some minds. “ ‘Mayors Cabot and Snyder have been running this town for 23 years. Do you have any idea what their approval rating is?’ ” Priming!
+“Oh! Ok, I’ve got one.” Now I could kill some minds. “ ‘Mayors Cabot and Snyder have been running this town for 22 years. Do you have any idea what their approval rating is?’ ” Priming! I had thought of it the night before.
 
 Whitley just stared at me. “What?”
 
-“It’s priming. It’s a psychological trick where you influence someone’s response to a question by preceding it with something that sounds close to the answer you want. It works best when they have no idea about the right answer.” I had thought it up the night before. I learned it from <i>The Sequences</i>, but it was well known in psychology.
+“It’s priming. It’s a psychological trick where you influence someone’s response to a question by preceding it with something that sounds close to the answer you want. It works best when they have no idea about the right answer.” I learned it from <i>The Sequences</i>, but it was well known in psychology.
 
 “No, Truman,” she sighed. “Nobody cares about that. I mean, sure it reminds people that you’re nerdy, and they all think that’s adorable. But you’re talking up your competition again. Think of something else.”
 
@@ -636,7 +636,7 @@ He looked out at the ocean. I glanced at it and almost lost my composure. I look
 
 “Keep me updated on those numbers. Leave me your pamphlet and I’ll think about sending a check,” he said when he finally turned back to me.
 
-A check! I knew fundraising would need to start soon.
+A check!
 
 Whitley quickly said, “We just ran out of pamphlets but I’ll make sure you get one tomorrow. And our weekly newsletter.”
 
@@ -660,7 +660,7 @@ We used the money from the first check to commission flyers with my face looking
 
 The day was almost pleasant when I went to put them up on poles and walls downtown. That’s where I happened upon my mother sitting at a sidewalk cafe called Starbucks.
 
-“Hello, Truman,” she smiled at me over her big round sunglasses.
+“Hello, Truman,” she smiled at me over big round sunglasses.
 
 “Hi, Mom, I thought you were at work,” I returned the smile. Mom worked off-island. She’d been commuting every weekday since I could remember. In the mornings when I was little I watched her drive away toward the bridge before Dad and I would head to the playground, the beach, the sailboat. And although she was the CEO, she didn’t bring work home with her. No sudden phone calls interrupting dinner or reams of papers to sign off on. She would say, “When I’m at home, my family is my only job.”
 
@@ -762,7 +762,7 @@ A single page had fallen to the floor, and for a moment I thought the machine ha
 
 I couldn’t read it in the dim light, so I just shoved it in my pocket.
 
-Then I went to the mayor’s office. In the dim of the streetlights through the window I could see the floor was covered with obstacles. On closer inspection, they were tool bags and power tools. There were several holes in the wall and ceiling, high and low, all with wires hanging out of them. All except one. I looked closer at that one. It held a small video camera.
+Then I went to the mayor’s office. In the dim of the streetlights through the window I could see the floor was covered with obstacles. On closer inspection, they were tool bags and power tools. There were several holes in the wall and ceiling, high and low, all with wires hanging out of them. All except one. I looked closer at that one. A small video camera was nestled inside.
 
 I quickly covered it with my palm. My eyes went wide. Had someone seen me?
 
