@@ -70,8 +70,8 @@ I decided the encyclopedia was still valuable. I would just need all the article
 <i>Plato</i><br />
 <i>Product Placement</i><br />
 [An unknown article from the missing S volume.]<br />
-<i>Seahaven Island, Florida, in the missing S volume.</i><br />
-<i>The Truman Show, in the missing T volume.</i><br />
+<i>Seahaven Island, Florida</i>, in the missing S volume.<br />
+<i>The Truman Show</i>, in the missing T volume.<br />
 [An unknown article from the missing U-V volume.]<br />
 <i>The Walt Disney Company</i><br />
 <i>Zoo Hypothesis</i><br />
@@ -768,7 +768,7 @@ I quickly covered it with my palm. My eyes went wide. Had someone seen me?
 
 I looked at the stuff all over the floor and grabbed a tool bag. When I held it up in the streetlamp light it read “Property of Seahaven Island Audio/Visual”.
 
-None of that had been there in the morning. Why did we suddenly need security cameras now?
+None of that had been there in the morning. Why did we suddenly need cameras?
 
 I stood in the dark for a moment, trying to figure out what to do. I wanted to know how Snyder escaped the building. But I had another mystery on my hands.
 
