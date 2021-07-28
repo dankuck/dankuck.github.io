@@ -13,6 +13,7 @@ tags: truman
 truman_title: "6. Politics Is The Mind-Killer"
 truman_description: "21-year-old Truman takes his grievances to the mayor. Can he fight City Hall?"
 posts:
+    - https://archiveofourown.org/works/23705065/chapters/81589570
 ---
 
 I was sure that the missing article from Volume U-V was <i>USSR</i>. It only made sense now that I knew the USSR had built the dome over Seahaven Island.
