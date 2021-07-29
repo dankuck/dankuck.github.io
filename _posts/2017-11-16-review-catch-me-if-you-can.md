@@ -17,6 +17,14 @@ It's billed as the true story of Frank Abagnale Jr. a now famous impostor who po
 
 But there's another author on the cover named Stan Redding. Since the book was published, Abagnale admitted that it is somewhat embellished by Redding. Maybe that will explain the ending when I spoil it in a moment.
 
+***
+
+UPDATE 2021: Frank Abagnale Jr. claims in
+<a href="https://www.youtube.com/watch?v=vsMydMDi3rI">a talk he gave at Google</a>
+that the film is a more accurate version of events.
+
+***
+
 And what else but embellishment should we expect from an admitted and convicted fraudster? A successful con-artist makes you like them, and this book succeeds at making you like Abagnale despite his crimes and lack of concern for others.
 
 If you're familiar with the film, there are some big differences in the book. For the film, a single FBI detective was invented. There was no single FBI detective doggedly pursuing Abagnale across country and continents, though Joseph Shea comes close. In fact, it wasn't just the FBI. Almost every country he lived in or visited was on the look out for Abagnale. And several of them caught him.
