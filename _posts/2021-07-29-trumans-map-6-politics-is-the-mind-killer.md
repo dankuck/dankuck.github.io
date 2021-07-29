@@ -8,7 +8,7 @@ page_img_height:
 page_img_desc: ""
 no_ad: 1
 sample_content:
-draft: 1
+draft:
 tags: truman
 truman_title: "6. Politics Is The Mind-Killer"
 truman_description: "21-year-old Truman takes his grievances to the mayor. Can he fight City Hall?"
