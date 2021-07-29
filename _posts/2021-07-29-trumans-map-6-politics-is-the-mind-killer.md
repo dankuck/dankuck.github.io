@@ -14,6 +14,9 @@ truman_title: "6. Politics Is The Mind-Killer"
 truman_description: "21-year-old Truman takes his grievances to the mayor. Can he fight City Hall?"
 posts:
     - https://archiveofourown.org/works/23705065/chapters/81589570
+    - https://www.reddit.com/r/rational/comments/ou09mg/trumans_map_6_politics_is_the_mindkiller/
+    - https://www.fanfiction.net/s/13556120/6/Truman-s-Map
+    - https://www.facebook.com/groups/rationalfic/posts/1975245385959139/
 ---
 
 I was sure that the missing article from Volume U-V was <i>USSR</i>. It only made sense now that I knew the USSR had built the dome over Seahaven Island.
