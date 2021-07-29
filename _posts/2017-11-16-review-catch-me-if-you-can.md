@@ -21,7 +21,8 @@ But there's another author on the cover named Stan Redding. Since the book was p
 
 UPDATE 2021: Frank Abagnale Jr. claims in
 <a href="https://www.youtube.com/watch?v=vsMydMDi3rI">a talk he gave at Google</a>
-that the film is a more accurate version of events.
+that the film is a more accurate version of events. The other author,
+Stan Redding, is not around to give his opinion.
 
 ***
 
