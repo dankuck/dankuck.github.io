@@ -111,7 +111,9 @@ Not for the first time, I wished I had Meryl and Marlon with me. Like always I w
 
 I took a breath. <i>Next step, Truman.</i> I reached in among the scattered books and found the Reference Index instead. The last volume of an encyclopedia lists everything you could think of and where it can be found, even in other articles.
 
-<i>Burbank, California</i>, Volume 2, page 312; Volume 9, page 310; … ; Volume 21, page 447.
+<i>Burbank Airport-South station</i>, See <i>Amtrak</i>.
+
+<i>Burbank, California</i>, Volume 2, page 313.
 
 <i>Burbank, South Dakota</i>, Volume 2, page 314.
 
