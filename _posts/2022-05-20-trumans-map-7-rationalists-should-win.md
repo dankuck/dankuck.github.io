@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Truman's Map 6: Rationalists Should Win"
+title: "Truman's Map 7: Rationalists Should Win"
 page_img_thumb:
 og_page_img:
 page_img_width:
@@ -491,7 +491,7 @@ David Tractorsupply was a sophomore who had moved to Seahaven Island the year be
 
 At 12:45 PM, I tied my shoe next to his locker and slipped a note in. If Kyle and Nancy had gone through all that work to give me his name like a spy, I figured I would be as inconspicuous as possible.
 
-And of course, that’s what They wanted. They couldn’t leave this plot thread dangling without consequences. They had to see it through. But They didn’t have to make Kyle and Nancy look bad either.
+And of course, that’s what They wanted. They couldn’t leave this plot thread dangling without consequences. They had to see it through. But They didn’t have to make Kyle and Nancy look bad at the same time.
 
 My note read, “Meet behind the drugstore at 4.” I had signed it TB and just hoped he wouldn’t think he was meeting Troy Blockbuster.
 
