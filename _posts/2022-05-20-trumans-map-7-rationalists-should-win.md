@@ -115,9 +115,9 @@ Then I pushed on.
 
 <i>Product Placement</i>.
 
-“Product placement is a form of advertising in which an advertised product becomes part of the art it supports. The earliest use of product placement dates to 1873 when Jules Verne included the names of shipping companies in his novel <i>Around the World in Eighty Days</i>. Product placement peaked in the 20th century as an element of early television programming. It was replaced by commercial breaks as the 20th century progressed until the launch of <i>The Truman Show</i> brought it back in 1997. The practice is now so widespread that some Internet video channels are devoted exclusively to it, such as ‘unboxing videos’.
+“Product placement is a form of advertising in which an advertised product becomes part of the art it supports. The earliest use of product placement dates to 1873 when Jules Verne included the names of shipping companies in his novel <i>Around the World in Eighty Days</i>. Product placement peaked in the 20th century as an element of early television programming. It was replaced by commercial breaks as the 20th century progressed until the launch of <i>The Truman Show</i> brought it back in 1997. Product placement is now so widespread that some Internet video channels are devoted exclusively to it, such as ‘unboxing videos’.
 
-“Product placement can take many forms. <i>The Truman Show</i>, which never breaks for commercials, features literal products and billboard advertisements, as well as specially chosen business names, character names, and character dialogue. Characters regularly mention product brands and voice their slogans.”
+“Product placement can take many forms. <i>The Truman Show</i> never breaks for commercials. Instead it features literal products and billboard advertisements, as well as specially chosen business names, character names, and character dialogue. Characters regularly mention product brands and voice their slogans.”
 
 If the article on Plato’s allegories left me feeling alienated, this redoubled it. Didn’t everyone talk about product brands and their slogans several times a day?
 
