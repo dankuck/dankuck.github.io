@@ -115,27 +115,27 @@ Then I pushed on.
 
 <i>Product Placement</i>.
 
-“Product placement is a form of advertising in which an advertised product becomes part of the art it supports. The earliest use of product placement dates to 1873 when Jules Verne included the names of shipping companies in his novel <i>Around the World in Eighty Days</i>. Product placement peaked in the 20th century as an element of early television programming. It was replaced by commercial breaks as the 20th century progressed until the launch of <i>The Truman Show</i> brought it back in 1997. Product placement is now so widespread that some Internet video channels are devoted exclusively to it, such as ‘unboxing videos’.
+“Product placement is a form of advertising in which an advertised product becomes part of the art it supports. The earliest use of product placement dates to 1873 when Jules Verne included the names of shipping companies in his novel <i>Around the World in Eighty Days</i>. Product placement peaked in the 20th century as an element of early television programming. It was replaced by commercial breaks as the 20th century progressed until the launch of <i>The Truman Show</i> in 1997. <i>The Truman Show</i> never breaks for commercials. Instead it features product placement and prominent billboard advertisements as well as branded business names and character names. To promote brands, characters regularly mention them and voice their slogans.”
 
-“Product placement can take many forms. <i>The Truman Show</i> never breaks for commercials. Instead it features literal products and billboard advertisements, as well as specially chosen business names, character names, and character dialogue. Characters regularly mention product brands and voice their slogans.”
-
-If the article on Plato’s allegories left me feeling alienated, this redoubled it. Didn’t everyone talk about product brands and their slogans several times a day?
+The article on Plato’s allegories left me feeling alienated, and this redoubled it. Didn’t everyone talk about product brands and their slogans as a matter of course?
 
 <i>Walt Disney Company, The</i>.
 
-“The Walt Disney Company, often called simply Disney, is a multinational entertainment and media conglomerate. Disney was originally founded…”
+“The Walt Disney Company is a multinational entertainment and media conglomerate. Disney was originally founded…”
 
 <i>Walt Disney Company, The -- Utilidor System</i>.
 
-“Disney theme parks are served by the utilidor system, a series of the world’s largest utility tunnels. These tunnels allow ordinary operations such as trash removal and character movement to take place out of sight of park guests. The utilidors were first built for Disney’s Magic Kingdom in Florida and were replicated for sections of Epcot and Disneyland.
+“Disney theme parks are served by the utilidor system, a series of underground utility tunnels. These tunnels allow ordinary operations such as trash removal and character movement to take place out of sight of park guests. The utilidors were first built for Disney’s Magic Kingdom in Florida and were replicated for sections of Epcot and Disneyland.
 
-“Apart from Disney properties, a utilidor system can be found under Seahaven Island, Florida, the filming location for <i>The Truman Show</i>. This feature was absent when the town was built in 1997. It was only added when Seahaven Island, Inc. formed a strategic partnership with Disney in 2002.”
+“Apart from Disney properties, a utilidor system serves Seahaven Island, Florida, the filming location for <i>The Truman Show</i>. This feature was absent when the town was built in 1997. It was only added when Seahaven Island, Inc. formed a strategic partnership with Disney in 2002.”
 
 <i>Zoo Hypothesis</i>.
 
 “A zoo hypothesis is any of the often-contradictory hypotheses positing that Earth was populated through the intervention of extraterrestrial life forms. The hypotheses range widely: under one hypothesis Earth is a refuge for a beleaguered alien species; under another, Earth is a form of entertainment akin to <i>The Truman Show</i>. While no evidence exists to support zoo hypotheses, popular level discussion of them spiked in 2013--along with general excitement for space travel--coinciding with Neil Armstrong, Jr.’s successful walk on the moon.”
 
-I had been scribbling dates, names, and numbers on the back of the stolen hallway map, and now I began to plan how I would invert my search to find articles that <i>The Truman Show</i> referred to. But when I became aware of a distant sound, I stopped everything to listen closer.
+I had been scribbling dates and facts on the back of the stolen hallway map, and now I was realizing I could invert my search to find articles that <i>The Truman Show</i> referred to. It would take a lot more work, but…
+
+I became aware of a distant sound, I stopped everything to listen closer.
 
 I left the forklift. The sound grew distinct as I crept toward the doors between the warehouse and the hall. Yes, I recognized the music.
 
@@ -155,7 +155,7 @@ The dance instructor, Mark “Call me Mark” Ballas, was clearly done with me. 
 
 Viewed on television his smile was probably very convincing. He was always supportive. But from my vantage point he was a faker. I had seen a lot of fakers and he was complete and utter.
 
-Dance class was supposed to prepare me for the Island Breeze Dance at Seahaven Island High School. It was a week away, but I didn’t even want to go. My mother had insisted, “Truman, you should mingle with your peers. You’ll make more friends.” By which she meant I <i>needed</i> to make friends. Any friends at all.
+Dance class was supposed to prepare me for the Island Breeze Dance at Seahaven Island High School. It was a week away, but I didn’t even want to go. My mother had insisted, “Truman, you should mingle with your peers. You’ll make more friends.” By which she meant I <em>needed</em> to make friends. Any friends at all.
 
 That’s why she enrolled me in Mark Ballas’s one-chance-only dance lessons, <i>Eight Weeks to Stardom</i>, every Wednesday and Friday. Here I could make a complete fool of myself twice a week in front of eleven of my more talented peers.
 
