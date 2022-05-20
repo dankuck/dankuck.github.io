@@ -18,6 +18,7 @@ posts:
 To see me in my forklift, a stranger might think I was studying for a test. Calmly turning pages, soaking in everything I could. Only my eyebrows betrayed the roiling chaos of my wonder, anger, and sheer embarrassment.
 
 <i>Bolt (Film)</i>.
+
 I had to understand why They had put me in this situation. I knew more now, so I restarted with Bolt, and finished all the articles that mentioned The Truman Show.
 
 “<i>Bolt</i> is a 2008 comedy-adventure film produced by Walt Disney Animation Studios. It features the canine star of a prime-time television show who believes he is actually a superhero. Kenneth Turan of the <i>Los Angeles Times</i> wrote that ‘[Bolt] also has an intriguing plot along the lines of: What if <i>The Truman Show</i> starred a dog? It’s a story that’ll touch your heart and remind you just how lucky Bolt and Truman are.’”
@@ -114,7 +115,7 @@ Then I pushed on.
 
 <i>Product Placement</i>.
 
-“Product placement is a form of advertising in which an advertised product becomes part of the art it supports. The earliest use of product placement dates to 1873 when Jules Verne included the names of shipping companies in his novel <i>Around the World in Eighty Days</i>. Product placement peaked in the 20th century as an element of early television programming. It was replaced by commercial advertisements as the 20th century progressed until the launch of <i>The Truman Show</i> brought it back in 1997. The practice is now so widespread that some Internet video channels are devoted exclusively to it, such as ‘unboxing videos’.
+“Product placement is a form of advertising in which an advertised product becomes part of the art it supports. The earliest use of product placement dates to 1873 when Jules Verne included the names of shipping companies in his novel <i>Around the World in Eighty Days</i>. Product placement peaked in the 20th century as an element of early television programming. It was replaced by commercial breaks as the 20th century progressed until the launch of <i>The Truman Show</i> brought it back in 1997. The practice is now so widespread that some Internet video channels are devoted exclusively to it, such as ‘unboxing videos’.
 
 “Product placement can take many forms. <i>The Truman Show</i>, which never breaks for commercials, features literal products and billboard advertisements, as well as specially chosen business names, character names, and character dialogue. Characters regularly mention product brands and voice their slogans.”
 
@@ -586,7 +587,7 @@ I didn’t like being pigeonholed, but he was right. “Well, yeah, of course I 
 
 The fifties were a tumultuous time in science when almost all interventions to prevent climate change were shown to be worthless. The studies they were based on couldn’t be reproduced.
 
-“Drug studies are p-hacked? But that doesn’t make any sense. There was so much scandal in the fifties, no one in their right mind would go and do it all <i>again</i> just to make drugs look bad.”
+“Drug studies are p-hacked? But that doesn’t make any sense. There was so much scandal in the fifties, no one in their right mind would go and do it all <em>again</em> just to make drugs look bad.”
 
 “Yes, they would man, because you know why?” Now he was agitated. It was fun to watch. “Because it was the racists and the classists in government. They knew if they could get science on their side, then everyone would go along with it.”
 
@@ -898,7 +899,7 @@ Their smiles returned quickly, because this was exactly the Truman They wanted.
 
 The nurse was scrambling to reconnect the saline line. My mom motioned to her to stop.
 
-Seahaven Island was fine, I decided then. There was nothing wrong with it, per se. It was a lovely town with picket fences and nice lawns. Even the local drug dealer’s house was clean, if messy. The people were enthusiastic. Whitley Birchbox down at the drugstore talked like it was the best place in the world. I could stay here forever.
+Seahaven Island was fine, I decided then. There was nothing wrong with it. It was a lovely town with picket fences and nice lawns. Even the local drug dealer’s house was clean, if messy. The people were enthusiastic. Whitley Birchbox down at the drugstore talked like it was the best place in the world. I could stay here forever.
 
 I had no other choice.
 
