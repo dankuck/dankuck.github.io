@@ -17,9 +17,9 @@ posts:
 
 To see me in my forklift, a stranger might think I was studying for a test. Calmly turning pages, soaking in everything I could. Only my eyebrows betrayed the roiling chaos of my wonder, anger, and sheer embarrassment.
 
-<i>Bolt (Film)</i>.
+I had to understand why They had put me in this situation. I knew more now, so I restarted with Bolt, and finished all the articles that mentioned <i>The Truman Show</i>.
 
-I had to understand why They had put me in this situation. I knew more now, so I restarted with Bolt, and finished all the articles that mentioned The Truman Show.
+<i>Bolt (Film)</i>.
 
 “<i>Bolt</i> is a 2008 comedy-adventure film produced by Walt Disney Animation Studios. It features the canine star of a prime-time television show who believes he is actually a superhero. Kenneth Turan of the <i>Los Angeles Times</i> wrote that ‘[Bolt] also has an intriguing plot along the lines of: What if <i>The Truman Show</i> starred a dog? It’s a story that’ll touch your heart and remind you just how lucky Bolt and Truman are.’”
 
