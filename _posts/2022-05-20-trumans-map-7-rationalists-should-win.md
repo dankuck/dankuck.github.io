@@ -24,9 +24,9 @@ I had to understand why They had put me in this situation. I knew more now, so I
 
 I had dismissed <i>Bolt</i> out of hand before. Now I didn’t want to miss anything…
 
-“In the film, Bolt becomes lost from his fantasy world and finds two animal friends who help him understand his role in society. Glenn Greenwald wrote in <i>The Intercept</i>, ‘When the outside world encroaches, it threatens to destroy him. And though the film may appear crass and puerile, its impact is timeless. … Yes, Bolt is a great character because he empowers himself by re-taking his lost glory. … Yes, it’s better for Bolt when he returns to his Hollywood life. Yes, Bolt would have been destroyed if he had pressed on, peeling away the layers that support him until there was nothing, selfishly unweaving the rainbow of his good fortune. Even [Tom] Markus can see those shallow facts. … The real reason why Bolt’s return is good--true, honest--is that it makes the audience better. The audience can grow with him only when he is living for them.’ ”
+“In the film, Bolt becomes lost from his fantasy world and finds two animal friends who help him understand his role in society. Glenn Greenwald wrote in <i>The Intercept</i>, ‘When Bolt is out of his element, the outside world threatens to destroy him. And though the film may appear crass and puerile, its impact is timeless. … Yes, Bolt is a great character because he empowers himself by re-taking his lost glory. … Yes, it’s better for Bolt when he returns to his Hollywood life. Yes, Bolt would have lost everything if he had pressed on peeling away the layers of the world until there was nothing to support him, selfishly unweaving the rainbow of his good fortune. Even [Tom] Markus can see those shallow facts. … The truth of Bolt’s return--why it’s good, true, honest--is that it makes the audience better. The audience can grow with him only when he is living for them.’ ”
 
-I guess you had to have seen the film to understand that. I hadn’t seen any film made after 1989. The nearest movie theater that played new movies was supposed to be outside of town in Destin.
+I guess you had to have seen the film to understand that. I hadn’t seen any film made after 1989. The nearest theater that played new movies was outside of town.
 
 But the music on the radio was always new.
 
@@ -38,7 +38,7 @@ But the music on the radio was always new.
 
 <i>Corporatocracy</i>.
 
-“Corporatocracy is any economic, political, and judicial system controlled by one or more corporations. Used pejoratively, the term criticizes government policies which benefit corporations at the expense of the community. Historic corporatocracies arguably include ‘company towns’ built solely to house workers and serve corporate interests. In modern times, Seahaven Island, Florida stands as an example of a government intentionally created as a corporatocracy. It is the shooting location of <i>The Truman Show</i>. The town and the TV show are owned by Seahaven Island, Inc.”
+“Corporatocracy is any economic, political, and judicial system controlled by one or more corporations. The term sometimes criticizes government policies which benefit corporations. Corporatocracy is at least as old as ‘company towns’ built to house workers and serve corporate interests. In modern times, Seahaven Island, Florida is an example of a government intentionally created as a corporatocracy. It’s owned by Seahaven Island, Inc., which films <i>The Truman Show</i> there.”
 
 <i>Enclaves and Exclaves</i>.
 
@@ -50,7 +50,7 @@ But the music on the radio was always new.
 
 “Each country carefully guards its technology from inspection by the others. Journalist and author Malcolm Gladwell claims, ‘The dependence on secret technologies makes the Florida Dome project a unique and unlikely project. But if the United States, Germany, and the Soviet Union can put aside their [scientific] secrecy once, maybe they can do it again. Maybe we could all be Truman.’ ”
 
-I had spun up several hypotheses while I read, but my first hypothesis, <i>I Am Not The Only One</i>, had been shrinking ever since I discovered <i>The Truman Show</i>. Now it crashed and burned, replaced by a new one: <i>I Will Not Always Be The Only One</i>. If this journalist was right, it was only a remote possibility.
+I had several hypotheses now, but my first hypothesis, <i>I Am Not The Only One</i>, had been shrinking ever since I'd discovered <i>The Truman Show</i>. Now it crashed and burned, replaced by a new one, <i>I Will Not Always Be The Only One</i>, even though this journalist thought it was unlikely.
 
 <i>Glass, Philip</i>.
 
