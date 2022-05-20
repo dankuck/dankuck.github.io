@@ -21,7 +21,7 @@ I had to understand why They had put me in this situation. I knew more now, so I
 
 <i>Bolt (Film)</i>.
 
-“<i>Bolt</i> is a 2008 comedy-adventure film produced by Walt Disney Animation Studios. It features the canine star of a prime-time television show who believes he is actually a superhero. Kenneth Turan of the <i>Los Angeles Times</i> wrote that ‘[Bolt] also has an intriguing plot along the lines of: What if <i>The Truman Show</i> starred a dog? It’s a story that’ll touch your heart and remind you just how lucky Bolt and Truman are.’”
+“<i>Bolt</i> is a 2008 comedy-adventure film produced by Walt Disney Animation Studios. It features the canine star of a prime-time television show who believes he is actually a superhero. Kenneth Turan of the <i>Los Angeles Times</i> wrote that ‘[Bolt] also has an intriguing plot along the lines of: What if <i>The Truman Show</i> starred a dog? It’s a story that’ll touch your heart and remind you just how lucky Bolt and Truman are.’ ”
 
 I had dismissed <i>Bolt</i> out of hand before. Now I didn’t want to miss anything…
 
