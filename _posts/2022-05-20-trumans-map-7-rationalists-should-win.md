@@ -13,8 +13,11 @@ tags: truman
 truman_title: "7. Rationalists Should Win"
 truman_description: "15-year-old Truman attempts to escape Seahaven Island for the first time. What will he learn from this failure?"
 posts:
+    - https://www.fanfiction.net/s/13556120/7/Truman-s-Map
+    - https://archiveofourown.org/works/23705065/chapters/97957404
 related_posts:
     - https://archiveofourown.org/works/39151989
+    - https://www.fanfiction.net/s/14084450/1/Superior-Man-True-Man-the-Extraordinary-Study-of-the-Kent-Orphan
 ---
 
 A stranger would think I was studying for a test there in my forklift. I calmly turned the pages, soaking in everything I could. Only my eyebrows betrayed the roiling chaos of my wonder, anger, and sheer embarrassment.
