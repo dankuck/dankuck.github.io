@@ -13,6 +13,8 @@ tags: truman
 truman_title: "7. Rationalists Should Win"
 truman_description: "15-year-old Truman attempts to escape Seahaven Island for the first time. What will he learn from this failure?"
 posts:
+related_posts:
+    - https://archiveofourown.org/works/39151989
 ---
 
 A stranger would think I was studying for a test there in my forklift. I calmly turned the pages, soaking in everything I could. Only my eyebrows betrayed the roiling chaos of my wonder, anger, and sheer embarrassment.
@@ -917,4 +919,4 @@ I was alone. But at least I had hundreds of friends. And if they were all fakers
 
 <p align="center">***</p>
 
-Author's Note: As a reward for your patience while I wrote this chapter, I wrote a bonus story. It's a completely separate Truman Show fanfic: <a href="https://archiveofourown.org/works/39151989">Superior Man, True Man: the Extraordinary Study of the Kent Orphan</a>. Enjoy!
+Author's Note: As a reward for coming back after all these months, I wrote a bonus story for you. It's a completely separate Truman Show fanfic: <a href="https://archiveofourown.org/works/39151989">Superior Man, True Man: the Extraordinary Study of the Kent Orphan</a>. Enjoy!
