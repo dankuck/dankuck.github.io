@@ -15,9 +15,9 @@ truman_description: "15-year-old Truman attempts to escape Seahaven Island for t
 posts:
 ---
 
-To see me in my forklift, a stranger might think I was studying for a test. Calmly turning pages, soaking in everything I could. Only my eyebrows betrayed the roiling chaos of my wonder, anger, and sheer embarrassment.
+A stranger would think I was studying for a test there in my forklift. I calmly turned the pages, soaking in everything I could. Only my eyebrows betrayed the roiling chaos of my wonder, anger, and sheer embarrassment.
 
-I had to understand why They had put me in this situation. I knew more now, so I restarted with Bolt, and finished all the articles that mentioned <i>The Truman Show</i>.
+I had to understand why They had put me through this. Months before my escape, I already knew who was behind it all. But I still didn’t understand why. It wasn’t enough to learn that it was a television show. There must be some reason. So I restarted at <i>Bolt</i>, and with the new facts in mind I finished all the articles.
 
 <i>Bolt (Film)</i>.
 
@@ -135,7 +135,7 @@ The article on Plato’s allegories left me feeling alienated, and this redouble
 
 I had been scribbling dates and facts on the back of the stolen hallway map, and now I was realizing I could invert my search to find articles that <i>The Truman Show</i> referred to. It would take a lot more work, but…
 
-I became aware of a distant sound, I stopped everything to listen closer.
+When I became aware of a distant sound, I stopped everything to listen closer.
 
 I left the forklift. The sound grew distinct as I crept toward the doors between the warehouse and the hall. Yes, I recognized the music.
 
