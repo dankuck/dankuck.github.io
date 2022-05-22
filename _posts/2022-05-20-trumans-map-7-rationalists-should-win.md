@@ -915,3 +915,6 @@ I drifted away from Nancy and Kyle, too. After a few years they got married. The
 
 I was alone. But at least I had hundreds of friends. And if they were all fakers, who was I to judge? I was a faker too.
 
+<p align="center">***</p>
+
+Author's Note: As a reward for your patience while I wrote this chapter, I wrote a bonus story. It's a completely separate Truman Show fanfic: <a href="https://archiveofourown.org/works/39151989">Superior Man, True Man: the Extraordinary Study of the Kent Orphan</a>. Enjoy!
