@@ -8,7 +8,7 @@ page_img_height:
 page_img_desc: ""
 no_ad: 1
 sample_content:
-draft: 1
+draft:
 tags: truman
 truman_title: "7. Rationalists Should Win"
 truman_description: "15-year-old Truman attempts to escape Seahaven Island for the first time. What will he learn from this failure?"
