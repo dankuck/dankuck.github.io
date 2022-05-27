@@ -7,7 +7,7 @@ no_ad: 1
 draft:
 ---
 
-Make graph puzzles quickly and easily using <a href="/myster-picture-graph">Mystery Picture Graph</a>.
+Make graph puzzles quickly and easily using <a href="/mystery-picture-graph">Mystery Picture Graph</a>.
 
 A mystery picture graph is a set of coordinates that you can plot on graph paper like a connect-the-dots puzzle. You remember... from math class?
 
