@@ -15,6 +15,7 @@ truman_description: "15-year-old Truman attempts to escape Seahaven Island for t
 posts:
     - https://www.fanfiction.net/s/13556120/7/Truman-s-Map
     - https://archiveofourown.org/works/23705065/chapters/97957404
+    - https://www.reddit.com/r/rational/comments/uvqxq2/trumans_map_7_rationalists_should_win/
 related_posts:
     - https://archiveofourown.org/works/39151989
     - https://www.fanfiction.net/s/14084450/1/Superior-Man-True-Man-the-Extraordinary-Study-of-the-Kent-Orphan
@@ -174,7 +175,7 @@ It died on the vine. Not many kids in town could keep up with me. Most of them s
 
 I found out I have no athletic ability, no real interest in robotics, no artistic talent, only a passing knack for cooking, and no rhythm.
 
-Mr. Ballas was not pleased. Then again he was getting what he wanted out of his temporary yet poignant intrusion on my teenage life: screen time. Maybe he failed to prove to the audience that he could “turn anyone into a dancer”, but he occupied the public conscience and that’s enough. I try not to blame myself for missing what he was really after, since They were actively working to keep me in the dark.
+Mr. Ballas was not pleased. Then again he was getting what he wanted out of his temporary yet poignant intrusion on my teenage life: screen time. Maybe he failed to prove to the audience that he could “turn anyone into a dancer”, but he occupied the public consciousness and that’s enough. I try not to blame myself for missing what he was really after, since They were actively working to keep me in the dark.
 
 For me, the only silver lining was that we were dancing to <i>It’s Time</i> by my new favorite band, Imagine Dragons.
 
