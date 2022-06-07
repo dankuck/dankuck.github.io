@@ -5,30 +5,41 @@ layout: default
 
 <div id="app">
     {% raw %}
-    <div>28 days ago: {{ twentyEightDays }}</div>
-    <div>6 months ago: {{ sixMonths }}</div>
-    <div>12 months ago: {{ twelveMonths }}</div>
+    <div>28 days ago:
+        <a :href="searchBase + encodeURIComponent(twentyEightDays)">{{ twentyEightDays }}</a>
+    </div>
+    <div>6 months ago:
+        <a :href="searchBase + encodeURIComponent(sixMonths)">{{ sixMonths }}</a>
+    </div>
+    <div>12 months ago:
+        <a :href="searchBase + encodeURIComponent(twelveMonths)">{{ twelveMonths }}</a>
+    </div>
     {% endraw %}
 </div>
 
 <script type="text/javascript">
 new Vue({
     el: '#app',
+    data() {
+        return {
+            searchBase: 'https://docs.google.com/document/u/0/?q=',
+        };
+    },
     computed: {
         twentyEightDays() {
             const d = new Date();
             d.setDate(d.getDate() - 28);
-            return d.toLocaleDateString();
+            return d.toLocaleDateString('en-US', {month: 'long', day: 'numeric', year: 'numeric'});
         },
         sixMonths() {
             const d = new Date();
             d.setMonth(d.getMonth() - 6);
-            return d.toLocaleDateString();
+            return d.toLocaleDateString('en-US', {month: 'long', day: 'numeric', year: 'numeric'});
         },
         twelveMonths() {
             const d = new Date();
             d.setMonth(d.getMonth() - 12);
-            return d.toLocaleDateString();
+            return d.toLocaleDateString('en-US', {month: 'long', day: 'numeric', year: 'numeric'});
         },
     },
 });
