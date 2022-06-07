@@ -1,27 +1,33 @@
 ---
 layout: default
 ---
+<script src="https://cdn.jsdelivr.net/npm/vue@2/dist/vue.js"></script>
 
-<div>28 days ago: <span id="twentyEightDays"></span></div>
-<div>6 months ago: <span id="sixMonths"></span></div>
-<div>12 months ago: <span id="twelveMonths"></span></div>
+<div id="app">
+    <div>28 days ago: {{ twentyEightDays }}</div>
+    <div>6 months ago: {{ sixMonths }}</div>
+    <div>12 months ago: {{ twelveMonths }}</div>
+</div>
 
 <script type="text/javascript">
-const twentyEightDays = new Date();
-twentyEightDays.setDate(twentyEightDays.getDate() - 28);
-
-const sixMonths = new Date();
-sixMonths.setMonth(sixMonths.getMonth() - 6);
-
-const twelveMonths = new Date();
-twelveMonths.setMonth(twelveMonths.getMonth() - 12);
-
-document.getElementById('twentyEightDays').innerHTML
-    = twentyEightDays.toLocaleDateString();
-
-document.getElementById('sixMonths').innerHTML
-    = sixMonths.toLocaleDateString();
-
-document.getElementById('twelveMonths').innerHTML
-    = twelveMonths.toLocaleDateString();
+new Vue({
+    el: '#app',
+    computed: {
+        twentyEightDays() {
+            const d = new Date();
+            d.setDate(d.getDate() - 28);
+            return d.toLocaleDateString();
+        },
+        sixMonths() {
+            const d = new Date();
+            d.setMonth(d.getMonth() - 6);
+            return d.toLocaleDateString();
+        },
+        twelveMonths() {
+            const d = new Date();
+            d.setMonth(d.getMonth() - 12);
+            return d.toLocaleDateString();
+        },
+    },
+});
 </script>
