@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<div>28 days ago: <span id="twentyEightDays"></span></div>
+<div>6 months ago: <span id="sixMonths"></span></div>
+<div>12 months ago: <span id="twelveMonths"></span></div>
+
+<script type="text/javascript">
+const twentyEightDays = new Date();
+twentyEightDays.setDate(twentyEightDays.getDate() - 28);
+
+const sixMonths = new Date();
+sixMonths.setMonth(sixMonths.getMonth() - 6);
+
+const twelveMonths = new Date();
+twelveMonths.setMonth(twelveMonths.getMonth() - 12);
+
+document.getElementById('twentyEightDays').innerHTML
+    = twentyEightDays.toLocaleDateString();
+
+document.getElementById('sixMonths').innerHTML
+    = sixMonths.toLocaleDateString();
+
+document.getElementById('twelveMonths').innerHTML
+    = twelveMonths.toLocaleDateString();
+</script>
