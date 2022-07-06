@@ -11,8 +11,9 @@ layout: default
     <div>6 months ago:
         <a :href="searchBase + encodeURIComponent(sixMonths)">{{ sixMonths }}</a>
     </div>
-    <div>12 months ago:
-        <a :href="searchBase + encodeURIComponent(twelveMonths)">{{ twelveMonths }}</a>
+    <div v-for="date in yearsSince2003">
+        {{ date.label }}:
+        <a :href="searchBase + encodeURIComponent(date.date)">{{ date.date }}</a>
     </div>
     {% endraw %}
 </div>
@@ -29,17 +30,27 @@ new Vue({
         twentyEightDays() {
             const d = new Date();
             d.setDate(d.getDate() - 28);
-            return d.toLocaleDateString('en-US', {month: 'long', day: 'numeric', year: 'numeric'});
+            return d.toLocaleDateString('en-US', {weekday: 'long', month: 'long', day: 'numeric', year: 'numeric'});
         },
         sixMonths() {
             const d = new Date();
             d.setMonth(d.getMonth() - 6);
-            return d.toLocaleDateString('en-US', {month: 'long', day: 'numeric', year: 'numeric'});
+            return d.toLocaleDateString('en-US', {weekday: 'long', month: 'long', day: 'numeric', year: 'numeric'});
         },
-        twelveMonths() {
-            const d = new Date();
-            d.setMonth(d.getMonth() - 12);
-            return d.toLocaleDateString('en-US', {month: 'long', day: 'numeric', year: 'numeric'});
+        yearsSince2003() {
+            const begin2003 = new Date('2003-01-01');
+            const dates = [];
+            let d = new Date();
+            let ago = 0;
+            while (d > begin2003) {
+                d.setMonth(d.getMonth() - 12);
+                ago++
+                dates.push({
+                    label: `${ago} years ago`,
+                    date: d.toLocaleDateString('en-US', {weekday: 'long', month: 'long', day: 'numeric', year: 'numeric'})
+                });
+            }
+            return dates;
         },
     },
 });
