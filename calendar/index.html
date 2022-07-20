@@ -19,8 +19,32 @@ layout: default
 </div>
 
 <script type="text/javascript">
+const NowMixin = {
+    data() {
+        return {
+            nowForceRefresh: 0,
+        };
+    },
+    mounted() {
+        this.nowInterval = setInterval(
+            () => this.nowForceRefresh = !this.nowForceRefresh,
+            1000
+        );
+    },
+    unmounted() {
+        clearInterval(this.nowInterval);
+    },
+    methods: {
+        now(...args) {
+            this.nowForceRefresh;
+            return new Date(...args);
+        },
+    },
+};
+
 new Vue({
     el: '#app',
+    mixins: [NowMixin],
     data() {
         return {
             searchBase: 'https://docs.google.com/document/u/0/?q=',
@@ -28,19 +52,19 @@ new Vue({
     },
     computed: {
         twentyEightDays() {
-            const d = new Date();
+            const d = this.now();
             d.setDate(d.getDate() - 28);
             return d.toLocaleDateString('en-US', {weekday: 'long', month: 'long', day: 'numeric', year: 'numeric'});
         },
         sixMonths() {
-            const d = new Date();
+            const d = this.now();
             d.setMonth(d.getMonth() - 6);
             return d.toLocaleDateString('en-US', {weekday: 'long', month: 'long', day: 'numeric', year: 'numeric'});
         },
         yearsSince2003() {
-            const begin2003 = new Date('2003-01-01');
+            const begin2003 = this.now('2003-01-01');
             const dates = [];
-            let d = new Date();
+            let d = this.now();
             let ago = 0;
             while (d > begin2003) {
                 d.setMonth(d.getMonth() - 12);
