@@ -48,6 +48,11 @@ const NowMixin = {
 new Vue({
     el: '#app',
     mixins: [NowMixin],
+    data() {
+        return {
+            _userNumber: '0',
+        };
+    },
     computed: {
         twentyEightDays() {
             const d = this.now();
@@ -76,9 +81,10 @@ new Vue({
         },
         userNumber: {
             get() {
-                return localStorage.getItem('calendarUserNumber') ?? 0;
+                return localStorage.getItem('calendarUserNumber') ?? this._userNumber;
             },
             set(value) {
+                this._userNumber = value;
                 return localStorage.setItem('calendarUserNumber', value);
             },
         },
