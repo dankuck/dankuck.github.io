@@ -62,9 +62,9 @@ new Vue({
         yearsSince2003() {
             const begin2003 = this.now('2003-01-01');
             const dates = [];
-            let d = this.now();
             let ago = 0;
             while (d > begin2003) {
+                const d = this.now();
                 d.setMonth(d.getMonth() - 12);
                 ago++
                 dates.push({
@@ -76,14 +76,14 @@ new Vue({
         },
         userNumber: {
             get() {
-                return localStorage.getItem('calendarUserNumber') ?? 1;
+                return localStorage.getItem('calendarUserNumber') ?? 0;
             },
             set(value) {
                 return localStorage.setItem('calendarUserNumber', value);
             },
         },
         searchBase() {
-            return `https://drive.google.com/drive/u/${this.userName}/search?q=`;
+            return `https://drive.google.com/drive/u/${this.userNumber}/search?q=`;
         },
     },
     methods: {
