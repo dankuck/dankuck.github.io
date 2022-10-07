@@ -6,14 +6,17 @@ layout: default
 <div id="app">
     {% raw %}
     <div>28 days ago:
-        <a :href="searchBase + encodeURIComponent(twentyEightDays)">{{ twentyEightDays }}</a>
+        <a :href="searchBase + encodeURIComponent(shortString(twentyEightDays))">{{ longString(twentyEightDays) }}</a>
     </div>
     <div>6 months ago:
-        <a :href="searchBase + encodeURIComponent(sixMonths)">{{ sixMonths }}</a>
+        <a :href="searchBase + encodeURIComponent(shortString(sixMonths))">{{ longString(sixMonths) }}</a>
     </div>
     <div v-for="date in yearsSince2003">
         {{ date.label }}:
-        <a :href="searchBase + encodeURIComponent(date.date)">{{ date.date }}</a>
+        <a :href="searchBase + encodeURIComponent(shortString(date.date))">{{ longString(date.date) }}</a>
+    </div>
+    <div>
+        User Number: <input v-model="userNumber" />
     </div>
     {% endraw %}
 </div>
@@ -45,21 +48,16 @@ const NowMixin = {
 new Vue({
     el: '#app',
     mixins: [NowMixin],
-    data() {
-        return {
-            searchBase: 'https://docs.google.com/document/u/0/?q=',
-        };
-    },
     computed: {
         twentyEightDays() {
             const d = this.now();
             d.setDate(d.getDate() - 28);
-            return d.toLocaleDateString('en-US', {weekday: 'long', month: 'long', day: 'numeric', year: 'numeric'});
+            return d;
         },
         sixMonths() {
             const d = this.now();
             d.setMonth(d.getMonth() - 6);
-            return d.toLocaleDateString('en-US', {weekday: 'long', month: 'long', day: 'numeric', year: 'numeric'});
+            return d;
         },
         yearsSince2003() {
             const begin2003 = this.now('2003-01-01');
@@ -71,10 +69,35 @@ new Vue({
                 ago++
                 dates.push({
                     label: `${ago} years ago`,
-                    date: d.toLocaleDateString('en-US', {weekday: 'long', month: 'long', day: 'numeric', year: 'numeric'})
+                    date: d,
                 });
             }
             return dates;
+        },
+        userNumber: {
+            get() {
+                return localStorage.getItem('calendarUserNumber') ?? 1;
+            },
+            set(value) {
+                return localStorage.setItem('calendarUserNumber', value);
+            },
+        },
+        searchBase() {
+            return `https://drive.google.com/drive/u/${this.userName}/search?q=`;
+        },
+    },
+    methods: {
+        longString(date) {
+            return date.toLocaleDateString(
+                'en-US',
+                {weekday: 'long', month: 'long', day: 'numeric', year: 'numeric'}
+            );
+        },
+        shortString(date) {
+            return date.toLocaleDateString(
+                'en-US',
+                {month: 'long', day: 'numeric', year: 'numeric'}
+            );
         },
     },
 });
