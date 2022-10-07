@@ -50,8 +50,13 @@ new Vue({
     mixins: [NowMixin],
     data() {
         return {
-            _userNumber: '0',
+            userNumber: localStorage.getItem('calendarUserNumber') ?? '0',
         };
+    },
+    watch: {
+        userNumber() {
+            localStorage.setItem('calendarUserNumber', this.userNumber);
+        },
     },
     computed: {
         twentyEightDays() {
@@ -78,15 +83,6 @@ new Vue({
                 });
             }
             return dates;
-        },
-        userNumber: {
-            get() {
-                return localStorage.getItem('calendarUserNumber') ?? this._userNumber;
-            },
-            set(value) {
-                this._userNumber = value;
-                return localStorage.setItem('calendarUserNumber', value);
-            },
         },
         searchBase() {
             return `https://drive.google.com/drive/u/${this.userNumber}/search?q=`;
