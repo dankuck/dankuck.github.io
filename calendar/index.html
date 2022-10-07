@@ -63,7 +63,7 @@ new Vue({
             const begin2003 = this.now('2003-01-01');
             const dates = [];
             let ago = 0;
-            while (d > begin2003) {
+            do {
                 const d = this.now();
                 d.setMonth(d.getMonth() - 12);
                 ago++
@@ -71,7 +71,7 @@ new Vue({
                     label: `${ago} years ago`,
                     date: d,
                 });
-            }
+            } while (d > begin2003);
             return dates;
         },
         userNumber: {
