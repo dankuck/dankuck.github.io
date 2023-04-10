@@ -8,8 +8,14 @@ layout: default
     <div>28 days ago:
         <a :href="searchBase + encodeURIComponent(shortString(twentyEightDays))">{{ longString(twentyEightDays) }}</a>
     </div>
+    <div>25 weeks ago:
+        <a :href="searchBase + encodeURIComponent(shortString(twentyFiveWeeks))">{{ longString(twentyFiveWeeks) }}</a>
+    </div>
     <div>6 months ago:
         <a :href="searchBase + encodeURIComponent(shortString(sixMonths))">{{ longString(sixMonths) }}</a>
+    </div>
+    <div>50 weeks ago:
+        <a :href="searchBase + encodeURIComponent(shortString(fiftyWeeks))">{{ longString(fiftyWeeks) }}</a>
     </div>
     <div v-for="date in yearsSince2003">
         {{ date.label }}:
@@ -64,9 +70,19 @@ new Vue({
             d.setDate(d.getDate() - 28);
             return d;
         },
+        twentyFiveWeeks() {
+            const d = this.now();
+            d.setDate(d.getDate() - (7 * 25));
+            return d;
+        },
         sixMonths() {
             const d = this.now();
             d.setMonth(d.getMonth() - 6);
+            return d;
+        },
+        fiftyWeeks() {
+            const d = this.now();
+            d.setDate(d.getDate() - (7 * 50));
             return d;
         },
         yearsSince2003() {
