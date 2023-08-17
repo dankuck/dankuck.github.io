@@ -17,9 +17,16 @@ layout: default
     <div>50 weeks ago:
         <a :href="searchBase + encodeURIComponent(shortString(fiftyWeeks))">{{ longString(fiftyWeeks) }}</a>
     </div>
-    <div v-for="date in yearsSince2003">
+    <div v-for="date in yearsSince2021">
         {{ date.label }}:
         <a :href="searchBase + encodeURIComponent(shortString(date.date))">{{ longString(date.date) }}</a>
+    </div>
+    <div v-for="date in diced">
+        🎲:
+        <a :href="searchBase + encodeURIComponent(shortString(date.date))">{{ longString(date.date) }}</a>
+    </div>
+    <div>
+        <button @click="rollDice">🎲</button>
     </div>
     <div>
         User Number: <input v-model="userNumber" />
@@ -57,6 +64,7 @@ new Vue({
     data() {
         return {
             userNumber: localStorage.getItem('calendarUserNumber') ?? '0',
+            diced: [],
         };
     },
     watch: {
@@ -85,12 +93,12 @@ new Vue({
             d.setDate(d.getDate() - (7 * 50));
             return d;
         },
-        yearsSince2003() {
-            const begin2003 = this.now('2003-01-01');
+        yearsSince2021() {
+            const begin2021 = this.now('2021-01-01');
             const dates = [];
             let d = this.now();
             let ago = 0;
-            while (d > begin2003) {
+            while (d > begin2021) {
                 d.setMonth(d.getMonth() - 12);
                 ago++
                 dates.push({
@@ -99,6 +107,14 @@ new Vue({
                 });
             }
             return dates;
+        },
+        rollDice() {
+            const date = new Date();
+            date.setUTCDate(date.getUTCDate() - parseInt(Math.random() * 1000));
+            this.diced.push({
+                label: '',
+                date,
+            });
         },
         searchBase() {
             return `https://drive.google.com/drive/u/${this.userNumber}/search?q=`;
