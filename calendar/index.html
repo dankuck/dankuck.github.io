@@ -108,14 +108,6 @@ new Vue({
             }
             return dates;
         },
-        rollDice() {
-            const date = new Date();
-            date.setUTCDate(date.getUTCDate() - parseInt(Math.random() * 1000));
-            this.diced.push({
-                label: '',
-                date,
-            });
-        },
         searchBase() {
             return `https://drive.google.com/drive/u/${this.userNumber}/search?q=`;
         },
@@ -132,6 +124,14 @@ new Vue({
                 'en-US',
                 {month: 'long', day: 'numeric', year: 'numeric'}
             );
+        },
+        rollDice() {
+            const date = new Date();
+            date.setUTCDate(date.getUTCDate() - parseInt(Math.random() * 1000));
+            this.diced.push({
+                label: '',
+                date,
+            });
         },
     },
 });
