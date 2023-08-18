@@ -6,24 +6,24 @@ layout: default
 <div id="app">
     {% raw %}
     <div>28 days ago:
-        <a :href="searchBase + encodeURIComponent(shortString(twentyEightDays))">{{ longString(twentyEightDays) }}</a>
+        <a target="_blank" :href="searchBase + encodeURIComponent(shortString(twentyEightDays))">{{ longString(twentyEightDays) }}</a>
     </div>
     <div>25 weeks ago:
-        <a :href="searchBase + encodeURIComponent(shortString(twentyFiveWeeks))">{{ longString(twentyFiveWeeks) }}</a>
+        <a target="_blank" :href="searchBase + encodeURIComponent(shortString(twentyFiveWeeks))">{{ longString(twentyFiveWeeks) }}</a>
     </div>
     <div>6 months ago:
-        <a :href="searchBase + encodeURIComponent(shortString(sixMonths))">{{ longString(sixMonths) }}</a>
+        <a target="_blank" :href="searchBase + encodeURIComponent(shortString(sixMonths))">{{ longString(sixMonths) }}</a>
     </div>
     <div>50 weeks ago:
-        <a :href="searchBase + encodeURIComponent(shortString(fiftyWeeks))">{{ longString(fiftyWeeks) }}</a>
+        <a target="_blank" :href="searchBase + encodeURIComponent(shortString(fiftyWeeks))">{{ longString(fiftyWeeks) }}</a>
     </div>
     <div v-for="date in yearsSince2021">
         {{ date.label }}:
-        <a :href="searchBase + encodeURIComponent(shortString(date.date))">{{ longString(date.date) }}</a>
+        <a target="_blank" :href="searchBase + encodeURIComponent(shortString(date.date))">{{ longString(date.date) }}</a>
     </div>
     <div v-for="date in diced">
         🎲:
-        <a :href="searchBase + encodeURIComponent(shortString(date.date))">{{ longString(date.date) }}</a>
+        <a target="_blank" :href="searchBase + encodeURIComponent(shortString(date.date))">{{ longString(date.date) }}</a>
     </div>
     <div>
         <button @click="rollDice">🎲</button>
