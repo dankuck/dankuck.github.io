@@ -126,9 +126,11 @@ new Vue({
         },
         buildDropboxURL(date) {
             const searchBase = 'https://www.dropbox.com/search/personal?path=%2F&query=';
-            const after = date.toISOString().substr(0, 10);
+            const today = new Date(date);
+            today.setMinutes(today.getMinutes() - today.getTimezoneOffset());
             const tomorrow = new Date(date);
             tomorrow.setDate(tomorrow.getDate() + 1);
+            const after = today.toISOString().substr(0, 10);
             const before = tomorrow.toISOString().substr(0, 10);
             return searchBase + encodeURIComponent(`after:${after} before:${before}`);
         },
