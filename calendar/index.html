@@ -6,24 +6,30 @@ layout: default
 <div id="app">
     {% raw %}
     <div>28 days ago:
-        <a target="_blank" :href="searchBase + encodeURIComponent(shortString(twentyEightDays))">{{ longString(twentyEightDays) }}</a>
+        <a target="_blank" :href="buildDriveURL(twentyEightDays)">{{ toHumanReadableString(twentyEightDays) }}</a>
+        <a target="_blank" :href="buildDropboxURL(twentyEightDays)">D</a>
     </div>
     <div>25 weeks ago:
-        <a target="_blank" :href="searchBase + encodeURIComponent(shortString(twentyFiveWeeks))">{{ longString(twentyFiveWeeks) }}</a>
+        <a target="_blank" :href="buildDriveURL(twentyFiveWeeks)">{{ toHumanReadableString(twentyFiveWeeks) }}</a>
+        <a target="_blank" :href="buildDropboxURL(twentyFiveWeeks)">D</a>
     </div>
     <div>6 months ago:
-        <a target="_blank" :href="searchBase + encodeURIComponent(shortString(sixMonths))">{{ longString(sixMonths) }}</a>
+        <a target="_blank" :href="buildDriveURL(sixMonths)">{{ toHumanReadableString(sixMonths) }}</a>
+        <a target="_blank" :href="buildDropboxURL(sixMonths)">D</a>
     </div>
     <div>50 weeks ago:
-        <a target="_blank" :href="searchBase + encodeURIComponent(shortString(fiftyWeeks))">{{ longString(fiftyWeeks) }}</a>
+        <a target="_blank" :href="buildDriveURL(fiftyWeeks)">{{ toHumanReadableString(fiftyWeeks) }}</a>
+        <a target="_blank" :href="buildDropboxURL(fiftyWeeks)">D</a>
     </div>
     <div v-for="date in yearsSince2021">
         {{ date.label }}:
-        <a target="_blank" :href="searchBase + encodeURIComponent(shortString(date.date))">{{ longString(date.date) }}</a>
+        <a target="_blank" :href="buildDriveURL(date.date)">{{ toHumanReadableString(date.date) }}</a>
+        <a target="_blank" :href="buildDropboxURL(date.date)">D</a>
     </div>
     <div v-for="date in diced">
         🎲:
-        <a target="_blank" :href="searchBase + encodeURIComponent(shortString(date.date))">{{ longString(date.date) }}</a>
+        <a target="_blank" :href="buildDriveURL(date)">{{ toHumanReadableString(date) }}</a>
+        <a target="_blank" :href="buildDropboxURL(date)">D</a>
     </div>
     <div>
         <button @click="rollDice">🎲</button>
@@ -108,30 +114,34 @@ new Vue({
             }
             return dates;
         },
-        searchBase() {
-            return `https://drive.google.com/drive/u/${this.userNumber}/search?q=`;
-        },
     },
     methods: {
-        longString(date) {
+        buildDriveURL(date) {
+            const searchBase = `https://drive.google.com/drive/u/${this.userNumber}/search?q=`;
+            const dateString = date.toLocaleDateString(
+                'en-US',
+                {month: 'long', day: 'numeric', year: 'numeric'}
+            );
+            return searchBase + encodeURIComponent(dateString);
+        },
+        buildDropboxURL(date) {
+            const searchBase = 'https://www.dropbox.com/search/personal?path=%2F&query=';
+            const after = date.toISOString().substr(0, 10);
+            const tomorrow = new Date(date);
+            tomorrow.setDate(tomorrow.getDate() + 1);
+            const before = tomorrow.toISOString().substr(0, 10);
+            return searchBase + encodeURIComponent(`after:${after} before:${before}`);
+        },
+        toHumanReadableString(date) {
             return date.toLocaleDateString(
                 'en-US',
                 {weekday: 'long', month: 'long', day: 'numeric', year: 'numeric'}
             );
         },
-        shortString(date) {
-            return date.toLocaleDateString(
-                'en-US',
-                {month: 'long', day: 'numeric', year: 'numeric'}
-            );
-        },
         rollDice() {
             const date = new Date();
             date.setUTCDate(date.getUTCDate() - parseInt(Math.random() * 1000));
-            this.diced.push({
-                label: '',
-                date,
-            });
+            this.diced.push(date);
         },
     },
 });
