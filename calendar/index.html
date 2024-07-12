@@ -32,7 +32,9 @@ layout: default
         <a target="_blank" :href="buildDropboxURL(date)">D</a>
     </div>
     <div>
-        <button @click="rollDice">🎲</button>
+        <button @click="rollDiceRecent">🎲</button>
+        <button style="background-color: #101010" @click="rollDiceDeepPast">🎲</button>
+        <button style="background-color: #801010" @click="rollDiceChaosEra">🎲</button>
     </div>
     <div>
         User Number: <input v-model="userNumber" />
@@ -125,7 +127,7 @@ new Vue({
             return searchBase + encodeURIComponent(dateString);
         },
         buildDropboxURL(date) {
-            const searchBase = 'https://www.dropbox.com/search/personal?path=%2F&query=';
+            const searchBase = 'https://www.dropbox.com/search/personal?path=%2F&search_order_by=LAST_MODIFIED_TIME&query=';
             const today = new Date(date);
             today.setMinutes(today.getMinutes() - today.getTimezoneOffset());
             const tomorrow = new Date(today);
@@ -140,10 +142,29 @@ new Vue({
                 {weekday: 'long', month: 'long', day: 'numeric', year: 'numeric'}
             );
         },
-        rollDice() {
-            const date = new Date();
-            date.setUTCDate(date.getUTCDate() - parseInt(Math.random() * 1000));
-            this.diced.push(date);
+        rollDice(start, end) {
+            const date = new Date(end);
+            const days = (end.valueOf() - start.valueOf()) / 86400000;
+            date.setUTCDate(date.getUTCDate() - parseInt(Math.random() * days));
+            return date;
+        },
+        rollDiceRecent() {
+            this.diced.push(this.rollDice(
+                new Date('2021-09-30T00:00:00-04:00'),
+                new Date(),
+            ));
+        },
+        rollDiceDeepPast() {
+            this.diced.push(this.rollDice(
+                new Date('2003-12-25T00:00:00-05:00'),
+                new Date('2021-09-30T00:00:00-04:00'),
+            ));
+        },
+        rollDiceChaosEra() {
+            this.diced.push(this.rollDice(
+                new Date('1997-02-25T00:00:00-05:00'),
+                new Date('2003-12-25T00:00:00-05:00'),
+            ));
         },
     },
 });
