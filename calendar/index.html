@@ -8,28 +8,34 @@ layout: default
     <div>28 days ago:
         <a target="_blank" :href="buildDriveURL(twentyEightDays)">{{ toHumanReadableString(twentyEightDays) }}</a>
         <a target="_blank" :href="buildDropboxURL(twentyEightDays)">D</a>
+        <a target="_blank" :href="buildGmailURL(twentyEightDays)">G</a>
     </div>
     <div>25 weeks ago:
         <a target="_blank" :href="buildDriveURL(twentyFiveWeeks)">{{ toHumanReadableString(twentyFiveWeeks) }}</a>
         <a target="_blank" :href="buildDropboxURL(twentyFiveWeeks)">D</a>
+        <a target="_blank" :href="buildGmailURL(twentyFiveWeeks)">G</a>
     </div>
     <div>6 months ago:
         <a target="_blank" :href="buildDriveURL(sixMonths)">{{ toHumanReadableString(sixMonths) }}</a>
         <a target="_blank" :href="buildDropboxURL(sixMonths)">D</a>
+        <a target="_blank" :href="buildGmailURL(sixMonths)">G</a>
     </div>
     <div>50 weeks ago:
         <a target="_blank" :href="buildDriveURL(fiftyWeeks)">{{ toHumanReadableString(fiftyWeeks) }}</a>
         <a target="_blank" :href="buildDropboxURL(fiftyWeeks)">D</a>
+        <a target="_blank" :href="buildGmailURL(fiftyWeeks)">G</a>
     </div>
     <div v-for="date in yearsSince2021">
         {{ date.label }}:
         <a target="_blank" :href="buildDriveURL(date.date)">{{ toHumanReadableString(date.date) }}</a>
         <a target="_blank" :href="buildDropboxURL(date.date)">D</a>
+        <a target="_blank" :href="buildGmailURL(date.date)">G</a>
     </div>
     <div v-for="date in diced">
         🎲:
         <a target="_blank" :href="buildDriveURL(date)">{{ toHumanReadableString(date) }}</a>
         <a target="_blank" :href="buildDropboxURL(date)">D</a>
+        <a target="_blank" :href="buildGmailURL(date)">G</a>
     </div>
     <div>
         <button @click="rollDiceRecent">🎲</button>
@@ -134,6 +140,16 @@ new Vue({
             tomorrow.setDate(tomorrow.getDate() + 1);
             const after = today.toISOString().substr(0, 10);
             const before = tomorrow.toISOString().substr(0, 10);
+            return searchBase + encodeURIComponent(`after:${after} before:${before}`);
+        },
+        buildGmailURL(date) {
+            const searchBase = 'https://mail.google.com/mail/u/1/#search/';
+            const today = new Date(date);
+            today.setMinutes(today.getMinutes() - today.getTimezoneOffset());
+            const tomorrow = new Date(today);
+            tomorrow.setDate(tomorrow.getDate() + 1);
+            const after = today.toISOString().substr(0, 10).replace(/\-/g, '/');
+            const before = tomorrow.toISOString().substr(0, 10).replace(/\-/g, '/');
             return searchBase + encodeURIComponent(`after:${after} before:${before}`);
         },
         toHumanReadableString(date) {
