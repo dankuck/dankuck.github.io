@@ -43,7 +43,10 @@ layout: default
         <button style="background-color: #801010" @click="rollDiceChaosEra">🎲</button>
     </div>
     <div>
-        User Number: <input v-model="userNumber" />
+        Google Drive User Number: <input v-model="driveUserNumber" style="width: 5em" />
+    </div>
+    <div>
+        Gmail User Number: <input v-model="gmailUserNumber" style="width: 5em" />
     </div>
     {% endraw %}
 </div>
@@ -77,13 +80,19 @@ new Vue({
     mixins: [NowMixin],
     data() {
         return {
-            userNumber: localStorage.getItem('calendarUserNumber') ?? '0',
+            driveUserNumber: localStorage.getItem('driveUserNumber')
+                ?? localStorage.getItem('calendarUserNumber')
+                ?? '0',
+            gmailUserNumber: localStorage.getItem('gmailUserNumber') ?? '0',
             diced: [],
         };
     },
     watch: {
-        userNumber() {
-            localStorage.setItem('calendarUserNumber', this.userNumber);
+        driveUserNumber() {
+            localStorage.setItem('driveUserNumber', this.driveUserNumber);
+        },
+        gmailUserNumber() {
+            localStorage.setItem('gmailUserNumber', this.gmailUserNumber);
         },
     },
     computed: {
@@ -125,7 +134,7 @@ new Vue({
     },
     methods: {
         buildDriveURL(date) {
-            const searchBase = `https://drive.google.com/drive/u/${this.userNumber}/search?q=`;
+            const searchBase = `https://drive.google.com/drive/u/${this.driveUserNumber}/search?q=`;
             const dateString = date.toLocaleDateString(
                 'en-US',
                 {month: 'long', day: 'numeric', year: 'numeric'}
@@ -143,6 +152,11 @@ new Vue({
             return searchBase + encodeURIComponent(`after:${after} before:${before}`);
         },
         buildGmailURL(date) {
+            return window.innerWidth >= 768 // Bootstrap calls this size md and up
+                ? this.buildGmailDesktopURL(date)
+                : this.buildGmailMobileURL(date);
+        },
+        buildGmailDesktopURL(date) {
             const searchBase = 'https://mail.google.com/mail/u/1/#search/';
             const today = new Date(date);
             today.setMinutes(today.getMinutes() - today.getTimezoneOffset());
@@ -150,6 +164,16 @@ new Vue({
             tomorrow.setDate(tomorrow.getDate() + 1);
             const after = today.toISOString().substr(0, 10).replace(/\-/g, '/');
             const before = tomorrow.toISOString().substr(0, 10).replace(/\-/g, '/');
+            return searchBase + encodeURIComponent(`after:${after} before:${before}`);
+        },
+        buildGmailMobileURL(date) {
+            const searchBase = `https://mail.google.com/mail/mu/mp/${this.gmailUserNumber}/#tl/search/`;
+            const today = new Date(date);
+            today.setMinutes(today.getMinutes() - today.getTimezoneOffset());
+            const tomorrow = new Date(today);
+            tomorrow.setDate(tomorrow.getDate() + 1);
+            const after = today.toISOString().substr(0, 10);
+            const before = tomorrow.toISOString().substr(0, 10);
             return searchBase + encodeURIComponent(`after:${after} before:${before}`);
         },
         toHumanReadableString(date) {
