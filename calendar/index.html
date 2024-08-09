@@ -5,6 +5,11 @@ layout: default
 
 <div id="app">
     {% raw %}
+    <div>Today:
+        <a target="_blank" :href="buildDriveURL(now())">{{ toHumanReadableString(now()) }}</a>
+        <a target="_blank" :href="buildDropboxURL(now())">D</a>
+        <a target="_blank" :href="buildGmailURL(now())">G</a>
+    </div>
     <div>28 days ago:
         <a target="_blank" :href="buildDriveURL(twentyEightDays)">{{ toHumanReadableString(twentyEightDays) }}</a>
         <a target="_blank" :href="buildDropboxURL(twentyEightDays)">D</a>
