@@ -7,7 +7,7 @@ layout: default
   {% raw %}
   <div v-for="date in dates">
     {{ date.label }}:
-    <a target="_blank" :href="buildDriveURL(date)">{{ toHumanReadableString(date.from) }}</a>
+    <a target="_blank" :href="buildDriveURL(date)">J</a>
     <a target="_blank" :href="buildDropboxURL(date)">D</a>
     <a target="_blank" :href="buildGmailURL(date)">G</a>
   </div>
@@ -76,11 +76,26 @@ new Vue({
   computed: {
     dates() {
       return [
-        {label: 'Today', from: this.now()},
-        {label: '28 days ago', from: this.twentyEightDays},
-        {label: '25 weeks ago', from: this.twentyFiveWeeks},
-        {label: '6 months ago', from: this.sixMonths},
-        {label: '50 weeks ago', from: this.fiftyWeeks},
+        {
+          label: 'Today: ' + this.toHumanReadableString(this.now()),
+          from: this.now()
+        },
+        {
+          label: '28 days ago: ' + this.toHumanReadableString(this.twentyEightDays),
+          from: this.twentyEightDays
+        },
+        {
+          label: '25 weeks ago: ' + this.toHumanReadableString(this.twentyFiveWeeks),
+          from: this.twentyFiveWeeks
+        },
+        {
+          label: '6 months ago: ' + this.toHumanReadableString(this.sixMonths),
+          from: this.sixMonths
+        },
+        {
+          label: '50 weeks ago: ' + this.toHumanReadableString(this.fiftyWeeks),
+          from: this.fiftyWeeks
+        },
       ]
         .concat(this.yearsSinceStart)
         .concat(this.diced);
@@ -111,10 +126,11 @@ new Vue({
       let ago = 0;
       while (d > recentStart) {
         d.setMonth(d.getMonth() - 12);
-        ago++
+        ago++;
+        const date = new Date(d);
         dates.push({
-          label: `${ago} years ago`,
-          from: new Date(d),
+          label: `${ago} years ago: ${this.toHumanReadableString(date)}`,
+          from: date,
         });
       }
       return dates;
@@ -130,17 +146,17 @@ new Vue({
     isChaosEra(date) {
       return !this.isRecent(date) && !this.isDeepPast(date) && new Date(date) >= chaosStart;
     },
-    buildDriveURL({ from: date }) {
+    buildDriveURL({ from }) {
       const searchBase = `https://drive.google.com/drive/u/${this.driveUserNumber}/search?q=`;
-      const dateString = date.toLocaleDateString(
+      const dateString = from.toLocaleDateString(
         'en-US',
         {month: 'long', day: 'numeric', year: 'numeric'}
       );
       return searchBase + encodeURIComponent(dateString);
     },
-    buildDropboxURL({ from: date }) {
+    buildDropboxURL({ from }) {
       const searchBase = 'https://www.dropbox.com/search/personal?file_categories=image%2Cvideo&path=%2F&search_order_by=LAST_MODIFIED_TIME&query=';
-      const { start, end } = this.buildDropboxDates(date);
+      const { start, end } = this.buildDropboxDates(from);
       const after = start.toISOString().substr(0, 10);
       const before = end.toISOString().substr(0, 10);
       return searchBase + encodeURIComponent(`after:${after} before:${before}`);
@@ -159,10 +175,10 @@ new Vue({
         return { start, end };
       }
     },
-    buildGmailURL({ from: date }) {
+    buildGmailURL({ from }) {
       return window.innerWidth >= 768 // Bootstrap calls this size md and up
-        ? this.buildGmailDesktopURL(date)
-        : this.buildGmailMobileURL(date);
+        ? this.buildGmailDesktopURL(from)
+        : this.buildGmailMobileURL(from);
     },
     buildGmailDesktopURL(date) {
       const searchBase = 'https://mail.google.com/mail/u/1/#search/';
@@ -197,21 +213,24 @@ new Vue({
       return date;
     },
     rollDiceRecent() {
+      const date = this.rollDice(recentStart, new Date());
       this.diced.push({
-        label: '🎲',
-        from: this.rollDice(recentStart, new Date())
+        label: '🎲: ' + this.toHumanReadableString(date),
+        from: date,
       });
     },
     rollDiceDeepPast() {
+      const date = this.rollDice(deepPastStart, recentStart);
       this.diced.push({
-        label: '🎲',
-        from: this.rollDice(deepPastStart, recentStart)
+        label: '🎲: ' + this.toHumanReadableString(date),
+        from: date,
       });
     },
     rollDiceChaosEra() {
+      const date = this.rollDice(chaosStart, deepPastStart);
       this.diced.push({
-        label: '🎲',
-        from: this.rollDice(chaosStart, deepPastStart)
+        label: '🎲: ' + this.toHumanReadableString(date),
+        from: date,
       });
     },
   },
