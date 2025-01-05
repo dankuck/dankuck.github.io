@@ -4,25 +4,25 @@ layout: default
 <script src="https://cdn.jsdelivr.net/npm/vue@2/dist/vue.js"></script>
 
 <div id="app">
-    {% raw %}
-    <div v-for="date in dates">
-        {{ date.label }}:
-        <a target="_blank" :href="buildDriveURL(date)">{{ toHumanReadableString(date.date) }}</a>
-        <a target="_blank" :href="buildDropboxURL(date)">D</a>
-        <a target="_blank" :href="buildGmailURL(date)">G</a>
-    </div>
-    <div>
-        <button @click="rollDiceRecent">🎲</button>
-        <button style="background-color: #101010" @click="rollDiceDeepPast">🎲</button>
-        <button style="background-color: #801010" @click="rollDiceChaosEra">🎲</button>
-    </div>
-    <div>
-        Google Drive User Number: <input v-model="driveUserNumber" style="width: 5em" />
-    </div>
-    <div>
-        Gmail User Number: <input v-model="gmailUserNumber" style="width: 5em" />
-    </div>
-    {% endraw %}
+  {% raw %}
+  <div v-for="date in dates">
+    {{ date.label }}:
+    <a target="_blank" :href="buildDriveURL(date)">{{ toHumanReadableString(date.date) }}</a>
+    <a target="_blank" :href="buildDropboxURL(date)">D</a>
+    <a target="_blank" :href="buildGmailURL(date)">G</a>
+  </div>
+  <div>
+    <button @click="rollDiceRecent">🎲</button>
+    <button style="background-color: #101010" @click="rollDiceDeepPast">🎲</button>
+    <button style="background-color: #801010" @click="rollDiceChaosEra">🎲</button>
+  </div>
+  <div>
+    Google Drive User Number: <input v-model="driveUserNumber" style="width: 5em" />
+  </div>
+  <div>
+    Gmail User Number: <input v-model="gmailUserNumber" style="width: 5em" />
+  </div>
+  {% endraw %}
 </div>
 
 <script type="text/javascript">
@@ -31,168 +31,189 @@ const deepPastStart = new Date('2003-12-25T00:00:00-05:00');
 const chaosStart = new Date('1997-02-25T00:00:00-05:00');
 
 const NowMixin = {
-    data() {
-        return {
-            nowForceRefresh: 0,
-        };
+  data() {
+    return {
+      nowForceRefresh: 0,
+    };
+  },
+  mounted() {
+    this.nowInterval = setInterval(
+      () => this.nowForceRefresh = !this.nowForceRefresh,
+      1000
+    );
+  },
+  unmounted() {
+    clearInterval(this.nowInterval);
+  },
+  methods: {
+    now(...args) {
+      this.nowForceRefresh;
+      return new Date(...args);
     },
-    mounted() {
-        this.nowInterval = setInterval(
-            () => this.nowForceRefresh = !this.nowForceRefresh,
-            1000
-        );
-    },
-    unmounted() {
-        clearInterval(this.nowInterval);
-    },
-    methods: {
-        now(...args) {
-            this.nowForceRefresh;
-            return new Date(...args);
-        },
-    },
+  },
 };
 
 new Vue({
-    el: '#app',
-    mixins: [NowMixin],
-    data() {
-        return {
-            driveUserNumber: localStorage.getItem('driveUserNumber')
-                ?? localStorage.getItem('calendarUserNumber')
-                ?? '0',
-            gmailUserNumber: localStorage.getItem('gmailUserNumber') ?? '0',
-            diced: [],
-        };
+  el: '#app',
+  mixins: [NowMixin],
+  data() {
+    return {
+      driveUserNumber: localStorage.getItem('driveUserNumber')
+        ?? localStorage.getItem('calendarUserNumber')
+        ?? '0',
+      gmailUserNumber: localStorage.getItem('gmailUserNumber') ?? '0',
+      diced: [],
+    };
+  },
+  watch: {
+    driveUserNumber() {
+      localStorage.setItem('driveUserNumber', this.driveUserNumber);
     },
-    watch: {
-        driveUserNumber() {
-            localStorage.setItem('driveUserNumber', this.driveUserNumber);
-        },
-        gmailUserNumber() {
-            localStorage.setItem('gmailUserNumber', this.gmailUserNumber);
-        },
+    gmailUserNumber() {
+      localStorage.setItem('gmailUserNumber', this.gmailUserNumber);
     },
-    computed: {
-        dates() {
-            return [
-                {label: 'Today', date: this.now()},
-                {label: '28 days ago', date: this.twentyEightDays},
-                {label: '25 weeks ago', date: this.twentyFiveWeeks},
-                {label: '6 months ago', date: this.sixMonths},
-                {label: '50 weeks ago', date: this.fiftyWeeks},
-            ]
-                .concat(this.yearsSinceStart)
-                .concat(
-                    this.diced.map((date) => ({
-                        label: '🎲',
-                        date,
-                    }))
-                );
-        },
-        twentyEightDays() {
-            const d = this.now();
-            d.setDate(d.getDate() - 28);
-            return d;
-        },
-        twentyFiveWeeks() {
-            const d = this.now();
-            d.setDate(d.getDate() - (7 * 25));
-            return d;
-        },
-        sixMonths() {
-            const d = this.now();
-            d.setMonth(d.getMonth() - 6);
-            return d;
-        },
-        fiftyWeeks() {
-            const d = this.now();
-            d.setDate(d.getDate() - (7 * 50));
-            return d;
-        },
-        yearsSinceStart() {
-            const dates = [];
-            let d = this.now();
-            let ago = 0;
-            while (d > recentStart) {
-                d.setMonth(d.getMonth() - 12);
-                ago++
-                dates.push({
-                    label: `${ago} years ago`,
-                    date: new Date(d),
-                });
-            }
-            return dates;
-        },
+  },
+  computed: {
+    dates() {
+      return [
+        {label: 'Today', date: this.now()},
+        {label: '28 days ago', date: this.twentyEightDays},
+        {label: '25 weeks ago', date: this.twentyFiveWeeks},
+        {label: '6 months ago', date: this.sixMonths},
+        {label: '50 weeks ago', date: this.fiftyWeeks},
+      ]
+        .concat(this.yearsSinceStart)
+        .concat(this.diced);
     },
-    methods: {
-        buildDriveURL({ date }) {
-            const searchBase = `https://drive.google.com/drive/u/${this.driveUserNumber}/search?q=`;
-            const dateString = date.toLocaleDateString(
-                'en-US',
-                {month: 'long', day: 'numeric', year: 'numeric'}
-            );
-            return searchBase + encodeURIComponent(dateString);
-        },
-        buildDropboxURL({ date }) {
-            const searchBase = 'https://www.dropbox.com/search/personal?path=%2F&search_order_by=LAST_MODIFIED_TIME&query=';
-            const today = new Date(date);
-            today.setMinutes(today.getMinutes() - today.getTimezoneOffset());
-            const tomorrow = new Date(today);
-            tomorrow.setDate(tomorrow.getDate() + 1);
-            const after = today.toISOString().substr(0, 10);
-            const before = tomorrow.toISOString().substr(0, 10);
-            return searchBase + encodeURIComponent(`after:${after} before:${before}`);
-        },
-        buildGmailURL({ date }) {
-            return window.innerWidth >= 768 // Bootstrap calls this size md and up
-                ? this.buildGmailDesktopURL(date)
-                : this.buildGmailMobileURL(date);
-        },
-        buildGmailDesktopURL(date) {
-            const searchBase = 'https://mail.google.com/mail/u/1/#search/';
-            const today = new Date(date);
-            today.setMinutes(today.getMinutes() - today.getTimezoneOffset());
-            const tomorrow = new Date(today);
-            tomorrow.setDate(tomorrow.getDate() + 1);
-            const after = today.toISOString().substr(0, 10).replace(/\-/g, '/');
-            const before = tomorrow.toISOString().substr(0, 10).replace(/\-/g, '/');
-            return searchBase + encodeURIComponent(`after:${after} before:${before}`);
-        },
-        buildGmailMobileURL(date) {
-            const searchBase = `https://mail.google.com/mail/mu/mp/${this.gmailUserNumber}/#tl/search/`;
-            const today = new Date(date);
-            today.setMinutes(today.getMinutes() - today.getTimezoneOffset());
-            const tomorrow = new Date(today);
-            tomorrow.setDate(tomorrow.getDate() + 1);
-            const after = today.toISOString().substr(0, 10);
-            const before = tomorrow.toISOString().substr(0, 10);
-            return searchBase + encodeURIComponent(`after:${after} before:${before}`);
-        },
-        toHumanReadableString(date) {
-            return date.toLocaleDateString(
-                'en-US',
-                {weekday: 'long', month: 'long', day: 'numeric', year: 'numeric'}
-            );
-        },
-        rollDice(start, end) {
-            const date = new Date(end);
-            const days = (end.valueOf() - start.valueOf()) / 86400000;
-            date.setUTCDate(date.getUTCDate() - parseInt(Math.random() * days));
-            return date;
-        },
-        rollDiceRecent() {
-            this.diced.push(this.rollDice(
-                new Date('2021-09-30T00:00:00-04:00'),
-                new Date(),
-            ));
-        },
-        rollDiceDeepPast() {
-            this.diced.push(this.rollDice(deepPastStart, recentStart));
-        },
-        rollDiceChaosEra() {
-            this.diced.push(this.rollDice(chaosStart, deepPastStart));
-        },
+    twentyEightDays() {
+      const d = this.now();
+      d.setDate(d.getDate() - 28);
+      return d;
     },
+    twentyFiveWeeks() {
+      const d = this.now();
+      d.setDate(d.getDate() - (7 * 25));
+      return d;
+    },
+    sixMonths() {
+      const d = this.now();
+      d.setMonth(d.getMonth() - 6);
+      return d;
+    },
+    fiftyWeeks() {
+      const d = this.now();
+      d.setDate(d.getDate() - (7 * 50));
+      return d;
+    },
+    yearsSinceStart() {
+      const dates = [];
+      let d = this.now();
+      let ago = 0;
+      while (d > recentStart) {
+        d.setMonth(d.getMonth() - 12);
+        ago++
+        dates.push({
+          label: `${ago} years ago`,
+          date: new Date(d),
+        });
+      }
+      return dates;
+    },
+  },
+  methods: {
+    isRecent(date) {
+      return new Date(date) >= recentStart;
+    },
+    isDeepPast(date) {
+      return !this.isRecent(date) && new Date(date) >= deepPastStart;
+    },
+    isChaosEra(date) {
+      return !this.isRecent(date) && !this.isDeepPast(date) && new Date(date) >= chaosStart;
+    },
+    buildDriveURL({ date }) {
+      const searchBase = `https://drive.google.com/drive/u/${this.driveUserNumber}/search?q=`;
+      const dateString = date.toLocaleDateString(
+        'en-US',
+        {month: 'long', day: 'numeric', year: 'numeric'}
+      );
+      return searchBase + encodeURIComponent(dateString);
+    },
+    buildDropboxURL({ date }) {
+      const searchBase = 'https://www.dropbox.com/search/personal?path=%2F&search_order_by=LAST_MODIFIED_TIME&query=';
+      const { start, end } = this.buildDropboxDates(date);
+      const after = start.toISOString().substr(0, 10);
+      const before = end.toISOString().substr(0, 10);
+      return searchBase + encodeURIComponent(`after:${after} before:${before}`);
+    },
+    buildDropboxDates(date) {
+      const start = new Date(date);
+      start.setMinutes(start.getMinutes() - start.getTimezoneOffset());
+      if (!this.isChaosEra(start)) {
+        const end = new Date(start);
+        end.setDate(end.getDate() + 1);
+        return { start, end };
+      } else {
+        start.setDate(start.getDate() - start.getDay());
+        const end = new Date(start);
+        end.setDate(end.getDate() + 7);
+        return { start, end };
+      }
+    },
+    buildGmailURL({ date }) {
+      return window.innerWidth >= 768 // Bootstrap calls this size md and up
+        ? this.buildGmailDesktopURL(date)
+        : this.buildGmailMobileURL(date);
+    },
+    buildGmailDesktopURL(date) {
+      const searchBase = 'https://mail.google.com/mail/u/1/#search/';
+      const today = new Date(date);
+      today.setMinutes(today.getMinutes() - today.getTimezoneOffset());
+      const tomorrow = new Date(today);
+      tomorrow.setDate(tomorrow.getDate() + 1);
+      const after = today.toISOString().substr(0, 10).replace(/\-/g, '/');
+      const before = tomorrow.toISOString().substr(0, 10).replace(/\-/g, '/');
+      return searchBase + encodeURIComponent(`after:${after} before:${before}`);
+    },
+    buildGmailMobileURL(date) {
+      const searchBase = `https://mail.google.com/mail/mu/mp/${this.gmailUserNumber}/#tl/search/`;
+      const today = new Date(date);
+      today.setMinutes(today.getMinutes() - today.getTimezoneOffset());
+      const tomorrow = new Date(today);
+      tomorrow.setDate(tomorrow.getDate() + 1);
+      const after = today.toISOString().substr(0, 10);
+      const before = tomorrow.toISOString().substr(0, 10);
+      return searchBase + encodeURIComponent(`after:${after} before:${before}`);
+    },
+    toHumanReadableString(date) {
+      return date.toLocaleDateString(
+        'en-US',
+        {weekday: 'long', month: 'long', day: 'numeric', year: 'numeric'}
+      );
+    },
+    rollDice(start, end) {
+      const date = new Date(end);
+      const days = (end.valueOf() - start.valueOf()) / 86400000;
+      date.setUTCDate(date.getUTCDate() - parseInt(Math.random() * days));
+      return date;
+    },
+    rollDiceRecent() {
+      this.diced.push({
+        label: '🎲',
+        date: this.rollDice(recentStart, new Date())
+      });
+    },
+    rollDiceDeepPast() {
+      this.diced.push({
+        label: '🎲',
+        date: this.rollDice(deepPastStart, recentStart)
+      });
+    },
+    rollDiceChaosEra() {
+      this.diced.push({
+        label: '🎲',
+        date: this.rollDice(chaosStart, deepPastStart)
+      });
+    },
+  },
 });
 </script>
