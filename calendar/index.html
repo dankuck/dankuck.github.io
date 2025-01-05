@@ -5,40 +5,9 @@ layout: default
 
 <div id="app">
     {% raw %}
-    <div>Today:
-        <a target="_blank" :href="buildDriveURL(now())">{{ toHumanReadableString(now()) }}</a>
-        <a target="_blank" :href="buildDropboxURL(now())">D</a>
-        <a target="_blank" :href="buildGmailURL(now())">G</a>
-    </div>
-    <div>28 days ago:
-        <a target="_blank" :href="buildDriveURL(twentyEightDays)">{{ toHumanReadableString(twentyEightDays) }}</a>
-        <a target="_blank" :href="buildDropboxURL(twentyEightDays)">D</a>
-        <a target="_blank" :href="buildGmailURL(twentyEightDays)">G</a>
-    </div>
-    <div>25 weeks ago:
-        <a target="_blank" :href="buildDriveURL(twentyFiveWeeks)">{{ toHumanReadableString(twentyFiveWeeks) }}</a>
-        <a target="_blank" :href="buildDropboxURL(twentyFiveWeeks)">D</a>
-        <a target="_blank" :href="buildGmailURL(twentyFiveWeeks)">G</a>
-    </div>
-    <div>6 months ago:
-        <a target="_blank" :href="buildDriveURL(sixMonths)">{{ toHumanReadableString(sixMonths) }}</a>
-        <a target="_blank" :href="buildDropboxURL(sixMonths)">D</a>
-        <a target="_blank" :href="buildGmailURL(sixMonths)">G</a>
-    </div>
-    <div>50 weeks ago:
-        <a target="_blank" :href="buildDriveURL(fiftyWeeks)">{{ toHumanReadableString(fiftyWeeks) }}</a>
-        <a target="_blank" :href="buildDropboxURL(fiftyWeeks)">D</a>
-        <a target="_blank" :href="buildGmailURL(fiftyWeeks)">G</a>
-    </div>
-    <div v-for="date in yearsSince2021">
+    <div v-for="date in dates">
         {{ date.label }}:
-        <a target="_blank" :href="buildDriveURL(date.date)">{{ toHumanReadableString(date.date) }}</a>
-        <a target="_blank" :href="buildDropboxURL(date.date)">D</a>
-        <a target="_blank" :href="buildGmailURL(date.date)">G</a>
-    </div>
-    <div v-for="date in diced">
-        🎲:
-        <a target="_blank" :href="buildDriveURL(date)">{{ toHumanReadableString(date) }}</a>
+        <a target="_blank" :href="buildDriveURL(date)">{{ toHumanReadableString(date.date) }}</a>
         <a target="_blank" :href="buildDropboxURL(date)">D</a>
         <a target="_blank" :href="buildGmailURL(date)">G</a>
     </div>
@@ -57,6 +26,10 @@ layout: default
 </div>
 
 <script type="text/javascript">
+const recentStart = new Date('2021-09-30T00:00:00-04:00');
+const deepPastStart = new Date('2003-12-25T00:00:00-05:00');
+const chaosStart = new Date('1997-02-25T00:00:00-05:00');
+
 const NowMixin = {
     data() {
         return {
@@ -101,6 +74,22 @@ new Vue({
         },
     },
     computed: {
+        dates() {
+            return [
+                {label: 'Today', date: this.now()},
+                {label: '28 days ago', date: this.twentyEightDays},
+                {label: '25 weeks ago', date: this.twentyFiveWeeks},
+                {label: '6 months ago', date: this.sixMonths},
+                {label: '50 weeks ago', date: this.fiftyWeeks},
+            ]
+                .concat(this.yearsSinceStart)
+                .concat(
+                    this.diced.map((date) => ({
+                        label: '🎲',
+                        date,
+                    }))
+                );
+        },
         twentyEightDays() {
             const d = this.now();
             d.setDate(d.getDate() - 28);
@@ -121,12 +110,11 @@ new Vue({
             d.setDate(d.getDate() - (7 * 50));
             return d;
         },
-        yearsSince2021() {
-            const begin2021 = this.now('2021-01-01');
+        yearsSinceStart() {
             const dates = [];
             let d = this.now();
             let ago = 0;
-            while (d > begin2021) {
+            while (d > recentStart) {
                 d.setMonth(d.getMonth() - 12);
                 ago++
                 dates.push({
@@ -138,7 +126,7 @@ new Vue({
         },
     },
     methods: {
-        buildDriveURL(date) {
+        buildDriveURL({ date }) {
             const searchBase = `https://drive.google.com/drive/u/${this.driveUserNumber}/search?q=`;
             const dateString = date.toLocaleDateString(
                 'en-US',
@@ -146,7 +134,7 @@ new Vue({
             );
             return searchBase + encodeURIComponent(dateString);
         },
-        buildDropboxURL(date) {
+        buildDropboxURL({ date }) {
             const searchBase = 'https://www.dropbox.com/search/personal?path=%2F&search_order_by=LAST_MODIFIED_TIME&query=';
             const today = new Date(date);
             today.setMinutes(today.getMinutes() - today.getTimezoneOffset());
@@ -156,7 +144,7 @@ new Vue({
             const before = tomorrow.toISOString().substr(0, 10);
             return searchBase + encodeURIComponent(`after:${after} before:${before}`);
         },
-        buildGmailURL(date) {
+        buildGmailURL({ date }) {
             return window.innerWidth >= 768 // Bootstrap calls this size md and up
                 ? this.buildGmailDesktopURL(date)
                 : this.buildGmailMobileURL(date);
@@ -200,16 +188,10 @@ new Vue({
             ));
         },
         rollDiceDeepPast() {
-            this.diced.push(this.rollDice(
-                new Date('2003-12-25T00:00:00-05:00'),
-                new Date('2021-09-30T00:00:00-04:00'),
-            ));
+            this.diced.push(this.rollDice(deepPastStart, recentStart));
         },
         rollDiceChaosEra() {
-            this.diced.push(this.rollDice(
-                new Date('1997-02-25T00:00:00-05:00'),
-                new Date('2003-12-25T00:00:00-05:00'),
-            ));
+            this.diced.push(this.rollDice(chaosStart, deepPastStart));
         },
     },
 });
