@@ -7,7 +7,7 @@ layout: default
   {% raw %}
   <div v-for="date in dates">
     {{ date.label }}:
-    <a target="_blank" :href="buildDriveURL(date)">{{ toHumanReadableString(date.date) }}</a>
+    <a target="_blank" :href="buildDriveURL(date)">{{ toHumanReadableString(date.from) }}</a>
     <a target="_blank" :href="buildDropboxURL(date)">D</a>
     <a target="_blank" :href="buildGmailURL(date)">G</a>
   </div>
@@ -76,11 +76,11 @@ new Vue({
   computed: {
     dates() {
       return [
-        {label: 'Today', date: this.now()},
-        {label: '28 days ago', date: this.twentyEightDays},
-        {label: '25 weeks ago', date: this.twentyFiveWeeks},
-        {label: '6 months ago', date: this.sixMonths},
-        {label: '50 weeks ago', date: this.fiftyWeeks},
+        {label: 'Today', from: this.now()},
+        {label: '28 days ago', from: this.twentyEightDays},
+        {label: '25 weeks ago', from: this.twentyFiveWeeks},
+        {label: '6 months ago', from: this.sixMonths},
+        {label: '50 weeks ago', from: this.fiftyWeeks},
       ]
         .concat(this.yearsSinceStart)
         .concat(this.diced);
@@ -114,7 +114,7 @@ new Vue({
         ago++
         dates.push({
           label: `${ago} years ago`,
-          date: new Date(d),
+          from: new Date(d),
         });
       }
       return dates;
@@ -130,7 +130,7 @@ new Vue({
     isChaosEra(date) {
       return !this.isRecent(date) && !this.isDeepPast(date) && new Date(date) >= chaosStart;
     },
-    buildDriveURL({ date }) {
+    buildDriveURL({ from: date }) {
       const searchBase = `https://drive.google.com/drive/u/${this.driveUserNumber}/search?q=`;
       const dateString = date.toLocaleDateString(
         'en-US',
@@ -138,8 +138,8 @@ new Vue({
       );
       return searchBase + encodeURIComponent(dateString);
     },
-    buildDropboxURL({ date }) {
-      const searchBase = 'https://www.dropbox.com/search/personal?path=%2F&search_order_by=LAST_MODIFIED_TIME&query=';
+    buildDropboxURL({ from: date }) {
+      const searchBase = 'https://www.dropbox.com/search/personal?file_categories=image%2Cvideo&path=%2F&search_order_by=LAST_MODIFIED_TIME&query=';
       const { start, end } = this.buildDropboxDates(date);
       const after = start.toISOString().substr(0, 10);
       const before = end.toISOString().substr(0, 10);
@@ -159,7 +159,7 @@ new Vue({
         return { start, end };
       }
     },
-    buildGmailURL({ date }) {
+    buildGmailURL({ from: date }) {
       return window.innerWidth >= 768 // Bootstrap calls this size md and up
         ? this.buildGmailDesktopURL(date)
         : this.buildGmailMobileURL(date);
@@ -199,19 +199,19 @@ new Vue({
     rollDiceRecent() {
       this.diced.push({
         label: '🎲',
-        date: this.rollDice(recentStart, new Date())
+        from: this.rollDice(recentStart, new Date())
       });
     },
     rollDiceDeepPast() {
       this.diced.push({
         label: '🎲',
-        date: this.rollDice(deepPastStart, recentStart)
+        from: this.rollDice(deepPastStart, recentStart)
       });
     },
     rollDiceChaosEra() {
       this.diced.push({
         label: '🎲',
-        date: this.rollDice(chaosStart, deepPastStart)
+        from: this.rollDice(chaosStart, deepPastStart)
       });
     },
   },
