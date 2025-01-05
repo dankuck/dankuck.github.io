@@ -124,8 +124,11 @@ new Vue({
       const dates = [];
       let d = this.now();
       let ago = 0;
-      while (d > recentStart) {
+      while (true) {
         d.setMonth(d.getMonth() - 12);
+        if (!this.isRecent(d)) {
+          break;
+        }
         ago++;
         const date = new Date(d);
         dates.push({
@@ -155,11 +158,11 @@ new Vue({
       return searchBase + encodeURIComponent(dateString);
     },
     buildDropboxURL({ from }) {
-      const searchBase = 'https://www.dropbox.com/search/personal?file_categories=image%2Cvideo&path=%2F&search_order_by=LAST_MODIFIED_TIME&query=';
+      const searchBase = 'https://www.dropbox.com/search/personal?path=%2F&search_order_by=LAST_MODIFIED_TIME&query=';
       const { start, end } = this.buildDropboxDates(from);
       const after = start.toISOString().substr(0, 10);
       const before = end.toISOString().substr(0, 10);
-      return searchBase + encodeURIComponent(`after:${after} before:${before}`);
+      return searchBase + encodeURIComponent(`after:${after} before:${before} type:image type:video`);
     },
     buildDropboxDates(date) {
       const start = new Date(date);
